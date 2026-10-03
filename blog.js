@@ -91,15 +91,40 @@ const blogArticles = [
     ctaText: 'Find budget deals',
     bookingUrl: 'https://www.booking.com/searchresults.html?ss=Prague',
   },
+  {
+    id: 7,
+    category: 'Wellness',
+    audience: '💚 Health-conscious travelers',
+    title: 'Travel ready: natural digestive support for on-the-go',
+    summary: 'Bloating, irregular digestion, and fatigue can derail even the best trips. CleanSeSana supports gut health and smooth digestion so you can travel, explore, and feel your best.',
+    highlights: [
+      '✓ Natural plant-based formula',
+      '✓ Reduces bloating in 2-4 weeks',
+      '✓ Supports energy and regularity'
+    ],
+    service: 'Health',
+    ctaText: 'Get CleanSeSana',
+    bookingUrl: 'cleansesana.html',
+  },
 ];
 
 function buildAffiliateLink(url) {
+  if (url === 'cleansesana.html') {
+    return url;
+  }
+
+  if (url.includes('cleansesana.com')) {
+    return url;
+  }
+
   const target = encodeURIComponent(url);
   return `https://www.travelpayouts.com/redirect/?marker=${AFFILIATE_MARKER}&url=${target}`;
 }
 
 function renderBlogGrid() {
   const blogGrid = document.getElementById('blog-grid');
+
+  if (!blogGrid) return;
 
   blogGrid.innerHTML = blogArticles
     .map(
@@ -116,10 +141,10 @@ function renderBlogGrid() {
             <h3>${article.title}</h3>
             <p>${article.summary}</p>
             <ul class="post-highlights">
-              ${article.highlights.map(h => `<li>• ${h}</li>`).join('')}
+              ${article.highlights.map(h => `<li>${h}</li>`).join('')}
             </ul>
             <div class="post-footer">
-              <a class="text-link" href="#recent">Read more</a>
+              <a class="text-link" href="${article.bookingUrl === 'cleansesana.html' ? 'cleansesana.html' : '#recent'}">Read more</a>
               <a 
                 class="btn btn-primary" 
                 href="${buildAffiliateLink(article.bookingUrl)}" 
