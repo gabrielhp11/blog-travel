@@ -1,0 +1,21 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/cleansesana",
+      "destination": "/topics/wellness/gut-health/cleansesana",
+      "permanent": true
+    },
+    {
+      "source": "/cleansesana.html",
+      "destination": "/topics/wellness/gut-health/cleansesana.html",
+      "permanent": true
+    },
+    {
+      "source": "/advanced-memory-formula",
+      "destination": "/topics/wellness/brain-health/advanced-memory-formula",
+      "permanent": true
+    }
+  ]
+}

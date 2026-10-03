@@ -3,18 +3,66 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>PokiSky — Direct travel picks. No friction.</title>
+    <title>PokiSky — Direct travel, wellness &amp; lifestyle picks. No friction.</title>
     <meta
       name="description"
-      content="PokiSky: Direct travel recommendations for professionals, families, digital nomads, and everyone in between. Flights, hotels, and escapes curated for your lifestyle."
+      content="PokiSky: Direct travel and longevity recommendations for high performers, professionals, and mindful travelers. Curated flights, boutique stays, gut health, and cognitive nutrition."
     />
+    <link rel="canonical" href="https://blog-travel-eight.vercel.app/" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="PokiSky — Direct Picks. Zero Friction." />
+    <meta property="og:description" content="Curated travel escapes, remote stays, digestive wellness, and cognitive longevity." />
+    <meta property="og:url" content="https://blog-travel-eight.vercel.app/" />
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <style>
+      /* Filter Pills & Enhanced Category Header */
+      .topic-filters {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+      }
+      .topic-filter-btn {
+        background: var(--paper);
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 10px 18px;
+        font-size: 0.88rem;
+        font-weight: 600;
+        color: var(--muted);
+        cursor: pointer;
+        transition: all 0.2s ease;
+      }
+      .topic-filter-btn:hover {
+        border-color: var(--ink);
+        color: var(--ink);
+      }
+      .topic-filter-btn.active {
+        background: var(--ink);
+        color: #fff;
+        border-color: var(--ink);
+      }
+      .post-header.brain-theme {
+        background: linear-gradient(135deg, #182848 0%, #2980b9 100%);
+      }
+      .is-featured {
+        border: 1.5px solid rgba(13, 91, 72, 0.35);
+      }
+      .post-service-tag {
+        font-size: 0.78rem;
+        color: var(--muted);
+        font-weight: 500;
+      }
+    </style>
   </head>
   <body>
     <header class="topbar">
@@ -24,7 +72,8 @@
           <span>PokiSky</span>
         </a>
         <nav class="nav-links" aria-label="Main navigation">
-          <a href="#recent">Recent</a>
+          <a href="#recent">Recent Picks</a>
+          <a href="#topics-nav">Topics</a>
           <a href="#by-audience">By Audience</a>
           <a href="#about">About</a>
         </nav>
@@ -35,27 +84,45 @@
       <section class="hero">
         <div class="container hero-inner">
           <div class="hero-copy">
-            <p class="eyebrow">Travel that converts</p>
+            <p class="eyebrow">Curated Living &amp; Smart Escapes</p>
             <h1>PokiSky: direct picks. Zero friction.</h1>
             <p class="lead">
-              No noise. No roundabout booking flows. Just real travel ideas matched to how you travel: short city breaks, family weeks, remote work stays, or pure luxury escapes.
+              No noise. No roundabout booking flows. Just real recommendations matched to how you live and travel: short city breaks, quiet remote-work stays, digestive wellness, and cognitive longevity.
             </p>
             <div class="hero-actions">
-              <a class="btn btn-primary" href="#recent">Read articles</a>
-              <a class="btn btn-secondary" href="#by-audience">Browse by audience</a>
+              <a class="btn btn-primary" href="#recent">Explore All Articles</a>
+              <a class="btn btn-secondary" href="#topics-nav">Browse by Topic</a>
             </div>
           </div>
           <div class="hero-card">
-            <p class="mini-label">What we do</p>
-            <h2>Travel picks that matter</h2>
+            <p class="mini-label">What We Curate</p>
+            <h2>Picks that elevate your routine</h2>
             <ul>
-              <li>✈️ Flights: 48-hour escapes</li>
-              <li>🏖️ Hotels: family-friendly beaches</li>
-              <li>🏠 Stays: 7+ nights for remote work</li>
-              <li>💑 Escapes: romantic, quiet, fast</li>
-              <li>✨ Luxury: premium without overpaying</li>
-              <li>💰 Budget: low-cost, high-feeling trips</li>
+              <li>🧠 <strong>Brain Health:</strong> Nobel-Prize neuro-nutrition</li>
+              <li>🌿 <strong>Wellness:</strong> Gentle travel digestion &amp; bloat relief</li>
+              <li>✈️ <strong>Flights:</strong> 48-hour city resets</li>
+              <li>🏠 <strong>Stays:</strong> 7+ nights built for focus &amp; remote work</li>
+              <li>🏖️ <strong>Resorts:</strong> Low-stress family beaches</li>
+              <li>✨ <strong>Luxury:</strong> 5-star comfort without overpaying</li>
             </ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- Topic Directory Overview -->
+      <section id="topics-nav" class="topics" style="background: rgba(255,255,255,0.4); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);">
+        <div class="container">
+          <div class="section-head">
+            <p class="eyebrow">Taxonomy &amp; Folders</p>
+            <h2>Explore by topic and subtopic.</h2>
+          </div>
+          <div class="tags" aria-label="Topics directory">
+            <a href="topics/wellness/brain-health/advanced-memory-formula.html"><span>🧠 Wellness / Brain Health</span></a>
+            <a href="topics/wellness/gut-health/cleansesana.html"><span>🌿 Wellness / Gut Health</span></a>
+            <a href="#recent"><span>✈️ Travel / Flights</span></a>
+            <a href="#recent"><span>🏠 Travel / Stays &amp; Nomads</span></a>
+            <a href="#recent"><span>💑 Travel / Romantic Escapes</span></a>
+            <a href="#recent"><span>✨ Travel / Luxury</span></a>
           </div>
         </div>
       </section>
@@ -64,9 +131,11 @@
         <div class="container">
           <div class="section-head">
             <p class="eyebrow">Who we write for</p>
-            <h2>Every trip has a traveler.</h2>
+            <h2>Every pick has a specific audience.</h2>
           </div>
           <div class="tags" aria-label="Target audiences">
+            <span>🧠 High performers &amp; 50+</span>
+            <span>💚 Health-conscious travelers</span>
             <span>💼 Busy professionals</span>
             <span>👨‍👩‍👧‍👦 Families</span>
             <span>🌐 Digital nomads</span>
@@ -80,8 +149,13 @@
       <section id="recent" class="blog-wrap">
         <div class="container">
           <div class="section-head">
-            <p class="eyebrow">Latest articles</p>
-            <h2>Travel recommendations by service and audience.</h2>
+            <p class="eyebrow">Latest articles &amp; reviews</p>
+            <h2>Direct recommendations with zero gatekeeping.</h2>
+            <div class="topic-filters" role="tablist" aria-label="Filter posts by topic">
+              <button class="topic-filter-btn active" data-filter="all" role="tab">All Recommendations</button>
+              <button class="topic-filter-btn" data-filter="wellness" role="tab">🌿 Wellness &amp; Longevity</button>
+              <button class="topic-filter-btn" data-filter="travel" role="tab">✈️ Travel &amp; Stays</button>
+            </div>
           </div>
           <div id="blog-grid" class="blog-grid" aria-live="polite"></div>
         </div>
@@ -90,11 +164,11 @@
       <section id="about" class="about">
         <div class="container about-box">
           <div>
-            <p class="eyebrow">Our story</p>
-            <h2>Travel without friction.</h2>
+            <p class="eyebrow">Our Philosophy</p>
+            <h2>Curation without friction.</h2>
           </div>
           <p>
-            PokiSky exists because travel blogs are usually too long, too pushy, and too full of ads. We pick one idea at a time, match it to a specific traveler, and make the booking simple. No gatekeeping. No endless navigation. Just direct links to the offers that matter.
+            PokiSky was built as an antidote to bloated blogs packed with pop-ups, misleading reviews, and circular booking flows. We pick one verified idea at a time, connect it to the right person, and provide direct access to the offer. No noise. Just value.
           </p>
         </div>
       </section>
@@ -104,12 +178,14 @@
       <div class="container footer-inner">
         <div>
           <p class="footer-brand">PokiSky</p>
-          <p class="footer-tag">Direct travel. No friction.</p>
+          <p class="footer-tag">Direct travel, wellness &amp; lifestyle picks. No friction.</p>
         </div>
-        <p class="footer-credit">Curated for travelers who value their time.</p>
+        <p class="footer-credit">Curated for readers who value their time and wellbeing.</p>
       </div>
     </footer>
 
-    <script src="blog.js"></script>
+    <!-- Scripts -->
+    <script src="assets/js/articles.js"></script>
+    <script src="assets/js/main.js"></script>
   </body>
 </html>

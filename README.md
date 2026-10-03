@@ -1,159 +1,112 @@
-# PokiSky — Direct Travel Picks. No Friction.
+# PokiSky — Direct Travel, Wellness & Longevity Picks
 
-A minimal, elegant travel blog built for direct booking and affiliate conversion via GitHub Pages.
-
-## What is PokiSky?
-
-PokiSky is a streamlined travel recommendation platform that:
-- Recommends **one travel idea at a time** (flights, hotels, escapes)
-- **Targets specific audiences** (professionals, families, nomads, couples, luxury, budget)
-- **Converts directly** with clear, fast booking flows
-- **Works globally** with no geographic barriers
-- Uses **affiliate tracking** from Travel Payouts for commission-based revenue
-
-## Structure
-
-```
-.
-├── index.html       # Landing page + blog grid
-├── styles.css       # Design system & layout
-├── blog.js          # Article data & affiliate link builder
-└── README.md        # This file
-```
-
-## How to publish
-
-1. Push this repository to GitHub (already done at `gabrielhp11/blog-travel`)
-2. Go to your repository **Settings**
-3. Navigate to **Pages**
-4. Select:
-   - **Source:** Deploy from a branch
-   - **Branch:** main
-   - **Folder:** / (root)
-5. Click **Save**
-6. Your site will be published at: `https://gabrielhp11.github.io/blog-travel/`
-
-## Setup Travel Payouts Integration
-
-1. Get your **Affiliate Marker ID** from [Travel Payouts Dashboard](https://app.travelpayouts.com/dashboard)
-2. Open `blog.js`
-3. Replace `YOUR_MARKER_ID` with your actual marker:
-
-```javascript
-const AFFILIATE_MARKER = 'your_actual_marker_id_here';
-```
-
-4. Commit and push the change
-5. All "Book now" buttons will now track conversions to your Travel Payouts account
-
-## How affiliate links work
-
-Each CTA button generates a link like:
-
-```
-https://www.travelpayouts.com/redirect/?marker=YOUR_MARKER&url=https%3A%2F%2Fwww.booking.com%2F...
-```
-
-- User clicks the CTA button
-- Redirected through Travel Payouts (tracks the click)
-- Lands on the booking page
-- If they book → commission credited to your account
-
-## Customizing blog articles
-
-Edit the `blogArticles` array in `blog.js` to:
-- Change article titles and descriptions
-- Update highlights/key points
-- Adjust audience targeting
-- Modify booking URLs
-
-Example:
-
-```javascript
-const blogArticles = [
-  {
-    id: 1,
-    category: 'Flights',
-    audience: '💼 Busy professionals',
-    title: 'Your custom title here',
-    summary: 'Your description here',
-    highlights: [
-      'Point 1',
-      'Point 2',
-      'Point 3'
-    ],
-    service: 'Flights',
-    ctaText: 'Your CTA button text',
-    bookingUrl: 'https://booking-url-here.com',
-  },
-  // ... more articles
-];
-```
-
-## Target audiences
-
-PokiSky is built for:
-- 💼 **Busy professionals** — Quick escapes, premium but fast
-- 👨‍👩‍👧‍👦 **Families** — Beach weeks, resorts, easy transfers
-- 🌐 **Digital nomads** — Long stays (7+ nights), good Wi-Fi, affordable
-- 💑 **Couples** — Romantic, quiet, high-value
-- ✨ **Luxury seekers** — Premium without overpaying
-- 💰 **Smart savers** — Low cost, high feeling
-
-Each article targets one audience + one service (Flights, Hotels, Stays, Escapes, Luxury, Deals).
-
-## Design philosophy
-
-- **Minimal:** Focus on clarity, not decoration
-- **Direct:** Every link leads to booking
-- **Elegant:** Professional typography, restrained color palette
-- **Fast:** Static HTML, no database required
-- **Global:** No geographic restrictions
-
-## Color palette
-
-- **Background:** `#f3efe9` (warm cream)
-- **Paper:** `#ffffff` (white)
-- **Text:** `#151718` (dark ink)
-- **Accent:** `#0d5b48` (forest green)
-- **Muted:** `#5c6368` (gray)
-
-## Tech stack
-
-- **Frontend:** HTML5, CSS3, vanilla JavaScript
-- **Hosting:** GitHub Pages (free)
-- **Affiliate tracking:** Travel Payouts API
-- **Font:** Inter (Google Fonts)
-
-## Revenue model
-
-1. Write targeted travel articles
-2. Each article links to booking via affiliate marker
-3. Reader clicks "Find flights" / "Browse resorts" / etc.
-4. Commission tracked by Travel Payouts
-5. Booking confirmed → Commission credited
-6. Monthly payout to your account
-
-No per-click cost. No subscription. Just commission on actual bookings.
-
-## Tips for maximizing conversions
-
-- Keep headlines clear and specific
-- Use emoji sparingly but effectively (signals audience)
-- Match content to audience needs
-- Test different CTA text ("Find flights" vs. "Book now")
-- Update articles weekly based on trending destinations
-- Monitor which audiences/services convert best
-- A/B test booking URLs for higher commission rates
-
-## Support & resources
-
-- [Travel Payouts API Docs](https://www.travelpayouts.com/developers/api)
-- [Travel Payouts Dashboard](https://app.travelpayouts.com/dashboard)
-- [GitHub Pages Docs](https://docs.github.com/en/pages)
+A minimal, high-conversion affiliate publication and review platform hosted seamlessly on **Vercel** (`https://blog-travel-eight.vercel.app/`) and **GitHub Pages**.
 
 ---
 
-**PokiSky**  
-Direct travel. No friction.  
-Built for travelers who value their time.
+## 📁 Project Architecture & Folder Organization
+
+The project is structured into modular topics, subtopics, and centralized assets to keep the codebase clean, organized, and scalable as dozens of affiliate products are onboarded:
+
+```
+blog-travel/
+├── index.html                           # Main portal (hero, topic filters, dynamic grid)
+├── cleansesana.html                     # Backward-compatible redirect to gut-health review
+├── vercel.json                          # Vercel routing rules & clean URLs configuration
+├── README.md                            # Comprehensive project documentation & SOP
+│
+├── assets/                              # Centralized reusable static assets
+│   ├── css/
+│   │   ├── main.css                     # Primary portal styling (layout, grid, filters)
+│   │   └── review.css                   # Reusable editorial review layout (Forbes / Robb Report style)
+│   └── js/
+│       ├── articles.js                  # Central database of all articles & affiliate offers
+│       └── main.js                      # Dynamic grid rendering, filters & affiliate routing
+│
+└── topics/                              # Vertical topics and subtopics
+    ├── wellness/                        # Vertical: Health, Wellness & Longevity
+    │   ├── brain-health/                # Subtopic: Cognitive Performance & Nootropics
+    │   │   └── advanced-memory-formula.html  # In-depth editorial review (Nobel Prize science)
+    │   └── gut-health/                  # Subtopic: Digestive Health & Bloat Relief
+    │       └── cleansesana.html         # Editorial review page for CleanSeSana
+    │
+    └── travel/                          # Vertical: Curated Travel Escapes
+        ├── flights/                     # Subtopic: Fast 48h city resets
+        ├── stays/                       # Subtopic: Remote work & digital nomad stays
+        ├── escapes/                     # Subtopic: Romantic couples retreats
+        ├── luxury/                      # Subtopic: Premium 5-star airport-to-resort
+        └── deals/                       # Subtopic: High-value budget curation
+```
+
+---
+
+## 📊 Active Affiliate Offers & Registry
+
+| Product / Offer | Vertical | Subtopic | Network | Target Page / Review | Direct Affiliate Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Advanced Memory Formula** | Wellness | `brain-health` | Digistore24 | `topics/wellness/brain-health/advanced-memory-formula.html` | [Affiliate Link](https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm#aff=gabrielhenriquep123f97e) |
+| **CleanSeSana** | Wellness | `gut-health` | Direct | `topics/wellness/gut-health/cleansesana.html` | [Affiliate Link](https://cleansesana.com/cleansesana-pdp-fe#aff=gabrielhenriquep123f97e) |
+| **Aviasales Flights** | Travel | `flights` | TravelPayouts | Root Portal CTA | Aggregator link with marker |
+| **Booking.com Stays** | Travel | `stays` | TravelPayouts | Root Portal CTA | Aggregator link with marker |
+
+---
+
+## 🚀 Standard Operating Procedure (SOP): Adding a New Affiliate Product
+
+Whenever you receive or select a new affiliate link, follow this 3-step protocol:
+
+### Step 1: Create the Review Page
+1. Duplicate one of the existing review pages or use `assets/css/review.css`:
+   - For brain health / nootropics: see `topics/wellness/brain-health/advanced-memory-formula.html`
+   - For wellness / gut health: see `topics/wellness/gut-health/cleansesana.html`
+2. Save your file in the appropriate directory:
+   `topics/<vertical>/<subtopic>/<product-slug>.html`
+3. Link your affiliate link to the primary CTA buttons with `rel="noopener sponsored nofollow"`.
+
+### Step 2: Register in `assets/js/articles.js`
+Add a new object to the `blogArticles` array:
+
+```javascript
+{
+  id: 9,
+  topic: 'wellness', // or 'travel'
+  subtopic: 'longevity',
+  category: 'Cellular Health',
+  audience: '🔬 Longevity Seekers',
+  title: 'Your Article Title Here',
+  summary: 'Compelling 2-sentence summary focusing on biological benefit or lifestyle upgrade.',
+  highlights: [
+    'Key clinical feature 1',
+    'Key clinical feature 2',
+    'Guarantee or purity standard'
+  ],
+  service: 'Nutraceuticals',
+  ctaText: 'Claim Verified Formula',
+  reviewUrl: 'topics/wellness/longevity/your-product.html',
+  bookingUrl: 'https://affiliate-network.com/offer#aff=YOUR_ID',
+  isDirectAffiliate: true,
+  featured: true
+}
+```
+
+### Step 3: Deploy to Vercel & GitHub
+Commit and push the changes:
+```bash
+git add .
+git commit -m "feat(content): add [Product Name] review under topics/[category]"
+git push origin main
+```
+Vercel automatically builds and updates the live site in under 60 seconds!
+
+---
+
+## 🌐 Live URLs
+
+* **Vercel Production:** [blog-travel-eight.vercel.app](https://blog-travel-eight.vercel.app/)
+* **GitHub Repository:** [github.com/gabrielhp11/blog-travel](https://github.com/gabrielhp11/blog-travel)
+* **Advanced Memory Formula Review:** [blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula.html](https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula.html)
+* **CleanSeSana Review:** [blog-travel-eight.vercel.app/topics/wellness/gut-health/cleansesana.html](https://blog-travel-eight.vercel.app/topics/wellness/gut-health/cleansesana.html)
+
+---
+
+**PokiSky** — Direct picks. No friction. Curated for readers who value their time and wellbeing.
