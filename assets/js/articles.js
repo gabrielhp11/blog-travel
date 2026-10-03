@@ -55,6 +55,29 @@ const blogArticles = [
     featured: true,
   },
   {
+    id: 9,
+    topic: 'wellness',
+    subtopic: 'mens-health',
+    category: "Men's Vitality",
+    audience: '⚡ Men 35+ & High Performers',
+    title: 'The Science of Sustained Male Vitality: Prime Perform Pro',
+    summary:
+      'How clinical botanicals like Tongkat Ali, Epimedium, and Boron Chelate liberate free testosterone and restore bedroom confidence without synthetic chemicals.',
+    highlights: [
+      '100% natural botanical androgenic matrix',
+      'Supports free testosterone, pelvic blood flow, and stamina',
+      'Protects prostate wellness with Saw Palmetto and Nettle Root',
+      '60-Day unconditional money-back guarantee'
+    ],
+    service: 'Hormonal Mastery',
+    ctaText: 'Explore Prime Perform',
+    reviewUrl: 'topics/wellness/mens-health/prime-perform-pro.html',
+    bookingUrl:
+      'https://primeperformpro.com/principal/#aff=gabrielhenriquep123f97e',
+    isDirectAffiliate: true,
+    featured: true,
+  },
+  {
     id: 3,
     topic: 'travel',
     subtopic: 'flights',

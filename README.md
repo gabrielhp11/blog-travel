@@ -27,6 +27,8 @@ blog-travel/
     ├── wellness/                        # Vertical: Health, Wellness & Longevity
     │   ├── brain-health/                # Subtopic: Cognitive Performance & Nootropics
     │   │   └── advanced-memory-formula.html  # In-depth editorial review (Nobel Prize science)
+    │   ├── mens-health/                 # Subtopic: Male Vitality & Hormonal Support
+    │   │   └── prime-perform-pro.html   # Editorial review for Prime Perform Pro
     │   └── gut-health/                  # Subtopic: Digestive Health & Bloat Relief
     │       └── cleansesana.html         # Editorial review page for CleanSeSana
     │
@@ -45,6 +47,7 @@ blog-travel/
 | Product / Offer | Vertical | Subtopic | Network | Target Page / Review | Direct Affiliate Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Advanced Memory Formula** | Wellness | `brain-health` | Digistore24 | `topics/wellness/brain-health/advanced-memory-formula.html` | [Affiliate Link](https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm#aff=gabrielhenriquep123f97e) |
+| **Prime Perform Pro** | Wellness | `mens-health` | Digistore24 | `topics/wellness/mens-health/prime-perform-pro.html` | [Affiliate Link](https://primeperformpro.com/principal/#aff=gabrielhenriquep123f97e) |
 | **CleanSeSana** | Wellness | `gut-health` | Direct | `topics/wellness/gut-health/cleansesana.html` | [Affiliate Link](https://cleansesana.com/cleansesana-pdp-fe#aff=gabrielhenriquep123f97e) |
 | **Aviasales Flights** | Travel | `flights` | TravelPayouts | Root Portal CTA | Aggregator link with marker |
 | **Booking.com Stays** | Travel | `stays` | TravelPayouts | Root Portal CTA | Aggregator link with marker |
