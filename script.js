@@ -1,19 +1,19 @@
-const AFFILIATE_MARKER = 'YOUR_MARKER_ID';
+const AFFILIATE_MARKER = 'YOUR_MARKER_ID'; // Replace with your Travel Payouts marker
 
 const posts = [
   {
     category: 'Flights',
     audience: 'Busy professionals',
-    title: '48-hour city breaks that still feel premium',
+    title: '48-hour city breaks that feel premium',
     summary:
       'Fast escapes with smart flight timing, lower fares, and a clean route to a short luxury reset.',
     service: 'Flights',
-    url: 'https://www.booking.com/searchresults.html?ss=Paris',
+    url: 'https://www.aviasales.com/search/NYC1640',
   },
   {
     category: 'Family',
     audience: 'Families',
-    title: 'Beach weeks with easy transfers and more space',
+    title: 'Beach weeks with easy transfers and space',
     summary:
       'Simple, low-friction family travel: resort stays, airport convenience, and lower-stress booking flows.',
     service: 'Hotels',
@@ -22,7 +22,7 @@ const posts = [
   {
     category: 'Remote work',
     audience: 'Digital nomads',
-    title: '7-night stays built for work, calm, and a good Wi‑Fi signal',
+    title: '7-night stays built for work and calm',
     summary:
       'Hotels with desks, strong connectivity, and affordable weekly rates for long stays.',
     service: 'Stays',
@@ -40,7 +40,7 @@ const posts = [
   {
     category: 'Luxury',
     audience: 'Premium travelers',
-    title: 'Airport-to-resort travel without the usual friction',
+    title: 'Airport-to-resort without the friction',
     summary:
       'Premium stays with clear value, easier transfers, and more comfort at a better total price.',
     service: 'Luxury',
@@ -49,7 +49,7 @@ const posts = [
   {
     category: 'Budget',
     audience: 'Smart savers',
-    title: 'Low-cost weekends that still feel like an upgrade',
+    title: 'Low-cost weekends that feel like an upgrade',
     summary:
       'Short escapes that keep spending low without cutting the experience, timing, or comfort.',
     service: 'Deals',
@@ -80,7 +80,7 @@ function renderPosts() {
             <h3>${post.title}</h3>
             <p>${post.summary}</p>
             <div class="card-footer">
-              <a class="post-link" href="#">Direct offer</a>
+              <a class="post-link" href="#offers">View</a>
               <a class="btn btn-primary" href="${buildAffiliateLink(post.url)}" target="_blank" rel="noopener sponsored nofollow">Book now</a>
             </div>
           </div>
