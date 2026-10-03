@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Northstar Trips — Smart travel picks</title>
+    <title>PokiSky — Direct travel picks. No friction.</title>
     <meta
       name="description"
-      content="Minimal travel blog with direct affiliate offers for flights, hotels, and smart escapes."
+      content="PokiSky: Direct travel recommendations for professionals, families, digital nomads, and everyone in between. Flights, hotels, and escapes curated for your lifestyle."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -19,13 +19,13 @@
   <body>
     <header class="topbar">
       <div class="container nav">
-        <div class="brand">
-          <span class="brand-mark">N</span>
-          <span>Northstar Trips</span>
-        </div>
+        <a href="/" class="brand">
+          <span class="brand-mark">🌍</span>
+          <span>PokiSky</span>
+        </a>
         <nav class="nav-links" aria-label="Main navigation">
-          <a href="#offers">Offers</a>
-          <a href="#keywords">Keywords</a>
+          <a href="#recent">Recent</a>
+          <a href="#by-audience">By Audience</a>
           <a href="#about">About</a>
         </nav>
       </div>
@@ -35,72 +35,66 @@
       <section class="hero">
         <div class="container hero-inner">
           <div class="hero-copy">
-            <p class="eyebrow">Direct travel picks</p>
-            <h1>Minimal. Fast. Built to convert.</h1>
+            <p class="eyebrow">Travel that converts</p>
+            <h1>PokiSky: direct picks. Zero friction.</h1>
             <p class="lead">
-              Travel ideas that match the moment: weekend escapes, family breaks,
-              remote-work stays, and premium deals with a direct booking flow.
+              No noise. No roundabout booking flows. Just real travel ideas matched to how you travel: short city breaks, family weeks, remote work stays, or pure luxury escapes.
             </p>
             <div class="hero-actions">
-              <a class="btn btn-primary" href="#offers">See offers</a>
-              <a class="btn btn-secondary" href="#keywords">Browse by audience</a>
+              <a class="btn btn-primary" href="#recent">Read articles</a>
+              <a class="btn btn-secondary" href="#by-audience">Browse by audience</a>
             </div>
           </div>
           <div class="hero-card">
-            <p class="mini-label">This week</p>
-            <h2>Flight + hotel bundles</h2>
+            <p class="mini-label">What we do</p>
+            <h2>Travel picks that matter</h2>
             <ul>
-              <li>Under $300: short city breaks</li>
-              <li>Family deals: beach + resort</li>
-              <li>Remote work stays: 7+ nights</li>
+              <li>✈️ Flights: 48-hour escapes</li>
+              <li>🏖️ Hotels: family-friendly beaches</li>
+              <li>🏠 Stays: 7+ nights for remote work</li>
+              <li>💑 Escapes: romantic, quiet, fast</li>
+              <li>✨ Luxury: premium without overpaying</li>
+              <li>💰 Budget: low-cost, high-feeling trips</li>
             </ul>
-            <a class="text-link" href="#offers">View picks →</a>
           </div>
         </div>
       </section>
 
-      <section id="keywords" class="topics">
+      <section id="by-audience" class="topics">
         <div class="container">
           <div class="section-head">
-            <p class="eyebrow">Audience focus</p>
-            <h2>Built for specific travelers.</h2>
+            <p class="eyebrow">Who we write for</p>
+            <h2>Every trip has a traveler.</h2>
           </div>
-          <div class="tags" aria-label="Target audience tags">
-            <span>Couples</span>
-            <span>Families</span>
-            <span>Solo travelers</span>
-            <span>Remote workers</span>
-            <span>Luxury</span>
-            <span>Budget</span>
+          <div class="tags" aria-label="Target audiences">
+            <span>💼 Busy professionals</span>
+            <span>👨‍👩‍👧‍👦 Families</span>
+            <span>🌐 Digital nomads</span>
+            <span>💑 Couples</span>
+            <span>✨ Luxury seekers</span>
+            <span>💰 Smart savers</span>
           </div>
         </div>
       </section>
 
-      <section id="offers" class="posts-wrap">
+      <section id="recent" class="blog-wrap">
         <div class="container">
-          <div class="section-head split-head">
-            <div>
-              <p class="eyebrow">Latest picks</p>
-              <h2>Offers by service and audience.</h2>
-            </div>
-            <p class="muted">
-              Every link is structured for direct conversion and affiliate tracking.
-            </p>
+          <div class="section-head">
+            <p class="eyebrow">Latest articles</p>
+            <h2>Travel recommendations by service and audience.</h2>
           </div>
-          <div id="posts" class="posts" aria-live="polite"></div>
+          <div id="blog-grid" class="blog-grid" aria-live="polite"></div>
         </div>
       </section>
 
       <section id="about" class="about">
         <div class="container about-box">
           <div>
-            <p class="eyebrow">Why this structure works</p>
-            <h2>Clear intent. Less noise. More conversion.</h2>
+            <p class="eyebrow">Our story</p>
+            <h2>Travel without friction.</h2>
           </div>
           <p>
-            Each article targets a single traveler intent: cheaper flights,
-            relaxing family stays, remote-work ready cities, or premium escapes.
-            That keeps the content direct, memorable, and easier to monetize.
+            PokiSky exists because travel blogs are usually too long, too pushy, and too full of ads. We pick one idea at a time, match it to a specific traveler, and make the booking simple. No gatekeeping. No endless navigation. Just direct links to the offers that matter.
           </p>
         </div>
       </section>
@@ -108,11 +102,14 @@
 
     <footer class="footer">
       <div class="container footer-inner">
-        <p>Northstar Trips</p>
-        <p>Affiliate travel picks</p>
+        <div>
+          <p class="footer-brand">PokiSky</p>
+          <p class="footer-tag">Direct travel. No friction.</p>
+        </div>
+        <p class="footer-credit">Curated for travelers who value their time.</p>
       </div>
     </footer>
 
-    <script src="script.js"></script>
+    <script src="blog.js"></script>
   </body>
 </html>
