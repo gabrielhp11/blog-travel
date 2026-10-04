@@ -11,6 +11,8 @@ function buildAffiliateLink(article) {
     article.isDirectAffiliate ||
     url.includes('advancedbionutritionals.com') ||
     url.includes('cleansesana.com') ||
+    url.includes('business-kickstart.de') ||
+    url.includes('primeperformpro.com') ||
     url.startsWith('topics/') ||
     url.endsWith('.html')
   ) {
@@ -37,7 +39,7 @@ function renderBlogGrid() {
     .map(
       (article) => `
         <article class="blog-post ${article.featured ? 'is-featured' : ''}" data-topic="${article.topic}">
-          <div class="post-header ${article.subtopic === 'brain-health' ? 'brain-theme' : ''}">
+          <div class="post-header ${article.subtopic === 'brain-health' ? 'brain-theme' : article.subtopic === 'ai-training' ? 'ai-theme' : ''}">
             <span class="post-category">${article.topic.toUpperCase()} • ${article.category}</span>
           </div>
           <div class="post-content">

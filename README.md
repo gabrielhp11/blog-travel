@@ -25,6 +25,10 @@ blog-travel/
 │       └── main.js                      # Dynamic grid rendering, filters & affiliate routing
 │
 └── topics/                              # Vertical topics and subtopics
+    ├── business/                        # Vertical: AI, SaaS & Online Income
+    │   └── ai-training/                 # Subtopic: AI Income Education
+    │       └── ki-training.html         # Editorial review for Business Kickstart KI-Training
+    │
     ├── wellness/                        # Vertical: Health, Wellness & Longevity
     │   ├── brain-health/                # Subtopic: Cognitive Performance & Nootropics
     │   │   └── advanced-memory-formula.html  # In-depth editorial review (Nobel Prize science)
@@ -46,14 +50,23 @@ blog-travel/
 
 ## 📊 Active Affiliate Offers & Registry
 
-| Product / Offer | Vertical | Subtopic | Network | Target Page / Review | Direct Affiliate Link |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Advanced Memory Formula** | Wellness | `brain-health` | Digistore24 | `topics/wellness/brain-health/advanced-memory-formula.html` | [Affiliate Link](https://www.advancedbionutritionals.com/DS2...?aff=gabrielhp11) |
-| **Prime Perform Pro** | Wellness | `mens-health` | Digistore24 | `topics/wellness/mens-health/prime-perform-pro.html` | [Affiliate Link](https://primeperformpro.com/principal/#aff=gabrielhenriquep123f97e) |
-| **CleanSeSana** | Wellness | `gut-health` | Direct | `topics/wellness/gut-health/cleansesana.html` | [Affiliate Link](https://cleansesana.com/cleansesana-pdp-fe#aff=gabrielhenriquep123f97e) |
-| **KetoSana** | Wellness | `gut-health` | Direct | `topics/wellness/gut-health/ketosana.html` | [Affiliate Link](https://myketosana.com/ketosana-pdp-fe#aff=gabrielhenriquep123f97e) |
-| **Aviasales Flights** | Travel | `flights` | TravelPayouts | Root Portal CTA | Aggregator link with marker |
-| **Booking.com Stays** | Travel | `stays` | TravelPayouts | Root Portal CTA | Aggregator link with marker |
+| Product / Offer | Vertical | Subtopic | Network | Target Page / Review | Status | Updated |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **KI-Training (Business Kickstart)** | Business | `ai-training` | Digistore24 / Direct | `topics/business/ai-training/ki-training.html` | ✅ Live | 2026-10-04 |
+| **Advanced Memory Formula** | Wellness | `brain-health` | Digistore24 | `topics/wellness/brain-health/advanced-memory-formula.html` | ✅ Live | — |
+| **Prime Perform Pro** | Wellness | `mens-health` | Digistore24 | `topics/wellness/mens-health/prime-perform-pro.html` | ✅ Live | — |
+| **CleanSeSana** | Wellness | `gut-health` | Direct | `topics/wellness/gut-health/cleansesana.html` | ✅ Live | — |
+| **KetoSana** | Wellness | `gut-health` | Direct | `topics/wellness/gut-health/ketosana.html` | ✅ Live | — |
+| **Aviasales Flights** | Travel | `flights` | TravelPayouts | Root Portal CTA | ✅ Live | — |
+| **Booking.com Stays** | Travel | `stays` | TravelPayouts | Root Portal CTA | ✅ Live | — |
+
+### Direct Affiliate Links
+
+* **KI-Training:** [business-kickstart.de/ki-training-1/#aff=…](https://business-kickstart.de/ki-training-1/#aff=gabrielhenriquep123f97e)
+* **Advanced Memory Formula:** [Affiliate Link](https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm#aff=gabrielhenriquep123f97e)
+* **Prime Perform Pro:** [Affiliate Link](https://primeperformpro.com/principal/#aff=gabrielhenriquep123f97e)
+* **CleanSeSana:** [Affiliate Link](https://cleansesana.com/cleansesana-pdp-fe#aff=gabrielhenriquep123f97e)
+* **KetoSana:** [Affiliate Link](https://myketosana.com/ketosana-pdp-fe#aff=gabrielhenriquep123f97e)
 
 ---
 
@@ -63,6 +76,7 @@ Whenever you receive or select a new affiliate link, follow this 3-step protocol
 
 ### Step 1: Create the Review Page
 1. Duplicate one of the existing review pages or use `assets/css/review.css`:
+   - For AI / SaaS / business education: see `topics/business/ai-training/ki-training.html`
    - For brain health / nootropics: see `topics/wellness/brain-health/advanced-memory-formula.html`
    - For wellness / gut health: see `topics/wellness/gut-health/cleansesana.html`
    - For keto optimization: see `topics/wellness/gut-health/ketosana.html`
@@ -76,7 +90,7 @@ Add a new object to the `blogArticles` array:
 ```javascript
 {
   id: 9,
-  topic: 'wellness', // or 'travel'
+  topic: 'wellness', // or 'travel' | 'business'
   subtopic: 'longevity',
   category: 'Cellular Health',
   audience: '🔬 Longevity Seekers',
@@ -111,6 +125,8 @@ Vercel automatically builds and updates the live site in under 60 seconds!
 
 * **Vercel Production:** [blog-travel-eight.vercel.app](https://blog-travel-eight.vercel.app/)
 * **GitHub Repository:** [github.com/gabrielhp11/blog-travel](https://github.com/gabrielhp11/blog-travel)
+* **KI-Training Review:** [blog-travel-eight.vercel.app/topics/business/ai-training/ki-training.html](https://blog-travel-eight.vercel.app/topics/business/ai-training/ki-training.html)
+* **Short redirect:** [blog-travel-eight.vercel.app/ki-training](https://blog-travel-eight.vercel.app/ki-training)
 * **Advanced Memory Formula Review:** [blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula.html](https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula.html)
 * **CleanSeSana Review:** [blog-travel-eight.vercel.app/topics/wellness/gut-health/cleansesana.html](https://blog-travel-eight.vercel.app/topics/wellness/gut-health/cleansesana.html)
 * **KetoSana Review:** [blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana.html](https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana.html)

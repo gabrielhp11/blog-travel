@@ -21,6 +21,11 @@
       "source": "/prime-perform-pro",
       "destination": "/topics/wellness/mens-health/prime-perform-pro",
       "permanent": true
+    },
+    {
+      "source": "/ki-training",
+      "destination": "/topics/business/ai-training/ki-training",
+      "permanent": true
     }
   ]
 }

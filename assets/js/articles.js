@@ -10,6 +10,29 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
   {
+    id: 10,
+    topic: 'business',
+    subtopic: 'ai-training',
+    category: 'AI & Online Income',
+    audience: '🤖 Aspiring Digital Earners',
+    title: 'Free AI Income Training: Build Online Revenue Without Coding or Camera',
+    summary:
+      'Business Kickstart’s free KI-Training shows beginners how artificial intelligence can power a simple, camera-free path to online income — no tech degree required.',
+    highlights: [
+      '100% free online AI training for beginners',
+      'No coding skills or camera appearance needed',
+      '20+ years online marketing experience from founder Cyril',
+      'High-value participant surprise included at session end'
+    ],
+    service: 'AI Business Education',
+    ctaText: 'Join Free AI Training',
+    reviewUrl: 'topics/business/ai-training/ki-training.html',
+    bookingUrl:
+      'https://business-kickstart.de/ki-training-1/#aff=gabrielhenriquep123f97e',
+    isDirectAffiliate: true,
+    featured: true,
+  },
+  {
     id: 1,
     topic: 'wellness',
     subtopic: 'brain-health',
