@@ -1,0 +1,13 @@
+:root {
+  --bg: #f5f3f0;
+  --paper: #fffdfb;
+  --ink: #1a1810;
+  --muted: #6e6658;
+  --line: rgba(26,24,16,0.07);
+  --accent: #6d28d9; /* violet */
+  --accent-soft: #f5f3ff;
+  --shadow: 0 24px 60px rgba(26,24,16,0.08);
+}
+body.page-kiwify-itNNPGK { background: linear-gradient(160deg, #f5f3f0 0%, #ede9fe 100%); }
+.page-kiwify-itNNPGK .post-header { background: linear-gradient(135deg, #2e1065 0%, #7c3aed 100%); }
+.page-kiwify-itNNPGK .btn-primary { background: var(--accent); color: #fff; }

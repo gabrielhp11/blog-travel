@@ -1,0 +1,14 @@
+:root {
+  --bg: #f5f2ec;
+  --paper: #fffdf9;
+  --ink: #1a1810;
+  --muted: #6b6458;
+  --line: rgba(26,24,16,0.07);
+  --accent: #1e3a5f; /* navy */
+  --accent-soft: #e8edf3;
+  --shadow: 0 24px 60px rgba(26,24,16,0.08);
+}
+body.page-digistore628355 { background: linear-gradient(160deg, #f5f2ec 0%, #e8eaf0 100%); }
+.page-digistore628355 .post-header { background: linear-gradient(135deg, #0f1a28 0%, #1e3a5f 100%); }
+.page-digistore628355 .btn-primary { background: var(--accent); color: #fff; }
+.page-digistore628355 .btn-primary:hover { background: #2a4f7a; }

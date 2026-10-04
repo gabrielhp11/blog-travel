@@ -134,3 +134,20 @@ Vercel automatically builds and updates the live site in under 60 seconds!
 ---
 
 **PokiSky** — Direct picks. No friction. Curated for readers who value their time and wellbeing.
+
+
+---
+
+## 🎨 Per-Product Color Palettes (New 2026-10)
+
+Each new landing page uses a dedicated palette defined in `assets/css/<slug>.css`:
+
+- **SpartaMax** (`spartamax.css`): `#0b1015` / `#1b2a28` (dark teal) + `#5ec8b6` accent
+- **Collagen** (`collagen.css`): `#f6f3ee` / `#2a2220` (warm gold) + `#bfa15f` accent
+- **VigorSana** (`vigorsana.css`): `#f7f5f0` / `#2e2310` (amber) + `#c4933b` accent
+- **Hook Mastery** (`hookmastery.css`): `#f4f5f7` / `#0f172a` (sky blue) + `#0ea5e9` accent
+- **GlucoTrust** (`glucotrust.css`): `#f5f2eb` / `#1a2d1e` (deep green) + `#3a7d5c` accent
+- **Digistore Programs** (`digistore*.css`): burnt sienna / navy themes
+- **Kiwify Offers** (`kiwify-*.css`): burnt orange / rose / violet / bronze / blue / purple per link
+
+All review pages include: hero with affiliate CTA (`rel="noopener sponsored nofollow"`), product card with image, benefits grid, ingredients/formula section, quote/testimonial, final CTA block, and responsive design via `assets/css/review.css`.

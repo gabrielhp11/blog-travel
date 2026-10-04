@@ -1,0 +1,14 @@
+:root {
+  --bg: #f6f4f1;
+  --paper: #fffdfb;
+  --ink: #1a1810;
+  --muted: #6e6658;
+  --line: rgba(26,24,16,0.07);
+  --accent: #8a4b2e; /* burnt sienna */
+  --accent-soft: #f8efe8;
+  --shadow: 0 24px 60px rgba(26,24,16,0.08);
+}
+body.page-digistore626900 { background: linear-gradient(160deg, #f6f4f1 0%, #ebe6dc 100%); }
+.page-digistore626900 .post-header { background: linear-gradient(135deg, #2a1f15 0%, #5a3a1e 100%); }
+.page-digistore626900 .btn-primary { background: var(--accent); color: #fff; }
+.page-digistore626900 .btn-primary:hover { background: #6e3825; }

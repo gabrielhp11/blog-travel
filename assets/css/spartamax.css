@@ -1,0 +1,24 @@
+:root {
+  --bg: #0b1015;
+  --paper: #121820;
+  --ink: #f0ede6;
+  --muted: #9aa0a8;
+  --line: rgba(240, 237, 230, 0.08);
+  --accent: #5ec8b6; /* teal mint */
+  --accent-soft: rgba(94, 200, 182, 0.08);
+  --gold: #cfa35a;
+  --gold-soft: rgba(207, 163, 90, 0.1);
+  --shadow: 0 24px 60px rgba(0,0,0,0.5);
+  --shadow-sm: 0 18px 42px rgba(0,0,0,0.3);
+}
+
+body.page-spartamax {
+  background: linear-gradient(160deg, #0b1015 0%, #121a28 100%);
+  color: var(--ink);
+}
+
+.page-spartamax .topbar { background: rgba(11,16,21,0.92); }
+.page-spartamax .post-header { background: linear-gradient(135deg, #0b1015 0%, #1b2a28 100%); }
+.page-spartamax .product-visual { background: linear-gradient(135deg, #0f2a2d 0%, #1b3a3c 100%); }
+.page-spartamax .btn-primary { background: var(--accent); color: #0a1418; }
+.page-spartamax .btn-primary:hover { background: #4db8a6; }

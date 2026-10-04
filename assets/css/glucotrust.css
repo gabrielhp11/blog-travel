@@ -1,0 +1,14 @@
+:root {
+  --bg: #f5f2eb;
+  --paper: #fffdf8;
+  --ink: #1a1c16;
+  --muted: #6b655a;
+  --line: rgba(26,28,22,0.07);
+  --accent: #3a7d5c; /* deep green */
+  --accent-soft: #e8f0eb;
+  --shadow: 0 24px 60px rgba(26,28,22,0.08);
+}
+body.page-glucotrust { background: linear-gradient(160deg, #f5f2eb 0%, #e4ebe0 100%); }
+.page-glucotrust .post-header { background: linear-gradient(135deg, #1a2d1e 0%, #2d4f32 100%); }
+.page-glucotrust .btn-primary { background: var(--accent); color: #fff; }
+.page-glucotrust .btn-primary:hover { background: #2f6b42; }

@@ -1,0 +1,14 @@
+:root {
+  --bg: #f8f6f4;
+  --paper: #fffdfb;
+  --ink: #18181b;
+  --muted: #71717a;
+  --line: rgba(24,24,27,0.07);
+  --accent: #7e22ce; /* purple */
+  --accent-soft: #f3e8ff;
+  --shadow: 0 24px 60px rgba(24,24,27,0.08);
+}
+body.page-kiwify-EKe5iSs { background: linear-gradient(160deg, #f8f6f4 0%, #ede9fe 100%); }
+.page-kiwify-EKe5iSs .post-header { background: linear-gradient(135deg, #2e1065 0%, #6b21a8 100%); }
+.page-kiwify-EKe5iSs .btn-primary { background: var(--accent); color: #fff; }
+.page-kiwify-EKe5iSs .btn-primary:hover { background: #5b21b6; }
