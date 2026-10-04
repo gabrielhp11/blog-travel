@@ -1,0 +1,14 @@
+:root {
+  --bg: #f7f4f0;
+  --paper: #fffdfb;
+  --ink: #1a1810;
+  --muted: #6e6658;
+  --line: rgba(26,24,16,0.07);
+  --accent: #5a3a6a; /* deep violet / purple */
+  --accent-soft: #f0e8f5;
+  --shadow: 0 24px 60px rgba(26,24,16,0.08);
+}
+body.page-igenics { background: linear-gradient(160deg, #f7f4f0 0%, #ebe6e4 100%); }
+.page-igenics .post-header { background: linear-gradient(135deg, #2a182e 0%, #5a2e5a 100%); }
+.page-igenics .btn-primary { background: var(--accent); color: #fff; }
+.page-igenics .btn-primary:hover { background: #4a2e50; }

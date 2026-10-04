@@ -151,3 +151,19 @@ Each new landing page uses a dedicated palette defined in `assets/css/<slug>.css
 - **Kiwify Offers** (`kiwify-*.css`): burnt orange / rose / violet / bronze / blue / purple per link
 
 All review pages include: hero with affiliate CTA (`rel="noopener sponsored nofollow"`), product card with image, benefits grid, ingredients/formula section, quote/testimonial, final CTA block, and responsive design via `assets/css/review.css`.
+
+
+---
+
+## ⏸ Links Aguardando Confirmação (2026-10-04)
+
+As seguintes 6 páginas foram criadas com paletas dedicadas (CSS individuais) e CTAs configurados com placeholder (`#`). Assim que o usuário fornecer os links de afiliado, basta substituir o `href="#"` em cada página pelo link real (já com `rel="noopener sponsored nofollow"` configurado):
+
+- `topics/wellness/longevity/advanced-amino-formula.html` → `assets/css/advanced-amino-formula.css` (rose/mauve palette)
+- `topics/wellness/longevity/advanced-mitochondrial-formula.html` → `assets/css/advanced-mitochondrial-formula.css` (forest palette)
+- `topics/wellness/metabolic-health/blood-sugar-blaster.html` → `assets/css/blood-sugar-blaster.css` (crimson palette)
+- `topics/wellness/longevity/circo2.html` → `assets/css/circo2.css` (bronze palette)
+- `topics/wellness/brain-health/igenics.html` → `assets/css/igenics.css` (violet palette)
+- `topics/wellness/metabolic-health/metabosana.html` → `assets/css/metabosana.css` (navy palette)
+
+Todos os links estão também registrados no `README.md` com status `⏸ Awaiting`. Nenhum link de afiliado foi inventado — a página indica claramente "Awaiting Link" até que o usuário confirme.

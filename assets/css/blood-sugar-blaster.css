@@ -1,0 +1,14 @@
+:root {
+  --bg: #f5f2eb;
+  --paper: #fffdf8;
+  --ink: #1a1810;
+  --muted: #6b6458;
+  --line: rgba(26,24,16,0.07);
+  --accent: #b22222; /* crimson / blood sugar */
+  --accent-soft: #fceaea;
+  --shadow: 0 24px 60px rgba(26,24,16,0.08);
+}
+body.page-blood-sugar-blaster { background: linear-gradient(160deg, #f5f2eb 0%, #fce8e0 100%); }
+.page-blood-sugar-blaster .post-header { background: linear-gradient(135deg, #3a1515 0%, #8a1a1a 100%); }
+.page-blood-sugar-blaster .btn-primary { background: var(--accent); color: #fff; }
+.page-blood-sugar-blaster .btn-primary:hover { background: #991b1b; }

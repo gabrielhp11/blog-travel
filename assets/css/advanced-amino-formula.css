@@ -1,0 +1,14 @@
+:root {
+  --bg: #f7f4f0;
+  --paper: #fffdfb;
+  --ink: #1a1810;
+  --muted: #6e6658;
+  --line: rgba(26,24,16,0.07);
+  --accent: #8b3a5c; /* deep rose/mauve */
+  --accent-soft: #f5e6eb;
+  --shadow: 0 24px 60px rgba(26,24,16,0.08);
+}
+body.page-advanced-amino { background: linear-gradient(160deg, #f7f4f0 0%, #ebe4e0 100%); }
+.page-advanced-amino .post-header { background: linear-gradient(135deg, #2d1a1e 0%, #6b2c3e 100%); }
+.page-advanced-amino .btn-primary { background: var(--accent); color: #fff; }
+.page-advanced-amino .btn-primary:hover { background: #732b4d; }
