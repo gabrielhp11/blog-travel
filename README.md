@@ -12,6 +12,7 @@ The project is structured into modular topics, subtopics, and centralized assets
 blog-travel/
 ├── index.html                           # Main portal (hero, topic filters, dynamic grid)
 ├── cleansesana.html                     # Backward-compatible redirect to gut-health review
+├── ketosana.html                       # Backward-compatible redirect to keto review
 ├── vercel.json                          # Vercel routing rules & clean URLs configuration
 ├── README.md                            # Comprehensive project documentation & SOP
 │
@@ -30,7 +31,8 @@ blog-travel/
     │   ├── mens-health/                 # Subtopic: Male Vitality & Hormonal Support
     │   │   └── prime-perform-pro.html   # Editorial review for Prime Perform Pro
     │   └── gut-health/                  # Subtopic: Digestive Health & Bloat Relief
-    │       └── cleansesana.html         # Editorial review page for CleanSeSana
+    │       ├── cleansesana.html         # Editorial review page for CleanSeSana
+    │       └── ketosana.html            # Editorial review page for KetoSana
     │
     └── travel/                          # Vertical: Curated Travel Escapes
         ├── flights/                     # Subtopic: Fast 48h city resets
@@ -46,9 +48,10 @@ blog-travel/
 
 | Product / Offer | Vertical | Subtopic | Network | Target Page / Review | Direct Affiliate Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Advanced Memory Formula** | Wellness | `brain-health` | Digistore24 | `topics/wellness/brain-health/advanced-memory-formula.html` | [Affiliate Link](https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm#aff=gabrielhenriquep123f97e) |
+| **Advanced Memory Formula** | Wellness | `brain-health` | Digistore24 | `topics/wellness/brain-health/advanced-memory-formula.html` | [Affiliate Link](https://www.advancedbionutritionals.com/DS2...?aff=gabrielhp11) |
 | **Prime Perform Pro** | Wellness | `mens-health` | Digistore24 | `topics/wellness/mens-health/prime-perform-pro.html` | [Affiliate Link](https://primeperformpro.com/principal/#aff=gabrielhenriquep123f97e) |
 | **CleanSeSana** | Wellness | `gut-health` | Direct | `topics/wellness/gut-health/cleansesana.html` | [Affiliate Link](https://cleansesana.com/cleansesana-pdp-fe#aff=gabrielhenriquep123f97e) |
+| **KetoSana** | Wellness | `gut-health` | Direct | `topics/wellness/gut-health/ketosana.html` | [Affiliate Link](https://myketosana.com/ketosana-pdp-fe#aff=gabrielhenriquep123f97e) |
 | **Aviasales Flights** | Travel | `flights` | TravelPayouts | Root Portal CTA | Aggregator link with marker |
 | **Booking.com Stays** | Travel | `stays` | TravelPayouts | Root Portal CTA | Aggregator link with marker |
 
@@ -62,6 +65,7 @@ Whenever you receive or select a new affiliate link, follow this 3-step protocol
 1. Duplicate one of the existing review pages or use `assets/css/review.css`:
    - For brain health / nootropics: see `topics/wellness/brain-health/advanced-memory-formula.html`
    - For wellness / gut health: see `topics/wellness/gut-health/cleansesana.html`
+   - For keto optimization: see `topics/wellness/gut-health/ketosana.html`
 2. Save your file in the appropriate directory:
    `topics/<vertical>/<subtopic>/<product-slug>.html`
 3. Link your affiliate link to the primary CTA buttons with `rel="noopener sponsored nofollow"`.
@@ -109,6 +113,7 @@ Vercel automatically builds and updates the live site in under 60 seconds!
 * **GitHub Repository:** [github.com/gabrielhp11/blog-travel](https://github.com/gabrielhp11/blog-travel)
 * **Advanced Memory Formula Review:** [blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula.html](https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula.html)
 * **CleanSeSana Review:** [blog-travel-eight.vercel.app/topics/wellness/gut-health/cleansesana.html](https://blog-travel-eight.vercel.app/topics/wellness/gut-health/cleansesana.html)
+* **KetoSana Review:** [blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana.html](https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana.html)
 
 ---
 
