@@ -13,6 +13,7 @@ function buildAffiliateLink(article) {
     url.includes('cleansesana.com') ||
     url.includes('business-kickstart.de') ||
     url.includes('primeperformpro.com') ||
+    url.includes('myketosana.com') ||
     url.startsWith('topics/') ||
     url.endsWith('.html')
   ) {
@@ -36,10 +37,24 @@ function renderBlogGrid() {
     : blogArticles.filter(item => item.topic === activeFilter || item.subtopic === activeFilter);
 
   blogGrid.innerHTML = filtered
-    .map(
-      (article) => `
+    .map((article) => {
+      const themeClass =
+        article.subtopic === 'brain-health'
+          ? 'brain-theme'
+          : article.subtopic === 'ai-training'
+            ? 'ai-theme'
+            : '';
+      const hasImage = Boolean(article.imageUrl);
+      const headerClass = ['post-header', themeClass, hasImage ? 'has-image' : '']
+        .filter(Boolean)
+        .join(' ');
+      const headerStyle = hasImage
+        ? ` style="background-image: url('${article.imageUrl}');"`
+        : '';
+
+      return `
         <article class="blog-post ${article.featured ? 'is-featured' : ''}" data-topic="${article.topic}">
-          <div class="post-header ${article.subtopic === 'brain-health' ? 'brain-theme' : article.subtopic === 'ai-training' ? 'ai-theme' : ''}">
+          <div class="${headerClass}"${headerStyle} role="img" aria-label="${article.imageAlt || article.title}">
             <span class="post-category">${article.topic.toUpperCase()} • ${article.category}</span>
           </div>
           <div class="post-content">
@@ -70,8 +85,8 @@ function renderBlogGrid() {
             </div>
           </div>
         </article>
-      `
-    )
+      `;
+    })
     .join('');
 }
 

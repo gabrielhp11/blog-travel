@@ -1,0 +1,561 @@
+/* KI-Training only. Loaded solely from topics/business/ai-training/ki-training.html */
+
+body.page-ki {
+  --bg: #f3efe6;
+  --paper: #fbf8f3;
+  --ink: #1b2430;
+  --muted: #5c6570;
+  --line: #e3dccf;
+  --accent: #8f7344;
+  --accent-soft: #f6f1e6;
+  --gold: #8f7344;
+  --gold-soft: #f6f1e6;
+  --shadow: 0 22px 50px rgba(27, 36, 48, 0.06);
+  --shadow-sm: 0 10px 28px rgba(27, 36, 48, 0.04);
+  background:
+    radial-gradient(1200px 420px at 80% -10%, rgba(143, 115, 68, 0.08), transparent 60%),
+    var(--bg);
+  color: var(--ink);
+  font-feature-settings: "kern" 1, "liga" 1;
+}
+
+body.page-ki h1,
+body.page-ki h2,
+body.page-ki h3,
+body.page-ki .ki-serif {
+  font-family: "Source Serif 4", "Iowan Old Style", Palatino, "Palatino Linotype", serif;
+  letter-spacing: -0.022em;
+  font-weight: 600;
+}
+
+body.page-ki h1 {
+  font-size: clamp(2.35rem, 4.4vw, 3.65rem);
+  line-height: 1.08;
+  max-width: 14ch;
+}
+
+body.page-ki h2 {
+  font-size: clamp(1.75rem, 2.8vw, 2.45rem);
+  max-width: 22ch;
+}
+
+body.page-ki .topbar {
+  background: rgba(243, 239, 230, 0.9);
+  border-bottom-color: var(--line);
+}
+
+body.page-ki .brand {
+  font-family: "Source Serif 4", Palatino, serif;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+}
+
+body.page-ki .brand-mark {
+  width: 28px;
+  height: 28px;
+  display: inline-grid;
+  place-items: center;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  font-size: 0.95rem;
+  background: var(--paper);
+}
+
+body.page-ki .nav-links {
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+body.page-ki .nav-links a:hover {
+  color: var(--accent);
+}
+
+body.page-ki .hero {
+  padding: 42px 0 28px;
+}
+
+body.page-ki .breadcrumb {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+body.page-ki .hero-grid {
+  grid-template-columns: 1.05fr 0.95fr;
+  gap: 56px;
+  align-items: start;
+}
+
+body.page-ki .eyebrow {
+  color: var(--accent);
+  letter-spacing: 0.16em;
+  font-weight: 600;
+}
+
+body.page-ki .lead {
+  font-size: 1.12rem;
+  line-height: 1.65;
+  color: #3e4854;
+  max-width: 38rem;
+}
+
+body.page-ki .lead strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+body.page-ki .cta-row {
+  margin-top: 32px;
+  gap: 12px;
+}
+
+body.page-ki .btn {
+  border-radius: 4px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  font-weight: 600;
+  min-height: 46px;
+  padding: 0 18px;
+}
+
+body.page-ki .btn-primary {
+  background: var(--ink);
+  color: #fbf8f3;
+}
+
+body.page-ki .btn-primary:hover {
+  background: #2a3544;
+}
+
+body.page-ki .btn-secondary {
+  background: transparent;
+  border-color: #cfc6b6;
+}
+
+body.page-ki .btn-secondary:hover {
+  border-color: var(--ink);
+  background: transparent;
+}
+
+body.page-ki .trust-badge-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 34px;
+  padding-top: 22px;
+  border-top: 1px solid var(--line);
+  max-width: 520px;
+}
+
+body.page-ki .trust-badge-row span {
+  display: block;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+body.page-ki .trust-badge-row span::before {
+  content: "";
+  display: block;
+  width: 22px;
+  height: 1px;
+  background: var(--accent);
+  margin-bottom: 8px;
+}
+
+body.page-ki .product-card {
+  border-radius: 2px;
+  box-shadow: var(--shadow);
+  border-color: #ddd4c6;
+  background: var(--paper);
+}
+
+body.page-ki .ki-photo {
+  margin: 0;
+  background: #1b2430;
+}
+
+body.page-ki .ki-photo img {
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+  object-position: center 42%;
+  display: block;
+}
+
+body.page-ki .ki-photo figcaption {
+  padding: 18px 22px 6px;
+  background: var(--paper);
+}
+
+body.page-ki .ki-photo .eyebrow {
+  margin-bottom: 6px;
+}
+
+body.page-ki .ki-photo h3 {
+  margin: 0;
+  font-size: 1.85rem;
+  color: var(--ink);
+}
+
+body.page-ki .ki-photo .tagline {
+  display: block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-family: Inter, sans-serif;
+  font-size: 0.86rem;
+  letter-spacing: 0;
+  line-height: 1.45;
+}
+
+body.page-ki .product-body {
+  padding: 8px 22px 22px;
+}
+
+body.page-ki .rating.gold {
+  border-radius: 2px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  background: transparent;
+  color: var(--accent);
+  padding: 0;
+  border-bottom: 1px solid var(--line);
+  border-radius: 0;
+  width: 100%;
+  padding-bottom: 12px;
+}
+
+body.page-ki .product-body > p {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+body.page-ki .meta-list li {
+  gap: 16px;
+  align-items: baseline;
+  font-size: 0.84rem;
+}
+
+body.page-ki .meta-list li span {
+  flex: 0 0 auto;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  font-weight: 600;
+}
+
+body.page-ki .meta-list li strong {
+  text-align: right;
+  font-weight: 600;
+  font-size: 0.86rem;
+}
+
+body.page-ki section {
+  padding: 28px 0;
+}
+
+body.page-ki .section-head {
+  margin-bottom: 22px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--line);
+}
+
+body.page-ki .section-head h2 {
+  margin-bottom: 0;
+}
+
+body.page-ki .feature-grid,
+body.page-ki .ingredients-grid {
+  gap: 18px;
+}
+
+body.page-ki .card {
+  border-radius: 2px;
+  background: var(--paper);
+  border-color: #ddd4c6;
+  box-shadow: none;
+  padding: 26px 24px 24px;
+}
+
+body.page-ki .card.highlight.ai {
+  background: #f7f3ea;
+  border-color: #d7c7a4;
+  box-shadow: inset 3px 0 0 var(--accent);
+}
+
+body.page-ki .ki-index {
+  margin: 0 0 14px;
+  font-family: Inter, sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+body.page-ki .card h3 {
+  font-size: 1.35rem;
+}
+
+body.page-ki .card.ingredients {
+  padding-top: 28px;
+}
+
+body.page-ki .card ul {
+  padding-left: 0;
+  list-style: none;
+  margin-top: 16px;
+}
+
+body.page-ki .card li {
+  position: relative;
+  padding: 0 0 14px 16px;
+  border-bottom: 1px solid transparent;
+}
+
+body.page-ki .card li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.62em;
+  width: 6px;
+  height: 1px;
+  background: var(--accent);
+}
+
+body.page-ki .card li strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+body.page-ki .ki-plate {
+  margin: 8px auto 4px;
+  max-width: 1120px;
+}
+
+body.page-ki .ki-plate figure {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1.4fr 0.7fr;
+  background: var(--paper);
+  border: 1px solid #ddd4c6;
+}
+
+body.page-ki .ki-plate img {
+  width: 100%;
+  height: 100%;
+  min-height: 240px;
+  max-height: 320px;
+  object-fit: cover;
+  object-position: center;
+}
+
+body.page-ki .ki-plate figcaption {
+  padding: 28px 26px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-left: 1px solid var(--line);
+}
+
+body.page-ki .ki-plate h2 {
+  font-size: 1.7rem;
+  margin: 0 0 10px;
+  max-width: none;
+}
+
+body.page-ki .ki-plate p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+body.page-ki .quote-box.ai {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 8px 0 8px 28px;
+  border-left: 2px solid var(--accent);
+  max-width: 820px;
+}
+
+body.page-ki .quote-box.ai p {
+  font-family: "Source Serif 4", Palatino, serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: clamp(1.25rem, 2vw, 1.55rem);
+  line-height: 1.45;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+}
+
+body.page-ki .quote-box.ai cite {
+  color: var(--accent);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+body.page-ki .guarantee-box {
+  border-radius: 2px;
+  border-color: #ddd4c6;
+  background: var(--paper);
+  box-shadow: none;
+  align-items: stretch;
+  gap: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body.page-ki .guarantee-badge {
+  flex: 0 0 148px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 6px;
+  padding: 28px 24px;
+  background: #1b2430;
+  color: #f3efe6;
+  font-family: "Source Serif 4", Palatino, serif;
+  font-size: 1.7rem;
+  letter-spacing: -0.03em;
+  line-height: 1;
+}
+
+body.page-ki .guarantee-badge small {
+  font-family: Inter, sans-serif;
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #d4b483;
+}
+
+body.page-ki .guarantee-text {
+  padding: 28px 28px 28px 26px;
+}
+
+body.page-ki .guarantee-text h3 {
+  font-size: 1.45rem;
+}
+
+body.page-ki .cta-block {
+  background: #1b2430;
+  color: #f6f2ea;
+  border: none;
+  border-radius: 2px;
+  padding: 36px 34px;
+  box-shadow: none;
+  align-items: center;
+}
+
+body.page-ki .cta-block h2,
+body.page-ki .cta-block .eyebrow {
+  color: #f6f2ea;
+}
+
+body.page-ki .cta-block .eyebrow {
+  color: #d4b483;
+}
+
+body.page-ki .cta-block p {
+  color: rgba(246, 242, 234, 0.74);
+}
+
+body.page-ki .cta-block .btn-primary {
+  background: #d4b483;
+  color: #1b2430;
+}
+
+body.page-ki .cta-block .btn-primary:hover {
+  background: #e3c79a;
+}
+
+body.page-ki .ki-cta-aside {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+body.page-ki .ki-cta-aside img {
+  width: 92px;
+  height: 68px;
+  object-fit: cover;
+  border: 1px solid rgba(243, 239, 230, 0.2);
+  flex: 0 0 auto;
+}
+
+body.page-ki .footer {
+  border-top-color: var(--line);
+  margin-top: 18px;
+}
+
+body.page-ki .footer-inner span:first-child {
+  font-family: "Source Serif 4", Palatino, serif;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+}
+
+@media (max-width: 900px) {
+  body.page-ki .hero-grid,
+  body.page-ki .ki-plate figure {
+    grid-template-columns: 1fr;
+  }
+
+  body.page-ki .ki-plate figcaption {
+    border-left: none;
+    border-top: 1px solid var(--line);
+  }
+
+  body.page-ki .trust-badge-row {
+    grid-template-columns: 1fr;
+    max-width: none;
+  }
+
+  body.page-ki h1 {
+    max-width: none;
+  }
+
+  body.page-ki .guarantee-box {
+    flex-direction: column;
+    text-align: left;
+  }
+
+  body.page-ki .guarantee-badge {
+    flex-basis: auto;
+    width: 100%;
+  }
+}
+
+@media (max-width: 560px) {
+  body.page-ki .ki-photo img {
+    height: 210px;
+  }
+
+  body.page-ki .meta-list li {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+  }
+
+  body.page-ki .meta-list li strong {
+    text-align: left;
+  }
+
+  body.page-ki .cta-block {
+    padding: 26px 20px;
+  }
+
+  body.page-ki .ki-cta-aside {
+    width: 100%;
+    justify-content: space-between;
+  }
+}

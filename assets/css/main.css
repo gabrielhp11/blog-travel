@@ -288,13 +288,33 @@ h4 {
 }
 
 .post-header {
-  min-height: 160px;
+  position: relative;
+  min-height: 180px;
   padding: 24px 22px;
   background: linear-gradient(135deg, #0d5b48 0%, #193b35 100%);
   color: white;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
+  overflow: hidden;
+}
+
+.post-header.has-image {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.post-header.has-image::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(8, 12, 16, 0.15) 0%, rgba(8, 12, 16, 0.78) 100%);
+}
+
+.post-header.has-image > * {
+  position: relative;
+  z-index: 1;
 }
 
 .post-category {
