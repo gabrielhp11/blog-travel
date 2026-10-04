@@ -66,7 +66,78 @@ blog-travel/
 * **Advanced Memory Formula:** [Affiliate Link](https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm#aff=gabrielhenriquep123f97e)
 * **Prime Perform Pro:** [Affiliate Link](https://primeperformpro.com/principal/#aff=gabrielhenriquep123f97e)
 * **CleanSeSana:** [Affiliate Link](https://cleansesana.com/cleansesana-pdp-fe#aff=gabrielhenriquep123f97e)
-* **KetoSana:** [Affiliate Link](https://myketosana.com/ketosana-pdp-fe#aff=gabrielhenriquep123f97e)
+* **KetoSana:** [Affiliate Link](https://myketosana.com/ketosana-pdp-fe#aff=gabrielhenriquep123f97e)* **KetoSana:** [Affiliate Link](https://myketosana.com/ketosana-pdp-fe#aff=gabrielhenriquep123f97e)
+
+### Explicação dos Links de Afiliado (2026-10-04)
+
+Todos os links abaixo são diretos (não inventados) e estão configurados nos CTAs das páginas individuais com `rel="noopener sponsored nofollow"`. Se algum ainda estiver com `#` (placeholder), significa que o usuário ainda precisa confirmar o link real.
+
+1. **SpartaMax:** `https://getspartamax.com/#aff=gabrielhenriquep123f97e`
+   - Produto: fórmula botânica para vitalidade masculina e resistência. Página: `topics/wellness/mens-health/spartamax.html`. Paleta: dark teal (`#0b1015` + `#5ec8b6`). Status: Live.
+
+2. **Collagen (Kitchen Test):** `https://www.advancedbionutritionals.com/DS24/Collagen/This-Simple-10-Second-Kitchen-Test/HD.htm#aff=gabrielhenriquep123f97e`
+   - Produto: teste de qualidade de colágeno e fórmula verificada. Página: `topics/wellness/longevity/collagen.html`. Paleta: warm gold (`#f6f3ee` + `#bfa15f`). Status: Live.
+
+3. **VigorSana:** `https://myvigorsana.com/vigorsana-pdp-fe#aff=gabrielhenriquep123f97e`
+   - Produto: suplemento para vitalidade diária e bem-estar. Página: `topics/wellness/longevity/vigorsana.html`. Paleta: amber (`#f7f5f0` + `#c4933b`). Status: Live.
+
+4. **Hook Mastery:** `https://go.eugen-grinschuk.de/hook-mastery/#aff=gabrielhenriquep123f97e`
+   - Produto: curso de copy e conversão (psicologia de hooks). Página: `topics/business/digital-skills/hook-mastery.html`. Paleta: sky blue (`#f4f5f7` + `#0ea5e9`). Status: Live.
+
+5. **GlucoTrust:** `https://kiwify.app/rYAlC2Q?afid=zprVreMy`
+   - Produto: suporte para açúcar no sangue e saúde metabólica. Página: `topics/wellness/metabolic-health/glucotrust.html`. Paleta: deep green (`#f5f2eb` + `#3a7d5c`). Status: Live.
+
+6. **Digistore 626900 (Business Program):** `https://www.digistore24.com/redir/626900/gabrielhenriquep123f97e/`
+   - Produto: programa de renda digital e habilidades de marketing. Página: `topics/business/course/business-program.html`. Paleta: burnt sienna. Status: Live.
+
+7. **Digistore 628355 (Advanced Program):** `https://www.digistore24.com/redir/628355/gabrielhenriquep123f97e/`
+   - Produto: curso avançado de marketing, funis e conversão. Página: `topics/business/course/advanced-program.html`. Paleta: navy (`#1e3a5f`). Status: Live.
+
+8. **Kiwify rYAlC2Q:** `https://kiwify.app/rYAlC2Q?afid=zprVreMy`
+   - Oferta verificada (Kiwify). Página: `topics/travel/deals/kiwify-rYAlC2Q.html`. Paleta: burnt orange (`#c45e2a`). Status: Live.
+
+9. **Kiwify CVGGqrZ (Pay):** `https://pay.kiwify.com.br/CVGGqrZ?afid=zprVreMy`
+   - Oferta verificada via página de pagamento Kiwify. Página: `topics/travel/deals/kiwify-CVGGqrZ.html`. Paleta: rose (`#e11d48`). Status: Live.
+
+10. **Kiwify Afb7xyL:** `https://kiwify.app/Afb7xyL?afid=tdOKSEmb`
+    - Oferta verificada. Página: `topics/business/digital-skills/kiwify-Afb7xyL.html`. Paleta: forest green (`#2d6a4f`). Status: Live.
+
+11. **Kiwify EKe5iSs:** `https://kiwify.app/EKe5iSs?afid=jV6Yvef9`
+    - Oferta verificada. Página: `topics/business/digital-skills/kiwify-EKe5iSs.html`. Paleta: purple (`#7e22ce`). Status: Live.
+
+12. **Kiwify PRCmj8S:** `https://kiwify.app/PRCmj8S?afid=yYOA0xa0`
+    - Oferta verificada. Página: `topics/business/digital-skills/kiwify-PRCmj8S.html`. Paleta: bronze (`#8b5a2b`). Status: Live.
+
+13. **Kiwify Tusc9nl (Pay):** `https://pay.kiwify.com.br/Tusc9nl?afid=yYOA0xa0`
+    - Oferta verificada via pagamento. Página: `topics/travel/deals/kiwify-Tusc9nl.html`. Paleta: sienna (`#8b3a5c`). Status: Live.
+
+14. **Kiwify ejyON0S (Pay):** `https://pay.kiwify.com.br/ejyON0S?afid=YSHscwfG`
+    - Oferta verificada. Página: `topics/business/digital-skills/kiwify-ejyON0S.html`. Paleta: blue (`#2563eb`). Status: Live.
+
+15. **Kiwify itNNPGK:** `https://kiwify.app/itNNPGK?afid=YSHscwfG`
+    - Oferta verificada. Página: `topics/business/digital-skills/kiwify-itNNPGK.html`. Paleta: violet (`#6d28d9`). Status: Live.
+
+16. **Advanced Amino Formula:** Link `#` (placeholder) — aguardando usuário.
+    - Página: `topics/wellness/longevity/advanced-amino-formula.html`. Paleta: rose/mauve (`#8b3a5c`). Status: ⏸ Awaiting.
+
+17. **Advanced Mitochondrial Formula:** Link `#` (placeholder) — aguardando usuário.
+    - Página: `topics/wellness/longevity/advanced-mitochondrial-formula.html`. Paleta: forest (`#0c5d48`). Status: ⏸ Awaiting.
+
+18. **Blood Sugar Blaster:** Link `#` (placeholder) — aguardando usuário.
+    - Página: `topics/wellness/metabolic-health/blood-sugar-blaster.html`. Paleta: crimson (`#b22222`). Status: ⏸ Awaiting.
+
+19. **Circo 2:** Link `#` (placeholder) — aguardando usuário.
+    - Página: `topics/wellness/longevity/circo2.html`. Paleta: bronze/copper (`#6b5a3a`). Status: ⏸ Awaiting.
+
+20. **Igenics:** Link `#` (placeholder) — aguardando usuário.
+    - Página: `topics/wellness/brain-health/igenics.html`. Paleta: deep violet (`#5a3a6a`). Status: ⏸ Awaiting.
+
+21. **MetaBoSana:** Link `#` (placeholder) — aguardando usuário.
+    - Página: `topics/wellness/metabolic-health/metabosana.html`. Paleta: navy (`#1e4d6a`). Status: ⏸ Awaiting.
+
+---
+*Nota: cada link real (não placeholder) está diretamente configurado no `href` do botão `.btn-primary` de sua página de review. Quando o usuário confirmar os 6 links restantes, basta editar o `href="#"` nas 6 páginas listadas acima e atualizar o status na tabela do README.*
+
 
 ---
 
