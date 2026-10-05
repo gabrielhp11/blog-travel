@@ -5,6 +5,7 @@ PokiSky is an English-language publication for source-based product guides, AI c
 ## Site structure
 
 - `index.html` is the publication home page and renders the catalog from `assets/js/articles.js`.
+- `PRODUTOS-ON.md` is the root-level register of public, active products and affiliate destinations. Update it for every new launch.
 - `topics/` contains the individual product guides and offer-status pages.
 - `assets/css/review.css` provides the shared product-page layout; `assets/css/editorial.css` supplies the editorial sections; each product stylesheet sets its own palette.
 - `assets/images/products/` contains product images used on the site. Do not use one product’s packaging to represent another product.
@@ -44,5 +45,6 @@ Other offer pages are paused and marked `noindex` until the exact product, selle
 3. Use an accurate image and a product-appropriate color palette; leave the image out when no accurate asset is available.
 4. Add the page to `assets/js/articles.js`, the public catalog, and `sitemap.xml` only after the page is ready for indexing.
 5. Keep incomplete or unidentified offers out of the public catalog and use `noindex, follow` until the missing information is resolved.
+6. When a product is ready to go live, update `assets/js/articles.js`, this `PRODUTOS-ON.md` register, the home catalog, and `sitemap.xml` together.
 
 Google Search does not guarantee rankings or rich-result display. Google Ads is not configured in this repository; review the destination, offer, location, and current advertising policies before creating a campaign.
