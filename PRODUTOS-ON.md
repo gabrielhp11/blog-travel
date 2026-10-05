@@ -64,6 +64,13 @@ Lista operacional dos produtos e cursos que aparecem na vitrine pública. Atuali
    Página oficial: <https://antesdoleilao.store/>
    Checkout: <https://pay.kiwify.com.br/agsRolp?afid=YSHscwfG>
 
+14. **GPBOX** · Sistema multijogos e emulador para computador Windows
+   Página: <https://blog-travel-eight.vercel.app/topics/entertainment/retro-gaming/gpbox>
+   Link de afiliado: <https://kiwify.app/NrZYgmr?afid=cpJ2Ufmh>
+   Página oficial: <https://gpbox.com.br/?utm_source=direto&sck=1791218419528_17912181926848>
+   Checkout Brasil: <https://pay.kiwify.com.br/B5pE3Ey?afid=cpJ2Ufmh>
+   Checkout internacional (EUR/USD): <https://pay.kiwify.com/jyN1ejJ?afid=cpJ2Ufmh>
+
 ## Rotina para cada novo lançamento
 
 Antes de ativar um produto, confirmar nome, vendedor, página oficial, link de afiliado e informações atuais do rótulo ou do curso. Depois de preparar e revisar a página:
