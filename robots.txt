@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-travel-eight.vercel.app/sitemap.xml

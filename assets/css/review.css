@@ -70,7 +70,15 @@ img {
 }
 
 .brand-mark {
-  font-size: 1.4rem;
+  width: 33px;
+  height: 33px;
+  display: grid;
+  place-items: center;
+  border-radius: 11px 11px 11px 4px;
+  background: var(--accent);
+  color: #fff;
+  font: 800 1.05rem/1 "Manrope", sans-serif;
+  letter-spacing: -.08em;
 }
 
 .nav-links {
