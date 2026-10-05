@@ -46,6 +46,12 @@ Lista operacional dos produtos e cursos que aparecem na vitrine pública. Atuali
    Página oficial: <https://app.fluentesparasempre.com.br/vendas-b>
    Checkout: <https://pay.kiwify.com.br/CVGGqrZ?afid=zprVreMy>
 
+11. **ConsertaFlix** · Assinatura anual de cursos de reparo de celulares
+   Página: <https://blog-travel-eight.vercel.app/topics/education/technical-training/consertaflix.html>
+   Link de afiliado: <https://kiwify.app/EKe5iSs?afid=jV6Yvef9>
+   Página oficial: <https://consertaflix.com.br/principal/>
+   Checkout: <https://pay.kiwify.com.br/picIlP0?afid=jV6Yvef9>
+
 ## Rotina para cada novo lançamento
 
 Antes de ativar um produto, confirmar nome, vendedor, página oficial, link de afiliado e informações atuais do rótulo ou do curso. Depois de preparar e revisar a página:

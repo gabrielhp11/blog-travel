@@ -30,7 +30,12 @@ function renderBlogGrid() {
     : guides.filter((item) => item.topic === activeFilter || item.subtopic === activeFilter);
 
   const count = document.getElementById('guide-count');
-  if (count) count.textContent = `${filtered.length} ${filtered.length === 1 ? 'guide' : 'guides'}`;
+  if (count) {
+    const portuguese = filtered.length > 0 && filtered.every((item) => item.locale === 'pt-BR');
+    count.textContent = portuguese
+      ? `${filtered.length} ${filtered.length === 1 ? 'guia' : 'guias'}`
+      : `${filtered.length} ${filtered.length === 1 ? 'guide' : 'guides'}`;
+  }
 
   if (!filtered.length) {
     grid.innerHTML = '<p class="empty-state">No guides are available in this category yet.</p>';
@@ -41,7 +46,8 @@ function renderBlogGrid() {
     const hasImage = Boolean(article.imageUrl);
     const headerClass = ['post-header', hasImage ? 'has-image' : ''].filter(Boolean).join(' ');
     const headerStyle = hasImage ? ` style="background-image:url('${article.imageUrl}');"` : '';
-    const category = article.topic === 'business' ? 'Courses & skills' : article.category;
+    const portuguese = article.locale === 'pt-BR';
+    const category = article.locale === 'pt-BR' ? article.category : (article.topic === 'business' ? 'Courses & skills' : article.category);
     const guideUrl = article.reviewUrl.endsWith('.html') ? article.reviewUrl : `${article.reviewUrl}.html`;
     return `
       <article class="blog-post" data-topic="${article.topic}">
@@ -50,11 +56,11 @@ function renderBlogGrid() {
           <span class="post-index" aria-hidden="true">${String(index + 1).padStart(2, '0')}</span>
         </div>
         <div class="post-content">
-          <div class="post-meta"><span class="post-badge">${article.topic === 'business' ? 'Learning' : 'Wellness'}</span><span class="post-service-tag">${article.service}</span></div>
+          <div class="post-meta"><span class="post-badge">${portuguese ? 'Cursos' : (article.topic === 'business' ? 'Learning' : 'Wellness')}</span><span class="post-service-tag">${article.service}</span></div>
           <h3>${article.title}</h3>
           <p>${article.summary}</p>
           <div class="post-footer">
-            <a class="text-link" href="${guideUrl}">Read the guide <span aria-hidden="true">→</span></a>
+            <a class="text-link" href="${guideUrl}">${portuguese ? 'Ler o guia' : 'Read the guide'} <span aria-hidden="true">→</span></a>
             <a class="btn btn-primary" href="${buildAffiliateLink(article)}" target="_blank" rel="noopener sponsored nofollow">${article.ctaText} <span aria-hidden="true">↗</span></a>
           </div>
         </div>
