@@ -56,7 +56,7 @@ function renderBlogGrid() {
           <span class="post-index" aria-hidden="true">${String(index + 1).padStart(2, '0')}</span>
         </div>
         <div class="post-content">
-          <div class="post-meta"><span class="post-badge">${portuguese ? (article.subtopic === 'retro-gaming' ? 'Jogos' : (article.topic === 'wellness' ? 'Bem-estar' : 'Cursos')) : (article.topic === 'business' ? 'Learning' : 'Wellness')}</span><span class="post-service-tag">${article.service}</span></div>
+          <div class="post-meta"><span class="post-badge">${portuguese ? (article.subtopic === 'retro-gaming' ? 'Jogos' : (article.subtopic === 'accessories-business' ? 'Negócios' : (article.topic === 'wellness' ? 'Bem-estar' : 'Cursos'))) : (article.topic === 'business' ? 'Learning' : 'Wellness')}</span><span class="post-service-tag">${article.service}</span></div>
           <h3>${article.title}</h3>
           <p>${article.summary}</p>
           <div class="post-footer">

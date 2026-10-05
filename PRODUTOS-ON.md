@@ -71,6 +71,12 @@ Lista operacional dos produtos e cursos que aparecem na vitrine pública. Atuali
    Checkout Brasil: <https://pay.kiwify.com.br/B5pE3Ey?afid=cpJ2Ufmh>
    Checkout internacional (EUR/USD): <https://pay.kiwify.com/jyN1ejJ?afid=cpJ2Ufmh>
 
+15. **Vivendo de Acessórios** · Curso online de vendas e fornecedores para negócios de acessórios
+   Página: <https://blog-travel-eight.vercel.app/topics/business/accessories-business/vivendo-de-acessorios>
+   Link de afiliado: <https://kiwify.app/AHZioht?afid=qvV4fwLb>
+   Página oficial: <https://luanamacedo.com.br/vivendo-de-acessorios/>
+   Checkout: <https://pay.kiwify.com.br/CqH4vCT?afid=qvV4fwLb>
+
 ## Rotina para cada novo lançamento
 
 Antes de ativar um produto, confirmar nome, vendedor, página oficial, link de afiliado e informações atuais do rótulo ou do curso. Depois de preparar e revisar a página:
