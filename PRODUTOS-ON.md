@@ -58,6 +58,12 @@ Lista operacional dos produtos e cursos que aparecem na vitrine pública. Atuali
    Página oficial: <https://iaparafinancas.com.br/>
    Checkout: <https://pay.kiwify.com.br/PmnkmJE?afid=yYOA0xa0>
 
+13. **Método Antes do Leilão (Método ADL)** · Curso de compra e revenda de veículos
+   Página: <https://blog-travel-eight.vercel.app/topics/business/vehicle-buying/metodo-adl>
+   Link de afiliado: <https://kiwify.app/itNNPGK?afid=YSHscwfG>
+   Página oficial: <https://antesdoleilao.store/>
+   Checkout: <https://pay.kiwify.com.br/agsRolp?afid=YSHscwfG>
+
 ## Rotina para cada novo lançamento
 
 Antes de ativar um produto, confirmar nome, vendedor, página oficial, link de afiliado e informações atuais do rótulo ou do curso. Depois de preparar e revisar a página:
