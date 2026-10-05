@@ -52,6 +52,12 @@ Lista operacional dos produtos e cursos que aparecem na vitrine pública. Atuali
    Página oficial: <https://consertaflix.com.br/principal/>
    Checkout: <https://pay.kiwify.com.br/picIlP0?afid=jV6Yvef9>
 
+12. **IA Para Finanças** · Curso de inteligência artificial aplicada a finanças
+   Página: <https://blog-travel-eight.vercel.app/topics/business/finance-ai/ia-para-financas>
+   Link de afiliado: <https://kiwify.app/PRCmj8S?afid=yYOA0xa0>
+   Página oficial: <https://iaparafinancas.com.br/>
+   Checkout: <https://pay.kiwify.com.br/PmnkmJE?afid=yYOA0xa0>
+
 ## Rotina para cada novo lançamento
 
 Antes de ativar um produto, confirmar nome, vendedor, página oficial, link de afiliado e informações atuais do rótulo ou do curso. Depois de preparar e revisar a página:
