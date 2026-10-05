@@ -40,6 +40,12 @@ Lista operacional dos produtos e cursos que aparecem na vitrine pública. Atuali
    Página: <https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax>  
    Oferta: <https://getspartamax.com/#aff=gabrielhenriquep123f97e>
 
+10. **Hackeando a Fluência** · Curso digital de inglês
+   Página: <https://blog-travel-eight.vercel.app/topics/education/language-learning/hackeando-a-fluencia.html>
+   Link de afiliado: <https://kiwify.app/rYAlC2Q?afid=zprVreMy>
+   Página oficial: <https://app.fluentesparasempre.com.br/vendas-b>
+   Checkout: <https://pay.kiwify.com.br/CVGGqrZ?afid=zprVreMy>
+
 ## Rotina para cada novo lançamento
 
 Antes de ativar um produto, confirmar nome, vendedor, página oficial, link de afiliado e informações atuais do rótulo ou do curso. Depois de preparar e revisar a página:
