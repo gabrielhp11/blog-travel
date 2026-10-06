@@ -347,6 +347,7 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-10-06 | Advanced Amino Formula físico, guia em inglês e três imagens oficiais | `topics/wellness/longevity/advanced-amino-formula.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | Reino Unido e Irlanda; ID 472943 para seis frascos; atribuição verificada; comissão estimada condicionada ao pacote, câmbio e conta |
 | 2026-10-06 | Social Media Masterclass em alemão, três imagens e link de afiliado | `topics/business/creative-learning/social-media-masterclass.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | ID 646880; atribuição no checkout verificada; comissão de 50% anunciada em diretório, pendente de confirmação na conta |
 | 2026-10-06 | Inclusão de duas imagens de apoio em cada uma das 21 páginas recentes | `topics/`, `assets/images/products/*-support-*.svg`, `assets/css/catalog-offers.css` | Mínimo de três imagens por página; ilustrações editoriais identificadas, carregamento lazy e grade responsiva |
 | 2026-10-06 | Página de venda Excel-Paket em alemão, catálogo e URL curta | `topics/business/productivity/excel-paket.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | ID 175711; redirecionamento e ID no checkout verificados; comissão anunciada pelo fornecedor, sem confirmação na conta |
@@ -361,7 +362,6 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 Qualquer item novo no projeto deve seguir este guia antes de ser publicado. O objetivo é manter consistência visual, URL, SEO e conversão em todas as páginas do blog.
 
 Se uma página não seguir esses padrões, ela deve ser ajustada antes de entrar em produção.
-
 
 
 
