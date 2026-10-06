@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/circo2",
+      "destination": "/topics/wellness/longevity/circo2",
+      "permanent": true
+    },
+    {
+      "source": "/circo2.html",
+      "destination": "/topics/wellness/longevity/circo2.html",
+      "permanent": true
+    },
+    {
       "source": "/advanced-amino-formula",
       "destination": "/topics/wellness/longevity/advanced-amino-formula",
       "permanent": true

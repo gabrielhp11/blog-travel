@@ -10,6 +10,35 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
   {
+    "id": 49,
+    "topic": "wellness",
+    "subtopic": "longevity",
+    "locale": "en-GB",
+    "market": "United Kingdom and Ireland only",
+    "category": "Dissolving tablet supplements",
+    "audience": "Adults comparing supplement formats and ingredients",
+    "title": "CircO2: Dissolving Tablets, Label & Box Options",
+    "summary": "Explore CircO2 by Advanced Bionutritionals: 30 dissolving tablets per box. Inspect the current label, compare box quantities and check UK or Ireland delivery before you order.",
+    "highlights": [
+      "30 dissolving tablets per box",
+      "Current label and box comparison",
+      "UK and Ireland delivery listed by seller"
+    ],
+    "service": "Physical food supplement",
+    "ctaText": "View current CircO2 offer",
+    "reviewUrl": "topics/wellness/longevity/circo2.html",
+    "bookingUrl": "https://www.advancedbionutritionals.com/DS24/Nitric-Oxide-Supplements/Superhuman-At-70/HD.htm#aff=gabrielhenriquep123f97e",
+    "imageUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/CircO2-2024/High-Design/1box.jpg",
+    "imageAlt": "Official CircO2 box labelled 30 quick-dissolve tablets",
+    "imageType": "official",
+    "linkType": "affiliate",
+    "network": "Digistore24",
+    "productId": 538695,
+    "affiliateStatus": "tracking-verified; seller announces automatic approval for permitted organic channels; account commission not verified",
+    "isDirectAffiliate": true,
+    "featured": false
+  },
+  {
     id: 48,
     topic: 'wellness',
     subtopic: 'longevity',

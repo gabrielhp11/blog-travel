@@ -1,14 +1,55 @@
-:root {
-  --bg: #f6f4f1;
-  --paper: #fffdfb;
-  --ink: #1a1810;
-  --muted: #6e6658;
-  --line: rgba(26,24,16,0.07);
-  --accent: #6b5a3a; /* bronze / copper */
-  --accent-soft: #f5efe6;
-  --shadow: 0 24px 60px rgba(26,24,16,0.08);
+.page-circo2 {
+  --bg: #f8f9f4;
+  --ink: #2c3328;
+  --muted: #626b5b;
+  --accent: #586546;
+  --accent-soft: #e9eddf;
+  --gold: #93815a;
+  --line: rgba(48, 43, 38, .13);
 }
-body.page-circo2 { background: linear-gradient(160deg, #f6f4f1 0%, #ebe8dc 100%); }
-.page-circo2 .post-header { background: linear-gradient(135deg, #2a2015 0%, #5a4228 100%); }
-.page-circo2 .btn-primary { background: var(--accent); color: #fff; }
-.page-circo2 .btn-primary:hover { background: #4a3e28; }
+.page-circo2 .topbar { background: rgba(248, 249, 244, .96); }
+.page-circo2 .hero { padding-bottom: 64px; }
+.page-circo2 h1 { max-width: 15ch; font-size: clamp(2.8rem, 4.8vw, 4.4rem); }
+.page-circo2 .hero-copy { padding-top: 12px; }
+.page-circo2 .ad-label { font-size: .76rem; color: var(--muted); margin: 0 0 24px; }
+.page-circo2 .product-card { border-radius: 16px; overflow: hidden; }
+.page-circo2 .box-photo { background: #fff; padding-top: 28px; }
+.page-circo2 .box-photo img { display: block; width: min(100%, 320px); max-width: 100%; height: auto; margin: 0 auto 20px; }
+.page-circo2 .purchase-note, .page-circo2 .reading-note { font-size: .84rem; max-width: 68ch; color: var(--muted); }
+.page-circo2 .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.page-circo2 .feature-index { display: block; color: var(--accent); font-size: .78rem; margin-bottom: 18px; letter-spacing: .08em; }
+.page-circo2 .label-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 54px; align-items: center; }
+.page-circo2 .label-photo { margin: 0; background: white; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.page-circo2 .label-photo img { display: block; width: 100%; height: auto; }
+.page-circo2 .label-photo figcaption { padding: 16px 20px; font-size: .75rem; color: var(--muted); text-align: center; }
+.page-circo2 .label-photo a { color: var(--accent); text-decoration: underline; }
+.page-circo2 .packs-heading { display: grid; grid-template-columns: minmax(0, 1fr) 348px; align-items: center; gap: 50px; margin-bottom: 32px; }
+.page-circo2 .pack-photo { margin: 0; background: white; padding: 16px; border-radius: 14px; border: 1px solid var(--line); }
+.page-circo2 .pack-photo img { width: 100%; height: auto; display: block; }
+.page-circo2 .pack-photo figcaption { color: var(--muted); text-align: center; font-size: .75rem; padding-top: 12px; }
+.page-circo2 .pack-price { color: var(--ink); font-size: clamp(1.7rem, 3vw, 2.2rem); font-weight: 700; letter-spacing: -.04em; margin: 12px 0; }
+.page-circo2 .pack-grid { margin-bottom: 28px; }
+.page-circo2 .compatibility { padding: 22px 24px; border-left: 3px solid var(--gold); background: #f5eddf; border-radius: 0 8px 8px 0; margin: 24px 0; }
+.page-circo2 .compatibility p { margin: 0; }
+.page-circo2 .editorial-source a, .page-circo2 .editorial-disclosure a { text-decoration: underline; text-underline-offset: 3px; }
+.page-circo2 .cta-block { background: #303927; color: #fff; }
+.page-circo2 .cta-block p { color: #e3e9d8; }
+.page-circo2 .cta-block .eyebrow { color: #cbd7b5; }
+.page-circo2 .cta-block .btn { background: #e4eccf; color: #303927; white-space: nowrap; }
+@media (max-width: 760px) {
+  .page-circo2 .feature-grid, .page-circo2 .label-grid, .page-circo2 .packs-heading { grid-template-columns: 1fr; }
+  .page-circo2 .label-grid, .page-circo2 .packs-heading { gap: 28px; }
+  .page-circo2 .pack-photo { width: min(100%, 380px); }
+  .page-circo2 .nav { gap: 12px; flex-wrap: wrap; padding-block: 12px; }
+  .page-circo2 .nav-links { gap: 16px; font-size: .8rem; }
+}
+@media (max-width: 420px) {
+  .page-circo2 .cta-row .btn { width: 100%; }
+  .page-circo2 h1 { font-size: 2.7rem; }
+  .page-circo2 .cta-block .btn { white-space: normal; }
+}
+
+.page-circo2 .nutrient-list { margin: 24px 0; border-top: 1px solid var(--line); }
+.page-circo2 .nutrient-list div { display: flex; justify-content: space-between; gap: 20px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.page-circo2 .nutrient-list dt { font-weight: 600; }
+.page-circo2 .nutrient-list dd { margin: 0; white-space: nowrap; color: var(--muted); }
