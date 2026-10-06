@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "seo:sitemap": "node scripts/generate-sitemap.js"
+  },
   "dependencies": {
     "@vercel/analytics": "^2.0.1"
   }

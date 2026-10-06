@@ -1,6 +1,6 @@
-# Produtos ativos da PokiSky
+# Guias públicos da PokiSky
 
-Lista operacional dos produtos e cursos que aparecem na vitrine pública. Atualizada em **5 de outubro de 2026**. Páginas marcadas como pausadas, em revisão ou ocultas não entram nesta lista.
+Lista operacional das páginas de produto e curso no catálogo público. O catálogo é definido em `assets/js/articles.js`; páginas `noindex` ou ocultas não devem aparecer aqui.
 
 ## Produtos ON
 
@@ -83,7 +83,8 @@ Antes de ativar um produto, confirmar nome, vendedor, página oficial, link de a
 
 1. Adicionar ou atualizar o produto em `assets/js/articles.js` e deixá-lo visível no catálogo.
 2. Atualizar esta lista com a página pública e o link de afiliado corretos.
-3. Incluir a página em `sitemap.xml` somente quando estiver pronta para publicação e indexação.
-4. Conferir que os nomes, destinos e informações do produto coincidem entre a página, a home e este arquivo.
+3. Garantir que o canonical corresponda à URL pública e remover `noindex` apenas quando a página estiver pronta.
+4. Rodar `npm run seo:sitemap` para atualizar o sitemap.
+5. Conferir que os nomes, destinos e informações do produto coincidem entre a página, a home e este arquivo.
 
 O catálogo da home é renderizado a partir de `assets/js/articles.js`; mantenha esse arquivo e esta lista sincronizados em cada lançamento.

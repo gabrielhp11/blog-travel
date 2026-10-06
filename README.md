@@ -1,32 +1,23 @@
 # PokiSky
 
-PokiSky is an English-language publication for source-based product guides, AI course overviews, and travel ideas. The static site is hosted on Vercel at <https://blog-travel-eight.vercel.app/>.
+PokiSky is a static, multilingual publication for source-based product and course guides. It is hosted on Vercel at <https://blog-travel-eight.vercel.app/>.
 
 ## Site structure
 
 - `index.html` is the publication home page and renders the catalog from `assets/js/articles.js`.
-- `PRODUTOS-ON.md` is the root-level register of public, active products and affiliate destinations. Update it for every new launch.
+- `docs/PRODUCTS.md` is the register of public guides and their editorial status.
 - `topics/` contains the individual product guides and offer-status pages.
 - `assets/css/review.css` provides the shared product-page layout; `assets/css/editorial.css` supplies the editorial sections; each product stylesheet sets its own palette.
 - `assets/images/products/` contains product images used on the site. Do not use one product’s packaging to represent another product.
 - `affiliate-disclosure.html` explains the affiliate relationship and editorial standards.
-- `robots.txt` and `sitemap.xml` describe crawlable public pages.
+- `robots.txt` allows crawling and points to the sitemap. `npm run seo:sitemap` regenerates `sitemap.xml` from the public catalog, home page, and disclosure page, excluding pages marked `noindex`.
+- `googlecf7e194290b51fa5.html` and `BingSiteAuth.xml` are search-engine ownership verification files. Keep them at the site root.
+- `scripts/` contains small maintenance tools for the static site.
+- `docs/` contains editorial references, URL notes, and search-engine setup instructions.
 
 ## Public product guides
 
-The current catalog links to these named guides:
-
-- KI-Training — Business Kickstart’s AI training
-- Aivatar Academy — AI-avatar training
-- Hook Mastery — marketing-copy course
-- Advanced Memory Formula
-- KetoSana
-- Advanced Collagen Plus
-- VigorSana
-- Prime Perform Pro
-- SpartaMax
-
-Other offer pages are paused and marked `noindex` until the exact product, seller, current product information, and destination can be confirmed. Paused offers should not be linked from the public catalog.
+The public catalog is maintained in `assets/js/articles.js`. Pages with unverified offer details are marked `noindex` and hidden from the catalog until their information is confirmed. The sitemap generator also excludes those pages and redirect aliases.
 
 ## Editorial standards
 
@@ -43,8 +34,8 @@ Other offer pages are paused and marked `noindex` until the exact product, selle
 1. Confirm the product name, seller, destination URL, current label or course outline, and purchase terms.
 2. Write a useful overview with decision-relevant information, limitations, and a clear source link. Do not rely on a generic “verified offer” card.
 3. Use an accurate image and a product-appropriate color palette; leave the image out when no accurate asset is available.
-4. Add the page to `assets/js/articles.js`, the public catalog, and `sitemap.xml` only after the page is ready for indexing.
+4. Add the page to `assets/js/articles.js` and the public catalog only after the page is ready for indexing.
 5. Keep incomplete or unidentified offers out of the public catalog and use `noindex, follow` until the missing information is resolved.
-6. When a product is ready to go live, update `assets/js/articles.js`, this `PRODUTOS-ON.md` register, the home catalog, and `sitemap.xml` together.
+6. When a product is ready to go live, update its page, `assets/js/articles.js`, and `docs/PRODUCTS.md`; then run `npm run seo:sitemap`.
 
 Google Search does not guarantee rankings or rich-result display. Google Ads is not configured in this repository; review the destination, offer, location, and current advertising policies before creating a campaign.
