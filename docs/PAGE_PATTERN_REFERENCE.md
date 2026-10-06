@@ -347,6 +347,7 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-10-06 | ET-Akademie Dozenten-Paket em alemão e três ilustrações originais | `topics/education/technical-training/et-akademie-dozenten-paket.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | ID 192091; preço alemão e atribuição conferidos; 50% anunciados pelo produtor, pendente na conta |
 | 2026-10-06 | Curso de piano Endlich Klavier Spielen, guia em alemão e três ilustrações originais | `topics/education/music-learning/endlich-klavier-spielen.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | ID 530008; checkout e atribuição conferidos; comissão de 40–50% anunciada pelo produtor, pendente na conta |
 | 2026-10-06 | Advanced Mitochondrial Formula físico, guia em inglês e três imagens oficiais | `topics/wellness/longevity/advanced-mitochondrial-formula.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | Reino Unido e Irlanda; três frascos ID 576635; atribuição e checkout britânico conferidos; comissão estimada condicionada à conta e câmbio |
 | 2026-10-06 | CircO2 físico, guia em inglês e três fotos oficiais | `topics/wellness/longevity/circo2.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | Reino Unido e Irlanda; seis caixas ID 538695; atribuição conferida; estimativa de comissão condicionada à conta e câmbio |

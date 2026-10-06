@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/et-akademie-dozenten-paket",
+      "destination": "/topics/education/technical-training/et-akademie-dozenten-paket",
+      "permanent": true
+    },
+    {
+      "source": "/et-akademie-dozenten-paket.html",
+      "destination": "/topics/education/technical-training/et-akademie-dozenten-paket.html",
+      "permanent": true
+    },
+    {
       "source": "/endlich-klavier-spielen",
       "destination": "/topics/education/music-learning/endlich-klavier-spielen",
       "permanent": true

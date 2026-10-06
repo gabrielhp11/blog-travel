@@ -1,0 +1,40 @@
+.page-et {
+  --bg: #f6f8f4;
+  --ink: #1c3933;
+  --muted: #526a61;
+  --accent: #21574e;
+  --accent-soft: #e4eee8;
+  --gold: #b96640;
+  --line: rgba(21, 42, 34, .12);
+}
+.page-et .topbar { background: rgba(247, 249, 244, .95); }
+.page-et .hero { padding-bottom: 64px; }
+.page-et h1 { max-width: 19ch; font-size: clamp(2.6rem, 4.5vw, 3.6rem); }
+.page-et .hero-copy { padding-top: 12px; }
+.page-et .ad-label { font-size: .76rem; color: var(--muted); margin: 0 0 24px; }
+.page-et .product-card { border-radius: 16px; overflow: hidden; }
+.page-et .bundle-number { font-size: 2.8rem; letter-spacing: -.06em; font-weight: 800; color: var(--accent); margin: 0; }
+.page-et .purchase-note { font-size: .8rem; max-width: 57ch; color: var(--muted); }
+.page-et .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.page-et .feature-index { display: block; color: var(--accent); font-size: .78rem; margin-bottom: 18px; letter-spacing: .08em; }
+.page-et .compatibility { padding: 22px 24px; border-left: 3px solid var(--gold); background: #f8ede2; border-radius: 0 8px 8px 0; margin-top: 24px; }
+.page-et .compatibility p { margin: 0; }
+.page-et .editorial-source a, .page-et .editorial-disclosure a { text-decoration: underline; text-underline-offset: 3px; }
+.page-et .cta-block { background: #21574e; color: #fff; }
+.page-et .cta-block p { color: #e4eee8; }
+.page-et .cta-block .eyebrow { color: #f4caae; }
+.page-et .cta-block .btn { background: #f3d8bd; color: #21574e; white-space: nowrap; }
+@media (max-width: 760px) {
+  .page-et .feature-grid { grid-template-columns: 1fr; }
+  .page-et .nav { gap: 12px; flex-wrap: wrap; padding-block: 12px; }
+  .page-et .nav-links { gap: 14px; font-size: .8rem; }
+}
+@media (max-width: 420px) {
+  .page-et .cta-row .btn { width: 100%; }
+  .page-et h1 { font-size: 2.5rem; }
+}
+
+.page-et .course-price { font-size: 2.4rem; font-weight: 700; color: var(--ink); margin-bottom: 18px; }
+.page-et .course-price span { display: block; font-size: .8rem; font-weight: 400; color: var(--muted); margin-top: 8px; }
+
+.page-et section[id] { scroll-margin-top: 90px; }

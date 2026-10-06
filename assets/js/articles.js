@@ -10,6 +10,35 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
   {
+    "id": 52,
+    "topic": "education",
+    "subtopic": "technical-training",
+    "locale": "de-DE",
+    "market": "German-speaking European audience",
+    "category": "Elektrotechnik für Lehrende",
+    "audience": "Lehrkräfte, Professoren und Dozenten",
+    "title": "ET-Akademie Dozenten-Paket: Elektrotechnik für Ihre Lehre",
+    "summary": "Digitale Elektrotechnik-Grundlagen für Lehrkräfte und Dozenten. Entdecken Sie Themen und Einsatzmöglichkeiten; prüfen Sie Paket und Nutzungsumfang. Beobachteter Einmalpreis: 347 € für Deutschland.",
+    "highlights": [
+      "Für Lehrkräfte und Dozenten",
+      "Videos, Aufgaben und E-Books",
+      "Dozenten-Paket mit Einmalzahlung"
+    ],
+    "service": "Digital electrical engineering teaching resources",
+    "ctaText": "Dozenten-Paket ansehen",
+    "reviewUrl": "topics/education/technical-training/et-akademie-dozenten-paket.html",
+    "bookingUrl": "https://et-akademie.de/ubersicht/#aff=gabrielhenriquep123f97e",
+    "imageUrl": "assets/images/products/et-akademie-dozenten-paket.svg",
+    "imageAlt": "Redaktionelle Illustration einer Reihenschaltung auf einer Tafel; keine Kursansicht",
+    "imageType": "editorial",
+    "linkType": "affiliate",
+    "network": "Digistore24",
+    "productId": 192091,
+    "affiliateStatus": "tracking-verified; official seller announces 50% net commission; account commission and approval not verified",
+    "isDirectAffiliate": true,
+    "featured": false
+  },
+  {
     "id": 51,
     "topic": "education",
     "subtopic": "music-learning",
