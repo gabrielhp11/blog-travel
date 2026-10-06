@@ -26,6 +26,16 @@
       "source": "/ki-training",
       "destination": "/topics/business/ai-training/ki-training",
       "permanent": true
+    },
+    {
+      "source": "/elite-travelhacking-basix",
+      "destination": "/topics/travel/points-and-miles/elite-travelhacking-basix",
+      "permanent": true
+    },
+    {
+      "source": "/elite-travelhacking-basix.html",
+      "destination": "/topics/travel/points-and-miles/elite-travelhacking-basix.html",
+      "permanent": true
     }
   ]
 }

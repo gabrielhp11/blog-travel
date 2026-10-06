@@ -493,6 +493,24 @@ const blogArticles = [
     isDirectAffiliate: true,
     featured: true,
   },
+  {
+    id: 25,
+    topic: 'travel',
+    subtopic: 'points-and-miles',
+    locale: 'pt-BR',
+    category: 'Pontos e milhas',
+    audience: 'Viajantes interessados em programas de fidelidade',
+    title: 'Elite Travelhacking BasiX: visão geral do curso de pontos e hotéis',
+    summary: 'Visão geral do curso introdutório em alemão sobre programas de hotéis, pontos, milhas e estratégias de reserva. A página do fornecedor anuncia mais de cinco horas de vídeo; disponibilidade e economia dependem das regras e datas de cada programa.',
+    highlights: ['O conteúdo e o checkout estão em alemão', 'O vendedor anuncia mais de cinco horas de aulas gravadas e um preço de €89 mais impostos na página consultada', 'O marketplace indicava €82,99 líquidos estimados por venda; isso não garante comissão ou conversão nesse valor'],
+    service: 'Curso digital de travel hacking',
+    ctaText: 'Ver detalhes do curso',
+    reviewUrl: 'topics/travel/points-and-miles/elite-travelhacking-basix.html',
+    bookingUrl: 'https://www.checkout-ds24.com/redir/553720/gabrielhenriquep123f97e',
+    imageAlt: 'Apresentação do curso Elite Travelhacking BasiX',
+    isDirectAffiliate: true,
+    featured: true,
+  },
   ];
 
 if (typeof module !== 'undefined' && module.exports) {

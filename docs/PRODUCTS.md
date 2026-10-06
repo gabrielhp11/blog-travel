@@ -83,6 +83,12 @@ Lista operacional das páginas de produto e curso no catálogo público. O catá
    Checkout: <https://www.checkout-ds24.com/product/725241>
    Comissão líquida indicada no marketplace: €21,97 por venda; confirmar valores atuais na Digistore24.
 
+17. **Elite Travelhacking BasiX** · Curso introdutório sobre pontos, milhas e programas de hotéis
+   Página: <https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/elite-travelhacking-basix.html>
+   Link de afiliado testado: <https://www.checkout-ds24.com/redir/553720/gabrielhenriquep123f97e>
+   Página oficial (alemão): <https://elitetravelhacking.de/basix/>
+   A página oficial consultada anunciava €89 mais impostos. O marketplace indicava €82,99 de comissão líquida estimada por venda; esse valor não é garantido e pode não corresponder à comissão da venda inicial.
+
 ## Rotina para cada novo lançamento
 
 Antes de ativar um produto, confirmar nome, vendedor, página oficial, link de afiliado e informações atuais do rótulo ou do curso. Depois de preparar e revisar a página:
