@@ -418,6 +418,8 @@ const blogArticles = [
     imageAlt: 'Miniatura do vídeo de demonstração oficial do GPBOX',
     isDirectAffiliate: true,
     featured: true,
+    // Pausado até que o fornecedor comprove os direitos de distribuição do catálogo anunciado.
+    hidden: true,
   },
   {
     id: 23,

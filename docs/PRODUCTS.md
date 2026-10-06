@@ -64,26 +64,19 @@ Lista operacional das páginas de produto e curso no catálogo público. O catá
    Página oficial: <https://antesdoleilao.store/>
    Checkout: <https://pay.kiwify.com.br/agsRolp?afid=YSHscwfG>
 
-14. **GPBOX** · Sistema multijogos e emulador para computador Windows
-   Página: <https://blog-travel-eight.vercel.app/topics/entertainment/retro-gaming/gpbox>
-   Link de afiliado: <https://kiwify.app/NrZYgmr?afid=cpJ2Ufmh>
-   Página oficial: <https://gpbox.com.br/?utm_source=direto&sck=1791218419528_17912181926848>
-   Checkout Brasil: <https://pay.kiwify.com.br/B5pE3Ey?afid=cpJ2Ufmh>
-   Checkout internacional (EUR/USD): <https://pay.kiwify.com/jyN1ejJ?afid=cpJ2Ufmh>
-
-15. **Vivendo de Acessórios** · Curso online de vendas e fornecedores para negócios de acessórios
+14. **Vivendo de Acessórios** · Curso online de vendas e fornecedores para negócios de acessórios
    Página: <https://blog-travel-eight.vercel.app/topics/business/accessories-business/vivendo-de-acessorios>
    Link de afiliado: <https://kiwify.app/AHZioht?afid=qvV4fwLb>
    Página oficial: <https://luanamacedo.com.br/vivendo-de-acessorios/>
    Checkout: <https://pay.kiwify.com.br/CqH4vCT?afid=qvV4fwLb>
 
-16. **Pacote de 4 Guias de Idiomas** · E-books digitais em alemão, inglês, espanhol e francês
+15. **Pacote de 4 Guias de Idiomas** · E-books digitais em alemão, inglês, espanhol e francês
    Página: <https://blog-travel-eight.vercel.app/topics/education/language-learning/pacote-4-guias-idiomas.html>
    Link de afiliado aprovado e testado: <https://www.checkout-ds24.com/redir/725241/gabrielhenriquep123f97e>
    Checkout: <https://www.checkout-ds24.com/product/725241>
    Comissão líquida indicada no marketplace: €21,97 por venda; confirmar valores atuais na Digistore24.
 
-17. **Elite Travelhacking BasiX** · Curso introdutório sobre pontos, milhas e programas de hotéis
+16. **Elite Travelhacking BasiX** · Curso introdutório sobre pontos, milhas e programas de hotéis
    Página: <https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/elite-travelhacking-basix.html>
    Link de afiliado testado: <https://www.checkout-ds24.com/redir/553720/gabrielhenriquep123f97e>
    Página oficial (alemão): <https://elitetravelhacking.de/basix/>
