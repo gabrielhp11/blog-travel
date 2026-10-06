@@ -1,0 +1,40 @@
+.page-piano {
+  --bg: #f8f7f2;
+  --ink: #1d2e3c;
+  --muted: #566574;
+  --accent: #243d51;
+  --accent-soft: #e9edf0;
+  --gold: #ac7b39;
+  --line: rgba(21, 42, 34, .12);
+}
+.page-piano .topbar { background: rgba(247, 249, 244, .95); }
+.page-piano .hero { padding-bottom: 64px; }
+.page-piano h1 { max-width: 18ch; font-size: clamp(2.6rem, 4.5vw, 3.6rem); }
+.page-piano .hero-copy { padding-top: 12px; }
+.page-piano .ad-label { font-size: .76rem; color: var(--muted); margin: 0 0 24px; }
+.page-piano .product-card { border-radius: 16px; overflow: hidden; }
+.page-piano .bundle-number { font-size: 2.8rem; letter-spacing: -.06em; font-weight: 800; color: var(--accent); margin: 0; }
+.page-piano .purchase-note { font-size: .8rem; max-width: 57ch; color: var(--muted); }
+.page-piano .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.page-piano .feature-index { display: block; color: var(--accent); font-size: .78rem; margin-bottom: 18px; letter-spacing: .08em; }
+.page-piano .compatibility { padding: 22px 24px; border-left: 3px solid var(--gold); background: #f5eddf; border-radius: 0 8px 8px 0; margin-top: 24px; }
+.page-piano .compatibility p { margin: 0; }
+.page-piano .editorial-source a, .page-piano .editorial-disclosure a { text-decoration: underline; text-underline-offset: 3px; }
+.page-piano .cta-block { background: #243d51; color: #fff; }
+.page-piano .cta-block p { color: #e4e9ee; }
+.page-piano .cta-block .eyebrow { color: #e5cba5; }
+.page-piano .cta-block .btn { background: #f4ddba; color: #243d51; white-space: nowrap; }
+@media (max-width: 760px) {
+  .page-piano .feature-grid { grid-template-columns: 1fr; }
+  .page-piano .nav { gap: 12px; flex-wrap: wrap; padding-block: 12px; }
+  .page-piano .nav-links { gap: 14px; font-size: .8rem; }
+}
+@media (max-width: 420px) {
+  .page-piano .cta-row .btn { width: 100%; }
+  .page-piano h1 { font-size: 2.5rem; }
+}
+
+.page-piano .course-price { font-size: 2.4rem; font-weight: 700; color: var(--ink); margin-bottom: 18px; }
+.page-piano .course-price span { display: block; font-size: .8rem; font-weight: 400; color: var(--muted); margin-top: 8px; }
+
+.page-piano section[id] { scroll-margin-top: 90px; }

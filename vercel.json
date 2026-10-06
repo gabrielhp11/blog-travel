@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/endlich-klavier-spielen",
+      "destination": "/topics/education/music-learning/endlich-klavier-spielen",
+      "permanent": true
+    },
+    {
+      "source": "/endlich-klavier-spielen.html",
+      "destination": "/topics/education/music-learning/endlich-klavier-spielen.html",
+      "permanent": true
+    },
+    {
       "source": "/advanced-mitochondrial-formula",
       "destination": "/topics/wellness/longevity/advanced-mitochondrial-formula",
       "permanent": true

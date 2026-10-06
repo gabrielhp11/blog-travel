@@ -10,6 +10,35 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
   {
+    "id": 51,
+    "topic": "education",
+    "subtopic": "music-learning",
+    "locale": "de-DE",
+    "market": "German-speaking European audience",
+    "category": "Klavier lernen",
+    "audience": "Erwachsene Klavieranfänger",
+    "title": "Endlich Klavier Spielen: Onlinekurs für Erwachsene",
+    "summary": "Entdecken Sie den Premium-Onlinekurs von Jens Schlichting: Videos, Audio und Übungspläne für den Einstieg am Klavier. Kurs auf Deutsch; eigenes Instrument erforderlich. Beobachteter Preis: 1.190 €; aktuellen Gesamtbetrag prüfen.",
+    "highlights": [
+      "Für erwachsene Anfänger",
+      "Videos, Audio und PDF-Material",
+      "Eigenes Klavier oder Keyboard erforderlich"
+    ],
+    "service": "Digital piano course",
+    "ctaText": "Kursangebot ansehen",
+    "reviewUrl": "topics/education/music-learning/endlich-klavier-spielen.html",
+    "bookingUrl": "https://www.digistore24.com/redir/530008/gabrielhenriquep123f97e/",
+    "imageUrl": "assets/images/products/endlich-klavier-spielen.svg",
+    "imageAlt": "Redaktionelle Illustration einer Klaviatur mit Notenpult; keine Kursansicht",
+    "imageType": "editorial",
+    "linkType": "affiliate",
+    "network": "Digistore24",
+    "productId": 530008,
+    "affiliateStatus": "tracking-verified; seller advertises 40–50% depending on product; account approval and commission not verified",
+    "isDirectAffiliate": true,
+    "featured": false
+  },
+  {
     "id": 50,
     "topic": "wellness",
     "subtopic": "longevity",
