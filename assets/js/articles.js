@@ -475,6 +475,24 @@ const blogArticles = [
     isDirectAffiliate: true,
     featured: false,
   },
+  {
+    id: 24,
+    topic: 'travel',
+    subtopic: 'language-learning',
+    locale: 'pt-BR',
+    category: 'Idiomas para viajar',
+    audience: 'Viajantes e estudantes de idiomas',
+    title: 'Pacote de 4 Guias de Idiomas: alemão, inglês, espanhol e francês',
+    summary: 'Visão geral de quatro e-books digitais para praticar frases e vocabulário em alemão, inglês, espanhol e francês. Confira o conteúdo, o preço atual e as condições diretamente no checkout.',
+    highlights: ['Quatro guias em PDF, com 46 capítulos por idioma segundo o vendedor', 'A oferta descreve frases para viagem, trabalho e conversas do dia a dia', 'A Digistore24 lista comissão líquida estimada de €21,97 por venda; valores podem variar'],
+    service: 'Pacote digital de idiomas',
+    ctaText: 'Ver pacote de guias',
+    reviewUrl: 'topics/education/language-learning/pacote-4-guias-idiomas.html',
+    bookingUrl: 'https://www.checkout-ds24.com/redir/725241/gabrielhenriquep123f97e',
+    imageAlt: 'Pacote digital de guias de alemão, inglês, espanhol e francês',
+    isDirectAffiliate: true,
+    featured: true,
+  },
   ];
 
 if (typeof module !== 'undefined' && module.exports) {

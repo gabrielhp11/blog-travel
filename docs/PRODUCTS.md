@@ -77,6 +77,12 @@ Lista operacional das páginas de produto e curso no catálogo público. O catá
    Página oficial: <https://luanamacedo.com.br/vivendo-de-acessorios/>
    Checkout: <https://pay.kiwify.com.br/CqH4vCT?afid=qvV4fwLb>
 
+16. **Pacote de 4 Guias de Idiomas** · E-books digitais em alemão, inglês, espanhol e francês
+   Página: <https://blog-travel-eight.vercel.app/topics/education/language-learning/pacote-4-guias-idiomas.html>
+   Link de afiliado aprovado e testado: <https://www.checkout-ds24.com/redir/725241/gabrielhenriquep123f97e>
+   Checkout: <https://www.checkout-ds24.com/product/725241>
+   Comissão líquida indicada no marketplace: €21,97 por venda; confirmar valores atuais na Digistore24.
+
 ## Rotina para cada novo lançamento
 
 Antes de ativar um produto, confirmar nome, vendedor, página oficial, link de afiliado e informações atuais do rótulo ou do curso. Depois de preparar e revisar a página:
