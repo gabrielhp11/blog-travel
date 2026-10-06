@@ -82,6 +82,134 @@ Lista operacional das páginas de produto e curso no catálogo público. O catá
    Página oficial (alemão): <https://elitetravelhacking.de/basix/>
    A página oficial consultada anunciava €89 mais impostos. O marketplace indicava €82,99 de comissão líquida estimada por venda; esse valor não é garantido e pode não corresponder à comissão da venda inicial.
 
+## Novos itens — mercado europeu, conteúdo em inglês
+
+Os 10 itens abaixo usam links oficiais, **sem rastreamento de afiliado configurado**. As ilustrações editoriais são locais e identificadas como tal; não representam embalagens, interfaces ou logos oficiais. Preços, impostos e disponibilidade são conferidos no site do fornecedor pelo comprador. Fontes consultadas em 6 de outubro de 2026.
+
+17. **Canva Pro** · Design & content · Inglês (en-GB)
+   Página: <https://blog-travel-eight.vercel.app/topics/business/design-tools/canva-pro.html>
+   Site oficial: <https://www.canva.com/pro/>
+   Ilustração: `assets/images/products/canva-pro.svg`
+
+18. **Skillshare** · Creative skills · Inglês (en-GB)
+   Página: <https://blog-travel-eight.vercel.app/topics/business/creative-learning/skillshare.html>
+   Site oficial: <https://www.skillshare.com/en/>
+   Ilustração: `assets/images/products/skillshare.svg`
+
+19. **Domestika Plus** · Creative courses · Inglês (en-GB)
+   Página: <https://blog-travel-eight.vercel.app/topics/business/creative-learning/domestika-plus.html>
+   Site oficial: <https://www.domestika.org/en/plus>
+   Ilustração: `assets/images/products/domestika-plus.svg`
+
+20. **Coursera Plus** · Professional learning · Inglês (en-GB)
+   Página: <https://blog-travel-eight.vercel.app/topics/business/professional-learning/coursera-plus.html>
+   Site oficial: <https://www.coursera.org/courseraplus>
+   Ilustração: `assets/images/products/coursera-plus.svg`
+
+21. **Babbel** · Language learning · Inglês (en-GB)
+   Página: <https://blog-travel-eight.vercel.app/topics/education/language-learning/babbel.html>
+   Site oficial: <https://www.babbel.com/>
+   Ilustração: `assets/images/products/babbel.svg`
+
+22. **Airalo** · Travel connectivity · Inglês (en-GB)
+   Página: <https://blog-travel-eight.vercel.app/topics/travel/connectivity/airalo.html>
+   Site oficial: <https://www.airalo.com/>
+   Ilustração: `assets/images/products/airalo.svg`
+
+23. **Holafly** · International data · Inglês (en-GB)
+   Página: <https://blog-travel-eight.vercel.app/topics/travel/connectivity/holafly.html>
+   Site oficial: <https://esim.holafly.com/>
+   Ilustração: `assets/images/products/holafly.svg`
+
+24. **GetYourGuide** · Tours & attraction tickets · Inglês (en-GB)
+   Página: <https://blog-travel-eight.vercel.app/topics/travel/experiences/getyourguide.html>
+   Site oficial: <https://www.getyourguide.com/>
+   Ilustração: `assets/images/products/getyourguide.svg`
+
+25. **Civitatis** · Guided visits & excursions · Inglês (en-GB)
+   Página: <https://blog-travel-eight.vercel.app/topics/travel/experiences/civitatis.html>
+   Site oficial: <https://www.civitatis.com/en/>
+   Ilustração: `assets/images/products/civitatis.svg`
+
+26. **Omio** · Transport & tickets · Inglês (en-GB)
+   Página: <https://blog-travel-eight.vercel.app/topics/travel/transport/omio.html>
+   Site oficial: <https://www.omio.com/>
+   Ilustração: `assets/images/products/omio.svg`
+
+## Mais 10 ofertas Digistore24 — Europa, guias em inglês
+
+Descrições e destinos públicos conferidos em 6 de outubro de 2026. Os CTAs usam checkouts oficiais **sem rastreamento de afiliado**: aprovação e comissão não foram verificadas sem acesso à conta. IDs mantidos no catálogo para vincular futuros links aprovados. As páginas destacam assinatura, acesso, idioma e compatibilidade. Não foram realizadas compras nem testes dos produtos.
+
+27. **The Mystery of Nils** · Norwegian learning
+   Página: <https://blog-travel-eight.vercel.app/topics/education/language-learning/mystery-of-nils.html>
+   Checkout oficial: <https://www.digistore24.com/product/475168>
+   ID Digistore24: 475168 · Idioma: English
+   Fontes: <https://www.digistore24.com/product/475168>
+   Ilustração: `assets/images/products/mystery-of-nils.svg` (original editorial)
+
+28. **Spanish Slow and Easy** · Spanish learning
+   Página: <https://blog-travel-eight.vercel.app/topics/education/language-learning/spanish-slow-and-easy.html>
+   Checkout oficial: <https://www.digistore24.com/product/647431>
+   ID Digistore24: 647431 · Idioma: English
+   Fontes: <https://spanishslowandeasy.com/ds24/>, <https://www.digistore24.com/product/647431>
+   Ilustração: `assets/images/products/spanish-slow-and-easy.svg` (original editorial)
+
+29. **Dennis Schmelz Lightroom Presets** · Photo editing
+   Página: <https://blog-travel-eight.vercel.app/topics/business/creative-learning/dennis-schmelz-lightroom-presets.html>
+   Checkout oficial: <https://www.digistore24.com/product/514539>
+   ID Digistore24: 514539 · Idioma: Digital assets; English provider description
+   Fontes: <https://dennisschmelz.de/lightroom-presets-dennis-schmelz-dop>, <https://www.digistore24.com/product/514539>
+   Ilustração: `assets/images/products/dennis-schmelz-lightroom-presets.svg` (original editorial)
+
+30. **Prejudice SLOG3 LUTs** · Video colour grading
+   Página: <https://blog-travel-eight.vercel.app/topics/business/creative-learning/prejudice-slog3-luts.html>
+   Checkout oficial: <https://www.digistore24.com/product/384522>
+   ID Digistore24: 384522 · Idioma: Digital assets; English provider description
+   Fontes: <https://dennisschmelz.de/lut-slog3-prejudice-80s-vintage-look-dennis-schmelz-dop>, <https://www.digistore24.com/product/384522>
+   Ilustração: `assets/images/products/prejudice-slog3-luts.svg` (original editorial)
+
+31. **Key Account Management Training** · Account management
+   Página: <https://blog-travel-eight.vercel.app/topics/business/professional-learning/key-account-management-training.html>
+   Checkout oficial: <https://www.digistore24.com/product/300560>
+   ID Digistore24: 300560 · Idioma: English template; confirm video language
+   Fontes: <https://www.digistore24.com/product/300560>
+   Ilustração: `assets/images/products/key-account-management-training.svg` (original editorial)
+
+32. **SAP EWM Supercharged** · Warehouse systems
+   Página: <https://blog-travel-eight.vercel.app/topics/business/professional-learning/sap-ewm-supercharged.html>
+   Checkout oficial: <https://www.digistore24.com/product/349934>
+   ID Digistore24: 349934 · Idioma: English
+   Fontes: <https://www.digistore24.com/product/349934>
+   Ilustração: `assets/images/products/sap-ewm-supercharged.svg` (original editorial)
+
+33. **Raspberry Pi for Beginners** · Practical computing
+   Página: <https://blog-travel-eight.vercel.app/topics/education/technical-training/raspberry-pi-for-beginners.html>
+   Checkout oficial: <https://www.digistore24.com/product/271198>
+   ID Digistore24: 271198 · Idioma: English checkout; confirm video language
+   Fontes: <https://www.digistore24.com/product/271198>
+   Ilustração: `assets/images/products/raspberry-pi-for-beginners.svg` (original editorial)
+
+34. **Leadership Crash Course** · Team leadership
+   Página: <https://blog-travel-eight.vercel.app/topics/business/professional-learning/leadership-crash-course.html>
+   Checkout oficial: <https://www.digistore24.com/product/609748>
+   ID Digistore24: 609748 · Idioma: English checkout; confirm video language
+   Fontes: <https://www.digistore24.com/product/609748>
+   Ilustração: `assets/images/products/leadership-crash-course.svg` (original editorial)
+
+35. **megaSPRACHEN Reise-Englisch** · Travel English
+   Página: <https://blog-travel-eight.vercel.app/topics/education/language-learning/mega-sprachen-reise-englisch.html>
+   Checkout oficial: <https://www.digistore24.com/product/395450>
+   ID Digistore24: 395450 · Idioma: German offer; English-learning material
+   Fontes: <https://www.digistore24.com/product/395450>
+   Ilustração: `assets/images/products/mega-sprachen-reise-englisch.svg` (original editorial)
+
+36. **Piano Boogie Woogie for Beginners** · Piano practice
+   Página: <https://blog-travel-eight.vercel.app/topics/education/music-learning/piano-boogie-woogie.html>
+   Checkout oficial: <https://www.digistore24.com/product/29447>
+   ID Digistore24: 29447 · Idioma: German offer; confirm video language
+   Fontes: <https://www.digistore24.com/product/29447>
+   Ilustração: `assets/images/products/piano-boogie-woogie.svg` (original editorial)
+
 ## Rotina para cada novo lançamento
 
 Antes de ativar um produto, confirmar nome, vendedor, página oficial, link de afiliado e informações atuais do rótulo ou do curso. Depois de preparar e revisar a página:
@@ -93,3 +221,21 @@ Antes de ativar um produto, confirmar nome, vendedor, página oficial, link de a
 5. Conferir que os nomes, destinos e informações do produto coincidem entre a página, a home e este arquivo.
 
 O catálogo da home é renderizado a partir de `assets/js/articles.js`; mantenha esse arquivo e esta lista sincronizados em cada lançamento.
+
+## Excel-Paket — oferta europeia aceita em 6 de outubro de 2026
+
+- Produto: **Excel Paket / Hanseatic Business School**, Kristoffer Ditz; ID Digistore24 **175711**.
+- Página em alemão: `topics/business/productivity/excel-paket.html`; URL curta `/excel-paket`.
+- Link de afiliado testado: <https://www.checkout-ds24.com/redir/175711/gabrielhenriquep123f97e/>. Redirecionou à página correta com `?aff=gabrielhenriquep123f97e`; o checkout aberto pelo botão do fornecedor mostrou `[gabrielhenriquep123f97e]`. Isso confirma atribuição exibida, não o direito a uma comissão específica.
+- O checkout é <https://www.checkout-ds24.com/product/175711/>. O botão do fornecedor aplica `?voucher=Paket`; com Alemanha selecionada, o total observado foi **€579,00**, incluindo 19% de IVA. Sem esse cupom, o total observado foi €1.035,80. A landing page não fixa preço nem desconto para evitar discrepâncias por país e alterações da oferta.
+- Comissão **anunciada pelo fornecedor: €137,83** para o Excel-Paket, com até 30% sobre receita líquida. Fonte: <https://www.hanseatic-business-school.com/excel-box/partnerprogramm/>. Valor atual, aprovação e condições na conta de afiliado não foram verificados; confirmar no marketplace antes de investir em anúncios. Não apresentar €137,83 como pagamento garantido.
+- O ID 283346 dos materiais de cupom **não é o produto escolhido**: seu checkout exibiu produto ainda não aprovado. Não usá-lo como link de compra do Excel-Paket.
+- Demanda: indício de mercado, não volume de buscas medido. Eurostat informa uso de planilhas por **40,3%** dos indivíduos da UE de 16–74 anos em 2025, nos três meses anteriores à pesquisa: <https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/32183.pdf>. Isso não comprova procura ou conversão deste pacote. Termos a validar: `Excel Vorlagen Business`, `Excel Controlling Vorlagen`, `Liquiditätsplanung Excel Vorlage`, `Excel Vorlagen Paket`.
+- Produto: mais de 70 arquivos; descrições e lista de ferramentas nas páginas oficiais. Compatibilidade declarada com Office antigo em Windows; restrições para Mac e OpenOffice. Microsoft 365 não confirmado. Sem compra ou teste dos arquivos.
+- Arte original local `assets/images/products/excel-paket.svg`, explicitamente identificada como ilustração editorial. Não representa interface ou arquivos entregues.
+
+## Imagens de apoio — 6 de outubro de 2026
+
+As 21 páginas recentes (Canva Pro, Skillshare, Domestika Plus, Coursera Plus, Babbel, Airalo, Holafly, GetYourGuide, Civitatis, Omio, The Mystery of Nils, Spanish Slow and Easy, Dennis Schmelz Lightroom Presets, Prejudice SLOG3 LUTs, Key Account Management Training, SAP EWM Supercharged, Raspberry Pi for Beginners, Leadership Crash Course, megaSPRACHEN Reise-Englisch, Piano Boogie Woogie e Excel-Paket) receberam duas ilustrações editoriais de apoio cada. Todas contêm agora ao menos três imagens distintas.
+
+Arquivos: `assets/images/products/{slug}-support-1.svg` e `{slug}-support-2.svg`. São imagens de contexto desenhadas pela PokiSky, sem alegação de reproduzir os arquivos, telas ou resultados do produto. As figuras têm identificação editorial, texto alternativo, dimensões e carregamento lazy. Os links e o status de afiliação permanecem os registrados acima.

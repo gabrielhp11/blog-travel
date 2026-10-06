@@ -99,7 +99,13 @@ h1 em { color: var(--accent); font-style: normal; }
 .post-service-tag { text-align: right; }
 .blog-post h3 { min-height: 48px; margin: 0 0 9px; font-size: 1.17rem; font-weight: 700; line-height: 1.3; }
 .blog-post p { margin: 0 0 15px; color: var(--muted); font-size: .83rem; line-height: 1.65; }
-.post-highlights { display: none; }
+.post-highlights { display: grid; gap: 5px; list-style: none; margin: 0 0 16px; padding: 0; color: var(--muted); font-size: .75rem; }
+.post-highlights li { display: flex; align-items: baseline; gap: 8px; }
+.post-highlights li::before { content: ""; flex: 0 0 5px; width: 5px; height: 5px; border-radius: 50%; background: var(--accent); }
+.post-header.editorial-artwork::before { background: linear-gradient(180deg,rgba(15,26,21,.15),rgba(15,26,21,.05)); }
+.post-header.editorial-artwork::after { display: none; }
+.post-header.editorial-artwork .post-index { color: var(--accent-dark); }
+.post-header.editorial-artwork .post-category { background: rgba(28,40,35,.82); }
 .post-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: auto; padding-top: 15px; border-top: 1px solid #eff0eb; }
 .post-footer .text-link { font-size: .79rem; }
 .post-footer .btn { min-height: 38px; padding: 0 13px; border-radius: 5px; font-size: .75rem; }

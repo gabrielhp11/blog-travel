@@ -1,0 +1,35 @@
+.page-excel-paket {
+  --bg: #f7f9f4;
+  --ink: #152a22;
+  --muted: #53645b;
+  --accent: #166345;
+  --accent-soft: #e7f0e5;
+  --gold: #b57c2e;
+  --line: rgba(21, 42, 34, .12);
+}
+.page-excel-paket .topbar { background: rgba(247, 249, 244, .95); }
+.page-excel-paket .hero { padding-bottom: 64px; }
+.page-excel-paket h1 { max-width: 15ch; font-size: clamp(2.6rem, 4.5vw, 3.9rem); }
+.page-excel-paket .hero-copy { padding-top: 12px; }
+.page-excel-paket .ad-label { font-size: .76rem; color: var(--muted); margin: 0 0 24px; }
+.page-excel-paket .product-card { border-radius: 16px; overflow: hidden; }
+.page-excel-paket .bundle-number { font-size: 2.8rem; letter-spacing: -.06em; font-weight: 800; color: var(--accent); margin: 0; }
+.page-excel-paket .purchase-note { font-size: .8rem; max-width: 57ch; color: var(--muted); }
+.page-excel-paket .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.page-excel-paket .feature-index { display: block; color: var(--accent); font-size: .78rem; margin-bottom: 18px; letter-spacing: .08em; }
+.page-excel-paket .compatibility { padding: 22px 24px; border-left: 3px solid var(--gold); background: #f5eddf; border-radius: 0 8px 8px 0; margin-top: 24px; }
+.page-excel-paket .compatibility p { margin: 0; }
+.page-excel-paket .editorial-source a, .page-excel-paket .editorial-disclosure a { text-decoration: underline; text-underline-offset: 3px; }
+.page-excel-paket .cta-block { background: #163b2d; color: #fff; }
+.page-excel-paket .cta-block p { color: #d7e4d6; }
+.page-excel-paket .cta-block .eyebrow { color: #bfddb6; }
+.page-excel-paket .cta-block .btn { background: #dfedc8; color: #163b2d; white-space: nowrap; }
+@media (max-width: 760px) {
+  .page-excel-paket .feature-grid { grid-template-columns: 1fr; }
+  .page-excel-paket .nav { gap: 12px; flex-wrap: wrap; padding-block: 12px; }
+  .page-excel-paket .nav-links { gap: 14px; font-size: .8rem; }
+}
+@media (max-width: 420px) {
+  .page-excel-paket .cta-row .btn { width: 100%; }
+  .page-excel-paket h1 { font-size: 2.5rem; }
+}

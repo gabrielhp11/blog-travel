@@ -25,6 +25,8 @@ The public catalog is maintained in `assets/js/articles.js`. Pages with unverifi
 - Do not invent first-hand testing, ratings, endorsements, customer quotations, ingredient amounts, prices, guarantees, or course outcomes.
 - For supplements, use the current seller label as the source for ingredients and serving information. Avoid disease-treatment claims and advise readers to discuss suitability and interactions with a qualified health professional.
 - Use an accurate product image or no product image. Keep each page’s product-specific palette in its own stylesheet.
+- Original editorial illustrations may be used for digital services when clearly labelled. They must not imitate official product packaging, screenshots, or logos.
+- Offer pages should have at least three distinct, relevant images. Include alt text and dimensions; lazy-load supporting illustrations below the first viewport.
 - Make each title, description, canonical URL, and main heading specific to that page.
 - Do not add review ratings or Product/Review structured data unless the visible page genuinely substantiates the marked-up information.
 - Keep the affiliate disclosure visible on the home page and every product guide.
@@ -38,4 +40,10 @@ The public catalog is maintained in `assets/js/articles.js`. Pages with unverifi
 5. Keep incomplete or unidentified offers out of the public catalog and use `noindex, follow` until the missing information is resolved.
 6. When a product is ready to go live, update its page, `assets/js/articles.js`, and `docs/PRODUCTS.md`; then run `npm run seo:sitemap`.
 
+The October 2026 expansion adds ten English (`en-GB`) guides for European readers. These listings use original local editorial illustrations, provider sources and untracked official links (`linkType: 'official'`). Keep those links untracked until an authorised affiliate destination is available. The Travel & experiences filter includes the travel guides.
+
 Google Search does not guarantee rankings or rich-result display. Google Ads is not configured in this repository; review the destination, offer, location, and current advertising policies before creating a campaign.
+
+## Delivery preference
+
+The user requests that completed project changes are validated, committed and pushed to GitHub through `origin`. Use a normal push and report any access or conflict blocker. Persistent instructions are in `AGENTS.md` and `.cursor/rules/project-delivery.mdc`.

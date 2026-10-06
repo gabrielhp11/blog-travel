@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Dennis Schmelz Lightroom Presets: editorial illustration</title><desc id="desc">Original PokiSky illustration about photo editing. Not a product screenshot or official brand artwork.</desc>
+<defs><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#455570"/><stop offset="1" stop-color="#9cb9b0"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0v48" fill="none" stroke="#455570" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="720" fill="#e9edf4"/><rect width="1200" height="720" fill="url(#grid)"/><circle cx="873" cy="360" r="268" fill="#455570" opacity=".07"/>
+<circle cx="84" cy="297" r="6" fill="#455570"/><path d="M107 297h80" stroke="#455570" stroke-width="2"/>
+<text x="78" y="381" font-family="Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-2" fill="#455570">Photo editing</text>
+<text x="81" y="426" font-family="Arial, sans-serif" font-size="18" letter-spacing="2" fill="#455570">PHOTO EDITING</text>
+<g style="--color:#455570;--soft:#e9edf4;--gold:#d5b776" stroke="#455570" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="685" y="237" width="365" height="260" rx="34" fill="white"/><path d="M734 237v-45h126l36 45"/><circle cx="878" cy="367" r="87" fill="#e9edf4"/><circle cx="878" cy="367" r="57" fill="url(#accent)"/><circle cx="899" cy="346" r="15" fill="white" stroke="none"/><rect x="719" y="279" width="55" height="25" rx="10" fill="#d5b776" stroke="none"/><path d="M1031 172h50m-25-25v50"/></g></svg>

@@ -1,0 +1,49 @@
+/* Shared layout for the English European catalogue guides. */
+.offer-page { scroll-padding-top: 88px; }
+.offer-page h1, .offer-page h2, .offer-page h3 { font-family: "Manrope", sans-serif; }
+.offer-page h1 { font-size: clamp(2.4rem, 4.4vw, 3.6rem); }
+.offer-page .hero-grid { grid-template-columns: minmax(0, 1.12fr) minmax(0, .88fr); }
+.offer-page .hero { padding-top: 40px; }
+.offer-page section[id] { scroll-margin-top: 88px; }
+.offer-page .offer-product-name { margin: 0 0 14px; font-weight: 700; color: var(--muted); }
+.offer-page .offer-artwork { margin: 0; background: var(--accent-soft); }
+.offer-page .offer-artwork img { width: 100%; height: auto; }
+.offer-page .offer-artwork figcaption { padding: 10px 18px; color: var(--muted); font-size: .7rem; text-align: center; border-bottom: 1px solid var(--line); }
+.offer-page .trust-badge-row { flex-wrap: wrap; gap: 8px 16px; font-size: .74rem; }
+.offer-page .trust-badge-row span::before { content: ""; width: 5px; height: 5px; border-radius: 50%; background: var(--accent); }
+.offer-page .offer-section-intro { max-width: 76ch; margin-bottom: 28px; }
+.offer-page .card p { margin-bottom: 0; }
+.offer-page .cta-block h2 { max-width: 23ch; }
+.offer-page .btn-accent:hover { background: var(--accent); filter: brightness(.9); }
+.offer-page .breadcrumb { flex-wrap: wrap; }
+.offer-page .skip-link { position: absolute; left: 16px; top: -70px; z-index: 200; padding: 12px 18px; border-radius: 8px; background: var(--accent); color: white; }
+.offer-page .skip-link:focus { top: 12px; }
+.offer-page :focus-visible { outline: 3px solid var(--gold); outline-offset: 4px; }
+.offer-page .offer-faq { border-top: 1px solid var(--line); }
+.offer-page .offer-faq-item { padding: 22px 0; border-bottom: 1px solid var(--line); }
+.offer-page .offer-faq-item summary { cursor: pointer; color: var(--ink); font-weight: 600; }
+.offer-page .offer-faq-item p { margin: 12px 0 0; }
+.offer-page .offer-related-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; }
+.offer-page .offer-related-card { display: block; }
+.offer-page .offer-related-card:hover { border-color: var(--accent); }
+.offer-page .offer-related-card .eyebrow { display: block; }
+.offer-page .offer-related-link { color: var(--accent); font-size: .88rem; font-weight: 600; }
+.offer-page .offer-support-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; margin-top: 28px; }
+.offer-page .offer-support-figure { margin: 0; overflow: hidden; border: 1px solid var(--line); border-radius: 14px; background: var(--paper); }
+.offer-page .offer-support-figure img { display: block; width: 100%; height: auto; aspect-ratio: 8 / 5; }
+.offer-page .offer-support-figure figcaption { display: grid; gap: 8px; padding: 22px 24px; color: var(--muted); font-size: .9rem; }
+.offer-page .offer-support-figure figcaption strong { color: var(--ink); font-size: 1rem; line-height: 1.4; }
+.offer-page .offer-support-figure figcaption small { font-size: .72rem; }
+@media (max-width: 900px) {
+  .offer-page .hero-grid { grid-template-columns: 1fr; }
+  .offer-page .product-card { max-width: 620px; }
+}
+@media (max-width: 560px) {
+  .offer-page .offer-support-gallery { grid-template-columns: 1fr; gap: 20px; }
+  .offer-page .offer-related-grid { grid-template-columns: 1fr; }
+  .offer-page .hero { padding-top: 28px; }
+  .offer-page .cta-block { padding: 26px 22px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .offer-page, .offer-page * { scroll-behavior: auto; transition: none; }
+}

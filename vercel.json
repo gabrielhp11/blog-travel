@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/excel-paket",
+      "destination": "/topics/business/productivity/excel-paket",
+      "permanent": true
+    },
+    {
+      "source": "/excel-paket.html",
+      "destination": "/topics/business/productivity/excel-paket.html",
+      "permanent": true
+    },
+    {
       "source": "/cleansesana",
       "destination": "/topics/wellness/gut-health/cleansesana",
       "permanent": true
@@ -35,6 +45,206 @@
     {
       "source": "/elite-travelhacking-basix.html",
       "destination": "/topics/travel/points-and-miles/elite-travelhacking-basix.html",
+      "permanent": true
+    },
+    {
+      "source": "/canva-pro",
+      "destination": "/topics/business/design-tools/canva-pro",
+      "permanent": true
+    },
+    {
+      "source": "/canva-pro.html",
+      "destination": "/topics/business/design-tools/canva-pro.html",
+      "permanent": true
+    },
+    {
+      "source": "/skillshare",
+      "destination": "/topics/business/creative-learning/skillshare",
+      "permanent": true
+    },
+    {
+      "source": "/skillshare.html",
+      "destination": "/topics/business/creative-learning/skillshare.html",
+      "permanent": true
+    },
+    {
+      "source": "/domestika-plus",
+      "destination": "/topics/business/creative-learning/domestika-plus",
+      "permanent": true
+    },
+    {
+      "source": "/domestika-plus.html",
+      "destination": "/topics/business/creative-learning/domestika-plus.html",
+      "permanent": true
+    },
+    {
+      "source": "/coursera-plus",
+      "destination": "/topics/business/professional-learning/coursera-plus",
+      "permanent": true
+    },
+    {
+      "source": "/coursera-plus.html",
+      "destination": "/topics/business/professional-learning/coursera-plus.html",
+      "permanent": true
+    },
+    {
+      "source": "/babbel",
+      "destination": "/topics/education/language-learning/babbel",
+      "permanent": true
+    },
+    {
+      "source": "/babbel.html",
+      "destination": "/topics/education/language-learning/babbel.html",
+      "permanent": true
+    },
+    {
+      "source": "/airalo",
+      "destination": "/topics/travel/connectivity/airalo",
+      "permanent": true
+    },
+    {
+      "source": "/airalo.html",
+      "destination": "/topics/travel/connectivity/airalo.html",
+      "permanent": true
+    },
+    {
+      "source": "/holafly",
+      "destination": "/topics/travel/connectivity/holafly",
+      "permanent": true
+    },
+    {
+      "source": "/holafly.html",
+      "destination": "/topics/travel/connectivity/holafly.html",
+      "permanent": true
+    },
+    {
+      "source": "/getyourguide",
+      "destination": "/topics/travel/experiences/getyourguide",
+      "permanent": true
+    },
+    {
+      "source": "/getyourguide.html",
+      "destination": "/topics/travel/experiences/getyourguide.html",
+      "permanent": true
+    },
+    {
+      "source": "/civitatis",
+      "destination": "/topics/travel/experiences/civitatis",
+      "permanent": true
+    },
+    {
+      "source": "/civitatis.html",
+      "destination": "/topics/travel/experiences/civitatis.html",
+      "permanent": true
+    },
+    {
+      "source": "/omio",
+      "destination": "/topics/travel/transport/omio",
+      "permanent": true
+    },
+    {
+      "source": "/omio.html",
+      "destination": "/topics/travel/transport/omio.html",
+      "permanent": true
+    },
+    {
+      "source": "/mystery-of-nils",
+      "destination": "/topics/education/language-learning/mystery-of-nils",
+      "permanent": true
+    },
+    {
+      "source": "/mystery-of-nils.html",
+      "destination": "/topics/education/language-learning/mystery-of-nils.html",
+      "permanent": true
+    },
+    {
+      "source": "/spanish-slow-and-easy",
+      "destination": "/topics/education/language-learning/spanish-slow-and-easy",
+      "permanent": true
+    },
+    {
+      "source": "/spanish-slow-and-easy.html",
+      "destination": "/topics/education/language-learning/spanish-slow-and-easy.html",
+      "permanent": true
+    },
+    {
+      "source": "/dennis-schmelz-lightroom-presets",
+      "destination": "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+      "permanent": true
+    },
+    {
+      "source": "/dennis-schmelz-lightroom-presets.html",
+      "destination": "/topics/business/creative-learning/dennis-schmelz-lightroom-presets.html",
+      "permanent": true
+    },
+    {
+      "source": "/prejudice-slog3-luts",
+      "destination": "/topics/business/creative-learning/prejudice-slog3-luts",
+      "permanent": true
+    },
+    {
+      "source": "/prejudice-slog3-luts.html",
+      "destination": "/topics/business/creative-learning/prejudice-slog3-luts.html",
+      "permanent": true
+    },
+    {
+      "source": "/key-account-management-training",
+      "destination": "/topics/business/professional-learning/key-account-management-training",
+      "permanent": true
+    },
+    {
+      "source": "/key-account-management-training.html",
+      "destination": "/topics/business/professional-learning/key-account-management-training.html",
+      "permanent": true
+    },
+    {
+      "source": "/sap-ewm-supercharged",
+      "destination": "/topics/business/professional-learning/sap-ewm-supercharged",
+      "permanent": true
+    },
+    {
+      "source": "/sap-ewm-supercharged.html",
+      "destination": "/topics/business/professional-learning/sap-ewm-supercharged.html",
+      "permanent": true
+    },
+    {
+      "source": "/raspberry-pi-for-beginners",
+      "destination": "/topics/education/technical-training/raspberry-pi-for-beginners",
+      "permanent": true
+    },
+    {
+      "source": "/raspberry-pi-for-beginners.html",
+      "destination": "/topics/education/technical-training/raspberry-pi-for-beginners.html",
+      "permanent": true
+    },
+    {
+      "source": "/leadership-crash-course",
+      "destination": "/topics/business/professional-learning/leadership-crash-course",
+      "permanent": true
+    },
+    {
+      "source": "/leadership-crash-course.html",
+      "destination": "/topics/business/professional-learning/leadership-crash-course.html",
+      "permanent": true
+    },
+    {
+      "source": "/mega-sprachen-reise-englisch",
+      "destination": "/topics/education/language-learning/mega-sprachen-reise-englisch",
+      "permanent": true
+    },
+    {
+      "source": "/mega-sprachen-reise-englisch.html",
+      "destination": "/topics/education/language-learning/mega-sprachen-reise-englisch.html",
+      "permanent": true
+    },
+    {
+      "source": "/piano-boogie-woogie",
+      "destination": "/topics/education/music-learning/piano-boogie-woogie",
+      "permanent": true
+    },
+    {
+      "source": "/piano-boogie-woogie.html",
+      "destination": "/topics/education/music-learning/piano-boogie-woogie.html",
       "permanent": true
     }
   ]

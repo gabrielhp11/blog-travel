@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Piano Boogie Woogie for Beginners: editorial illustration</title><desc id="desc">Original PokiSky illustration about piano practice. Not a product screenshot or official brand artwork.</desc>
+<defs><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#675441"/><stop offset="1" stop-color="#9cb9b0"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0v48" fill="none" stroke="#675441" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="720" fill="#f1eae1"/><rect width="1200" height="720" fill="url(#grid)"/><circle cx="873" cy="360" r="268" fill="#675441" opacity=".07"/>
+<circle cx="84" cy="297" r="6" fill="#675441"/><path d="M107 297h80" stroke="#675441" stroke-width="2"/>
+<text x="78" y="381" font-family="Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-2" fill="#675441">Piano practice</text>
+<text x="81" y="426" font-family="Arial, sans-serif" font-size="18" letter-spacing="2" fill="#675441">PIANO PRACTICE</text>
+<g style="--color:#675441;--soft:#f1eae1;--gold:#d5b776" stroke="#675441" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="680" y="185" width="340" height="340" rx="24" fill="white" transform="rotate(-7 850 350)"/><path d="M724 435c90-220 135-230 238-90M737 459c115-140 164-72 214-24" stroke-width="12"/><circle cx="911" cy="259" r="37" fill="#d5b776"/><path d="m986 183 50 30-149 246-53 30 3-59z" fill="#675441" stroke="none"/><path d="m986 183 50 30" stroke="white" stroke-width="12"/></g></svg>

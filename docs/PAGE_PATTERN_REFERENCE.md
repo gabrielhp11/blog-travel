@@ -81,6 +81,7 @@ A página deve conter, no mínimo:
 - CTA principal e CTA secundário
 - trust badges
 - product card com imagem, nome, descrição e meta facts
+- pelo menos três imagens relevantes e distintas por página; identificar ilustrações editoriais, incluir `alt`, dimensões e `loading="lazy"` nas imagens de apoio
 
 ### Estrutura recomendada de conteúdo
 
@@ -346,6 +347,10 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-10-06 | Inclusão de duas imagens de apoio em cada uma das 21 páginas recentes | `topics/`, `assets/images/products/*-support-*.svg`, `assets/css/catalog-offers.css` | Mínimo de três imagens por página; ilustrações editoriais identificadas, carregamento lazy e grade responsiva |
+| 2026-10-06 | Página de venda Excel-Paket em alemão, catálogo e URL curta | `topics/business/productivity/excel-paket.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | ID 175711; redirecionamento e ID no checkout verificados; comissão anunciada pelo fornecedor, sem confirmação na conta |
+| 2026-10-06 | Mais 10 ofertas Digistore24, com guias em inglês, idiomas dos produtos explícitos, ilustrações, FAQs e checkouts oficiais | `topics/`, `assets/`, `vercel.json`, `sitemap.xml`, `PRODUCTS.md` | Sem afiliação ou comissão confirmada; assinatura e compatibilidade destacadas |
+| 2026-10-06 | Adição de 10 guias em inglês para o mercado europeu, com ilustrações editoriais locais, FAQs, CTAs, links oficiais e URLs curtas | `topics/`, `assets/`, `vercel.json`, `sitemap.xml`, `PRODUCTS.md` | Links oficiais sem rastreamento de afiliado; imagens identificadas como ilustrações |
 | 2026-10-04 | Criação do guia de padrão de páginas e documentação das convenções do projeto | `PAGE_PATTERN_REFERENCE.md`, `README.md` | Definição inicial do padrão para novos itens |
 
 ---

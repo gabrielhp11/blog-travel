@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Omio: editorial illustration</title><desc id="desc">Original PokiSky illustration about transport &amp; tickets. Not a product screenshot or official brand artwork.</desc>
+<defs><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#385b87"/><stop offset="1" stop-color="#9cb9b0"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0v48" fill="none" stroke="#385b87" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="720" fill="#eaf0f8"/><rect width="1200" height="720" fill="url(#grid)"/><circle cx="873" cy="360" r="268" fill="#385b87" opacity=".07"/>
+<circle cx="84" cy="297" r="6" fill="#385b87"/><path d="M107 297h80" stroke="#385b87" stroke-width="2"/>
+<text x="78" y="381" font-family="Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#385b87">Omio</text>
+<text x="81" y="426" font-family="Arial, sans-serif" font-size="20" letter-spacing="3" fill="#385b87">TRANSPORT &amp; TICKETS</text>
+<g style="--color:#385b87;--soft:#eaf0f8;--gold:#d5b776" stroke="#385b87" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="722" y="153" width="292" height="356" rx="65" fill="white"/><rect x="753" y="224" width="230" height="149" rx="24" fill="#eaf0f8"/><path d="M868 224v149M819 190h100M783 509l-54 66M953 509l55 66M751 547h235"/><circle cx="778" cy="443" r="20" fill="#d5b776" stroke="none"/><circle cx="958" cy="443" r="20" fill="#d5b776" stroke="none"/><path d="M653 299h-70M655 335h-109"/></g></svg>

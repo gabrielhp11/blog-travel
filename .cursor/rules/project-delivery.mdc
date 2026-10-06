@@ -1,0 +1,12 @@
+---
+description: Manter o GitHub atualizado e o padrão visual das páginas PokiSky
+alwaysApply: true
+---
+
+# Entrega do projeto
+
+- Ao concluir alterações solicitadas neste projeto, validar os arquivos afetados, criar um commit e enviar ao GitHub pelo remote `origin`. O usuário autorizou esse fluxo em 6 de outubro de 2026 e pediu para sempre manter o GitHub atualizado.
+- Usar push normal; não usar force-push nem reescrever histórico. Se houver falha de acesso ou conflito, explicar o impedimento sem afirmar que o envio foi concluído.
+- As páginas de oferta devem conter pelo menos três imagens relevantes, distintas e acessíveis. Usar texto alternativo e dimensões; carregar imagens abaixo da primeira dobra com `loading="lazy"`.
+- Identificar ilustrações editoriais e distinguir imagens de contexto de fotos oficiais. Não inventar embalagens, interfaces, testemunhos, resultados ou funcionalidades.
+- Seguir `README.md` e `docs/PAGE_PATTERN_REFERENCE.md` para conteúdo, links de afiliado e metadados.

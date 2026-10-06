@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Civitatis: editorial illustration</title><desc id="desc">Original PokiSky illustration about guided visits &amp; excursions. Not a product screenshot or official brand artwork.</desc>
+<defs><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#88465f"/><stop offset="1" stop-color="#9cb9b0"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0v48" fill="none" stroke="#88465f" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="720" fill="#f7eaf0"/><rect width="1200" height="720" fill="url(#grid)"/><circle cx="873" cy="360" r="268" fill="#88465f" opacity=".07"/>
+<circle cx="84" cy="297" r="6" fill="#88465f"/><path d="M107 297h80" stroke="#88465f" stroke-width="2"/>
+<text x="78" y="381" font-family="Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#88465f">Civitatis</text>
+<text x="81" y="426" font-family="Arial, sans-serif" font-size="20" letter-spacing="3" fill="#88465f">GUIDED VISITS &amp; EXCURSIONS</text>
+<g style="--color:#88465f;--soft:#f7eaf0;--gold:#d5b776" stroke="#88465f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="m669 227 121-47 131 47 137-47v337l-137 47-131-47-121 47z" fill="white"/><path d="M790 180v337M921 227v337"/><path d="M711 457c43-77 78-37 114-108s81-35 141-57" stroke-dasharray="10 15"/><path d="M1018 239c0 50-56 107-56 107s-56-57-56-107a56 56 0 0 1 112 0z" fill="#d5b776" stroke="none"/><circle cx="962" cy="239" r="21" fill="white" stroke="none"/></g></svg>

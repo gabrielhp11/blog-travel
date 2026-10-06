@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Spanish Slow and Easy: editorial illustration</title><desc id="desc">Original PokiSky illustration about spanish learning. Not a product screenshot or official brand artwork.</desc>
+<defs><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#9b5b3b"/><stop offset="1" stop-color="#9cb9b0"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0v48" fill="none" stroke="#9b5b3b" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="720" fill="#f4ece2"/><rect width="1200" height="720" fill="url(#grid)"/><circle cx="873" cy="360" r="268" fill="#9b5b3b" opacity=".07"/>
+<circle cx="84" cy="297" r="6" fill="#9b5b3b"/><path d="M107 297h80" stroke="#9b5b3b" stroke-width="2"/>
+<text x="78" y="381" font-family="Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-2" fill="#9b5b3b">Spanish Slow and Easy</text>
+<text x="81" y="426" font-family="Arial, sans-serif" font-size="18" letter-spacing="2" fill="#9b5b3b">SPANISH LEARNING</text>
+<g style="--color:#9b5b3b;--soft:#f4ece2;--gold:#d5b776" stroke="#9b5b3b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M696 193h232a28 28 0 0 1 28 28v138a28 28 0 0 1-28 28H791l-73 61v-61h-22a28 28 0 0 1-28-28V221a28 28 0 0 1 28-28z" fill="white"/><path d="m731 326 37-87 37 87m-59-28h46" stroke-width="9"/><path d="M873 345h195a28 28 0 0 1 28 28v122a28 28 0 0 1-28 28h-10v55l-63-55H873a28 28 0 0 1-28-28V373a28 28 0 0 1 28-28z" fill="#f4ece2"/><path d="M895 396h150M920 442h100"/><circle cx="1012" cy="203" r="30" fill="#d5b776" stroke="none"/></g></svg>

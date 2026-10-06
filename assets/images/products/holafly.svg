@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Holafly: editorial illustration</title><desc id="desc">Original PokiSky illustration about international data. Not a product screenshot or official brand artwork.</desc>
+<defs><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#8a4a55"/><stop offset="1" stop-color="#9cb9b0"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0v48" fill="none" stroke="#8a4a55" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="720" fill="#f7e9ee"/><rect width="1200" height="720" fill="url(#grid)"/><circle cx="873" cy="360" r="268" fill="#8a4a55" opacity=".07"/>
+<circle cx="84" cy="297" r="6" fill="#8a4a55"/><path d="M107 297h80" stroke="#8a4a55" stroke-width="2"/>
+<text x="78" y="381" font-family="Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#8a4a55">Holafly</text>
+<text x="81" y="426" font-family="Arial, sans-serif" font-size="20" letter-spacing="3" fill="#8a4a55">INTERNATIONAL DATA</text>
+<g style="--color:#8a4a55;--soft:#f7e9ee;--gold:#d5b776" stroke="#8a4a55" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="866" cy="348" r="182" fill="white"/><ellipse cx="866" cy="348" rx="81" ry="182"/><path d="M686 348h360M710 255h311M709 443h313"/><path d="M1017 181c-55-38-106-20-106 34 0 44 54 91 54 91s55-47 55-91c0-13-1-25-3-34z" fill="#d5b776" stroke="none"/><circle cx="965" cy="218" r="18" fill="white" stroke="none"/><path d="M731 547h267"/></g></svg>
