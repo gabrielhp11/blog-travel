@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/social-media-masterclass",
+      "destination": "/topics/business/creative-learning/social-media-masterclass",
+      "permanent": true
+    },
+    {
+      "source": "/social-media-masterclass.html",
+      "destination": "/topics/business/creative-learning/social-media-masterclass.html",
+      "permanent": true
+    },
+    {
       "source": "/excel-paket",
       "destination": "/topics/business/productivity/excel-paket",
       "permanent": true

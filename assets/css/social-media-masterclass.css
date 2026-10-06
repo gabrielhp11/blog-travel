@@ -1,0 +1,35 @@
+.page-social-media-masterclass {
+  --bg: #f9f7fc;
+  --ink: #242035;
+  --muted: #655d76;
+  --accent: #6346a5;
+  --accent-soft: #eee8f7;
+  --gold: #b6784e;
+  --line: rgba(21, 42, 34, .12);
+}
+.page-social-media-masterclass .topbar { background: rgba(247, 249, 244, .95); }
+.page-social-media-masterclass .hero { padding-bottom: 64px; }
+.page-social-media-masterclass h1 { max-width: 15ch; font-size: clamp(2.6rem, 4.5vw, 3.9rem); }
+.page-social-media-masterclass .hero-copy { padding-top: 12px; }
+.page-social-media-masterclass .ad-label { font-size: .76rem; color: var(--muted); margin: 0 0 24px; }
+.page-social-media-masterclass .product-card { border-radius: 16px; overflow: hidden; }
+.page-social-media-masterclass .bundle-number { font-size: 2.8rem; letter-spacing: -.06em; font-weight: 800; color: var(--accent); margin: 0; }
+.page-social-media-masterclass .purchase-note { font-size: .8rem; max-width: 57ch; color: var(--muted); }
+.page-social-media-masterclass .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.page-social-media-masterclass .feature-index { display: block; color: var(--accent); font-size: .78rem; margin-bottom: 18px; letter-spacing: .08em; }
+.page-social-media-masterclass .compatibility { padding: 22px 24px; border-left: 3px solid var(--gold); background: #f5eddf; border-radius: 0 8px 8px 0; margin-top: 24px; }
+.page-social-media-masterclass .compatibility p { margin: 0; }
+.page-social-media-masterclass .editorial-source a, .page-social-media-masterclass .editorial-disclosure a { text-decoration: underline; text-underline-offset: 3px; }
+.page-social-media-masterclass .cta-block { background: #322249; color: #fff; }
+.page-social-media-masterclass .cta-block p { color: #e5dced; }
+.page-social-media-masterclass .cta-block .eyebrow { color: #d4bfe9; }
+.page-social-media-masterclass .cta-block .btn { background: #eadcf8; color: #322249; white-space: nowrap; }
+@media (max-width: 760px) {
+  .page-social-media-masterclass .feature-grid { grid-template-columns: 1fr; }
+  .page-social-media-masterclass .nav { gap: 12px; flex-wrap: wrap; padding-block: 12px; }
+  .page-social-media-masterclass .nav-links { gap: 14px; font-size: .8rem; }
+}
+@media (max-width: 420px) {
+  .page-social-media-masterclass .cta-row .btn { width: 100%; }
+  .page-social-media-masterclass h1 { font-size: 2.5rem; }
+}

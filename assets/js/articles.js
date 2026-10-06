@@ -10,6 +10,35 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
   {
+    "id": 47,
+    "topic": "business",
+    "subtopic": "creative-learning",
+    "locale": "de-DE",
+    "market": "Germany, Austria and German-speaking Europe",
+    "category": "Social media & AI content",
+    "audience": "Beginners creating content for their own projects",
+    "title": "Social Media Masterclass: KI-Content mit einem klaren Plan",
+    "summary": "Entdecken Sie den deutschsprachigen Videokurs von Ralf Schmitz und Adrian Giger: neun Module zu KI, Design und Content-Planung. Prüfen Sie Inhalte und zusätzliche Werkzeugkosten vor dem Kauf.",
+    "highlights": [
+      "9 Module laut Anbieter",
+      "Online-Videokurs im eigenen Tempo",
+      "Werkzeugkosten separat prüfen"
+    ],
+    "service": "Social media education",
+    "ctaText": "Kursangebot ansehen",
+    "reviewUrl": "topics/business/creative-learning/social-media-masterclass.html",
+    "bookingUrl": "https://www.digistore24.com/content/646880/36202/gabrielhenriquep123f97e",
+    "imageUrl": "assets/images/products/social-media-masterclass.svg",
+    "imageAlt": "Ideen und Redaktionsplan; redaktionelle Illustration von PokiSky, keine Kursansicht",
+    "imageType": "editorial",
+    "linkType": "affiliate",
+    "network": "Digistore24",
+    "productId": 646880,
+    "affiliateStatus": "tracking-verified; partnership approval and commission not verified in account",
+    "isDirectAffiliate": true,
+    "featured": false
+  },
+  {
     "id": 46,
     "topic": "business",
     "subtopic": "productivity",
