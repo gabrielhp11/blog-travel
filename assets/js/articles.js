@@ -10,6 +10,35 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
   {
+    "id": 50,
+    "topic": "wellness",
+    "subtopic": "longevity",
+    "locale": "en-GB",
+    "market": "United Kingdom and Ireland only",
+    "category": "Multi-ingredient capsule supplements",
+    "audience": "Adults comparing supplement labels and pack sizes",
+    "title": "Advanced Mitochondrial Formula: Capsules, Label & Pack Options",
+    "summary": "Compare this physical supplement from Advanced Bionutritionals: 60 capsules per bottle and eleven labelled ingredient amounts. Read the label, compare packs and check UK or Ireland delivery before ordering.",
+    "highlights": [
+      "60 capsules per bottle",
+      "Eleven labelled ingredient amounts",
+      "UK and Ireland delivery listed by seller"
+    ],
+    "service": "Physical food supplement",
+    "ctaText": "View current product offer",
+    "reviewUrl": "topics/wellness/longevity/advanced-mitochondrial-formula.html",
+    "bookingUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm#aff=gabrielhenriquep123f97e",
+    "imageUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Mitochondrial-2023/High-Design/header-bottle.png",
+    "imageAlt": "Official Advanced Mitochondrial Formula bottle labelled 60 capsules",
+    "imageType": "official",
+    "linkType": "affiliate",
+    "network": "Digistore24",
+    "productId": 576635,
+    "affiliateStatus": "tracking-verified; seller announces automatic approval for permitted organic channels; account commission not verified",
+    "isDirectAffiliate": true,
+    "featured": false
+  },
+  {
     "id": 49,
     "topic": "wellness",
     "subtopic": "longevity",

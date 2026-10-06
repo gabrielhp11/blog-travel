@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/advanced-mitochondrial-formula",
+      "destination": "/topics/wellness/longevity/advanced-mitochondrial-formula",
+      "permanent": true
+    },
+    {
+      "source": "/advanced-mitochondrial-formula.html",
+      "destination": "/topics/wellness/longevity/advanced-mitochondrial-formula.html",
+      "permanent": true
+    },
+    {
       "source": "/circo2",
       "destination": "/topics/wellness/longevity/circo2",
       "permanent": true
