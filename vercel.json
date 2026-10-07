@@ -527,5 +527,16 @@
       "destination": "/topics/education/music-learning/piano-boogie-woogie",
       "permanent": true
     }
+  ],
+  "headers": [
+    {
+      "source": "/assets/fonts/:font.woff2",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
   ]
 }

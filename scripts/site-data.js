@@ -17,6 +17,8 @@ function indexable(file) {
 const guides = catalog.filter(article => !article.hidden && article.reviewUrl?.endsWith('.html') && indexable(article.reviewUrl));
 const languages = {'pt-BR': 'Português', 'de-DE': 'Deutsch', 'en-GB': 'English', en: 'English'};
 const localeOf = (article) => article.locale || 'en';
+// Audience metadata is editorial context, not a guarantee of delivery or billing support.
+const isEuropeanGuide = article => /europe|germany|austria|united kingdom|\buk\b|ireland/i.test(article.market || '');
 const hubs = [
   {key: 'travel', file: 'guides/travel.html', title: 'Travel planning: eSIMs, transport and experiences', label: 'Travel', description: 'Compare travel eSIMs, transport booking tools, guided experiences and travel-learning guides. Check coverage, ticket conditions and total trip costs.', topics: ['travel'], groups: [
     ['Connectivity', 'Compare your existing roaming allowance with the destinations, validity and activation rules of an eSIM. Check your exact phone model and whether it is unlocked before buying.', ['connectivity']],
@@ -37,8 +39,12 @@ const hubs = [
     ['Seller-described formulas', 'Read claims separately from the ingredient list. These guides summarise public seller information and do not establish clinical effectiveness or replace a qualified health professional.', ['brain-health', 'gut-health', 'mens-health', 'metabolic-health']]
   ]}
 ];
+hubs.push({key: 'europe', file: 'guides/europe.html', title: 'Buyer guides for Europe: English and German', label: 'Europe', description: 'Compare English and German guides for European readers. Check course language, software licences, billing country, currency and the final purchase terms.', topics: [], groups: [
+  ['English guides for European readers', 'These guides are written in English. Check the supplier’s actual teaching, interface and support languages, as well as availability in your billing country.', ['en', 'en-GB']],
+  ['Ratgeber auf Deutsch', 'Vergleichen Sie Kursinhalte, Softwarelizenzen und Kaufbedingungen. Prüfen Sie Unterrichtssprache, Währung, den Gesamtpreis und die Verfügbarkeit in Ihrem Land direkt beim Anbieter.', ['de-DE']]
+]});
 const hubFor = (article) => hubs.find(hub => hub.topics.includes(article.topic));
-const guidesFor = (hub) => guides.filter(article => hub.topics.includes(article.topic));
+const guidesFor = (hub) => guides.filter(article => hub.key === 'europe' ? isEuropeanGuide(article) && ['en', 'en-GB', 'de-DE'].includes(localeOf(article)) : hub.topics.includes(article.topic));
 const affiliateMarker = vm.runInNewContext(`${fs.readFileSync('assets/js/articles.js', 'utf8')}\nAFFILIATE_CONFIG.travelPayoutsMarker`);
 
 function bookingLink(article) {
@@ -59,12 +65,12 @@ function renderCard(article, index) {
   const image = imageUrl ? `<img class="post-image" src="${escapeHtml(imageUrl)}" alt="${escapeHtml(article.imageAlt || article.title)}" width="${width}" height="${height}" loading="lazy" decoding="async" />` : '';
   const caption = article.imageType === 'editorial' ? `<span class="post-art-label">${lang === 'pt-BR' ? 'Ilustração editorial' : lang.startsWith('de') ? 'Redaktionelle Illustration' : 'Editorial illustration'}</span>` : '';
   const rel = article.linkType === 'official' ? 'noopener noreferrer' : 'noopener sponsored nofollow';
-  return `<article class="blog-post" lang="${escapeHtml(lang)}" data-topic="${escapeHtml(article.topic)}" data-locale="${escapeHtml(lang)}" data-market="${escapeHtml(article.market)}" data-network="${network}">
+  return `<article class="blog-post" lang="${escapeHtml(lang)}" data-topic="${escapeHtml(article.topic)}" data-locale="${escapeHtml(lang)}" data-market="${escapeHtml(article.market)}" data-europe="${isEuropeanGuide(article)}" data-network="${network}">
   <div class="post-header${image ? ' has-image' : ''}${article.imageType === 'editorial' ? ' editorial-artwork' : ''}">${image}<span class="post-category">${escapeHtml(article.category)}</span>${caption}<span class="post-index" aria-hidden="true">${String(index + 1).padStart(2, '0')}</span></div>
   <div class="post-content"><div class="post-meta"><span class="post-badge">${languages[lang] || lang}</span><span class="post-service-tag">${escapeHtml(article.service)}</span></div>
   <h3><a href="${cleanPath(article.reviewUrl)}">${escapeHtml(article.title)}</a></h3><p>${escapeHtml(article.summary)}</p>
   ${article.market === 'Europe' ? `<ul class="post-highlights">${(article.highlights || []).map(text => `<li>${escapeHtml(text)}</li>`).join('')}</ul>` : ''}
-  <div class="post-footer"><a class="text-link" href="${cleanPath(article.reviewUrl)}">${guideLabel} <span aria-hidden="true">&#8594;</span></a><a class="btn btn-primary" href="${escapeHtml(bookingLink(article))}" target="_blank" rel="${rel}">${escapeHtml(article.ctaText)} <span aria-hidden="true">&#8599;</span></a></div></div>
+  <div class="post-footer"><a class="text-link" href="${cleanPath(article.reviewUrl)}" aria-label="${escapeHtml(guideLabel + ": " + article.title)}">${guideLabel} <span aria-hidden="true">&#8594;</span></a><a class="btn btn-primary" href="${escapeHtml(bookingLink(article))}" target="_blank" rel="${rel}">${escapeHtml(article.ctaText)} <span aria-hidden="true">&#8599;</span></a></div></div>
 </article>`.replace(/[ \t]+$/gm, '');
 }
 
@@ -76,4 +82,4 @@ function itemList(articles) {
   return { '@type': 'ItemList', itemListElement: articles.map((article, index) => ({'@type': 'ListItem', position: index + 1, name: article.title, url: absoluteUrl(cleanPath(article.reviewUrl))})) };
 }
 
-module.exports = {siteUrl, catalog, guides, hubs, languages, localeOf, cleanPath, absoluteUrl, escapeHtml, indexable, hubFor, guidesFor, renderCard, jsonLd, itemList};
+module.exports = {isEuropeanGuide, siteUrl, catalog, guides, hubs, languages, localeOf, cleanPath, absoluteUrl, escapeHtml, indexable, hubFor, guidesFor, renderCard, jsonLd, itemList};

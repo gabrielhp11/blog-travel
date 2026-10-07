@@ -1,0 +1,66 @@
+[
+  {
+    "family": "DM Sans",
+    "subset": "latin-ext",
+    "file": "dm-sans-latin-ext-a5d38fe99f.woff2",
+    "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2",
+    "sha256": "a5d38fe99f930275684999b462c7123faa063d9e44e73b4b241723d884aa0f49",
+    "bytes": 18228
+  },
+  {
+    "family": "DM Sans",
+    "subset": "latin",
+    "file": "dm-sans-latin-9fea608a94.woff2",
+    "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+    "sha256": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543",
+    "bytes": 36932
+  },
+  {
+    "family": "Inter",
+    "subset": "latin-ext",
+    "file": "inter-latin-ext-34b9c504ca.woff2",
+    "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2",
+    "sha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+    "bytes": 85068
+  },
+  {
+    "family": "Inter",
+    "subset": "latin",
+    "file": "inter-latin-3100e775e8.woff2",
+    "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+    "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+    "bytes": 48256
+  },
+  {
+    "family": "Manrope",
+    "subset": "latin-ext",
+    "file": "manrope-latin-ext-3911b66d9f.woff2",
+    "source": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSuXd.woff2",
+    "sha256": "3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb",
+    "bytes": 15120
+  },
+  {
+    "family": "Manrope",
+    "subset": "latin",
+    "file": "manrope-latin-a30ddcd349.woff2",
+    "source": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2",
+    "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+    "bytes": 24836
+  },
+  {
+    "family": "Source Serif 4",
+    "subset": "latin-ext",
+    "file": "source-serif-4-latin-ext-155f6e7010.woff2",
+    "source": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFI2_tTDB4M7-auWDN0ahZJW1gV8tenXg.woff2",
+    "sha256": "155f6e701097cc269cf8d5d7ac86795f263f1afbeb47c14d1d747108c9335389",
+    "bytes": 100872
+  },
+  {
+    "family": "Source Serif 4",
+    "subset": "latin",
+    "file": "source-serif-4-latin-f2ea9c12d2.woff2",
+    "source": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFI2_tTDB4M7-auWDN0ahZJW1gb8tc.woff2",
+    "sha256": "f2ea9c12d2fe9bd3a9589b02ad2c0909da88f30938c91adc838c4f4098f9f9e0",
+    "bytes": 122360
+  }
+]

@@ -17,7 +17,7 @@ After changing the catalog or pages, run `npm run seo:build` and `npm run seo:ch
 ## Current crawl files
 
 - `robots.txt` allows crawling and advertises the sitemap.
-- `sitemap.xml` lists the home page, disclosure page, three topic directories, and public catalog pages with self-referencing extensionless canonicals and no `noindex` directive.
+- `sitemap.xml` lists the home page, disclosure page, four directories (including Europe), and public catalog pages with self-referencing extensionless canonicals and no `noindex` directive.
 - Pages with unconfirmed offer details remain crawlable but carry `noindex, follow`; do not block them in `robots.txt`, because search engines need to fetch the page to see that directive.
 
 Search engines decide independently whether and when to index a submitted page. A successful sitemap submission is not an indexing or ranking guarantee.
@@ -30,9 +30,9 @@ The Bing account was created using Google sign-in. Search Console data was not i
 
 ## Deployment verification
 
-On 6 October 2026, the public sitemap returned HTTP 200 with `application/xml`. A guide URL ending in `.html` returned HTTP 308 to its extensionless equivalent. The October SEO update aligns canonicals, internal links and sitemap entries with those final URLs. After deployment, confirm that the sitemap contains 48 URLs and includes `/guides/travel`, `/guides/courses` and `/guides/wellness`, then resubmit it in Google Search Console and Bing.
+On 6 October 2026, the public sitemap returned HTTP 200 with `application/xml`. A guide URL ending in `.html` returned HTTP 308 to its extensionless equivalent. The October SEO update aligns canonicals, internal links and sitemap entries with those final URLs. The 7 October release generates 69 URLs, including `/guides/europe`; confirm the current generated count before submitting the deployed sitemap.
 
-No current Search Console performance export was available during this update. Do not treat repository findings as measured traffic losses or claim a percentage improvement.
+On 7 October, authenticated Google and Bing reports were still processing. The Google sitemap had been processed with 50 discovered URLs from 6 October; Bing had no sitemap submission. Google’s live homepage test passed, while its indexed-version inspection showed discovered but not yet indexed. See `SEO_EUROPE_AUDIT_2026-10-07.md` for the deployment follow-up. Do not treat repository findings as measured traffic losses or claim a percentage improvement.
 
 ## Measure the organic impact
 

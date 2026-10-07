@@ -60,7 +60,7 @@ Todas as páginas de review seguem o mesmo padrão editorial, independente da ca
    - `<meta name="description">`
    - `<link rel="canonical">`
    - meta tags Open Graph (`og:type`, `og:title`, `og:description`, `og:url`, `og:image`)
-   - `preconnect` para Google Fonts
+   - fontes WOFF2 locais via `/assets/css/fonts.css`, com `font-display: optional` e preload apenas da fonte de corpo; manter licenças e arquivos com hash
    - `link rel="stylesheet"` para `../../../assets/css/review.css`
    - `link rel="stylesheet"` para a CSS específica da página, quando existir
 3. `<body>` com classe temática específica, quando houver:

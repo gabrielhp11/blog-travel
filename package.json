@@ -1,8 +1,8 @@
 {
   "scripts": {
     "seo:sitemap": "node scripts/generate-sitemap.js",
-    "seo:build": "node scripts/optimize-pages.js && node scripts/generate-catalog.js && node scripts/generate-sitemap.js",
-    "seo:check": "node scripts/validate-seo.js"
+    "seo:build": "node scripts/optimize-pages.js && node scripts/generate-catalog.js && node scripts/optimize-performance.js && node scripts/generate-sitemap.js",
+    "seo:check": "node scripts/validate-seo.js && node scripts/validate-europe-performance.js"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1"

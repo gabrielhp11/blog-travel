@@ -5,7 +5,7 @@ PokiSky is a static, multilingual publication for source-based product and cours
 ## Site structure
 
 - `index.html` is the publication home page. Its catalog is generated as static HTML from `assets/js/articles.js`; JavaScript only enhances the filters.
-- `guides/travel.html`, `guides/courses.html` and `guides/wellness.html` group published guides with topic-specific buying criteria and crawlable links.
+- `guides/travel.html`, `guides/courses.html` `guides/wellness.html` and `guides/europe.html` group published guides with topic- and audience-specific buying criteria and crawlable links.
 - `docs/PRODUCTS.md` is the register of public guides and their editorial status.
 - `topics/` contains the individual product guides and offer-status pages.
 - `assets/css/review.css` provides the shared product-page layout; `assets/css/editorial.css` supplies the editorial sections; each product stylesheet sets its own palette.
@@ -45,7 +45,7 @@ The public catalog is maintained in `assets/js/articles.js`. Pages with unverifi
 
 Use filenames ending in `.html` in the catalog and on disk. Public URLs, canonicals, internal links and the sitemap use extensionless paths to match Vercel's `cleanUrls` redirects. Existing `.html` URLs continue to redirect to their clean equivalents.
 
-`npm run seo:build` updates published guide titles and H1s from the catalog, page languages, visible editorial bylines, related links, Article/BreadcrumbList metadata, static catalogs and the sitemap. It preserves seller links and existing source-check dates. It does not invent review ratings, author credentials, publication dates, translated alternatives or product results. Keep each guide's catalog title descriptive of its actual content.
+`npm run seo:build` updates published guide titles and H1s from the catalog, page languages, visible editorial bylines, related links, Article/BreadcrumbList metadata, static catalogs, local font loading and the sitemap. It preserves seller links and existing source-check dates. It does not invent review ratings, author credentials, publication dates, translated alternatives or product results. Keep each guide's catalog title descriptive of its actual content.
 
 `npm run seo:check` verifies public-page metadata, HTML links and anchors, image requirements, sitemap consistency and visible structured-data details. The GitHub SEO workflow runs these checks and verifies that generation leaves committed artifacts unchanged. After adding images, record their actual dimensions and identify editorial artwork visibly.
 
@@ -58,3 +58,9 @@ Google Search does not guarantee rankings or rich-result display. Google Ads is 
 ## Delivery preference
 
 The user requests that completed project changes are validated, committed and pushed to GitHub through `origin`. Use a normal push and report any access or conflict blocker. Persistent instructions are in `AGENTS.md` and `.cursor/rules/project-delivery.mdc`.
+
+The Europe directory groups guides by the editorial audience recorded in the catalog and distinguishes English and German content. It does not imply delivery or billing support in every European country. Do not add hreflang between unrelated products; translated variants must represent the same page content.
+
+Fonts are served locally in WOFF2 format with Latin and extended Latin coverage. Keep `assets/fonts/manifest.json` and the SIL OFL licences alongside the hashed font files. `font-display: optional` lets text appear promptly with a fallback on a slow first load. The build removes external Google font links and preloads only the body font. Font binaries have immutable caching; use a new filename when their contents change.
+
+See [the 7 October European SEO audit](docs/SEO_EUROPE_AUDIT_2026-10-07.md) for verified account findings, mobile measurements and their limits.

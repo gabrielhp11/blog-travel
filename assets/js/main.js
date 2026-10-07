@@ -9,10 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
   if (filters && cards.length) filters.hidden = false;
 
   function matches(card, filter) {
-    const {topic, locale, market, network} = card.dataset;
+    const {topic, locale, europe, network} = card.dataset;
     if (filter === 'all') return true;
     if (filter === 'business') return topic === 'business' || topic === 'education';
-    if (filter === 'europe') return market === 'Europe' && locale === 'en-GB';
+    if (filter === 'europe') return europe === 'true' && locale.startsWith('en');
+    if (filter === 'german') return locale.startsWith('de');
     if (filter === 'digistore24') return network === 'digistore24';
     return topic === filter;
   }
