@@ -3,6 +3,26 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/ultimate-viddeos-ai",
+      "destination": "/topics/business/marketing-tools/ultimate-viddeos-ai",
+      "permanent": true
+    },
+    {
+      "source": "/ultimate-viddeos-ai.html",
+      "destination": "/topics/business/marketing-tools/ultimate-viddeos-ai",
+      "permanent": true
+    },
+    {
+      "source": "/agent-x",
+      "destination": "/topics/business/ai-training/agent-x",
+      "permanent": true
+    },
+    {
+      "source": "/agent-x.html",
+      "destination": "/topics/business/ai-training/agent-x",
+      "permanent": true
+    },
+    {
       "source": "/remixable-founder",
       "destination": "/topics/business/digital-skills/remixable-founder",
       "permanent": true

@@ -672,3 +672,10 @@ Se uma página não seguir esses padrões, ela deve ser ajustada antes de entrar
 
 
 
+
+
+### 7 October 2026 — English automation and video subscriptions
+
+- Added Agent X and Ultimate Viddeos AI, six distinct labelled editorial SVG illustrations and product-specific palettes.
+- Verified 50% marketplace rates/account partnership acceptance and correct affiliate checkout attribution. Clear source-based limits, total costs, annual renewal/optional extra and refund discrepancies. No earnings or demand promises.
+- Added clean aliases, catalog entries, generated related links/hubs/sitemap; documented primary sources, conditional €70 scenarios and broad EU AI adoption context in `docs/PRODUCTS.md`.
