@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/coachy-premium",
+      "destination": "/topics/business/digital-skills/coachy-premium",
+      "permanent": true
+    },
+    {
+      "source": "/coachy-premium.html",
+      "destination": "/topics/business/digital-skills/coachy-premium",
+      "permanent": true
+    },
+    {
       "source": "/chartsensor",
       "destination": "/topics/business/finance-ai/chartsensor",
       "permanent": true

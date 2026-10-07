@@ -10,6 +10,34 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
   {
+    "id": 57,
+    "topic": "business",
+    "subtopic": "digital-skills",
+    "locale": "en-GB",
+    "market": "European business course creators",
+    "category": "English-language course software",
+    "audience": "Businesses creating their own courses",
+    "title": "Coachy Premium: Create an Online Course in English",
+    "summary": "Explore Coachy Premium for hosting your own lessons and member area. English interface and written help, 30-day trial and a published €420 annual price before VAT.",
+    "highlights": [
+      "English interface and written help",
+      "One course/product on Premium",
+      "€420/year before VAT; free trial separate"
+    ],
+    "service": "Hosted course and member-area software",
+    "ctaText": "Explore Coachy and its free trial",
+    "reviewUrl": "topics/business/digital-skills/coachy-premium.html",
+    "bookingUrl": "https://www.coachy.net/a/gabrielhenriquep123f97e",
+    "imageUrl": "assets/images/products/coachy-premium.svg",
+    "imageAlt": "Lesson folder, open book and play symbol; editorial illustration, not a Coachy screenshot",
+    "imageType": "editorial",
+    "linkType": "affiliate",
+    "network": "Digistore24",
+    "affiliateStatus": "Referral parameter verified through English trial registration; paid checkout not inspected; seller announces automatic 25%; account rate/eligibility unverified; EUR70 estimate requires annual paid purchase, not trial or Premium monthly plan",
+    "isDirectAffiliate": true,
+    "featured": false
+  },
+  {
     "id": 56,
     "topic": "business",
     "subtopic": "finance-ai",

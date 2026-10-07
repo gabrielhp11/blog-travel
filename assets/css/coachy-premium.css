@@ -1,0 +1,36 @@
+.page-coachy {
+  --bg: #f7f4ed;
+  --ink: #2a3f34;
+  --muted: #6b776e;
+  --accent: #496252;
+  --accent-soft: #e5ece4;
+  --gold: #b48a4d;
+  --line: rgba(56, 47, 39, .12);
+}
+.page-coachy .topbar { background: rgba(247, 244, 237, .95); }
+.page-coachy .hero { padding-bottom: 64px; }
+.page-coachy h1 { max-width: 20ch; font-size: clamp(2.4rem, 4.1vw, 3.25rem); overflow-wrap: normal; hyphens: auto; }
+.page-coachy .hero-copy { padding-top: 12px; }
+.page-coachy .ad-label { font-size: .76rem; color: var(--muted); margin: 0 0 24px; }
+.page-coachy .product-card { border-radius: 16px; overflow: hidden; }
+.page-coachy .purchase-note { font-size: .8rem; max-width: 57ch; color: var(--muted); }
+.page-coachy .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.page-coachy .feature-index { display: block; color: var(--accent); font-size: .78rem; margin-bottom: 18px; letter-spacing: .08em; }
+.page-coachy .compatibility { padding: 22px 24px; border-left: 3px solid var(--gold); background: #edf0e8; border-radius: 0 8px 8px 0; margin: 24px 0; }
+.page-coachy .compatibility p { margin: 0; }
+.page-coachy .cta-block { background: var(--accent); color: #fff; }
+.page-coachy .cta-block p { color: #e5ece4; }
+.page-coachy .cta-block .eyebrow { color: #ecd8b1; }
+.page-coachy .cta-block .btn { background: #ecd8b1; color: #2a3f34; }
+.page-coachy .course-price { font-size: 2.4rem; font-weight: 700; color: var(--ink); margin-bottom: 18px; }
+.page-coachy .course-price span { display: block; font-size: .8rem; font-weight: 400; color: var(--muted); margin-top: 8px; }
+.page-coachy section[id] { scroll-margin-top: 90px; }
+@media (max-width: 760px) {
+  .page-coachy .feature-grid { grid-template-columns: 1fr; }
+  .page-coachy .nav { gap: 12px; flex-wrap: wrap; padding-block: 12px; }
+  .page-coachy .nav-links { gap: 14px; font-size: .8rem; }
+}
+@media (max-width: 420px) {
+  .page-coachy .cta-row .btn { width: 100%; }
+  .page-coachy h1 { font-size: 2.25rem; }
+}

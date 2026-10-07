@@ -349,6 +349,7 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-10-06 | Coachy Premium em inglês com três ilustrações originais | `topics/business/digital-skills/coachy-premium.html`, CSS, SVGs, catálogo, redirects e sitemap | Software com interface e ajuda em inglês; indicação preservada até cadastro; anual €420 sem IVA; comissão estimada €95,63 condicionada à compra anual; checkout pago não inspecionado |
 | 2026-10-06 | Rascunho ChartSensor em inglês com três ilustrações originais | `topics/business/finance-ai/chartsensor.html`, CSS, SVGs, catálogo oculto e redirects | ID 690761; aprovação manual obrigatória; atribuição divergente; CTAs de compra pausados, noindex e fora do sitemap |
 | 2026-10-06 | Formação de Ayurveda em alemão com três ilustrações originais | `topics/education/holistic-learning/ayurveda-komplett-ausbildung.html`, catálogo, diretório, assets, redirects e sitemap | ID 369670; atribuição conferida; percentual anunciado conflitante 20–30%, pendente na conta; estimativa acima de €70 na Vorauszahlung; contrato e acesso gradual explicitados |
 | 2026-10-06 | Curso DOG-InForm sobre herdenschutzhunde em alemão e três ilustrações | `topics/education/pet-learning/herdenschutzhund-kurs.html`, `assets/`, catálogo, diretório de cursos, sitemap e redirects | ID 276887; preço alemão e afiliado reconhecido no checkout; 30% anunciados, percentual da conta não verificado; estimativa acima de €70 no pagamento único |
