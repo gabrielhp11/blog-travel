@@ -1,0 +1,62 @@
+.page-curcumitol-q {
+  --bg: #f8f9f4;
+  --ink: #2c3328;
+  --muted: #626b5b;
+  --accent: #846344;
+  --accent-soft: #f2ebdf;
+  --gold: #93815a;
+  --line: rgba(48, 43, 38, .13);
+}
+.page-curcumitol-q .topbar { background: rgba(248, 249, 244, .96); }
+.page-curcumitol-q .hero { padding-bottom: 64px; }
+.page-curcumitol-q h1 { max-width: 15ch; font-size: clamp(2.8rem, 4.8vw, 4.4rem); }
+.page-curcumitol-q .hero-copy { padding-top: 12px; }
+.page-curcumitol-q .ad-label { font-size: .76rem; color: var(--muted); margin: 0 0 24px; }
+.page-curcumitol-q .product-card { border-radius: 16px; overflow: hidden; }
+.page-curcumitol-q .box-photo { background: #fff; padding-top: 28px; }
+.page-curcumitol-q .box-photo img { display: block; width: min(100%, 320px); max-width: 100%; height: auto; margin: 0 auto 20px; }
+.page-curcumitol-q .purchase-note, .page-curcumitol-q .reading-note { font-size: .84rem; max-width: 68ch; color: var(--muted); }
+.page-curcumitol-q .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.page-curcumitol-q .feature-index { display: block; color: var(--accent); font-size: .78rem; margin-bottom: 18px; letter-spacing: .08em; }
+.page-curcumitol-q .label-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 54px; align-items: center; }
+.page-curcumitol-q .label-photo { margin: 0; background: white; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.page-curcumitol-q .label-photo img { display: block; width: 100%; height: auto; }
+.page-curcumitol-q .label-photo figcaption { padding: 16px 20px; font-size: .75rem; color: var(--muted); text-align: center; }
+.page-curcumitol-q .label-photo a { color: var(--accent); text-decoration: underline; }
+.page-curcumitol-q .packs-heading { display: grid; grid-template-columns: minmax(0, 1fr) 348px; align-items: center; gap: 50px; margin-bottom: 32px; }
+.page-curcumitol-q .pack-photo { margin: 0; background: white; padding: 16px; border-radius: 14px; border: 1px solid var(--line); }
+.page-curcumitol-q .pack-photo img { width: 100%; height: auto; display: block; }
+.page-curcumitol-q .pack-photo figcaption { color: var(--muted); text-align: center; font-size: .75rem; padding-top: 12px; }
+.page-curcumitol-q .pack-price { color: var(--ink); font-size: clamp(1.7rem, 3vw, 2.2rem); font-weight: 700; letter-spacing: -.04em; margin: 12px 0; }
+.page-curcumitol-q .pack-grid { margin-bottom: 28px; }
+.page-curcumitol-q .compatibility { padding: 22px 24px; border-left: 3px solid var(--gold); background: #f5eddf; border-radius: 0 8px 8px 0; margin: 24px 0; }
+.page-curcumitol-q .compatibility p { margin: 0; }
+.page-curcumitol-q .editorial-source a, .page-curcumitol-q .editorial-disclosure a { text-decoration: underline; text-underline-offset: 3px; }
+.page-curcumitol-q .cta-block { background: #303927; color: #fff; }
+.page-curcumitol-q .cta-block p { color: #e3e9d8; }
+.page-curcumitol-q .cta-block .eyebrow { color: #cbd7b5; }
+.page-curcumitol-q .cta-block .btn { background: #e4eccf; color: #303927; white-space: nowrap; }
+@media (max-width: 760px) {
+  .page-curcumitol-q .feature-grid, .page-curcumitol-q .label-grid, .page-curcumitol-q .packs-heading { grid-template-columns: 1fr; }
+  .page-curcumitol-q .label-grid, .page-curcumitol-q .packs-heading { gap: 28px; }
+  .page-curcumitol-q .pack-photo { width: min(100%, 380px); }
+  .page-curcumitol-q .nav { gap: 12px; flex-wrap: wrap; padding-block: 12px; }
+  .page-curcumitol-q .nav-links { gap: 16px; font-size: .8rem; }
+}
+@media (max-width: 420px) {
+  .page-curcumitol-q .cta-row .btn { width: 100%; }
+  .page-curcumitol-q h1 { font-size: 2.7rem; }
+  .page-curcumitol-q .cta-block .btn { white-space: normal; }
+}
+
+.page-curcumitol-q .nutrient-list { margin: 24px 0; border-top: 1px solid var(--line); }
+.page-curcumitol-q .nutrient-list div { display: flex; justify-content: space-between; gap: 20px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.page-curcumitol-q .nutrient-list dt { font-weight: 600; }
+.page-curcumitol-q .nutrient-list dd { margin: 0; white-space: nowrap; color: var(--muted); }
+
+.page-curcumitol-q h1 { max-width: 20ch; font-size: clamp(2.3rem, 4vw, 3.3rem); overflow-wrap: normal; hyphens: auto; }
+.page-curcumitol-q .box-photo img { max-height: 300px; object-fit: contain; }
+.page-curcumitol-q .nutrient-list dd { white-space: normal; text-align: right; flex-shrink: 0; }
+@media (max-width:420px) { .page-curcumitol-q h1 {font-size:2.25rem;} }
+
+.page-curcumitol-q .label-photo { background: #fff; padding: 20px; border-radius: 12px; }

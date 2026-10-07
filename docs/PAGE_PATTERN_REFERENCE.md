@@ -349,6 +349,7 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-10-07 | Sequência de três guias físicos em inglês: Curcumitol-Q, Integrative Digestive Formula e GLP-1 Plus | Páginas, CSSs, catálogo, redirects, diretório wellness e sitemap | Nove imagens oficiais com dimensões; três checkouts exibiram o afiliado; preço por pacote e limites de entrega; comissão condicional, procura específica não medida |
 | 2026-10-07 | Sequência de três guias físicos em inglês: BrainAMP, Advanced Vision Formula e Pep Tonic | Páginas, CSSs, catálogo, redirects, diretório wellness e sitemap | Nove imagens oficiais com dimensões; três checkouts exibiram o afiliado; preço por pacote e limites de entrega; comissão condicional, procura específica não medida |
 | 2026-10-06 | Coachy Premium em inglês com três ilustrações originais | `topics/business/digital-skills/coachy-premium.html`, CSS, SVGs, catálogo, redirects e sitemap | Software com interface e ajuda em inglês; indicação preservada até cadastro; anual €420 sem IVA; comissão estimada €95,63 condicionada à compra anual; checkout pago não inspecionado |
 | 2026-10-06 | Rascunho ChartSensor em inglês com três ilustrações originais | `topics/business/finance-ai/chartsensor.html`, CSS, SVGs, catálogo oculto e redirects | ID 690761; aprovação manual obrigatória; atribuição divergente; CTAs de compra pausados, noindex e fora do sitemap |

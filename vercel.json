@@ -3,6 +3,36 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/glp-1-plus",
+      "destination": "/topics/wellness/metabolic-health/glp-1-plus",
+      "permanent": true
+    },
+    {
+      "source": "/glp-1-plus.html",
+      "destination": "/topics/wellness/metabolic-health/glp-1-plus",
+      "permanent": true
+    },
+    {
+      "source": "/integrative-digestive-formula",
+      "destination": "/topics/wellness/gut-health/integrative-digestive-formula",
+      "permanent": true
+    },
+    {
+      "source": "/integrative-digestive-formula.html",
+      "destination": "/topics/wellness/gut-health/integrative-digestive-formula",
+      "permanent": true
+    },
+    {
+      "source": "/curcumitol-q",
+      "destination": "/topics/wellness/nutrition/curcumitol-q",
+      "permanent": true
+    },
+    {
+      "source": "/curcumitol-q.html",
+      "destination": "/topics/wellness/nutrition/curcumitol-q",
+      "permanent": true
+    },
+    {
       "source": "/pep-tonic",
       "destination": "/topics/wellness/nutrition/pep-tonic",
       "permanent": true
