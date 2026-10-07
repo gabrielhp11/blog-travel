@@ -349,6 +349,7 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-10-06 | FunnelCockpit Standard em alemão com 3 ilustrações e custos após teste | `topics/business/marketing-tools/funnelcockpit-standard.html`, `assets/`, catálogo, diretório de cursos, `scripts/site-data.js`, sitemap e redirects | ID 98201; afiliado reconhecido; 25% anunciados, pendente na conta; estimativa acima de €70 apenas por cobrança anual após teste |
 | 2026-10-06 | SEO técnico e navegação editorial: catálogo HTML, três diretórios por assunto, URLs sem extensão, títulos, autoria, links relacionados e dados estruturados | `index.html`, `guides/`, `topics/`, `assets/`, `scripts/`, `sitemap.xml`, `vercel.json`, documentação e CI | 43 guias; três imagens por oferta; idiomas e afiliação preservados; medição de tráfego depende do Search Console |
 | 2026-10-06 | ET-Akademie Dozenten-Paket em alemão e três ilustrações originais | `topics/education/technical-training/et-akademie-dozenten-paket.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | ID 192091; preço alemão e atribuição conferidos; 50% anunciados pelo produtor, pendente na conta |
 | 2026-10-06 | Curso de piano Endlich Klavier Spielen, guia em alemão e três ilustrações originais | `topics/education/music-learning/endlich-klavier-spielen.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | ID 530008; checkout e atribuição conferidos; comissão de 40–50% anunciada pelo produtor, pendente na conta |

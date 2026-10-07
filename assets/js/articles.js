@@ -10,6 +10,35 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
   {
+    "id": 53,
+    "topic": "business",
+    "subtopic": "marketing-tools",
+    "locale": "de-DE",
+    "market": "German-speaking European businesses",
+    "category": "Marketing-Software",
+    "audience": "Selbstständige und Unternehmen",
+    "title": "FunnelCockpit Standard: Webseiten und Marketing verbinden",
+    "summary": "Eine Plattform für Webseiten, Formulare, Kontakte und E-Mail-Marketing. Standard-Jahrestarif: 1 € für 14 Tage, danach 1.177,39 € jährlich für Deutschland beobachtet. Aktuelle Bedingungen prüfen.",
+    "highlights": [
+      "Marketingplattform im Browser",
+      "10 Projekte und 3 Mitgliederbereiche",
+      "Testphase mit anschließendem Abonnement"
+    ],
+    "service": "Browser-based marketing software",
+    "ctaText": "Standard-Angebot ansehen",
+    "reviewUrl": "topics/business/marketing-tools/funnelcockpit-standard.html",
+    "bookingUrl": "https://www.digistore24.com/redir/98201/gabrielhenriquep123f97e/",
+    "imageUrl": "assets/images/products/funnelcockpit-standard.svg",
+    "imageAlt": "Redaktionelle Illustration für Webseite, Kontakt und Nachricht; keine Softwareansicht",
+    "imageType": "editorial",
+    "linkType": "affiliate",
+    "network": "Digistore24",
+    "productId": 98201,
+    "affiliateStatus": "tracking-verified; seller announces 25% recurring commission; account rate and approval not verified; annual charge after trial required for EUR70 estimate",
+    "isDirectAffiliate": true,
+    "featured": false
+  },
+  {
     "id": 52,
     "topic": "education",
     "subtopic": "technical-training",
