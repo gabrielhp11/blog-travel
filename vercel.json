@@ -3,6 +3,26 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/chargeback-prevention-masterclass",
+      "destination": "/topics/business/professional-learning/chargeback-prevention-masterclass",
+      "permanent": true
+    },
+    {
+      "source": "/chargeback-prevention-masterclass.html",
+      "destination": "/topics/business/professional-learning/chargeback-prevention-masterclass",
+      "permanent": true
+    },
+    {
+      "source": "/empowered-parenting",
+      "destination": "/topics/business/family-learning/empowered-parenting",
+      "permanent": true
+    },
+    {
+      "source": "/empowered-parenting.html",
+      "destination": "/topics/business/family-learning/empowered-parenting",
+      "permanent": true
+    },
+    {
       "source": "/ultimate-viddeos-ai",
       "destination": "/topics/business/marketing-tools/ultimate-viddeos-ai",
       "permanent": true

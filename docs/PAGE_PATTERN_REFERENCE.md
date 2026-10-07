@@ -349,6 +349,7 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-10-07 | Sequência em inglês: Empowered Parenting e NEXTMETHOD Chargeback Prevention | Duas páginas, CSS, seis SVGs, catálogo, diretório, redirects e sitemap | Parcerias e taxa de 50% confirmadas; NEXTMETHOD usa exclusivamente o novo link informado pelo usuário; reembolsos e estimativas condicionais documentados |
 | 2026-10-07 | Sequência em inglês: Traffic Genius, Remixable e rascunho SAP EWM Complete Pack | HTML, CSS, nove SVGs, catálogo, redirects e documentação | Duas ofertas com parceria aprovada e taxa de 50%; checkout atribuído; SAP oculto e noindex por comissão pendente |
 | 2026-10-07 | Sequência de três guias físicos em inglês: Curcumitol-Q, Integrative Digestive Formula e GLP-1 Plus | Páginas, CSSs, catálogo, redirects, diretório wellness e sitemap | Nove imagens oficiais com dimensões; três checkouts exibiram o afiliado; preço por pacote e limites de entrega; comissão condicional, procura específica não medida |
 | 2026-10-07 | Sequência de três guias físicos em inglês: BrainAMP, Advanced Vision Formula e Pep Tonic | Páginas, CSSs, catálogo, redirects, diretório wellness e sitemap | Nove imagens oficiais com dimensões; três checkouts exibiram o afiliado; preço por pacote e limites de entrega; comissão condicional, procura específica não medida |
