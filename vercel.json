@@ -3,6 +3,36 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/pep-tonic",
+      "destination": "/topics/wellness/nutrition/pep-tonic",
+      "permanent": true
+    },
+    {
+      "source": "/pep-tonic.html",
+      "destination": "/topics/wellness/nutrition/pep-tonic",
+      "permanent": true
+    },
+    {
+      "source": "/advanced-vision-formula",
+      "destination": "/topics/wellness/vision-health/advanced-vision-formula",
+      "permanent": true
+    },
+    {
+      "source": "/advanced-vision-formula.html",
+      "destination": "/topics/wellness/vision-health/advanced-vision-formula",
+      "permanent": true
+    },
+    {
+      "source": "/brainamp",
+      "destination": "/topics/wellness/brain-health/brainamp",
+      "permanent": true
+    },
+    {
+      "source": "/brainamp.html",
+      "destination": "/topics/wellness/brain-health/brainamp",
+      "permanent": true
+    },
+    {
       "source": "/coachy-premium",
       "destination": "/topics/business/digital-skills/coachy-premium",
       "permanent": true
