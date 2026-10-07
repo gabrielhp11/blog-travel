@@ -1,0 +1,39 @@
+.page-sequence {
+  --bg: #f7f4ed;
+  --ink: #3e3227;
+  --muted: #6b776e;
+  --accent: #66513c;
+  --accent-soft: #eee6d9;
+  --gold: #b28a4e;
+  --line: rgba(56, 47, 39, .12);
+}
+.page-sequence .topbar { background: rgba(247, 244, 237, .95); }
+.page-sequence .hero { padding-bottom: 64px; }
+.page-sequence h1 { max-width: 20ch; font-size: clamp(2.4rem, 4.1vw, 3.25rem); overflow-wrap: normal; hyphens: auto; }
+.page-sequence .hero-copy { padding-top: 12px; }
+.page-sequence .ad-label { font-size: .76rem; color: var(--muted); margin: 0 0 24px; }
+.page-sequence .product-card { border-radius: 16px; overflow: hidden; }
+.page-sequence .purchase-note { font-size: .8rem; max-width: 57ch; color: var(--muted); }
+.page-sequence .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.page-sequence .feature-index { display: block; color: var(--accent); font-size: .78rem; margin-bottom: 18px; letter-spacing: .08em; }
+.page-sequence .compatibility { padding: 22px 24px; border-left: 3px solid var(--gold); background: #edf0e8; border-radius: 0 8px 8px 0; margin: 24px 0; }
+.page-sequence .compatibility p { margin: 0; }
+.page-sequence .cta-block { background: var(--accent); color: #fff; }
+.page-sequence .cta-block p { color: #eee6d9; }
+.page-sequence .cta-block .eyebrow { color: #ecd8b1; }
+.page-sequence .cta-block .btn { background: #ecd8b1; color: #3e3227; }
+.page-sequence .course-price { font-size: 2.4rem; font-weight: 700; color: var(--ink); margin-bottom: 18px; }
+.page-sequence .course-price span { display: block; font-size: .8rem; font-weight: 400; color: var(--muted); margin-top: 8px; }
+.page-sequence section[id] { scroll-margin-top: 90px; }
+@media (max-width: 760px) {
+  .page-sequence .feature-grid { grid-template-columns: 1fr; }
+  .page-sequence .nav { gap: 12px; flex-wrap: wrap; padding-block: 12px; }
+  .page-sequence .nav-links { gap: 14px; font-size: .8rem; }
+}
+@media (max-width: 420px) {
+  .page-sequence .cta-row .btn { width: 100%; }
+  .page-sequence h1 { font-size: 2.25rem; }
+}
+
+.page-sequence .draft-notice {padding:20px;border:1px solid var(--gold);border-radius:12px;background:var(--accent-soft);margin-bottom:24px;}
+.page-sequence .draft-notice p {margin:8px 0 0;}

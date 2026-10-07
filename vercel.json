@@ -3,6 +3,36 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/remixable-founder",
+      "destination": "/topics/business/digital-skills/remixable-founder",
+      "permanent": true
+    },
+    {
+      "source": "/remixable-founder.html",
+      "destination": "/topics/business/digital-skills/remixable-founder",
+      "permanent": true
+    },
+    {
+      "source": "/traffic-genius",
+      "destination": "/topics/business/marketing-tools/traffic-genius",
+      "permanent": true
+    },
+    {
+      "source": "/traffic-genius.html",
+      "destination": "/topics/business/marketing-tools/traffic-genius",
+      "permanent": true
+    },
+    {
+      "source": "/sap-ewm-complete-pack",
+      "destination": "/topics/business/technical-training/sap-ewm-complete-pack",
+      "permanent": true
+    },
+    {
+      "source": "/sap-ewm-complete-pack.html",
+      "destination": "/topics/business/technical-training/sap-ewm-complete-pack",
+      "permanent": true
+    },
+    {
       "source": "/glp-1-plus",
       "destination": "/topics/wellness/metabolic-health/glp-1-plus",
       "permanent": true
