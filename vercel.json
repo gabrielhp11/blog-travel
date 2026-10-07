@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/herdenschutzhund-kurs.html",
+      "destination": "/topics/education/pet-learning/herdenschutzhund-kurs",
+      "permanent": true
+    },
+    {
+      "source": "/herdenschutzhund-kurs",
+      "destination": "/topics/education/pet-learning/herdenschutzhund-kurs",
+      "permanent": true
+    },
+    {
       "source": "/funnelcockpit-standard",
       "destination": "/topics/business/marketing-tools/funnelcockpit-standard",
       "permanent": true

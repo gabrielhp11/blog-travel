@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc"><title id="title">Zeit und Fragen zum Lernen</title><desc id="desc">Redaktionelle Illustration von PokiSky: ein Notizbuch, ein Kalender und ein Stift. Keine Unterlagen des Anbieters.</desc>
+<rect width="960" height="600" fill="#f1e7d6"/><circle cx="132" cy="116" r="68" fill="#dce4d2"/><circle cx="859" cy="493" r="113" fill="#dce4d2"/>
+<g transform="translate(133 164) rotate(-7 278 154)">
+<rect x="8" y="14" width="568" height="322" rx="16" fill="#cfbca0" opacity=".5"/>
+<path d="M0 20 Q130 -10 275 20 Q429 -10 559 20 V316 Q410 294 275 317 Q146 294 0 316Z" fill="#54776a"/>
+<path d="M12 8 Q145 -10 275 16 V297 Q145 272 12 297Z" fill="#fffaf0"/>
+<path d="M275 16 Q413 -10 547 8 V297 Q411 273 275 297Z" fill="#f6f0e2"/>
+<path d="M275 16 V297" stroke="#dbd1bc" stroke-width="3"/>
+<g stroke="#c8d2bf" stroke-width="7" stroke-linecap="round"><path d="M45 83 H220 M45 121 H206 M45 159 H223 M45 197 H180 M318 154 H492 M318 192 H456 M318 230 H482"/></g>
+<path d="M320 53 H458" stroke="#54776a" stroke-width="10" stroke-linecap="round"/>
+<g fill="#d8c7a9"><circle cx="343" cy="105" r="11"/><circle cx="386" cy="105" r="11"/><circle cx="429" cy="105" r="11"/></g>
+<path d="M160 46 V11 L194 8 V49 L178 37Z" fill="#ba8058"/>
+</g>
+<g transform="translate(647 58) rotate(8 94 101)"><rect x="7" y="10" width="186" height="203" rx="14" fill="#ad9c80" opacity=".16"/><rect width="186" height="203" rx="12" fill="#fffaf0"/><path d="M0 12 Q0 0 12 0 H174 Q186 0 186 12 V53 H0Z" fill="#54776a"/>
+<path d="M40 -4 V16 M145 -4 V16" stroke="#344e44" stroke-width="8" stroke-linecap="round"/>
+<g fill="#d9e0d1"><rect x="28" y="79" width="25" height="25" rx="6"/><rect x="80" y="79" width="25" height="25" rx="6"/><rect x="132" y="79" width="25" height="25" rx="6"/><rect x="28" y="130" width="25" height="25" rx="6"/><rect x="80" y="130" width="25" height="25" rx="6"/><rect x="132" y="130" width="25" height="25" rx="6"/></g><circle cx="92" cy="143" r="21" fill="none" stroke="#ba8058" stroke-width="4"/></g>
+<g transform="translate(745 291) rotate(24)"><rect width="20" height="182" rx="6" fill="#ba8058"/><path d="M0 177 H20 L10 210Z" fill="#ead3b1"/><path d="M5 195 L10 210 L15 195Z" fill="#355951"/><path d="M5 18 V169" stroke="#dfac79" stroke-width="3"/></g>
+<g transform="translate(57 371)"><circle cx="41" cy="35" r="30" fill="#54776a"/><ellipse cx="43" cy="28" rx="14" ry="12" fill="#fff4dd"/><circle cx="26" cy="9" r="7" fill="#fff4dd"/><circle cx="43" cy="3" r="7" fill="#fff4dd"/><circle cx="60" cy="10" r="7" fill="#fff4dd"/></g>
+</svg>

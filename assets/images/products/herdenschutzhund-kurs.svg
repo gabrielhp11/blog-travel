@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc"><title id="title">Mensch und Herdenschutzhund im Grünen</title><desc id="desc">Redaktionelle Illustration von PokiSky. Keine Kursaufnahme oder Trainingsanleitung.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e3ede6"/><stop offset="1" stop-color="#f7f1de"/></linearGradient><linearGradient id="coat" x2=".8" y2="1"><stop stop-color="#fff9eb"/><stop offset="1" stop-color="#deceb1"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/>
+<circle cx="920" cy="154" r="70" fill="#edcc91"/>
+<path d="M0 360 Q160 220 390 365 Q675 180 960 315 Q1080 230 1200 285 V720 H0Z" fill="#c4d3bd"/>
+<path d="M0 470 Q240 375 487 455 Q850 330 1200 433 V720 H0Z" fill="#8da98e"/>
+<path d="M400 720 Q390 615 637 493 Q689 475 796 493 Q622 611 706 720" fill="#e8d9bd"/>
+<g fill="#567f69"><path d="M100 517 Q33 255 135 230 Q244 256 179 512Z"/><path d="M1070 535 Q974 244 1080 215 Q1201 220 1141 528Z"/></g>
+<g stroke="#45634e" stroke-width="11" stroke-linecap="round"><path d="M142 328 V549 M1111 311 V560"/></g>
+<g transform="translate(362 175)">
+<ellipse cx="122" cy="441" rx="85" ry="13" fill="#46644e" opacity=".2"/>
+<path d="M83 205 L79 333 L65 423 H103 L123 327 L143 423 H183 L168 306 L166 205Z" fill="#43564e"/>
+<path d="M64 103 Q116 84 170 101 L185 226 Q117 243 54 225Z" fill="#bf8056"/>
+<path d="M69 112 Q36 155 45 210" fill="none" stroke="#bf8056" stroke-width="35" stroke-linecap="round"/>
+<path d="M166 116 L192 187 L214 207" fill="none" stroke="#bf8056" stroke-width="33" stroke-linecap="round"/>
+<path d="M209 202 L220 218" stroke="#dcb594" stroke-width="23" stroke-linecap="round"/>
+<rect x="99" y="69" width="34" height="43" rx="12" fill="#dcb594"/>
+<ellipse cx="116" cy="47" rx="37" ry="43" fill="#dcb594"/>
+<path d="M81 49 Q68 3 112 1 Q157 -2 155 38 Q132 37 126 17 Q106 42 81 49" fill="#344c43"/>
+<path d="M66 423 H103 L103 441 H48 Q47 429 66 423 M143 423 H179 Q194 429 192 441 H143" fill="#314a42"/>
+</g>
+<g transform="translate(542 325)">
+<ellipse cx="242" cy="298" rx="207" ry="19" fill="#46644e" opacity=".2"/>
+<path d="M321 105 Q422 126 409 52 Q416 135 343 150" fill="none" stroke="#e1d1b5" stroke-width="35" stroke-linecap="round"/>
+<path d="M87 119 Q141 69 284 95 Q343 104 350 185 L329 256 L298 261 L292 197 L147 201 L119 270 L82 270 L83 188Z" fill="url(#coat)"/>
+<path d="M160 185 L157 276 L193 276 L207 194 M285 189 L289 274 L321 274 L321 213" fill="#d2bd9a"/>
+<path d="M118 120 Q154 142 130 190 L96 187 L86 119" fill="#f2e8d4"/>
+<path d="M84 74 Q107 30 151 56 Q176 89 146 126 L88 143 L41 114 L33 90Z" fill="url(#coat)"/>
+<path d="M133 62 Q174 47 167 86 L147 109Z" fill="#bfa984"/>
+<path d="M44 88 Q17 87 25 105 Q42 119 64 108 L83 92" fill="#f5e9d2"/>
+<ellipse cx="27" cy="95" rx="10" ry="8" fill="#3e4940"/><circle cx="87" cy="78" r="5" fill="#3e4940"/>
+<path d="M68 108 Q76 115 86 109" fill="none" stroke="#8f8068" stroke-width="3" stroke-linecap="round"/>
+<path d="M80 270 H117 M156 276 H192 M292 274 H324" stroke="#f9efdb" stroke-width="14" stroke-linecap="round"/>
+</g>
+<g stroke="#527c5c" stroke-width="6" stroke-linecap="round"><path d="M222 619 l-15 -25 M222 619 l17 -36 M999 654 l-12 -26 M999 654 l20 -37 M79 643 l-16 -30 M79 643 l19 -37"/></g></svg>

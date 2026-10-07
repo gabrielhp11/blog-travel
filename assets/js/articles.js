@@ -10,6 +10,35 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
   {
+    "id": 54,
+    "topic": "education",
+    "subtopic": "pet-learning",
+    "locale": "de-DE",
+    "market": "German-speaking Europe",
+    "category": "Herdenschutzhunde verstehen",
+    "audience": "HSH-Halter, Training und Tierschutz",
+    "title": "Herdenschutzhund-Kurs: Inhalte, Zugang und Kosten",
+    "summary": "DOG-InForm: Du und dein Herdenschutzhund. Deutschsprachiger Videokurs mit sechs Modulen und einem Jahr Zugang. Inhalte, Bonus und Kaufoptionen vergleichen.",
+    "highlights": [
+      "Sechs Module und dreizehn Lektionen",
+      "Ein Jahr Onlinezugang",
+      "549 € einmalig für Deutschland beobachtet"
+    ],
+    "service": "Onlinekurs für Hundehalter",
+    "ctaText": "Kursangebot ansehen",
+    "reviewUrl": "topics/education/pet-learning/herdenschutzhund-kurs.html",
+    "bookingUrl": "https://www.digistore24.com/redir/276887/gabrielhenriquep123f97e/",
+    "imageUrl": "assets/images/products/herdenschutzhund-kurs.svg",
+    "imageAlt": "Mensch und großer heller Hund auf einem Weg; redaktionelle Illustration, keine Kursaufnahme",
+    "imageType": "editorial",
+    "linkType": "affiliate",
+    "network": "Digistore24",
+    "productId": 276887,
+    "affiliateStatus": "tracking-verified; seller announces 30%; account approval and commission not verified; EUR70 estimate applies to single-payment plan",
+    "isDirectAffiliate": true,
+    "featured": false
+  },
+  {
     "id": 53,
     "topic": "business",
     "subtopic": "marketing-tools",
