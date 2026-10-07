@@ -10,6 +10,35 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
   {
+    "id": 55,
+    "topic": "education",
+    "subtopic": "holistic-learning",
+    "locale": "de-DE",
+    "market": "German-speaking Europe",
+    "category": "Ayurveda lernen",
+    "audience": "Erwachsene mit Interesse an Ayurveda",
+    "title": "Ayurveda-Ausbildung online: Inhalte, Ablauf und Kosten",
+    "summary": "Ayurveda-Komplett-Ausbildung von Wolfgang Neutzler: Kochkurs, Grundlagen und weitere Lernabschnitte. Freischaltung, Zertifikate und Zahlungsvarianten prüfen.",
+    "highlights": [
+      "Kochen und Ayurveda-Basics",
+      "Weitere Abschnitte nach Absprache",
+      "2.400 € Vorauszahlung beobachtet"
+    ],
+    "service": "Deutschsprachige Online-Ausbildung",
+    "ctaText": "Ausbildung ansehen",
+    "reviewUrl": "topics/education/holistic-learning/ayurveda-komplett-ausbildung.html",
+    "bookingUrl": "https://www.digistore24.com/redir/369670/gabrielhenriquep123f97e/",
+    "imageUrl": "assets/images/products/ayurveda-komplett-ausbildung.svg",
+    "imageAlt": "Buch, Kräuterzweig und Gewürzschalen; redaktionelle Illustration, keine Kursaufnahme",
+    "imageType": "editorial",
+    "linkType": "affiliate",
+    "network": "Digistore24",
+    "productId": 369670,
+    "affiliateStatus": "tracking-verified; current programme announces 30%, older article 20%; account approval and rate not verified; EUR70 estimate for prepayment assuming German VAT",
+    "isDirectAffiliate": true,
+    "featured": false
+  },
+  {
     "id": 54,
     "topic": "education",
     "subtopic": "pet-learning",

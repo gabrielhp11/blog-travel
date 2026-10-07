@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/ayurveda-komplett-ausbildung",
+      "destination": "/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+      "permanent": true
+    },
+    {
+      "source": "/ayurveda-komplett-ausbildung.html",
+      "destination": "/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+      "permanent": true
+    },
+    {
       "source": "/herdenschutzhund-kurs.html",
       "destination": "/topics/education/pet-learning/herdenschutzhund-kurs",
       "permanent": true
