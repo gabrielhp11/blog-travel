@@ -3,6 +3,26 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/expertslides-powerpoint",
+      "destination": "/topics/business/productivity/expertslides-powerpoint",
+      "permanent": true
+    },
+    {
+      "source": "/expertslides-powerpoint.html",
+      "destination": "/topics/business/productivity/expertslides-powerpoint",
+      "permanent": true
+    },
+    {
+      "source": "/supp-up-travel-system",
+      "destination": "/topics/education/fitness-learning/supp-up-travel-system",
+      "permanent": true
+    },
+    {
+      "source": "/supp-up-travel-system.html",
+      "destination": "/topics/education/fitness-learning/supp-up-travel-system",
+      "permanent": true
+    },
+    {
       "source": "/chargeback-prevention-masterclass",
       "destination": "/topics/business/professional-learning/chargeback-prevention-masterclass",
       "permanent": true
