@@ -8,7 +8,7 @@ Site: https://blog-travel-eight.vercel.app/ . Levantamento feito nas sessões au
 
 A inspeção da página inicial retornou **Detectada, mas não indexada no momento**, sem rastreamento anterior registrado. O teste ao vivo realizado em 7 de outubro às 18:13 BRT confirmou **O URL está disponível para o Google** e **É possível indexar a página**. Não foi identificado bloqueio de rastreamento nessa amostra.
 
-**Bing:** propriedade cadastrada e acessível. A conta indicava relatórios em processamento, com prazo informado de até 48 horas. A tela de sitemaps estava vazia, com **0 envios**. Não é possível inferir tráfego zero a partir de relatórios indisponíveis.
+**Bing:** propriedade cadastrada e acessível. A conta indicava relatórios em processamento, com prazo informado de até 48 horas. Após o carregamento da listagem, havia **um sitemap enviado em 6 de outubro**, status **Success**, com **17 URLs descobertas** e última leitura em 6 de outubro. A listagem inicialmente vazia era um estado transitório de carregamento. Não é possível inferir tráfego zero a partir de relatórios indisponíveis.
 
 **Catálogo europeu:** o filtro “Europe · English” usava a comparação literal `market === 'Europe'`, excluindo 20 guias recentes cujo mercado foi descrito com expressões mais específicas. Havia 40 guias em inglês com público europeu identificado e sete guias em alemão. Não havia diretório próprio para esse público.
 
@@ -34,7 +34,18 @@ Não foram criadas traduções artificiais, avaliações, promessas de resultado
 
 ## Verificação após publicação
 
-Registro de envio aos motores de busca e novas medições será preenchido após a publicação desta alteração.
+A versão com as melhorias foi enviada ao GitHub no commit `eb5822f` e confirmada no site público em 7 de outubro. O diretório europeu carrega corretamente; as fontes retornam HTTP 200, `font/woff2` e `Cache-Control: public, max-age=31536000, immutable`, com resposta HIT da hospedagem na amostra verificada.
+
+Novas medições às 18:20 BRT, com a mesma configuração móvel de laboratório:
+
+- **Página inicial:** desempenho **99** (antes 89), acessibilidade **100** (antes 96), boas práticas 100 e SEO 100. FCP **1,2 s**, LCP **1,5 s**, TBT 0 ms, CLS 0 e Speed Index 3,6 s. [Relatório após publicação](https://pagespeed.web.dev/analysis/https-blog-travel-eight-vercel-app/4i19zp3v2s?form_factor=mobile).
+- **FastSEOHub Elite:** desempenho **100** (antes 93), acessibilidade **100** (antes 96), boas práticas 100 e SEO 100. FCP **0,9 s**, LCP **1,2 s**, TBT 0 ms, CLS 0 e Speed Index 0,9 s. [Relatório após publicação](https://pagespeed.web.dev/analysis/https-blog-travel-eight-vercel-app-topics-business-marketing-tools-fastseohub-elite/putc9tcleu?form_factor=mobile).
+
+**Google:** reenvio de `/sitemap.xml` confirmado pelo aviso “Sitemap enviado” e data de envio atualizada para 7 de outubro. A última leitura ainda era 6 de outubro, com 50 páginas encontradas; a releitura do arquivo com 69 URLs fica pendente do motor. O pedido manual de indexação da home retornou **cota diária excedida**. Não foi concluído e não deve ser repetido no mesmo dia. O sitemap recebido e os links públicos continuam permitindo descoberta normal.
+
+**Bing:** o envio pelo formulário e a ação **Re-submit** da entrada existente falharam com erro do servidor. A entrada antiga, com 17 URLs descobertas, permanece no painel. O arquivo público atualizado também é anunciado em `robots.txt`; não afirmar que o Bing confirmou o novo envio.
+
+**GitHub:** geração, validação de SEO, teste dos filtros, hashes de fontes, comparação dos links externos e consistência dos arquivos passaram localmente. A execução remota não iniciou por uma restrição da conta indicada no [registro do workflow](https://github.com/gabrielhp11/blog-travel/actions/runs/37688549309). A publicação na Vercel ocorreu normalmente; aprovação remota do workflow não foi confirmada.
 
 ## Limites e avaliação futura
 

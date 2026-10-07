@@ -32,7 +32,7 @@ The Bing account was created using Google sign-in. Search Console data was not i
 
 On 6 October 2026, the public sitemap returned HTTP 200 with `application/xml`. A guide URL ending in `.html` returned HTTP 308 to its extensionless equivalent. The October SEO update aligns canonicals, internal links and sitemap entries with those final URLs. The 7 October release generates 69 URLs, including `/guides/europe`; confirm the current generated count before submitting the deployed sitemap.
 
-On 7 October, authenticated Google and Bing reports were still processing. The Google sitemap had been processed with 50 discovered URLs from 6 October; Bing had no sitemap submission. Google’s live homepage test passed, while its indexed-version inspection showed discovered but not yet indexed. See `SEO_EUROPE_AUDIT_2026-10-07.md` for the deployment follow-up. Do not treat repository findings as measured traffic losses or claim a percentage improvement.
+On 7 October, authenticated Google and Bing reports were still processing. The Google sitemap had been processed with 50 discovered URLs from 6 October; Bing’s fully loaded list showed a previous sitemap with 17 discovered URLs. Google’s live homepage test passed, while its indexed-version inspection showed discovered but not yet indexed. See `SEO_EUROPE_AUDIT_2026-10-07.md` for the deployment follow-up. Do not treat repository findings as measured traffic losses or claim a percentage improvement.
 
 ## Measure the organic impact
 
@@ -44,3 +44,5 @@ On 7 October, authenticated Google and Bing reports were still processing. The G
 6. After 28 days, compare topic groups and representative pages. After 56 days, check whether the pattern persists. Do not attribute all changes to this release without considering demand, competition and indexing changes.
 
 Primary references: [Google's JavaScript SEO guidance](https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics), [canonical URL guidance](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls), and [helpful, reliable content guidance](https://developers.google.com/search/docs/fundamentals/creating-helpful-content).
+
+On 7 October, the updated sitemap was resubmitted successfully to Google. Its next read remains pending. Manual homepage indexing hit the daily quota. Bing’s submission form and Re-submit action returned server errors; its old sitemap entry remains. These external limitations do not change the deployed sitemap or the successful local checks.
