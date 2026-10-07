@@ -10,6 +10,37 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
   {
+    "id": 56,
+    "topic": "business",
+    "subtopic": "finance-ai",
+    "locale": "en-GB",
+    "market": "English-speaking European audience; country availability to confirm",
+    "category": "English-language chart learning",
+    "audience": "Adults studying chart terminology in English",
+    "title": "ChartSensor: Learn About Charts in English",
+    "summary": "Explore ChartSensor, an English-language AI chart-learning tool. Compare the advertised €340 access period, learning features and questions to ask before buying.",
+    "highlights": [
+      "English-language AI explanations",
+      "12-month access advertised",
+      "Affiliate activation pending"
+    ],
+    "service": "Educational AI software",
+    "ctaText": "Affiliate activation pending",
+    "reviewUrl": "topics/business/finance-ai/chartsensor.html",
+    "bookingUrl": "/topics/business/finance-ai/chartsensor#purchase",
+    "pendingAffiliateUrl": "https://www.digistore24.com/redir/690761/gabrielhenriquep123f97e/",
+    "imageUrl": "assets/images/products/chartsensor.svg",
+    "imageAlt": "Notebook, abstract chart and magnifying glass; editorial illustration, not the software interface",
+    "imageType": "editorial",
+    "linkType": "official",
+    "network": "Digistore24",
+    "productId": 690761,
+    "affiliateStatus": "DRAFT: manual approval required; checkout attributed test to clickers rather than intended account; no active affiliate CTA; account approval and rate unverified",
+    "isDirectAffiliate": false,
+    "hidden": true,
+    "featured": false
+  },
+  {
     "id": 55,
     "topic": "education",
     "subtopic": "holistic-learning",

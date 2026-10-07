@@ -1,0 +1,38 @@
+.page-chartsensor {
+  --bg: #f7f4ed;
+  --ink: #243b4b;
+  --muted: #637585;
+  --accent: #325770;
+  --accent-soft: #e1ebf0;
+  --gold: #b0894a;
+  --line: rgba(56, 47, 39, .12);
+}
+.page-chartsensor .topbar { background: rgba(247, 244, 237, .95); }
+.page-chartsensor .hero { padding-bottom: 64px; }
+.page-chartsensor h1 { max-width: 20ch; font-size: clamp(2.4rem, 4.1vw, 3.25rem); overflow-wrap: normal; hyphens: auto; }
+.page-chartsensor .hero-copy { padding-top: 12px; }
+.page-chartsensor .ad-label { font-size: .76rem; color: var(--muted); margin: 0 0 24px; }
+.page-chartsensor .product-card { border-radius: 16px; overflow: hidden; }
+.page-chartsensor .purchase-note { font-size: .8rem; max-width: 57ch; color: var(--muted); }
+.page-chartsensor .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.page-chartsensor .feature-index { display: block; color: var(--accent); font-size: .78rem; margin-bottom: 18px; letter-spacing: .08em; }
+.page-chartsensor .compatibility { padding: 22px 24px; border-left: 3px solid var(--gold); background: #edf2f5; border-radius: 0 8px 8px 0; margin: 24px 0; }
+.page-chartsensor .compatibility p { margin: 0; }
+.page-chartsensor .cta-block { background: var(--accent); color: #fff; }
+.page-chartsensor .cta-block p { color: #e1ebf0; }
+.page-chartsensor .cta-block .eyebrow { color: #e9d7b8; }
+.page-chartsensor .cta-block .btn { background: #e9d7b8; color: #243b4b; }
+.page-chartsensor .course-price { font-size: 2.4rem; font-weight: 700; color: var(--ink); margin-bottom: 18px; }
+.page-chartsensor .course-price span { display: block; font-size: .8rem; font-weight: 400; color: var(--muted); margin-top: 8px; }
+.page-chartsensor section[id] { scroll-margin-top: 90px; }
+@media (max-width: 760px) {
+  .page-chartsensor .feature-grid { grid-template-columns: 1fr; }
+  .page-chartsensor .nav { gap: 12px; flex-wrap: wrap; padding-block: 12px; }
+  .page-chartsensor .nav-links { gap: 14px; font-size: .8rem; }
+}
+@media (max-width: 420px) {
+  .page-chartsensor .cta-row .btn { width: 100%; }
+  .page-chartsensor h1 { font-size: 2.25rem; }
+}
+
+.page-chartsensor .draft-notice { padding: 16px 20px; background: #f3e7cd; color: #574527; border-radius: 8px; font-size: .85rem; line-height: 1.6; margin-bottom: 26px; }

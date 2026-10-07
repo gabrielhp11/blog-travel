@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/chartsensor",
+      "destination": "/topics/business/finance-ai/chartsensor",
+      "permanent": true
+    },
+    {
+      "source": "/chartsensor.html",
+      "destination": "/topics/business/finance-ai/chartsensor",
+      "permanent": true
+    },
+    {
       "source": "/ayurveda-komplett-ausbildung",
       "destination": "/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
       "permanent": true
