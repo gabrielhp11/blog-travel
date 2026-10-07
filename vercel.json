@@ -3,6 +3,26 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/fastseohub-elite",
+      "destination": "/topics/business/marketing-tools/fastseohub-elite",
+      "permanent": true
+    },
+    {
+      "source": "/fastseohub-elite.html",
+      "destination": "/topics/business/marketing-tools/fastseohub-elite",
+      "permanent": true
+    },
+    {
+      "source": "/salesforge-pro",
+      "destination": "/topics/business/marketing-tools/salesforge-pro",
+      "permanent": true
+    },
+    {
+      "source": "/salesforge-pro.html",
+      "destination": "/topics/business/marketing-tools/salesforge-pro",
+      "permanent": true
+    },
+    {
       "source": "/expertslides-powerpoint",
       "destination": "/topics/business/productivity/expertslides-powerpoint",
       "permanent": true
