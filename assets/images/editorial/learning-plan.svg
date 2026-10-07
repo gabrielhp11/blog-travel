@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">A learning plan</title><desc id="desc">Editorial illustration of choosing a goal, studying and practising. Not a course screenshot.</desc>
+<rect width="960" height="600" fill="#f2f3fa"/><path d="M160 155h290v305H160zM470 155h290v305H470z" fill="#fff" stroke="#635997" stroke-width="3"/><path d="M460 150v315" stroke="#635997" stroke-width="4"/>
+<g font-family="Arial,sans-serif" fill="#4a426e"><text x="190" y="215" font-size="29">Choose a goal</text><text x="190" y="278" font-size="24">Study the lesson</text><text x="190" y="340" font-size="24">Practise the task</text><text x="500" y="215" font-size="29">Review progress</text></g>
+<path d="M500 280h220m-220 50h180m-180 50h205" stroke="#b4adce" stroke-width="9"/>
+<text x="160" y="535" fill="#626176" font-family="Arial,sans-serif" font-size="20">PokiSky editorial illustration - not a course view</text>
+</svg>

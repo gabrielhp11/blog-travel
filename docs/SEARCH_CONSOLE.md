@@ -12,12 +12,12 @@ After the latest version is deployed:
 4. Open **Sitemaps**, enter `sitemap.xml`, and submit it.
 5. Use **URL inspection** for the homepage and a few published guides to request indexing and check whether Google can fetch each page.
 
-To refresh the sitemap after page metadata changes, run `npm run seo:sitemap` and deploy the updated `sitemap.xml`.
+After changing the catalog or pages, run `npm run seo:build` and `npm run seo:check`, then deploy the generated files. `npm run seo:sitemap` remains available for a sitemap-only refresh.
 
 ## Current crawl files
 
 - `robots.txt` allows crawling and advertises the sitemap.
-- `sitemap.xml` lists the home page, disclosure page, and public catalog pages with self-referencing canonicals and no `noindex` directive.
+- `sitemap.xml` lists the home page, disclosure page, three topic directories, and public catalog pages with self-referencing extensionless canonicals and no `noindex` directive.
 - Pages with unconfirmed offer details remain crawlable but carry `noindex, follow`; do not block them in `robots.txt`, because search engines need to fetch the page to see that directive.
 
 Search engines decide independently whether and when to index a submitted page. A successful sitemap submission is not an indexing or ranking guarantee.
@@ -28,6 +28,19 @@ The site has been added to Bing Webmaster Tools. The verification file `BingSite
 
 The Bing account was created using Google sign-in. Search Console data was not imported into Bing; importing it would require a separate Google data-access authorization.
 
-## Deployment requirement
+## Deployment verification
 
-Search Console currently reports that it could not read the submitted sitemap. The updated local sitemap and the Bing verification file must be deployed at the production domain before their respective webmaster tools can read them. After deployment, confirm that `https://blog-travel-eight.vercel.app/sitemap.xml` opens as XML in a browser, then resubmit it in Google Search Console and submit it to Bing.
+On 6 October 2026, the public sitemap returned HTTP 200 with `application/xml`. A guide URL ending in `.html` returned HTTP 308 to its extensionless equivalent. The October SEO update aligns canonicals, internal links and sitemap entries with those final URLs. After deployment, confirm that the sitemap contains 48 URLs and includes `/guides/travel`, `/guides/courses` and `/guides/wellness`, then resubmit it in Google Search Console and Bing.
+
+No current Search Console performance export was available during this update. Do not treat repository findings as measured traffic losses or claim a percentage improvement.
+
+## Measure the organic impact
+
+1. In Search Console's Search results report, export the last 28 complete days as the baseline: clicks, impressions, CTR and average position. Save the deployment date and compare the next 28 complete days with the previous period, allowing for seasonality and changes in query mix.
+2. Break results down by page, query, country and device. Keep English, Portuguese and German audiences separate when evaluating changes. Use clicks as the primary traffic measure; impressions and CTR help explain where opportunity or loss occurs.
+3. Inspect the home page, each topic directory and representative guides. Confirm that Google's selected canonical matches the extensionless URL, that the page is eligible for indexing, and that the fetched HTML contains links to the guides.
+4. For pages with impressions and low CTR, compare the actual query with the page's title and description. Improve relevance and clarity using the page's real contents. Avoid unsupported promises or changing every title at once.
+5. For pages with little visibility, examine whether the guide answers the reader's questions with useful comparisons, limitations and attributed sources. Add product-specific evidence when available and document actual first-hand tests only when performed.
+6. After 28 days, compare topic groups and representative pages. After 56 days, check whether the pattern persists. Do not attribute all changes to this release without considering demand, competition and indexing changes.
+
+Primary references: [Google's JavaScript SEO guidance](https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics), [canonical URL guidance](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls), and [helpful, reliable content guidance](https://developers.google.com/search/docs/fundamentals/creating-helpful-content).

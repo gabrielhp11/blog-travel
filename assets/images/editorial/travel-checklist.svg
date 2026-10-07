@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Preparing an itinerary</title><desc id="desc">Editorial travel planning illustration showing destinations, dates and booking terms. Not a booking interface.</desc>
+<rect width="960" height="600" fill="#eef6f4"/><path d="M125 150h310v300H125z" fill="#fff" stroke="#326977" stroke-width="3"/>
+<path d="M550 195c160-100 260 60 80 165" fill="none" stroke="#326977" stroke-width="7" stroke-dasharray="12 12"/><circle cx="550" cy="195" r="14" fill="#326977"/><circle cx="630" cy="360" r="14" fill="#be5271"/>
+<g fill="#234e59" font-family="Arial,sans-serif"><text x="155" y="220" font-size="30">TRIP NOTES</text><text x="155" y="285" font-size="25">Destinations</text><text x="155" y="345" font-size="25">Travel dates</text><text x="155" y="405" font-size="25">Booking terms</text></g>
+<text x="125" y="535" fill="#52656c" font-family="Arial,sans-serif" font-size="20">PokiSky editorial illustration - not a booking screen</text>
+</svg>

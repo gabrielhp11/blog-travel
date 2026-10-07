@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Comparing supplement information</title><desc id="desc">Editorial diagram of ingredients, amounts, directions and warnings to check. Not a product label.</desc>
+<rect width="960" height="600" fill="#eef5f3"/><path d="M150 120h420v360H150z" fill="#fff" stroke="#326977" stroke-width="3"/>
+<g fill="#234e59" font-family="Arial,sans-serif"><text x="190" y="185" font-size="30">LABEL CHECKLIST</text><text x="190" y="255" font-size="25">Ingredients</text><text x="190" y="315" font-size="25">Amounts per serving</text><text x="190" y="375" font-size="25">Directions</text><text x="190" y="435" font-size="25">Warnings</text></g>
+<g stroke="#326977" stroke-width="5" fill="none"><path d="m625 238 18 18 37-43m-55 90 18 18 37-43m-55 90 18 18 37-43m-55 90 18 18 37-43"/></g>
+<text x="150" y="545" fill="#52656c" font-family="Arial,sans-serif" font-size="20">PokiSky editorial illustration - not a product label</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Comparing points and cash</title><desc id="desc">Editorial diagram showing availability, fees and flexibility as criteria when comparing travel points with cash bookings. Not a loyalty programme interface.</desc>
+<rect width="960" height="600" fill="#f4f2fa"/>
+<path d="M180 180h600v250H180z" fill="#fff" stroke="#635997" stroke-width="3"/><path d="M180 260h600m-600 85h600m-340-165v250" stroke="#d4cee6" stroke-width="3"/>
+<g fill="#4a426e" font-family="Arial,sans-serif" font-size="28"><text x="215" y="230">POINTS</text><text x="535" y="230">CASH</text><text x="215" y="315">Availability</text><text x="535" y="315">Total fees</text><text x="215" y="398">Restrictions</text><text x="535" y="398">Flexibility</text></g>
+<text x="180" y="525" fill="#626176" font-family="Arial,sans-serif" font-size="20">PokiSky editorial illustration - no promised savings</text>
+</svg>

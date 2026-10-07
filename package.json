@@ -1,8 +1,13 @@
 {
   "scripts": {
-    "seo:sitemap": "node scripts/generate-sitemap.js"
+    "seo:sitemap": "node scripts/generate-sitemap.js",
+    "seo:build": "node scripts/optimize-pages.js && node scripts/generate-catalog.js && node scripts/generate-sitemap.js",
+    "seo:check": "node scripts/validate-seo.js"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1"
+  },
+  "devDependencies": {
+    "cheerio": "^1.2.0"
   }
 }

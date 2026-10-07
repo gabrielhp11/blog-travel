@@ -41,6 +41,8 @@ Regra:
 - manter `cleanUrls: true`
 - manter `trailingSlash: false`
 - incluir redirect para a versão com e sem `.html` quando aplicável
+- arquivos e `reviewUrl` do catálogo mantêm `.html`; URLs públicas, canonical, `og:url`, links internos e sitemap usam caminhos sem extensão, conforme a hospedagem
+- executar `npm run seo:build` e `npm run seo:check` ao alterar páginas ou catálogo; a home e os diretórios de assunto devem conter os guias no HTML, sem depender de JavaScript
 
 ---
 
@@ -234,12 +236,12 @@ Antes de publicar uma nova página, revisar todos os itens abaixo:
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Page Title | PokiSky</title>
     <meta name="description" content="Descriptive text for the page." />
-    <link rel="canonical" href="https://blog-travel-eight.vercel.app/topics/categoria/subcategoria/slug.html" />
+    <link rel="canonical" href="https://blog-travel-eight.vercel.app/topics/categoria/subcategoria/slug" />
 
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Page Title" />
     <meta property="og:description" content="Descriptive text for the page." />
-    <meta property="og:url" content="https://blog-travel-eight.vercel.app/topics/categoria/subcategoria/slug.html" />
+    <meta property="og:url" content="https://blog-travel-eight.vercel.app/topics/categoria/subcategoria/slug" />
     <meta property="og:image" content="https://blog-travel-eight.vercel.app/assets/images/products/slug.jpg" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -347,6 +349,7 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-10-06 | SEO técnico e navegação editorial: catálogo HTML, três diretórios por assunto, URLs sem extensão, títulos, autoria, links relacionados e dados estruturados | `index.html`, `guides/`, `topics/`, `assets/`, `scripts/`, `sitemap.xml`, `vercel.json`, documentação e CI | 43 guias; três imagens por oferta; idiomas e afiliação preservados; medição de tráfego depende do Search Console |
 | 2026-10-06 | ET-Akademie Dozenten-Paket em alemão e três ilustrações originais | `topics/education/technical-training/et-akademie-dozenten-paket.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | ID 192091; preço alemão e atribuição conferidos; 50% anunciados pelo produtor, pendente na conta |
 | 2026-10-06 | Curso de piano Endlich Klavier Spielen, guia em alemão e três ilustrações originais | `topics/education/music-learning/endlich-klavier-spielen.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | ID 530008; checkout e atribuição conferidos; comissão de 40–50% anunciada pelo produtor, pendente na conta |
 | 2026-10-06 | Advanced Mitochondrial Formula físico, guia em inglês e três imagens oficiais | `topics/wellness/longevity/advanced-mitochondrial-formula.html`, `assets/`, `vercel.json`, `PRODUCTS.md`, `sitemap.xml` | Reino Unido e Irlanda; três frascos ID 576635; atribuição e checkout britânico conferidos; comissão estimada condicionada à conta e câmbio |
@@ -366,7 +369,6 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 Qualquer item novo no projeto deve seguir este guia antes de ser publicado. O objetivo é manter consistência visual, URL, SEO e conversão em todas as páginas do blog.
 
 Se uma página não seguir esses padrões, ela deve ser ajustada antes de entrar em produção.
-
 
 
 

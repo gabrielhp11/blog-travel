@@ -17,7 +17,7 @@ const blogArticles = [
     "market": "German-speaking European audience",
     "category": "Elektrotechnik für Lehrende",
     "audience": "Lehrkräfte, Professoren und Dozenten",
-    "title": "ET-Akademie Dozenten-Paket: Elektrotechnik für Ihre Lehre",
+    "title": "ET-Akademie Dozenten-Paket: Inhalte und Kaufdetails",
     "summary": "Digitale Elektrotechnik-Grundlagen für Lehrkräfte und Dozenten. Entdecken Sie Themen und Einsatzmöglichkeiten; prüfen Sie Paket und Nutzungsumfang. Beobachteter Einmalpreis: 347 € für Deutschland.",
     "highlights": [
       "Für Lehrkräfte und Dozenten",
@@ -46,7 +46,7 @@ const blogArticles = [
     "market": "German-speaking European audience",
     "category": "Klavier lernen",
     "audience": "Erwachsene Klavieranfänger",
-    "title": "Endlich Klavier Spielen: Onlinekurs für Erwachsene",
+    "title": "Endlich Klavier Spielen: Kursinhalte und Voraussetzungen",
     "summary": "Entdecken Sie den Premium-Onlinekurs von Jens Schlichting: Videos, Audio und Übungspläne für den Einstieg am Klavier. Kurs auf Deutsch; eigenes Instrument erforderlich. Beobachteter Preis: 1.190 €; aktuellen Gesamtbetrag prüfen.",
     "highlights": [
       "Für erwachsene Anfänger",
@@ -158,7 +158,7 @@ const blogArticles = [
     "market": "Germany, Austria and German-speaking Europe",
     "category": "Social media & AI content",
     "audience": "Beginners creating content for their own projects",
-    "title": "Social Media Masterclass: KI-Content mit einem klaren Plan",
+    "title": "Social Media Masterclass: Inhalte, KI-Tools und Kosten",
     "summary": "Entdecken Sie den deutschsprachigen Videokurs von Ralf Schmitz und Adrian Giger: neun Module zu KI, Design und Content-Planung. Prüfen Sie Inhalte und zusätzliche Werkzeugkosten vor dem Kauf.",
     "highlights": [
       "9 Module laut Anbieter",
@@ -187,7 +187,7 @@ const blogArticles = [
     "market": "Germany, Austria and German-speaking Europe",
     "category": "Excel & business tools",
     "audience": "Controllers, consultants and business professionals",
-    "title": "Excel-Paket: 70+ Vorlagen für Ihren Arbeitsalltag",
+    "title": "Excel-Paket: Vorlagen, Kompatibilität und Kaufdetails",
     "summary": "Entdecken Sie das Excel-Paket der Hanseatic Business School für Finanzen, Planung, Vertrieb und Strategie. Prüfen Sie Inhalte und Software-Kompatibilität, bevor Sie kaufen.",
     "highlights": [
       "Über 70 Vorlagen laut Anbieter",
@@ -690,7 +690,9 @@ const blogArticles = [
     ctaText: 'Ver pacote de guias',
     reviewUrl: 'topics/education/language-learning/pacote-4-guias-idiomas.html',
     bookingUrl: 'https://www.checkout-ds24.com/redir/725241/gabrielhenriquep123f97e',
-    imageAlt: 'Pacote digital de guias de alemão, inglês, espanhol e francês',
+    imageUrl: 'assets/images/editorial/language-practice.svg',
+    imageType: 'editorial',
+    imageAlt: 'Ilustração editorial de cumprimentos em quatro idiomas; não é uma prévia dos e-books',
     isDirectAffiliate: true,
     featured: true,
   },
@@ -708,7 +710,9 @@ const blogArticles = [
     ctaText: 'Ver detalhes do curso',
     reviewUrl: 'topics/travel/points-and-miles/elite-travelhacking-basix.html',
     bookingUrl: 'https://www.checkout-ds24.com/redir/553720/gabrielhenriquep123f97e',
-    imageAlt: 'Apresentação do curso Elite Travelhacking BasiX',
+    imageUrl: 'assets/images/editorial/points-planning.svg',
+    imageType: 'editorial',
+    imageAlt: 'Ilustração editorial de critérios para comparar pontos e dinheiro; não é uma prévia do curso',
     isDirectAffiliate: true,
     featured: true,
   },
@@ -721,7 +725,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Design & content",
     "audience": "European learners and creators",
-    "title": "Canva Pro: bring a consistent look to every piece of content",
+    "title": "Canva Pro: features, subscription and licence checks",
     "summary": "Explore Canva Pro for everyday design, brand organisation and image editing. Compare the paid tools with Canva Free before choosing a plan for your content workflow.",
     "highlights": [
       "A more consistent brand",
@@ -747,7 +751,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Creative skills",
     "audience": "European learners and creators",
-    "title": "Skillshare: turn a saved idea into your next creative project",
+    "title": "Skillshare: classes, subscription and renewal guide",
     "summary": "Explore Skillshare classes in design, illustration, photography and video. Pick a project, check the teaching language and understand the subscription before starting a trial.",
     "highlights": [
       "Explore a creative skill",
@@ -773,7 +777,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Creative courses",
     "audience": "European learners and creators",
-    "title": "Domestika Plus: find a new technique for your next project",
+    "title": "Domestika Plus: subscription, credits and course access",
     "summary": "Explore Domestika Plus for creative learning. Understand temporary catalogue access, credits and purchased courses before choosing a subscription.",
     "highlights": [
       "Discover a creative field",
@@ -799,7 +803,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Professional learning",
     "audience": "European learners and creators",
-    "title": "Coursera Plus: give your professional development a clear direction",
+    "title": "Coursera Plus: included courses and subscription checks",
     "summary": "Explore Coursera Plus for business, technology and other skills. Check whether your chosen programme is included, its language and the requirements for certification.",
     "highlights": [
       "Plan a sequence",
@@ -825,7 +829,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Language learning",
     "audience": "European learners and creators",
-    "title": "Babbel: start with the language you want to use in everyday life",
+    "title": "Babbel: languages, lessons and subscription guide",
     "summary": "Explore Babbel for language self-study. Check course availability for your base language, available levels and subscription options before choosing a plan.",
     "highlights": [
       "Learn through lessons",
@@ -851,7 +855,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Travel connectivity",
     "audience": "European travellers",
-    "title": "Airalo: plan your mobile data before you travel",
+    "title": "Airalo eSIM guide: coverage, compatibility and activation",
     "summary": "Explore Airalo travel eSIMs and compare destinations, data and validity. Check device compatibility and the activation rules of the package you choose.",
     "highlights": [
       "Coverage for your route",
@@ -877,7 +881,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "International data",
     "audience": "European travellers",
-    "title": "Holafly: choose a travel eSIM around your destinations and dates",
+    "title": "Holafly eSIM guide: destinations, validity and setup",
     "summary": "Explore Holafly travel eSIMs and advertised unlimited-data offers. Check compatibility, covered countries and tethering rules before choosing a package.",
     "highlights": [
       "Destination and duration",
@@ -903,7 +907,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Tours & attraction tickets",
     "audience": "European travellers",
-    "title": "GetYourGuide: find an experience that fits your city break",
+    "title": "GetYourGuide: booking, operators and cancellation checks",
     "summary": "Explore GetYourGuide tours, tickets and activities. Compare times, inclusions and meeting points before choosing an experience for your European itinerary.",
     "highlights": [
       "Search by destination",
@@ -929,7 +933,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Guided visits & excursions",
     "audience": "European travellers",
-    "title": "Civitatis: find a guided visit that adds context to your trip",
+    "title": "Civitatis: tours, booking and cancellation checks",
     "summary": "Explore Civitatis guided visits, excursions and activities. Check the guide’s language, inclusions and meeting point before planning your day.",
     "highlights": [
       "Explore a destination",
@@ -955,7 +959,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Transport & tickets",
     "audience": "European travellers",
-    "title": "Omio: compare the whole journey before choosing a ticket",
+    "title": "Omio: train, bus and flight booking checks",
     "summary": "Compare train, bus, flight and ferry options with Omio. Look at journey time, station location and fare conditions when planning travel between European cities.",
     "highlights": [
       "Compare transport types",
@@ -982,7 +986,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Norwegian learning",
     "audience": "European learners and creators",
-    "title": "The Mystery of Nils: learn Norwegian through a story",
+    "title": "The Mystery of Nils: Norwegian course and level guide",
     "summary": "Explore The Mystery of Nils, a beginner Norwegian course with story chapters, video explanations and audio practice. Check monthly billing before joining.",
     "highlights": [
       "26 story chapters",
@@ -1011,7 +1015,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Spanish learning",
     "audience": "European learners and creators",
-    "title": "Spanish Slow and Easy: short lessons at your own pace",
+    "title": "Spanish Slow and Easy: lessons, language and access",
     "summary": "Explore Spanish Slow and Easy: English explanations, short audio lessons and everyday Spanish. Review the course’s Latin American focus and current lesson availability.",
     "highlights": [
       "Short audio lessons",
@@ -1040,7 +1044,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Photo editing",
     "audience": "European learners and creators",
-    "title": "Dennis Schmelz Lightroom Presets: colour for your next edit",
+    "title": "Dennis Schmelz Lightroom Presets: compatibility and use",
     "summary": "Explore Dennis Schmelz’s 18 Lightroom presets for landscape, aerial, street and portrait photographs. Check software compatibility and licence terms before downloading.",
     "highlights": [
       "18 presets",
@@ -1069,7 +1073,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Video colour grading",
     "audience": "European learners and creators",
-    "title": "Prejudice SLOG3 LUTs: a vintage look for your film",
+    "title": "Prejudice SLOG3 LUTs: camera and software compatibility",
     "summary": "Compare Dennis Schmelz’s Prejudice LUT pack: two colour-grading LUTs described for Sony A7S III SLOG3 footage. Check your camera profile and editing workflow first.",
     "highlights": [
       "Two LUTs",
@@ -1098,7 +1102,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Account management",
     "audience": "European learners and creators",
-    "title": "Key Account Management: structure your next account plan",
+    "title": "Key Account Management Training: syllabus and access",
     "summary": "Explore Digistore24’s Key Account Management online training: 49 videos, account-plan templates and material on strategic client relationships. Review the current package.",
     "highlights": [
       "49 videos",
@@ -1127,7 +1131,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Warehouse systems",
     "audience": "European learners and creators",
-    "title": "SAP EWM Supercharged: a focused performance course",
+    "title": "SAP EWM Supercharged: course scope and prerequisites",
     "summary": "Explore SAP EWM Supercharged, an English video course listing ten performance topics in around 25 minutes. Check relevance to your SAP environment before buying.",
     "highlights": [
       "Ten performance topics",
@@ -1156,7 +1160,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Practical computing",
     "audience": "European learners and creators",
-    "title": "Raspberry Pi for Beginners: plan your first project",
+    "title": "Raspberry Pi for Beginners: course and hardware checks",
     "summary": "Explore Raspberry Pi for Beginners for Mac and PC, with 25 video lessons and introductory projects. The listed syllabus uses older hardware and tools; check current compatibility.",
     "highlights": [
       "25 video lessons",
@@ -1185,7 +1189,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Team leadership",
     "audience": "European learners and creators",
-    "title": "Leadership Crash Course: prepare for managing a team",
+    "title": "Leadership Crash Course: content, language and access",
     "summary": "Explore Leadership Crash Course: 50 short videos, worksheets, transcripts and twelve months of access. Review the package and teaching language before enrolling.",
     "highlights": [
       "50 short videos",
@@ -1214,7 +1218,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Travel English",
     "audience": "European learners and creators",
-    "title": "megaSPRACHEN: practical English for German speakers",
+    "title": "megaSPRACHEN Reise-Englisch: course format and language",
     "summary": "Explore megaSPRACHEN Reise-Englisch, a German-language offer listing 121 lessons for practical English. Check the teaching language and your starting level before buying.",
     "highlights": [
       "121 listed lessons",
@@ -1243,7 +1247,7 @@ const blogArticles = [
     "market": "Europe",
     "category": "Piano practice",
     "audience": "European learners and creators",
-    "title": "Piano Boogie Woogie: weekly practice for experienced players",
+    "title": "Piano Boogie Woogie: course level and practice requirements",
     "summary": "Explore Piano Boogie Woogie für Anfänger, a German-language offer with ten weekly video lessons. The seller recommends existing piano experience; check fit before enrolling.",
     "highlights": [
       "Ten video lessons",
