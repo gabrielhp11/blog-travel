@@ -179,6 +179,15 @@ h1 em { color: var(--accent); font-style: normal; }
 .guide-group { margin-block: 48px; }
 .guide-group h2 { font-size: 1.7rem; }
 .guide-group > p { max-width: 75ch; }
+.planning-links ul { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+.planning-links li { border: 1px solid var(--line); border-radius: 12px; padding: 20px; background: var(--surface); }
+.planning-links p { font-size: .9rem; margin: 12px 0 0; }
+@media (max-width: 700px) { .planning-links ul { grid-template-columns: 1fr; } }
+.hub-jump { display: flex; flex-wrap: wrap; gap: 10px 22px; margin-top: 18px; }
+.guide-directory .offer-faq { max-width: 75ch; }
+.guide-directory .offer-faq-item { padding: 16px 0; border-bottom: 1px solid var(--line); }
+.guide-directory .offer-faq-item summary { cursor: pointer; color: var(--ink); font-weight: 600; }
+.guide-directory .offer-faq-item p { margin: 10px 0 0; }
 .blog-post h3,.post-service-tag,.post-footer a { overflow-wrap: anywhere; }
 .post-footer { flex-wrap: wrap; }
 .post-footer .btn { min-height: 38px; height: auto; padding-block: 8px; text-align: center; }

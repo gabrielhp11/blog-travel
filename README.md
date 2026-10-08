@@ -5,7 +5,8 @@ PokiSky is a static, multilingual publication for source-based product and cours
 ## Site structure
 
 - `index.html` is the publication home page. Its catalog is generated as static HTML from `assets/js/articles.js`; JavaScript only enhances the filters.
-- `guides/travel.html`, `guides/courses.html` `guides/wellness.html` and `guides/europe.html` group published guides with topic- and audience-specific buying criteria and crawlable links.
+- `guides/travel.html`, `guides/courses.html`, `guides/wellness.html` and `guides/europe.html` group published guides with topic- and audience-specific buying criteria and crawlable links. `/guides/europe-de` and `/guides/uk-ireland` are language- and destination-specific indexes linked from the Europe directory; they do not claim delivery in every country.
+- `/guides/europe-esim` and `/guides/europa-esim` are equivalent English/German planning guides comparing Airalo, Holafly and existing roaming. Their reciprocal hreflang and visible language switch apply only to this translated pair. Edit the copy in `scripts/generate-planning-guides.js` and metadata in `scripts/site-data.js`; the build generates both pages and their directory links.
 - `docs/PRODUCTS.md` is the register of public guides and their editorial status.
 - `topics/` contains the individual product guides and offer-status pages.
 - `assets/css/review.css` provides the shared product-page layout; `assets/css/editorial.css` supplies the editorial sections; each product stylesheet sets its own palette.
@@ -59,7 +60,9 @@ Google Search does not guarantee rankings or rich-result display. Google Ads is 
 
 The user requests that completed project changes are validated, committed and pushed to GitHub through `origin`. Use a normal push and report any access or conflict blocker. Persistent instructions are in `AGENTS.md` and `.cursor/rules/project-delivery.mdc`.
 
-The Europe directory groups guides by the editorial audience recorded in the catalog and distinguishes English and German content. It does not imply delivery or billing support in every European country. Do not add hreflang between unrelated products; translated variants must represent the same page content.
+The Europe directory groups guides by the editorial audience recorded in the catalog and distinguishes English and German content. The German and UK/Ireland indexes reuse that audience metadata. They do not imply delivery or billing support in every European country. Do not add hreflang between unrelated products; translated variants must represent the same page content. Visible FAQs may carry FAQPage markup only when the questions and answers are on the page.
+
+The sitemap includes `lastmod` only when a page records an explicit content-review date in `meta[name="dateModified"]`. Do not use file timestamps, checkout time or build time as editorial updates. Update the planning guides' review date only after reviewing their actual content and sources. FAQ markup does not imply eligibility for Google's restricted FAQ rich results.
 
 Fonts are served locally in WOFF2 format with Latin and extended Latin coverage. Keep `assets/fonts/manifest.json` and the SIL OFL licences alongside the hashed font files. `font-display: optional` lets text appear promptly with a fallback on a slow first load. The build removes external Google font links and preloads only the body font. Font binaries have immutable caching; use a new filename when their contents change.
 

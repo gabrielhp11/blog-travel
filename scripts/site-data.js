@@ -17,8 +17,21 @@ function indexable(file) {
 const guides = catalog.filter(article => !article.hidden && article.reviewUrl?.endsWith('.html') && indexable(article.reviewUrl));
 const languages = {'pt-BR': 'Português', 'de-DE': 'Deutsch', 'en-GB': 'English', en: 'English'};
 const localeOf = (article) => article.locale || 'en';
+const ogLocaleOf = (lang) => ({en: 'en_GB', 'en-GB': 'en_GB', 'de-DE': 'de_DE', 'pt-BR': 'pt_BR'}[lang] || 'en_GB');
+const planningPages = [
+  {file: 'guides/europe-esim.html', lang: 'en-GB', hreflang: 'en', title: 'Airalo vs Holafly for Europe: eSIM buying checklist', description: 'Compare Airalo and Holafly for a Europe trip: country coverage, data, hotspot, home roaming and activation. Source-based checks before you buy.', hubs: ['travel', 'europe', 'uk-ireland'], reviewed: '2026-10-08'},
+  {file: 'guides/europa-esim.html', lang: 'de-DE', hreflang: 'de', title: 'eSIM für Europa: Airalo und Holafly vergleichen', description: 'Airalo oder Holafly für die Europareise? Prüfen Sie Länder, Daten, Hotspot, bestehendes Roaming und Aktivierung vor dem Kauf einer Reise-eSIM.', hubs: ['travel', 'europe', 'europe-de'], reviewed: '2026-10-08'}
+];
+
+function renderPlanningLinks(key, lang = 'en') {
+  const pages = planningPages.filter(page => page.hubs.includes(key));
+  if (!pages.length) return '';
+  const de = lang.startsWith('de');
+  return `<section class="planning-links guide-group"><h2>${de ? 'Reiseplanung und Vergleiche' : 'Plan your trip: comparisons and checklists'}</h2><p>${de ? 'Beginnen Sie mit Ihrer Reiseroute und Ihrem vorhandenen Mobilfunktarif.' : 'Start with your itinerary and the mobile plan you already have.'}</p><ul>${pages.map(page => `<li lang="${page.lang}"><a class="text-link" href="${cleanPath(page.file)}" hreflang="${page.hreflang}">${escapeHtml(page.title)}</a><p>${escapeHtml(page.description)}</p></li>`).join('')}</ul></section>`;
+}
 // Audience metadata is editorial context, not a guarantee of delivery or billing support.
 const isEuropeanGuide = article => /europe|germany|austria|united kingdom|\buk\b|ireland/i.test(article.market || '');
+const isUkIrelandGuide = article => /united kingdom|\buk\b|ireland/i.test(article.market || '');
 const hubs = [
   {key: 'travel', file: 'guides/travel.html', title: 'Travel planning: eSIMs, transport and experiences', label: 'Travel', description: 'Compare travel eSIMs, transport booking tools, guided experiences and travel-learning guides. Check coverage, ticket conditions and total trip costs.', topics: ['travel'], groups: [
     ['Connectivity', 'Compare your existing roaming allowance with the destinations, validity and activation rules of an eSIM. Check your exact phone model and whether it is unlocked before buying.', ['connectivity']],
@@ -39,12 +52,76 @@ const hubs = [
     ['Seller-described formulas', 'Read claims separately from the ingredient list. These guides summarise public seller information and do not establish clinical effectiveness or replace a qualified health professional.', ['brain-health', 'gut-health', 'mens-health', 'metabolic-health']]
   ]}
 ];
-hubs.push({key: 'europe', file: 'guides/europe.html', title: 'Buyer guides for Europe: English and German', label: 'Europe', description: 'Compare English and German guides for European readers. Check course language, software licences, billing country, currency and the final purchase terms.', topics: [], groups: [
-  ['English guides for European readers', 'These guides are written in English. Check the supplier’s actual teaching, interface and support languages, as well as availability in your billing country.', ['en', 'en-GB']],
-  ['Ratgeber auf Deutsch', 'Vergleichen Sie Kursinhalte, Softwarelizenzen und Kaufbedingungen. Prüfen Sie Unterrichtssprache, Währung, den Gesamtpreis und die Verfügbarkeit in Ihrem Land direkt beim Anbieter.', ['de-DE']]
-]});
+hubs.push({
+  key: 'europe',
+  file: 'guides/europe.html',
+  title: 'Europe buying guides: English, German, UK and Ireland',
+  label: 'Europe',
+  lang: 'en',
+  image: 'coursera-plus.png',
+  description: 'English and German PokiSky guides for European readers. Check course language, VAT, UK or EU billing, licences and the seller’s current purchase terms.',
+  topics: [],
+  groupBy: 'locale',
+  select: article => isEuropeanGuide(article) && ['en', 'en-GB', 'de-DE'].includes(localeOf(article)),
+  groups: [
+    ['English guides for European readers', 'These guides are written in English. Check the supplier’s actual teaching, interface and support languages, as well as availability in your billing country.', ['en', 'en-GB']],
+    ['Ratgeber auf Deutsch', 'Vergleichen Sie Kursinhalte, Softwarelizenzen und Kaufbedingungen. Prüfen Sie Unterrichtssprache, Währung, den Gesamtpreis und die Verfügbarkeit in Ihrem Land direkt beim Anbieter.', ['de-DE']]
+  ],
+  faqs: [
+    {q: 'Do these guides cover every country in Europe?', a: 'No. Each guide records an intended audience and purchase context. Confirm your billing country, delivery destination and the seller’s current terms; availability is not established for every European country.'},
+    {q: 'What is the difference between the English and German guides?', a: 'English pages are written in English and German pages are written in German. A product’s teaching, interface or support language can still differ from the language of our guide.'},
+    {q: 'Are UK and EU checkout terms the same?', a: 'Not necessarily. Currency, tax, delivery, licences and cancellation rules can differ. Read the live checkout for your country before paying.'},
+    {q: 'Does PokiSky sell these products?', a: 'No. These are editorial buyer guides. Some links are affiliate links, disclosed on each page and on the disclosure page.'}
+  ]
+});
+hubs.push({
+  key: 'europe-de',
+  file: 'guides/europe-de.html',
+  title: 'Ratgeber auf Deutsch: Kurse, Software und Kaufchecks',
+  label: 'Deutsch',
+  lang: 'de',
+  nav: false,
+  image: 'excel-paket.svg',
+  description: 'Deutschsprachige PokiSky-Ratgeber zu Kursen und Software. Prüfen Sie Unterrichtssprache, Währung, Steuern, Lizenz und die aktuellen Kaufbedingungen des Anbieters.',
+  topics: [],
+  groupBy: 'locale',
+  select: article => isEuropeanGuide(article) && localeOf(article).startsWith('de'),
+  groups: [
+    ['Ratgeber auf Deutsch', 'Diese Seiten sind auf Deutsch geschrieben. Prüfen Sie trotzdem die tatsächliche Unterrichts-, Oberflächen- und Supportsprache beim Anbieter sowie die Verfügbarkeit in Ihrem Land.', ['de-DE']]
+  ],
+  faqs: [
+    {q: 'Gelten diese Ratgeber für jedes Land in Europa?', a: 'Nein. Jede Seite nennt den vorgesehenen Leserkreis. Rechnungsadresse, Lieferort und die aktuellen Bedingungen des Anbieters müssen Sie selbst prüfen.'},
+    {q: 'Ist die Kurssprache immer Deutsch?', a: 'Die Ratgeber sind auf Deutsch. Unterricht, Softwareoberfläche und Support können abweichen. Vergleichen Sie die Angaben des Anbieters.'},
+    {q: 'Verkauft PokiSky die Angebote?', a: 'Nein. Es handelt sich um redaktionelle Kaufhilfen. Einige Links sind Affiliate-Links und werden auf der jeweiligen Seite gekennzeichnet.'}
+  ]
+});
+hubs.push({
+  key: 'uk-ireland',
+  file: 'guides/uk-ireland.html',
+  title: 'UK and Ireland buying guides: labels, packs and delivery checks',
+  label: 'UK & Ireland',
+  lang: 'en-GB',
+  nav: false,
+  image: 'advanced-amino-formula.jpg',
+  description: 'English supplement buying guides for UK and Ireland readers. Compare labels, pack sizes and inspected shipping notes; confirm the live checkout for your address.',
+  topics: [],
+  groupBy: 'topic',
+  select: isUkIrelandGuide,
+  groups: [
+    ['Supplement labels for UK and Ireland readers', 'These physical-product guides record supplier labels and inspected UK or Ireland checkout notes. They do not establish delivery to every address or to the rest of Europe.', ['wellness']],
+    ['Courses and digital tools', 'If a UK or Ireland audience is recorded for a course or software guide, compare language, licence and billing-country terms before paying.', ['business', 'education']],
+    ['Travel planning', 'Travel tools still need route, fare and coverage checks for your dates. A UK or Ireland audience note is not a delivery guarantee.', ['travel']]
+  ],
+  faqs: [
+    {q: 'Can I order these supplements anywhere in Europe?', a: 'The recorded audience is the United Kingdom and Ireland. Delivery to other countries is not established on these pages. Confirm the destination and charges at checkout.'},
+    {q: 'Does each guide confirm the final shipping total?', a: 'Where a checkout was inspected, that is stated in the guide. Address-level eligibility and the live total still need to be confirmed with the seller.'},
+    {q: 'Are these independent lab reviews?', a: 'No. The pages summarise supplier labels and purchase terms. They do not establish clinical effects or replace advice from a qualified health professional.'}
+  ]
+});
+const navHubs = hubs.filter(hub => hub.nav !== false);
+const groupKey = (hub, article) => hub.groupBy === 'locale' ? localeOf(article) : hub.groupBy === 'topic' ? article.topic : article.subtopic;
 const hubFor = (article) => hubs.find(hub => hub.topics.includes(article.topic));
-const guidesFor = (hub) => guides.filter(article => hub.key === 'europe' ? isEuropeanGuide(article) && ['en', 'en-GB', 'de-DE'].includes(localeOf(article)) : hub.topics.includes(article.topic));
+const guidesFor = (hub) => hub.select ? guides.filter(hub.select) : guides.filter(article => hub.topics.includes(article.topic));
 const affiliateMarker = vm.runInNewContext(`${fs.readFileSync('assets/js/articles.js', 'utf8')}\nAFFILIATE_CONFIG.travelPayoutsMarker`);
 
 function bookingLink(article) {
@@ -82,4 +159,28 @@ function itemList(articles) {
   return { '@type': 'ItemList', itemListElement: articles.map((article, index) => ({'@type': 'ListItem', position: index + 1, name: article.title, url: absoluteUrl(cleanPath(article.reviewUrl))})) };
 }
 
-module.exports = {isEuropeanGuide, siteUrl, catalog, guides, hubs, languages, localeOf, cleanPath, absoluteUrl, escapeHtml, indexable, hubFor, guidesFor, renderCard, jsonLd, itemList};
+function extractFaqs($) {
+  return $('.offer-faq-item, .product-faq-item').toArray().map(element => ({
+    q: $(element).find('summary, h3').first().text().replace(/\s+/g, ' ').trim(),
+    a: $(element).find('p').first().text().replace(/\s+/g, ' ').trim()
+  })).filter(item => item.q && item.a);
+}
+
+function faqPage(faqs) {
+  if (!faqs || faqs.length < 2) return null;
+  return {
+    '@type': 'FAQPage',
+    mainEntity: faqs.map(item => ({
+      '@type': 'Question',
+      name: item.q,
+      acceptedAnswer: {'@type': 'Answer', text: item.a}
+    }))
+  };
+}
+
+function renderFaqs(faqs, heading, intro) {
+  if (!faqs?.length) return '';
+  return `<section id="faq" class="guide-group" aria-labelledby="directory-faq"><h2 id="directory-faq">${escapeHtml(heading)}</h2>${intro ? `<p class="section-intro">${escapeHtml(intro)}</p>` : ''}<div class="offer-faq">${faqs.map(item => `<details class="offer-faq-item"><summary>${escapeHtml(item.q)}</summary><p>${escapeHtml(item.a)}</p></details>`).join('')}</div></section>`;
+}
+
+module.exports = {planningPages, renderPlanningLinks, isEuropeanGuide, isUkIrelandGuide, siteUrl, catalog, guides, hubs, navHubs, languages, localeOf, ogLocaleOf, groupKey, cleanPath, absoluteUrl, escapeHtml, indexable, hubFor, guidesFor, renderCard, jsonLd, itemList, extractFaqs, faqPage, renderFaqs};

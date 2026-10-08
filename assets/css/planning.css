@@ -1,0 +1,25 @@
+.planning-page h1 { max-width: 23ch; font-size: clamp(2rem, 4vw, 3rem); overflow-wrap: anywhere; }
+.planning-hero { display: grid; grid-template-columns: 1.3fr 1fr; align-items: center; gap: 32px; }
+.planning-page figure { margin: 0; }
+.planning-page figure img { width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--line); }
+.planning-page figcaption { margin-top: 10px; font-size: .78rem; color: var(--muted); }
+.planning-page .seo-author { font-size: .85rem; color: var(--muted); }
+.planning-page .seo-author a, .planning-disclosure a, .planning-toc a { text-decoration: underline; text-underline-offset: 3px; }
+.language-switch { display: flex; flex-wrap: wrap; gap: 12px; }
+.language-switch a { padding: 8px 14px; border: 1px solid var(--line); border-radius: 6px; }
+.language-switch [aria-current="page"] { color: var(--accent-dark); background: var(--accent-pale); font-weight: 700; }
+.planning-disclosure { max-width: 80ch; font-size: .9rem; }
+.planning-toc, .planning-example { border-left: 3px solid var(--accent); background: var(--accent-pale); padding: 22px; border-radius: 0 8px 8px 0; }
+.planning-toc ul, .planning-page .seo-related ul { display: grid; gap: 12px; }
+.planning-reading { max-width: 78ch; }
+.planning-options { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; margin: 24px 0; }
+.planning-card { padding: 24px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+.planning-card h3 { font-size: 1.35rem; }
+.planning-page li { margin-block: 10px; }
+.planning-page a:focus-visible { outline: 3px solid var(--accent); outline-offset: 4px; }
+@media (max-width: 700px) {
+  .planning-hero, .planning-options { grid-template-columns: 1fr; }
+  .planning-hero { gap: 16px; }
+  .planning-hero figure { max-width: 480px; }
+  .planning-card { padding: 20px; }
+}

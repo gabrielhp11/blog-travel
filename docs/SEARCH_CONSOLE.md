@@ -17,7 +17,7 @@ After changing the catalog or pages, run `npm run seo:build` and `npm run seo:ch
 ## Current crawl files
 
 - `robots.txt` allows crawling and advertises the sitemap.
-- `sitemap.xml` lists the home page, disclosure page, four directories (including Europe), and public catalog pages with self-referencing extensionless canonicals and no `noindex` directive.
+- `sitemap.xml` lists the home page, disclosure page, topic directories (including Europe, German-language and UK/Ireland indexes), translated eSIM planning pages, and public catalog pages with self-referencing extensionless canonicals and no `noindex` directive. `lastmod` appears only for explicit editorial review dates, never for file modification or build times.
 - Pages with unconfirmed offer details remain crawlable but carry `noindex, follow`; do not block them in `robots.txt`, because search engines need to fetch the page to see that directive.
 
 Search engines decide independently whether and when to index a submitted page. A successful sitemap submission is not an indexing or ranking guarantee.
@@ -44,5 +44,11 @@ On 7 October, authenticated Google and Bing reports were still processing. The G
 6. After 28 days, compare topic groups and representative pages. After 56 days, check whether the pattern persists. Do not attribute all changes to this release without considering demand, competition and indexing changes.
 
 Primary references: [Google's JavaScript SEO guidance](https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics), [canonical URL guidance](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls), and [helpful, reliable content guidance](https://developers.google.com/search/docs/fundamentals/creating-helpful-content).
+
+## Europe content release — 8 October 2026
+
+Track `/guides/europe-esim` and `/guides/europa-esim` separately, alongside the German and UK/Ireland indexes. Candidate queries come from the content: “Airalo vs Holafly Europe”, “Europe eSIM hotspot”, “eSIM Europa Vergleich” and “eSIM Europa 7 Tage”. These are editorial query hypotheses, not measured keyword volumes. Group impressions/clicks by query and country; expand only where reports show demand and the actual product conditions fit.
+
+The English/German eSIM pages are equivalent translations with reciprocal/self hreflang and visible language links. Region directories and different products are not translation alternatives. The new content includes source dates and limitations; there is no claim of a provider speed test, cheapest plan or ranking gain. FAQPage describes visible answers and does not establish eligibility for a Google FAQ rich result.
 
 On 7 October, the updated sitemap was resubmitted successfully to Google. Its next read remains pending. Manual homepage indexing hit the daily quota. Bing’s submission form and Re-submit action returned server errors; its old sitemap entry remains. These external limitations do not change the deployed sitemap or the successful local checks.

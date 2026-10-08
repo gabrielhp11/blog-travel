@@ -185,6 +185,7 @@
 .editorial-page .seo-author a { text-decoration: underline; text-underline-offset: 3px; }
 .editorial-page h1 { font-size: 2.75rem; letter-spacing: 0; overflow-wrap: anywhere; }
 .editorial-page .seo-related { border-top: 1px solid var(--line); }
+.editorial-page .seo-related .editorial-narrow > a { display: inline-block; margin: 8px 20px 8px 0; }
 .editorial-page .seo-related-list { display: grid; gap: 16px; padding-left: 20px; }
 .editorial-page .seo-related-list a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
 .editorial-page .seo-related-list small { display: block; color: var(--muted); }

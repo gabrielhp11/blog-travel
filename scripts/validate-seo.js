@@ -1,8 +1,8 @@
 const fs = require('node:fs');
 const cheerio = require('cheerio');
-const {siteUrl, guides, hubs, cleanPath, indexable, guidesFor} = require('./site-data');
+const {siteUrl, guides, hubs, cleanPath, indexable, guidesFor, extractFaqs, planningPages} = require('./site-data');
 
-const files = ['index.html', 'affiliate-disclosure.html', ...hubs.map(hub => hub.file), ...guides.map(guide => guide.reviewUrl)];
+const files = ['index.html', 'affiliate-disclosure.html', ...hubs.map(hub => hub.file), ...planningPages.map(page => page.file), ...guides.map(guide => guide.reviewUrl)];
 const errors = [];
 const titles = new Set();
 const descriptions = new Set();
@@ -54,6 +54,12 @@ for (const file of files) {
           const items = entity.itemListElement;
           check(items.slice(0, -1).every(item => links.includes(item.item)) && items.at(-1).item === expected, file, 'Breadcrumb schema does not match visible navigation');
         }
+        if (entity['@type'] === 'FAQPage') {
+          const visible = extractFaqs($);
+          const marked = entity.mainEntity || [];
+          check(marked.length >= 2 && marked.length === visible.length, file, 'FAQ schema count differs from visible questions');
+          check(marked.every((question, index) => question.name === visible[index]?.q && question.acceptedAnswer?.text === visible[index]?.a), file, 'FAQ schema does not match visible answers');
+        }
       }
     } catch (error) { errors.push(`${file}: Invalid JSON-LD: ${error.message}`); }
   });
@@ -79,7 +85,7 @@ for (const file of files) {
     }
   });
 
-  if (file.startsWith('topics/')) {
+  if (file.startsWith('topics/') || planningPages.some(page => page.file === file)) {
     const images = $('img').toArray();
     check(new Set(images.map(image => $(image).attr('src'))).size >= 3, file, 'Offer needs at least three distinct images');
     images.forEach((image, index) => {
@@ -90,6 +96,20 @@ for (const file of files) {
     });
     check($('.seo-related a').length >= 2, file, 'Missing related guide navigation');
   }
+}
+
+for (const page of planningPages) {
+  const $ = load(page.file);
+  const expected = new Map(planningPages.map(other => [other.hreflang, siteUrl + cleanPath(other.file)]));
+  const alternatives = $('link[rel="alternate"][hreflang]');
+  check(alternatives.length === expected.size, page.file, 'Missing translated alternatives');
+  for (const [lang, url] of expected) {
+    check(alternatives.filter((i, el) => $(el).attr('hreflang') === lang && $(el).attr('href') === url).length === 1, page.file, 'Missing reciprocal/self hreflang: ' + lang);
+    check($('a[href="' + new URL(url).pathname + '"]').length > 0, page.file, 'Missing visible language switch: ' + lang);
+  }
+  check($('meta[name="dateModified"]').attr('content') === page.reviewed && $('time[datetime="' + page.reviewed + '"]').length === 1, page.file, 'Review date must be visible and consistent');
+  check(load('index.html')('a[href="' + cleanPath(page.file) + '"]').length > 0, 'index.html', 'Planning guide not linked: ' + page.file);
+  for (const key of page.hubs) check(load(hubs.find(hub => hub.key === key).file)('a[href="' + cleanPath(page.file) + '"]').length > 0, page.file, 'Planning guide missing from hub: ' + key);
 }
 
 const home = load('index.html');
@@ -106,6 +126,13 @@ for (const hub of hubs) {
 const sitemap = cheerio.load(fs.readFileSync('sitemap.xml', 'utf8'), {xml: true});
 const urls = sitemap('loc').map((i, element) => sitemap(element).text()).get();
 const expectedUrls = files.filter(indexable).map(file => siteUrl + cleanPath(file));
+sitemap('url').each((i, entry) => {
+  const url = sitemap(entry).find('loc').text();
+  const file = resolveFile(new URL(url));
+  const modified = sitemap(entry).find('lastmod').text();
+  check(Boolean(file), 'sitemap.xml', 'Missing page: ' + url);
+  if (file) check(modified === (load(file)('meta[name="dateModified"]').attr('content') || ''), 'sitemap.xml', 'Unsubstantiated lastmod: ' + url);
+});
 check(urls.length === new Set(urls).size, 'sitemap.xml', 'Duplicate URLs');
 check(urls.length === expectedUrls.length && expectedUrls.every(url => urls.includes(url)), 'sitemap.xml', 'Sitemap differs from public indexable pages');
 for (const [source, destination] of redirects) {

@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (filter === 'business') return topic === 'business' || topic === 'education';
     if (filter === 'europe') return europe === 'true' && locale.startsWith('en');
     if (filter === 'german') return locale.startsWith('de');
+    if (filter === 'uk') return /united kingdom|\buk\b|ireland/i.test(card.dataset.market || '');
     if (filter === 'digistore24') return network === 'digistore24';
     return topic === filter;
   }

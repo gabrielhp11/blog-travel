@@ -1,7 +1,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const cheerio = require('cheerio');
-const {siteUrl, guides, hubs, localeOf, languages, cleanPath, absoluteUrl, escapeHtml: esc, hubFor, jsonLd} = require('./site-data');
+const {siteUrl, guides, hubs, localeOf, ogLocaleOf, languages, cleanPath, absoluteUrl, escapeHtml: esc, hubFor, jsonLd, extractFaqs, faqPage, isEuropeanGuide, isUkIrelandGuide, planningPages} = require('./site-data');
 
 function htmlFiles(directory) {
   return fs.readdirSync(directory, {withFileTypes: true}).flatMap(entry => {
@@ -13,6 +13,7 @@ function htmlFiles(directory) {
 const files = [...fs.readdirSync('.').filter(file => file.endsWith('.html')), ...htmlFiles('topics')];
 const pages = new Map(files.map(file => [cleanPath(file), file]));
 for (const hub of hubs) pages.set(cleanPath(hub.file), hub.file);
+for (const page of planningPages) pages.set(cleanPath(page.file), page.file);
 
 function normaliseUrl(value, file) {
   if (!value || /^(?:#|data:|mailto:|tel:)/i.test(value)) return value;
@@ -98,7 +99,19 @@ for (const file of files) {
       const score = item => (item.subtopic === article.subtopic ? 4 : 0) + (localeOf(item) === lang ? 2 : 0);
       return score(b) - score(a);
     }).slice(0, 3);
-    const relatedHtml = `<section class="editorial-section seo-related"><div class="container editorial-narrow"><h2>${text.related}</h2><ul class="seo-related-list">${related.map(item => `<li><a href="${cleanPath(item.reviewUrl)}" lang="${localeOf(item)}">${esc(item.title)}</a><small>${languages[localeOf(item)] || localeOf(item)} · ${esc(item.category)}</small></li>`).join('')}</ul><a href="${cleanPath(hub.file)}">${text.browse} &#8594;</a></div></section>`;
+    const europeHub = hubs.find(item => item.key === 'europe');
+    const germanHub = hubs.find(item => item.key === 'europe-de');
+    const ukHub = hubs.find(item => item.key === 'uk-ireland');
+    const extraLinks = [];
+    if (article.subtopic === 'connectivity') {
+      const planning = planningPages.find(page => page.lang === lang) || planningPages[0];
+      extraLinks.push(`<a href="${cleanPath(planning.file)}" lang="${planning.lang}">${esc(planning.title)} &#8594;</a>`);
+    }
+    extraLinks.push(`<a href="${cleanPath(hub.file)}">${text.browse} &#8594;</a>`);
+    if (isEuropeanGuide(article) && europeHub) extraLinks.push(`<a href="${cleanPath(europeHub.file)}">${lang.startsWith('de') ? 'Europa-Ratgeber' : 'Europe buying guides'} &#8594;</a>`);
+    if (lang.startsWith('de') && germanHub) extraLinks.push(`<a href="${cleanPath(germanHub.file)}" lang="de">Ratgeber auf Deutsch &#8594;</a>`);
+    if (isUkIrelandGuide(article) && ukHub) extraLinks.push(`<a href="${cleanPath(ukHub.file)}">UK and Ireland guides &#8594;</a>`);
+    const relatedHtml = `<section class="editorial-section seo-related"><div class="container editorial-narrow"><h2>${text.related}</h2><ul class="seo-related-list">${related.map(item => `<li><a href="${cleanPath(item.reviewUrl)}" lang="${localeOf(item)}">${esc(item.title)}</a><small>${languages[localeOf(item)] || localeOf(item)} · ${esc(item.category)}</small></li>`).join('')}</ul>${extraLinks.join('')}</div></section>`;
     const oldRelated = $('.seo-related').first().length ? $('.seo-related').first() : $('.offer-related-grid').closest('section').first();
     if (oldRelated.length) {
       const location = oldRelated[0].sourceCodeLocation;
@@ -108,17 +121,24 @@ for (const file of files) {
 
     const images = $('img').map((i, image) => absoluteUrl(new URL($(image).attr('src'), url).href)).get();
     images.push(...additionalImages.map(name => absoluteUrl(`/assets/images/editorial/${name}.svg`)));
-    const graph = jsonLd({'@context': 'https://schema.org', '@graph': [
+    const entities = [
       {'@type': 'Article', '@id': url + '#article', mainEntityOfPage: url, headline: article.title, description: $('meta[name="description"]').attr('content'), inLanguage: lang, image: [...new Set(images)].slice(0, 3), author: {'@type': 'Organization', name: 'PokiSky Editorial Desk', url: `${siteUrl}/affiliate-disclosure`}, publisher: {'@type': 'Organization', name: 'PokiSky', url: `${siteUrl}/`}},
       {'@type': 'BreadcrumbList', itemListElement: [
         {'@type': 'ListItem', position: 1, name: text.home, item: `${siteUrl}/`},
         {'@type': 'ListItem', position: 2, name: hub.label, item: absoluteUrl(cleanPath(hub.file))},
         {'@type': 'ListItem', position: 3, name: article.title.split(':')[0], item: url}
       ]}
-    ]});
+    ];
+    const faqs = faqPage(extractFaqs($));
+    if (faqs) entities.push(faqs);
+    const graph = jsonLd({'@context': 'https://schema.org', '@graph': entities});
     if ($('script[data-pokisky-seo]').length) replace($('script[data-pokisky-seo]'), graph);
     else insert($('head')[0].sourceCodeLocation.endTag.startOffset, graph + '\n');
     if (!$('meta[property="og:image"]').length && images.length) insert($('head')[0].sourceCodeLocation.endTag.startOffset, `<meta property="og:image" content="${esc(images[0])}" />\n`);
+    const headEnd = $('head')[0].sourceCodeLocation.endTag.startOffset;
+    if (!$('meta[property="og:site_name"]').length) insert(headEnd, `<meta property="og:site_name" content="PokiSky" />\n`);
+    if (!$('meta[property="og:locale"]').length) insert(headEnd, `<meta property="og:locale" content="${ogLocaleOf(lang)}" />\n`);
+    if (!$('meta[name="twitter:card"]').length) insert(headEnd, `<meta name="twitter:card" content="summary_large_image" />\n`);
   }
   edits.sort((a, b) => b.start - a.start || b.end - a.end);
   let html = original;
