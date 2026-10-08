@@ -10,6 +10,35 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
 {
+  "id": 77,
+  "productId": "606700",
+  "topic": "wellness",
+  "subtopic": "mens-health",
+  "locale": "en-GB",
+  "market": "United Kingdom and Ireland listed by supplier; final shipping and address eligibility unverified",
+  "category": "Men’s supplement label guides",
+  "audience": "English-speaking UK and Ireland readers comparing supplement labels",
+  "title": "Advanced Prostate Formula: Label, Pack Sizes & UK Buying Guide",
+  "summary": "Inspect Advanced Prostate Formula’s tablet label, ingredient discrepancies, six-bottle offer and UK/Ireland delivery questions before ordering.",
+  "highlights": [
+    "English supplier label",
+    "Six-bottle checkout",
+    "Confirm formula and shipping"
+  ],
+  "service": "Physical supplement",
+  "ctaText": "Read label and delivery checks",
+  "reviewUrl": "topics/wellness/mens-health/advanced-prostate-formula.html",
+  "bookingUrl": "/topics/wellness/mens-health/advanced-prostate-formula",
+  "imageUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Advanced-Prostate-Formula/social-new.jpg",
+  "imageAlt": "Official Advanced Prostate Formula supplier product photograph",
+  "imageType": "official",
+  "linkType": "official",
+  "network": "Digistore24",
+  "affiliateStatus": "Accepted soundview partnership and 60% confirmed. Six-bottle checkout 606700 shows $249 and intended affiliate footer. UK/Ireland on supplier list; destination shipping total unverified. Catalog leads to guide before purchase.",
+  "isDirectAffiliate": false,
+  "featured": false
+},
+{
   "id": 76,
   "productId": "627162",
   "topic": "wellness",

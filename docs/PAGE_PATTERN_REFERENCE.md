@@ -692,3 +692,7 @@ Se uma página não seguir esses padrões, ela deve ser ajustada antes de entrar
 
 - Added two English guides, three official images each, approved partnerships and verified three-bottle affiliate checkouts.
 - UK delivery charges, tablet-count discrepancy and high vitamin D caution shown explicitly; catalogue buttons open the guide first. No medical outcomes or guaranteed commissions. Updated wellness taxonomy, aliases, catalogues, metadata and sitemap.
+
+### 8 October 2026 — Advanced Prostate Formula
+
+- Added an English supplier-label and six-bottle buying guide with three official images, explicit serving/formulation differences, evidence limitations and unverified destination-cost disclosure. Catalog, related links, short aliases and sitemap generated together. Liposomal Hair Renewal excluded because its programme disallows the site's SEO/review format.

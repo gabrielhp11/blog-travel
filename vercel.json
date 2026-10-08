@@ -546,6 +546,16 @@
       "source": "/piano-boogie-woogie.html",
       "destination": "/topics/education/music-learning/piano-boogie-woogie",
       "permanent": true
+    },
+    {
+      "source": "/advanced-prostate-formula",
+      "destination": "/topics/wellness/mens-health/advanced-prostate-formula",
+      "permanent": true
+    },
+    {
+      "source": "/advanced-prostate-formula.html",
+      "destination": "/topics/wellness/mens-health/advanced-prostate-formula",
+      "permanent": true
     }
   ],
   "headers": [
