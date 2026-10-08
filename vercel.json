@@ -3,6 +3,26 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/advanced-muscle-plus.html",
+      "destination": "/topics/wellness/nutrition/advanced-muscle-plus",
+      "permanent": true
+    },
+    {
+      "source": "/advanced-muscle-plus",
+      "destination": "/topics/wellness/nutrition/advanced-muscle-plus",
+      "permanent": true
+    },
+    {
+      "source": "/advanced-joint-support.html",
+      "destination": "/topics/wellness/joint-health/advanced-joint-support",
+      "permanent": true
+    },
+    {
+      "source": "/advanced-joint-support",
+      "destination": "/topics/wellness/joint-health/advanced-joint-support",
+      "permanent": true
+    },
+    {
       "source": "/fastseohub-elite",
       "destination": "/topics/business/marketing-tools/fastseohub-elite",
       "permanent": true

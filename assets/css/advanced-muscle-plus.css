@@ -1,0 +1,64 @@
+.page-advanced-muscle-plus {
+  --bg: #f8f9f4;
+  --ink: #2c3328;
+  --muted: #626b5b;
+  --accent: #345f6c;
+  --accent-soft: #e7eff1;
+  --gold: #93815a;
+  --line: rgba(48, 43, 38, .13);
+}
+.page-advanced-muscle-plus .topbar { background: rgba(248, 249, 244, .96); }
+.page-advanced-muscle-plus .hero { padding-bottom: 64px; }
+.page-advanced-muscle-plus h1 { max-width: 15ch; font-size: clamp(2.8rem, 4.8vw, 4.4rem); }
+.page-advanced-muscle-plus .hero-copy { padding-top: 12px; }
+.page-advanced-muscle-plus .ad-label { font-size: .76rem; color: var(--muted); margin: 0 0 24px; }
+.page-advanced-muscle-plus .product-card { border-radius: 16px; overflow: hidden; }
+.page-advanced-muscle-plus .box-photo { background: #fff; padding-top: 28px; }
+.page-advanced-muscle-plus .box-photo img { display: block; width: min(100%, 320px); max-width: 100%; height: auto; margin: 0 auto 20px; }
+.page-advanced-muscle-plus .purchase-note, .page-advanced-muscle-plus .reading-note { font-size: .84rem; max-width: 68ch; color: var(--muted); }
+.page-advanced-muscle-plus .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.page-advanced-muscle-plus .feature-index { display: block; color: var(--accent); font-size: .78rem; margin-bottom: 18px; letter-spacing: .08em; }
+.page-advanced-muscle-plus .label-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 54px; align-items: center; }
+.page-advanced-muscle-plus .label-photo { margin: 0; background: white; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.page-advanced-muscle-plus .label-photo img { display: block; width: 100%; height: auto; }
+.page-advanced-muscle-plus .label-photo figcaption { padding: 16px 20px; font-size: .75rem; color: var(--muted); text-align: center; }
+.page-advanced-muscle-plus .label-photo a { color: var(--accent); text-decoration: underline; }
+.page-advanced-muscle-plus .packs-heading { display: grid; grid-template-columns: minmax(0, 1fr) 348px; align-items: center; gap: 50px; margin-bottom: 32px; }
+.page-advanced-muscle-plus .pack-photo { margin: 0; background: white; padding: 16px; border-radius: 14px; border: 1px solid var(--line); }
+.page-advanced-muscle-plus .pack-photo img { width: 100%; height: auto; display: block; }
+.page-advanced-muscle-plus .pack-photo figcaption { color: var(--muted); text-align: center; font-size: .75rem; padding-top: 12px; }
+.page-advanced-muscle-plus .pack-price { color: var(--ink); font-size: clamp(1.7rem, 3vw, 2.2rem); font-weight: 700; letter-spacing: -.04em; margin: 12px 0; }
+.page-advanced-muscle-plus .pack-grid { margin-bottom: 28px; }
+.page-advanced-muscle-plus .compatibility { padding: 22px 24px; border-left: 3px solid var(--gold); background: #f5eddf; border-radius: 0 8px 8px 0; margin: 24px 0; }
+.page-advanced-muscle-plus .compatibility p { margin: 0; }
+.page-advanced-muscle-plus .editorial-source a, .page-advanced-muscle-plus .editorial-disclosure a { text-decoration: underline; text-underline-offset: 3px; }
+.page-advanced-muscle-plus .cta-block { background: #303927; color: #fff; }
+.page-advanced-muscle-plus .cta-block p { color: #e3e9d8; }
+.page-advanced-muscle-plus .cta-block .eyebrow { color: #cbd7b5; }
+.page-advanced-muscle-plus .cta-block .btn { background: #e4eccf; color: #303927; white-space: nowrap; }
+@media (max-width: 760px) {
+  .page-advanced-muscle-plus .feature-grid, .page-advanced-muscle-plus .label-grid, .page-advanced-muscle-plus .packs-heading { grid-template-columns: 1fr; }
+  .page-advanced-muscle-plus .label-grid, .page-advanced-muscle-plus .packs-heading { gap: 28px; }
+  .page-advanced-muscle-plus .pack-photo { width: min(100%, 380px); }
+  .page-advanced-muscle-plus .nav { gap: 12px; flex-wrap: wrap; padding-block: 12px; }
+  .page-advanced-muscle-plus .nav-links { gap: 16px; font-size: .8rem; }
+}
+@media (max-width: 420px) {
+  .page-advanced-muscle-plus .cta-row .btn { width: 100%; }
+  .page-advanced-muscle-plus h1 { font-size: 2.7rem; }
+  .page-advanced-muscle-plus .cta-block .btn { white-space: normal; }
+}
+
+.page-advanced-muscle-plus .nutrient-list { margin: 24px 0; border-top: 1px solid var(--line); }
+.page-advanced-muscle-plus .nutrient-list div { display: flex; justify-content: space-between; gap: 20px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.page-advanced-muscle-plus .nutrient-list dt { font-weight: 600; }
+.page-advanced-muscle-plus .nutrient-list dd { margin: 0; white-space: nowrap; color: var(--muted); }
+
+.page-advanced-muscle-plus h1 { max-width: 20ch; font-size: clamp(2.3rem, 4vw, 3.3rem); overflow-wrap: normal; hyphens: auto; }
+.page-advanced-muscle-plus .box-photo img { max-height: 300px; object-fit: contain; }
+.page-advanced-muscle-plus .nutrient-list dd { white-space: normal; text-align: right; flex-shrink: 0; }
+@media (max-width:420px) { .page-advanced-muscle-plus h1 {font-size:2.25rem;} }
+
+.page-advanced-muscle-plus .label-photo { background: #fff; padding: 20px; border-radius: 12px; }
+
+.page-advanced-muscle-plus .compatibility a {text-decoration:underline;}

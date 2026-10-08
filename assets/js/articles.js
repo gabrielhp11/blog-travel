@@ -9,6 +9,64 @@ const AFFILIATE_CONFIG = {
 };
 
 const blogArticles = [
+{
+  "id": 76,
+  "productId": "627162",
+  "topic": "wellness",
+  "subtopic": "nutrition",
+  "locale": "en-GB",
+  "market": "United Kingdom and Ireland; exact-address eligibility must be confirmed",
+  "category": "Muscle supplement label guides",
+  "audience": "English-speaking UK and Ireland readers comparing supplement labels",
+  "title": "Advanced Muscle Plus: Dileucine, Vitamin D & Buying Guide",
+  "summary": "Read Advanced Muscle Plus’s dileucine/HMB label, the 200 mcg vitamin D caution, three-bottle price and UK shipping terms before considering a purchase.",
+  "highlights": [
+    "English supplier label",
+    "Three-bottle checkout",
+    "UK shipping checked"
+  ],
+  "service": "Physical supplement",
+  "ctaText": "Review vitamin D caution and offer",
+  "reviewUrl": "topics/wellness/nutrition/advanced-muscle-plus.html",
+  "bookingUrl": "/topics/wellness/nutrition/advanced-muscle-plus",
+  "imageUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Muscle-Plus/High-Design/1bottle.jpg",
+  "imageAlt": "Official Advanced Muscle Plus bottle photograph; check label-version notes in the guide",
+  "imageType": "official",
+  "linkType": "official",
+  "network": "Digistore24",
+  "affiliateStatus": "Marketplace confirms 60% and accepted soundview partnership. Three-bottle checkout shows intended affiliate footer and UK shipping $29.95. Actual payout not observed. Catalog button leads to guide so material label cautions are visible before purchase.",
+  "isDirectAffiliate": false,
+  "featured": false
+},
+{
+  "id": 75,
+  "productId": "603765",
+  "topic": "wellness",
+  "subtopic": "joint-health",
+  "locale": "en-GB",
+  "market": "United Kingdom and Ireland; exact-address eligibility must be confirmed",
+  "category": "Joint supplement label guides",
+  "audience": "English-speaking UK and Ireland readers comparing supplement labels",
+  "title": "Advanced Joint Support: Label, Pack Sizes & UK Buying Guide",
+  "summary": "Compare Advanced Joint Support’s ingredients, conflicting tablet-count images, three-bottle price and UK delivery costs before ordering.",
+  "highlights": [
+    "English supplier label",
+    "Three-bottle checkout",
+    "UK shipping checked"
+  ],
+  "service": "Physical supplement",
+  "ctaText": "Review label version and offer",
+  "reviewUrl": "topics/wellness/joint-health/advanced-joint-support.html",
+  "bookingUrl": "/topics/wellness/joint-health/advanced-joint-support",
+  "imageUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Joint-2019/1-bottle.png",
+  "imageAlt": "Official Advanced Joint Support bottle photograph; check label-version notes in the guide",
+  "imageType": "official",
+  "linkType": "official",
+  "network": "Digistore24",
+  "affiliateStatus": "Marketplace confirms 60% and accepted soundview partnership. Three-bottle checkout shows intended affiliate footer and UK shipping $29.95. Actual payout not observed. Catalog button leads to guide so material label cautions are visible before purchase.",
+  "isDirectAffiliate": false,
+  "featured": false
+},
   {
     "id": 74,
     "productId": "676823",

@@ -35,7 +35,7 @@ const hubs = [
     ['Learning about dogs', 'Compare the course topic with your own dog and questions. Check the teaching language, access period and whether individual support is included. A video course does not assess your particular situation or guarantee changes in behaviour.', ['pet-learning']]
   ]},
   {key: 'wellness', file: 'guides/wellness.html', title: 'Supplement buyer guides: labels, formats and seller claims', label: 'Wellness', description: 'Browse source-based supplement guides. Compare label information, serving formats, pack sizes and seller claims before discussing suitability with a health professional.', topics: ['wellness'], groups: [
-    ['Formats and label details', 'Compare the current full label, ingredient amounts, serving directions, warnings and pack sizes. Similar names or shared ingredients do not establish equivalent products or effects.', ['longevity', 'nutrition', 'vision-health']],
+    ['Formats and label details', 'Compare the current full label, ingredient amounts, serving directions, warnings and pack sizes. Similar names or shared ingredients do not establish equivalent products or effects.', ['longevity', 'nutrition', 'vision-health', 'joint-health']],
     ['Seller-described formulas', 'Read claims separately from the ingredient list. These guides summarise public seller information and do not establish clinical effectiveness or replace a qualified health professional.', ['brain-health', 'gut-health', 'mens-health', 'metabolic-health']]
   ]}
 ];

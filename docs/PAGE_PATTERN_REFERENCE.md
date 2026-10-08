@@ -687,3 +687,8 @@ Se uma página não seguir esses padrões, ela deve ser ajustada antes de entrar
 - Added SalesForge Pro and FastSEOHub Elite, each with three distinct labelled original SVGs and its own palette.
 - Confirmed accepted marketplace partnerships, current order prices and affiliate attribution. Documented the SalesForge commission-rate discrepancy, FastSEOHub discounted price/$0 upgrade line and conditional single-charge €70 estimates in the product register.
 - English offer guides include licence/access/refund limits and no guaranteed sales, rankings or search-demand claims. Added aliases, catalogue entries, generated home/directory links, metadata and sitemap.
+
+### 8 October 2026 — Joint and muscle supplement guides
+
+- Added two English guides, three official images each, approved partnerships and verified three-bottle affiliate checkouts.
+- UK delivery charges, tablet-count discrepancy and high vitamin D caution shown explicitly; catalogue buttons open the guide first. No medical outcomes or guaranteed commissions. Updated wellness taxonomy, aliases, catalogues, metadata and sitemap.
