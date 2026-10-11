@@ -67,3 +67,7 @@ The sitemap includes `lastmod` only when a page records an explicit content-revi
 Fonts are served locally in WOFF2 format with Latin and extended Latin coverage. Keep `assets/fonts/manifest.json` and the SIL OFL licences alongside the hashed font files. `font-display: optional` lets text appear promptly with a fallback on a slow first load. The build removes external Google font links and preloads only the body font. Font binaries have immutable caching; use a new filename when their contents change.
 
 See [the 7 October European SEO audit](docs/SEO_EUROPE_AUDIT_2026-10-07.md) for verified account findings, mobile measurements and their limits.
+
+## Daily editorial publications
+
+`content/editorial-posts.json` holds complete English articles for registered Europe/US items, with an explicit release state. `npm run posts:next -- --dry-run` previews the next due article; `npm run posts:next` releases at most one per Sao Paulo day. `npm run seo:build` generates only released pages. Future drafts stay outside Vercel, the catalog and sitemap. Each article leads to the existing product guide, preserving its official or affiliate destination. See `docs/DAILY_PUBLICATION.md` for the initial queue, actual search signals and the local daily scheduling dependency. `npm run posts:test` checks timezone, duplicate prevention, missed-day handling and every prepared future release in an isolated copy.

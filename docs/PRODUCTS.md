@@ -718,3 +718,9 @@ Marketplace figures are aggregate and change over time; they do not establish a 
 - Live home Wellness filter showed 18 guides; screenshot/DOM at actual 1280px showed no horizontal overflow. Local SEO checks cover internal links and anchors, metadata, image requirements and sitemap. Browser viewport override did not change actual width to 390px, so real mobile rendering is not claimed.
 - Fixed related-guide insertion to append inside main rather than the first nested article/card. Strengthened Europe filter membership checks to verify each guide instead of assuming the first guide targets Europe. The US guide remains excluded from Europe filters; 43 English Europe guides unchanged.
 - Build and validation passed with 67 published guides, 77 indexable pages and six directories. Existing affiliate links, including NEXTMETHOD, preserved. Local preview has no related-links section inside price cards and no horizontal overflow at 1280px.
+
+## 11 October 2026 — Existing-item editorial recycling
+
+Published the English European Piano Boogie Woogie prerequisite checklist at `/topics/education/music-learning/boogie-woogie-piano-course-prerequisites`, linked to registered item 45. Three labelled local editorial illustrations, current seller source, no independent test and no assumed English video language or fixed discounted price. Official destination remains untracked.
+
+Complete daily drafts: Canva Free/Pro decision exercise (item 26, 12 October), EZNaturals Moringa US delivery checklist (item 78, 13 October), Norwegian A1/A2 story-study planning (item 36, 14 October). Drafts excluded from deployment/catalog/sitemap until explicit release. See `DAILY_PUBLICATION.md` for source checks, search-data limitations and 09:00 Sao Paulo schedule. These are supplementary articles for existing items, not new offers.

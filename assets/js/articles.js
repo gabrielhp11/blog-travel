@@ -9,6 +9,37 @@ const AFFILIATE_CONFIG = {
 };
 
 const blogArticles = [
+// editorial-posts:start
+{
+  "id": 79,
+  "sourceProductId": 45,
+  "editorialPost": true,
+  "topic": "education",
+  "subtopic": "music-learning",
+  "locale": "en-GB",
+  "market": "Europe",
+  "category": "Piano course readiness",
+  "audience": "English-speaking readers checking purchase suitability",
+  "title": "Boogie woogie piano course: are you ready for the beginner lessons?",
+  "summary": "Check piano experience, German teaching language, weekly lesson access and practice time before choosing the registered Piano Boogie Woogie course.",
+  "highlights": [
+    "Starting point",
+    "Language",
+    "Format"
+  ],
+  "service": "Editorial buying checklist",
+  "ctaText": "Read the registered product guide",
+  "reviewUrl": "topics/education/music-learning/boogie-woogie-piano-course-prerequisites.html",
+  "bookingUrl": "/topics/education/music-learning/piano-boogie-woogie",
+  "imageUrl": "assets/images/products/piano-boogie-woogie-support-1.svg",
+  "imageAlt": "Piano keyboard and music note for regular practice; editorial illustration",
+  "imageType": "editorial",
+  "linkType": "official",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-10-11"
+},
+// editorial-posts:end
 {
   "id": 78,
   "productId": "692713",

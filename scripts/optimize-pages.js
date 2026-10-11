@@ -96,7 +96,7 @@ for (const file of files) {
     }
 
     const related = guides.filter(item => item !== article && hubFor(item) === hub).sort((a, b) => {
-      const score = item => (item.subtopic === article.subtopic ? 4 : 0) + (localeOf(item) === lang ? 2 : 0);
+      const score = item => (item.id === article.sourceProductId ? 16 : 0) + (item.subtopic === article.subtopic ? 4 : 0) + (localeOf(item) === lang ? 2 : 0);
       return score(b) - score(a);
     }).slice(0, 3);
     const europeHub = hubs.find(item => item.key === 'europe');
@@ -133,6 +133,10 @@ for (const file of files) {
       ]}
     ];
     const faqs = faqPage(extractFaqs($));
+    for (const field of ['datePublished', 'dateModified']) {
+      const value = $(`meta[name="${field}"]`).attr('content');
+      if (value) entities[0][field] = value;
+    }
     if (faqs) entities.push(faqs);
     const graph = jsonLd({'@context': 'https://schema.org', '@graph': entities});
     if ($('script[data-pokisky-seo]').length) replace($('script[data-pokisky-seo]'), graph);

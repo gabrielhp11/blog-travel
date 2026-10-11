@@ -566,6 +566,16 @@
       "source": "/eznaturals-moringa.html",
       "destination": "/topics/wellness/nutrition/eznaturals-moringa",
       "permanent": true
+    },
+    {
+      "source": "/boogie-woogie-piano-course-prerequisites",
+      "destination": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+      "permanent": true
+    },
+    {
+      "source": "/boogie-woogie-piano-course-prerequisites.html",
+      "destination": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+      "permanent": true
     }
   ],
   "headers": [

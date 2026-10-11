@@ -349,6 +349,7 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-10-11 | Artigo de requisitos do curso de piano e três pautas diárias para itens existentes na Europa/EUA | `content/`, `scripts/`, artigo de piano, catálogo, sitemap, CSS e documentação | Três imagens por artigo; rascunhos fora da publicação; liberação de uma pauta por dia; sinais reais de busca ainda limitados |
 | 2026-10-08 | Comparativo editorial de eSIMs para Europa em inglês e alemão, navegação entre traduções e sitemap determinístico | `guides/europe-esim.html`, `guides/europa-esim.html`, `scripts/`, `assets/css/`, home e diretórios | Fontes oficiais; roaming existente, restrição de residência Holafly e hotspot explícitos; hreflang só entre páginas equivalentes; lastmod apenas com revisão real |
 | 2026-10-08 | Hubs europeus para cliques orgânicos: diretórios DE e UK/IE, FAQs visíveis, FAQPage, lastmod no sitemap e títulos da home | `guides/`, `scripts/`, `index.html`, `sitemap.xml`, `assets/css/main.css` | Sem hreflang entre produtos diferentes; sem avaliações; público editorial não é garantia de entrega |
 | 2026-10-07 | Sequência em inglês: SUPP UP. e ExpertSlides | Duas páginas, CSS, seis SVGs, catálogo, diretório, redirects e sitemap | Taxas de 55% e 50% e parcerias aprovadas; pagamento único e plano anual separados; condições conflitantes e estimativas documentadas |

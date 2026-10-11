@@ -1,8 +1,10 @@
 {
   "scripts": {
     "seo:sitemap": "node scripts/generate-sitemap.js",
-    "seo:build": "node scripts/generate-planning-guides.js && node scripts/optimize-pages.js && node scripts/generate-catalog.js && node scripts/optimize-performance.js && node scripts/generate-sitemap.js",
-    "seo:check": "node scripts/validate-seo.js && node scripts/validate-europe-performance.js"
+    "seo:build": "node scripts/generate-editorial-posts.js && node scripts/generate-planning-guides.js && node scripts/optimize-pages.js && node scripts/generate-catalog.js && node scripts/optimize-performance.js && node scripts/generate-sitemap.js",
+    "seo:check": "node scripts/validate-seo.js && node scripts/validate-europe-performance.js && node scripts/validate-editorial-posts.js",
+    "posts:next": "node scripts/publish-next-post.js",
+    "posts:test": "node --test scripts/editorial-publishing.test.js"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1"
