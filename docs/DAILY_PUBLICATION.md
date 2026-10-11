@@ -32,3 +32,9 @@ Bing Webmaster Tools autenticado com autorização do usuário: Search Performan
 ## Verificação antes do envio
 
 O sitemap público anterior continha 76 páginas: todas responderam HTTP 200, assim como 124 recursos locais distintos referenciados nessas páginas. Imagens remotas de fornecedores não foram incluídas nessa varredura. A validação local após a inclusão do guia americano preparado e do artigo de piano cobre 78 páginas, 68 entradas no catálogo e seis diretórios. Três testes da fila passaram, incluindo a simulação das três liberações futuras em cópia temporária. A prévia de 390 px não apresentou rolagem horizontal; imagem principal carregou e as imagens de apoio usam lazy loading.
+
+## Entrega confirmada em 11/10
+
+Programação local criada e ativa: `publica-o-di-ria-pokisky-europa-e-eua`, retorno a este chat diariamente às 09h no fuso do usuário (America/Sao_Paulo). Desativar essa programação depois de confirmar as três liberações pendentes.
+
+Commits `dfc8cee` (guia americano preparado e correções anteriores) e `e0aedce` (artigo de piano e fila diária) enviados por push normal a `origin/main`. Na Vercel, 78 páginas do sitemap e 128 recursos locais referenciados responderam HTTP 200. Artigo de piano, URL curta e guia americano abriram corretamente. O clique do artigo levou ao guia existente com destino oficial preservado. Canonical, título e três imagens do artigo foram conferidos no navegador. `/content/editorial-posts.json` e a página Canva ainda agendada responderam 404, confirmando que rascunhos não foram publicados antecipadamente.
