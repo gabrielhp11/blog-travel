@@ -556,6 +556,16 @@
       "source": "/advanced-prostate-formula.html",
       "destination": "/topics/wellness/mens-health/advanced-prostate-formula",
       "permanent": true
+    },
+    {
+      "source": "/eznaturals-moringa",
+      "destination": "/topics/wellness/nutrition/eznaturals-moringa",
+      "permanent": true
+    },
+    {
+      "source": "/eznaturals-moringa.html",
+      "destination": "/topics/wellness/nutrition/eznaturals-moringa",
+      "permanent": true
     }
   ],
   "headers": [

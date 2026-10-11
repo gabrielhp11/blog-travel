@@ -36,7 +36,10 @@ vm.runInNewContext(fs.readFileSync('assets/js/main.js','utf8'), {document:{
 handlers.europe();
 const english = guides.filter(g=>isEuropeanGuide(g) && localeOf(g).startsWith('en'));
 assert.equal(cards.filter(c=>!c.hidden).length, english.length);
-assert.ok(cards[0].hidden === false, 'Newest English European guide must remain discoverable');
+cards.forEach((card, index) => {
+  const expected = isEuropeanGuide(guides[index]) && localeOf(guides[index]).startsWith('en');
+  assert.equal(!card.hidden, expected, `Europe filter membership: ${guides[index].reviewUrl}`);
+});
 assert.ok(cards.every(c=>c.hidden || c.dataset.locale.startsWith('en')));
 handlers.german();
 assert.equal(cards.filter(c=>!c.hidden).length, guides.filter(g=>localeOf(g).startsWith('de')).length);

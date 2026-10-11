@@ -10,6 +10,35 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
 {
+  "id": 78,
+  "productId": "692713",
+  "topic": "wellness",
+  "subtopic": "nutrition",
+  "locale": "en",
+  "market": "United States",
+  "category": "Moringa supplement label guides",
+  "audience": "English-speaking US shoppers comparing supplement labels",
+  "title": "EZNaturals Moringa: Capsule Label & US Buying Guide",
+  "summary": "Read EZNaturals Moringa’s powder and extract label, compare one-, three- and six-bottle US prices, and check shipping and qualified refund terms.",
+  "highlights": [
+    "60 capsules per bottle",
+    "Official full label",
+    "US delivery focus"
+  ],
+  "service": "Physical supplement",
+  "ctaText": "Read label and US buying checks",
+  "reviewUrl": "topics/wellness/nutrition/eznaturals-moringa.html",
+  "bookingUrl": "/topics/wellness/nutrition/eznaturals-moringa",
+  "imageUrl": "https://eznaturals.co/wp-content/uploads/2026/07/eznatural-moringa-approved-1-bottle.png",
+  "imageAlt": "Official supplier artwork showing one EZNaturals Moringa Leaf Complex bottle",
+  "imageType": "official",
+  "linkType": "official",
+  "network": "Digistore24",
+  "affiliateStatus": "Accepted eznaturals partnership, 70%. Supplier-generated link passed affiliate ID to checkout 692713. US offer; Ireland rejected. Catalog opens guide before affiliate destination.",
+  "isDirectAffiliate": false,
+  "featured": false
+},
+{
   "id": 77,
   "productId": "606700",
   "topic": "wellness",

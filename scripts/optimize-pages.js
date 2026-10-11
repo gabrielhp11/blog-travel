@@ -116,8 +116,11 @@ for (const file of files) {
     if (oldRelated.length) {
       const location = oldRelated[0].sourceCodeLocation;
       for (let i = edits.length - 1; i >= 0; i--) if (edits[i].start >= location.startOffset && edits[i].end <= location.endOffset) edits.splice(i, 1);
-      replace(oldRelated, relatedHtml);
-    } else insert($('main article').first()[0].sourceCodeLocation.endTag.startOffset, '\n' + relatedHtml + '\n');
+      if (oldRelated.closest('.card').length) {
+        replace(oldRelated, '');
+        insert($('main')[0].sourceCodeLocation.endTag.startOffset, '\n' + relatedHtml + '\n');
+      } else replace(oldRelated, relatedHtml);
+    } else insert($('main')[0].sourceCodeLocation.endTag.startOffset, '\n' + relatedHtml + '\n');
 
     const images = $('img').map((i, image) => absoluteUrl(new URL($(image).attr('src'), url).href)).get();
     images.push(...additionalImages.map(name => absoluteUrl(`/assets/images/editorial/${name}.svg`)));

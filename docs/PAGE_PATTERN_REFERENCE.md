@@ -698,3 +698,8 @@ Se uma página não seguir esses padrões, ela deve ser ajustada antes de entrar
 ### 8 October 2026 — Advanced Prostate Formula
 
 - Added an English supplier-label and six-bottle buying guide with three official images, explicit serving/formulation differences, evidence limitations and unverified destination-cost disclosure. Catalog, related links, short aliases and sitemap generated together. Liposomal Hair Renewal excluded because its programme disallows the site's SEO/review format.
+
+### 10 October 2026 — US supplement expansion and online integrity checks
+
+- Added the English EZNaturals Moringa US buyer guide with three official artworks, supplier-generated affiliate URL, label amounts, conditional returns and explicit delivery limitations. User authorised US market expansion. Catalog, aliases, related links and sitemap updated.
+- Verified pre-change availability of 76 public pages and 251 referenced resources. Fixed related-guide insertion into nested price cards and corrected the Europe-filter validator's first-card assumption; US offers remain outside European audience filters.

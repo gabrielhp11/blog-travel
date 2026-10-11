@@ -1,0 +1,66 @@
+.page-eznaturals-moringa {
+  --bg: #f8f9f4;
+  --ink: #2c3328;
+  --muted: #626b5b;
+  --accent: #396526;
+  --accent-soft: #e7eff1;
+  --gold: #93815a;
+  --line: rgba(48, 43, 38, .13);
+}
+.page-eznaturals-moringa .topbar { background: rgba(248, 249, 244, .96); }
+.page-eznaturals-moringa .hero { padding-bottom: 64px; }
+.page-eznaturals-moringa h1 { max-width: 15ch; font-size: clamp(2.8rem, 4.8vw, 4.4rem); }
+.page-eznaturals-moringa .hero-copy { padding-top: 12px; }
+.page-eznaturals-moringa .ad-label { font-size: .76rem; color: var(--muted); margin: 0 0 24px; }
+.page-eznaturals-moringa .product-card { border-radius: 16px; overflow: hidden; }
+.page-eznaturals-moringa .box-photo { background: #fff; padding-top: 28px; }
+.page-eznaturals-moringa .box-photo img { display: block; width: min(100%, 320px); max-width: 100%; height: auto; margin: 0 auto 20px; }
+.page-eznaturals-moringa .purchase-note, .page-eznaturals-moringa .reading-note { font-size: .84rem; max-width: 68ch; color: var(--muted); }
+.page-eznaturals-moringa .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.page-eznaturals-moringa .feature-index { display: block; color: var(--accent); font-size: .78rem; margin-bottom: 18px; letter-spacing: .08em; }
+.page-eznaturals-moringa .label-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 54px; align-items: center; }
+.page-eznaturals-moringa .label-photo { margin: 0; background: white; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.page-eznaturals-moringa .label-photo img { display: block; width: 100%; height: auto; }
+.page-eznaturals-moringa .label-photo figcaption { padding: 16px 20px; font-size: .75rem; color: var(--muted); text-align: center; }
+.page-eznaturals-moringa .label-photo a { color: var(--accent); text-decoration: underline; }
+.page-eznaturals-moringa .packs-heading { display: grid; grid-template-columns: minmax(0, 1fr) 348px; align-items: center; gap: 50px; margin-bottom: 32px; }
+.page-eznaturals-moringa .pack-photo { margin: 0; background: white; padding: 16px; border-radius: 14px; border: 1px solid var(--line); }
+.page-eznaturals-moringa .pack-photo img { width: 100%; height: auto; display: block; }
+.page-eznaturals-moringa .pack-photo figcaption { color: var(--muted); text-align: center; font-size: .75rem; padding-top: 12px; }
+.page-eznaturals-moringa .pack-price { color: var(--ink); font-size: clamp(1.7rem, 3vw, 2.2rem); font-weight: 700; letter-spacing: -.04em; margin: 12px 0; }
+.page-eznaturals-moringa .pack-grid { margin-bottom: 28px; }
+.page-eznaturals-moringa .compatibility { padding: 22px 24px; border-left: 3px solid var(--gold); background: #f5eddf; border-radius: 0 8px 8px 0; margin: 24px 0; }
+.page-eznaturals-moringa .compatibility p { margin: 0; }
+.page-eznaturals-moringa .editorial-source a, .page-eznaturals-moringa .editorial-disclosure a { text-decoration: underline; text-underline-offset: 3px; }
+.page-eznaturals-moringa .cta-block { background: #303927; color: #fff; }
+.page-eznaturals-moringa .cta-block p { color: #e3e9d8; }
+.page-eznaturals-moringa .cta-block .eyebrow { color: #cbd7b5; }
+.page-eznaturals-moringa .cta-block .btn { background: #e4eccf; color: #303927; white-space: nowrap; }
+@media (max-width: 760px) {
+  .page-eznaturals-moringa .feature-grid, .page-eznaturals-moringa .label-grid, .page-eznaturals-moringa .packs-heading { grid-template-columns: 1fr; }
+  .page-eznaturals-moringa .label-grid, .page-eznaturals-moringa .packs-heading { gap: 28px; }
+  .page-eznaturals-moringa .pack-photo { width: min(100%, 380px); }
+  .page-eznaturals-moringa .nav { gap: 12px; flex-wrap: wrap; padding-block: 12px; }
+  .page-eznaturals-moringa .nav-links { gap: 16px; font-size: .8rem; }
+}
+@media (max-width: 420px) {
+  .page-eznaturals-moringa .cta-row .btn { width: 100%; }
+  .page-eznaturals-moringa h1 { font-size: 2.7rem; }
+  .page-eznaturals-moringa .cta-block .btn { white-space: normal; }
+}
+
+.page-eznaturals-moringa .nutrient-list { margin: 24px 0; border-top: 1px solid var(--line); }
+.page-eznaturals-moringa .nutrient-list div { display: flex; justify-content: space-between; gap: 20px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.page-eznaturals-moringa .nutrient-list dt { font-weight: 600; }
+.page-eznaturals-moringa .nutrient-list dd { margin: 0; white-space: nowrap; color: var(--muted); }
+
+.page-eznaturals-moringa h1 { max-width: 20ch; font-size: clamp(2.3rem, 4vw, 3.3rem); overflow-wrap: normal; hyphens: auto; }
+.page-eznaturals-moringa .box-photo img { max-height: 300px; object-fit: contain; }
+.page-eznaturals-moringa .nutrient-list dd { white-space: normal; text-align: right; flex-shrink: 0; }
+@media (max-width:420px) { .page-eznaturals-moringa h1 {font-size:2.25rem;} }
+
+.page-eznaturals-moringa .label-photo { background: #fff; padding: 20px; border-radius: 12px; }
+
+.page-eznaturals-moringa .compatibility a {text-decoration:underline;}
+
+.page-eznaturals-moringa figcaption {padding:16px;font-size:.8rem;color:var(--muted);}
