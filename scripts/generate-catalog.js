@@ -12,7 +12,7 @@ let home = fs.readFileSync('index.html', 'utf8');
 home = replaceBlock(home, 'catalog', guides.map(renderCard).join('\n'));
 home = replaceBlock(home, 'catalog-count', `${guides.length} guides`);
 home = replaceBlock(home, 'planning', renderPlanningLinks('europe'));
-const homeTitle = 'PokiSky: European travel, course and supplement buying guides';
+const homeTitle = 'PokiSky: travel, course, software and supplement buying guides';
 home = replaceBlock(home, 'home-schema', jsonLd({'@context': 'https://schema.org', '@graph': [
   {'@type': 'WebSite', '@id': `${siteUrl}/#website`, name: 'PokiSky', url: `${siteUrl}/`, inLanguage: 'en', availableLanguage: ['en', 'en-GB', 'de', 'pt-BR']},
   {'@type': 'Organization', '@id': `${siteUrl}/#organization`, name: 'PokiSky', url: `${siteUrl}/`, knowsLanguage: ['en', 'de', 'pt']},

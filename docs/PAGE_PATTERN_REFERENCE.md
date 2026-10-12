@@ -704,3 +704,10 @@ Se uma página não seguir esses padrões, ela deve ser ajustada antes de entrar
 
 - Added the English EZNaturals Moringa US buyer guide with three official artworks, supplier-generated affiliate URL, label amounts, conditional returns and explicit delivery limitations. User authorised US market expansion. Catalog, aliases, related links and sitemap updated.
 - Verified pre-change availability of 76 public pages and 251 referenced resources. Fixed related-guide insertion into nested price cards and corrected the Europe-filter validator's first-card assumption; US offers remain outside European audience filters.
+
+### 12 October 2026 — Guide discovery and buying explanations
+
+- Revised home hierarchy, guide-first cards, combined local search, topic/region/language filters, visible mobile navigation and shared responsive reading styles.
+- Added source-based summaries, static section navigation and explicit disclosure across the 68 public guides. Added specific decision scenarios to four Google crawled-but-not-indexed guides; existing supplier claims, source dates and offer destinations retained.
+- Audited 286 public/source/registered URLs with explicit HTTP, rendering and browser-verification limits. Recorded current Search Console baseline and held registrations in `docs/PROJECT_REVIEW_2026-10-12.md` and `docs/audits/`.
+- Search and buying-experience checks are part of `seo:check`; daily publication tests are included in the GitHub validation workflow. No conversion, commission, indexation or organic growth guarantee.

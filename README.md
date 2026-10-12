@@ -71,3 +71,11 @@ See [the 7 October European SEO audit](docs/SEO_EUROPE_AUDIT_2026-10-07.md) for 
 ## Daily editorial publications
 
 `content/editorial-posts.json` holds complete English articles for registered Europe/US items, with an explicit release state. `npm run posts:next -- --dry-run` previews the next due article; `npm run posts:next` releases at most one per Sao Paulo day. `npm run seo:build` generates only released pages. Future drafts stay outside Vercel, the catalog and sitemap. Each article leads to the existing product guide, preserving its official or affiliate destination. See `docs/DAILY_PUBLICATION.md` for the initial queue, actual search signals and the local daily scheduling dependency. `npm run posts:test` checks timezone, duplicate prevention, missed-day handling and every prepared future release in an isolated copy.
+
+## Buying experience and link audits
+
+`npm run seo:build` also generates the guide summaries, static contents navigation and shared experience stylesheet through `scripts/enhance-buying-experience.js`. Product-specific decision comparisons live in `content/buying-decisions.json`; they are editorial planning scenarios, not product testing or promised results. Keep source-check dates tied to actual source review.
+
+The home search combines topic, guide language and local text search. Cards lead to the product guide; seller and affiliate destinations stay inside that guide. `npm run seo:check` exercises these filters and verifies summaries, contents anchors, disclosures and guide-first catalog actions.
+
+`npm run links:audit` checks the public catalog, held registrations, external sources and site pages and writes a dated report. HTTP success is only reachability; bot blocks, JavaScript-only responses, prices, availability and affiliate eligibility need separate checks. See [the 12 October review](docs/PROJECT_REVIEW_2026-10-12.md) and [registered-link follow-ups](docs/audits/REGISTERED_LINKS_2026-10-12.md).

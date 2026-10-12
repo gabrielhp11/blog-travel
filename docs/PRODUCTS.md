@@ -724,3 +724,9 @@ Marketplace figures are aggregate and change over time; they do not establish a 
 Published the English European Piano Boogie Woogie prerequisite checklist at `/topics/education/music-learning/boogie-woogie-piano-course-prerequisites`, linked to registered item 45. Three labelled local editorial illustrations, current seller source, no independent test and no assumed English video language or fixed discounted price. Official destination remains untracked.
 
 Complete daily drafts: Canva Free/Pro decision exercise (item 26, 12 October), EZNaturals Moringa US delivery checklist (item 78, 13 October), Norwegian A1/A2 story-study planning (item 36, 14 October). Drafts excluded from deployment/catalog/sitemap until explicit release. See `DAILY_PUBLICATION.md` for source checks, search-data limitations and 09:00 Sao Paulo schedule. These are supplementary articles for existing items, not new offers.
+
+## 12 October 2026 — Catalog and destination review
+
+Shared buying explanations and navigation were revised across the public guides. Social Media Masterclass, NEXTMETHOD, Babbel and ExpertSlides gained product-specific editorial comparison scenarios. No new offer was published. All original product-guide external destinations were retained.
+
+The read-only HTTP and browser checks are recorded in `docs/audits/link-status-2026-10-12.json`, with held registrations in `docs/audits/REGISTERED_LINKS_2026-10-12.md`. HTTP success does not renew source verification, affiliate acceptance or price guarantees. Hook Mastery's supplier path reached the correct product 595134 checkout with the intended affiliate identifier visible; no order or commission-account verification occurred. The held Business Program redirect (626900) now identifies a Thomas Young Masterclass at `thomasyoung.online/love`; full offer identification remains necessary before release. CleanSeSana still has no purchase destination confirmed.

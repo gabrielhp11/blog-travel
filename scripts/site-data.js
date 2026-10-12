@@ -122,14 +122,6 @@ const navHubs = hubs.filter(hub => hub.nav !== false);
 const groupKey = (hub, article) => hub.groupBy === 'locale' ? localeOf(article) : hub.groupBy === 'topic' ? article.topic : article.subtopic;
 const hubFor = (article) => hubs.find(hub => hub.topics.includes(article.topic));
 const guidesFor = (hub) => hub.select ? guides.filter(hub.select) : guides.filter(article => hub.topics.includes(article.topic));
-const affiliateMarker = vm.runInNewContext(`${fs.readFileSync('assets/js/articles.js', 'utf8')}\nAFFILIATE_CONFIG.travelPayoutsMarker`);
-
-function bookingLink(article) {
-  const url = article.bookingUrl || cleanPath(article.reviewUrl);
-  if (article.linkType === 'official' || article.isDirectAffiliate || /advancedbionutritionals\.com|business-kickstart\.de|primeperformpro\.com|myketosana\.com/.test(url) || url.startsWith('topics/') || url.endsWith('.html')) return url;
-  return affiliateMarker && affiliateMarker !== 'YOUR_MARKER_ID' ? `https://www.travelpayouts.com/redirect/?marker=${encodeURIComponent(affiliateMarker)}&url=${encodeURIComponent(url)}` : url;
-}
-
 function renderCard(article, index) {
   const lang = localeOf(article);
   const guideLabel = lang === 'pt-BR' ? 'Ler o guia' : lang.startsWith('de') ? 'Zum Ratgeber' : 'Read the guide';
@@ -141,13 +133,14 @@ function renderCard(article, index) {
   const height = matchingImage.attr('height') || 720;
   const image = imageUrl ? `<img class="post-image" src="${escapeHtml(imageUrl)}" alt="${escapeHtml(article.imageAlt || article.title)}" width="${width}" height="${height}" loading="lazy" decoding="async" />` : '';
   const caption = article.imageType === 'editorial' ? `<span class="post-art-label">${lang === 'pt-BR' ? 'Ilustração editorial' : lang.startsWith('de') ? 'Redaktionelle Illustration' : 'Editorial illustration'}</span>` : '';
-  const rel = article.linkType === 'official' ? 'noopener noreferrer' : 'noopener sponsored nofollow';
+
   return `<article class="blog-post" lang="${escapeHtml(lang)}" data-topic="${escapeHtml(article.topic)}" data-locale="${escapeHtml(lang)}" data-market="${escapeHtml(article.market)}" data-europe="${isEuropeanGuide(article)}" data-network="${network}">
   <div class="post-header${image ? ' has-image' : ''}${article.imageType === 'editorial' ? ' editorial-artwork' : ''}">${image}<span class="post-category">${escapeHtml(article.category)}</span>${caption}<span class="post-index" aria-hidden="true">${String(index + 1).padStart(2, '0')}</span></div>
   <div class="post-content"><div class="post-meta"><span class="post-badge">${languages[lang] || lang}</span><span class="post-service-tag">${escapeHtml(article.service)}</span></div>
   <h3><a href="${cleanPath(article.reviewUrl)}">${escapeHtml(article.title)}</a></h3><p>${escapeHtml(article.summary)}</p>
-  ${article.market === 'Europe' ? `<ul class="post-highlights">${(article.highlights || []).map(text => `<li>${escapeHtml(text)}</li>`).join('')}</ul>` : ''}
-  <div class="post-footer"><a class="text-link" href="${cleanPath(article.reviewUrl)}" aria-label="${escapeHtml(guideLabel + ": " + article.title)}">${guideLabel} <span aria-hidden="true">&#8594;</span></a><a class="btn btn-primary" href="${escapeHtml(bookingLink(article))}" target="_blank" rel="${rel}">${escapeHtml(article.ctaText)} <span aria-hidden="true">&#8599;</span></a></div></div>
+  <p class="post-market">${escapeHtml(article.market || (lang === 'pt-BR' ? 'Confira o país atendido no guia' : lang.startsWith('de') ? 'Länderbedingungen im Ratgeber prüfen' : 'See country checks in the guide'))}</p>
+  <ul class="post-highlights">${(article.highlights || []).slice(0,3).map(text => `<li>${escapeHtml(text)}</li>`).join('')}</ul>
+  <div class="post-footer"><a class="btn btn-primary" href="${cleanPath(article.reviewUrl)}" aria-label="${escapeHtml(guideLabel + ': ' + article.title)}">${guideLabel} <span aria-hidden="true">&#8594;</span></a><span class="post-read-note">${lang === 'pt-BR' ? 'Detalhes antes da compra' : lang.startsWith('de') ? 'Vor dem Kauf vergleichen' : 'Details before checkout'}</span></div></div>
 </article>`.replace(/[ \t]+$/gm, '');
 }
 

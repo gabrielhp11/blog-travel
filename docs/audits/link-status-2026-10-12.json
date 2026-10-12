@@ -1,0 +1,4283 @@
+{
+  "registeredItems": [
+    {
+      "id": 79,
+      "title": "Boogie woogie piano course: are you ready for the beginner lessons?",
+      "reviewUrl": "topics/education/music-learning/boogie-woogie-piano-course-prerequisites.html",
+      "bookingUrl": "/topics/education/music-learning/piano-boogie-woogie",
+      "pageState": "published",
+      "destinationState": "internal",
+      "needsBrowser": false
+    },
+    {
+      "id": 78,
+      "title": "EZNaturals Moringa: Capsule Label & US Buying Guide",
+      "reviewUrl": "topics/wellness/nutrition/eznaturals-moringa.html",
+      "bookingUrl": "/topics/wellness/nutrition/eznaturals-moringa",
+      "pageState": "published",
+      "destinationState": "internal",
+      "needsBrowser": false
+    },
+    {
+      "id": 77,
+      "title": "Advanced Prostate Formula: Label, Pack Sizes & UK Buying Guide",
+      "reviewUrl": "topics/wellness/mens-health/advanced-prostate-formula.html",
+      "bookingUrl": "/topics/wellness/mens-health/advanced-prostate-formula",
+      "pageState": "published",
+      "destinationState": "internal",
+      "needsBrowser": false
+    },
+    {
+      "id": 76,
+      "title": "Advanced Muscle Plus: Dileucine, Vitamin D & Buying Guide",
+      "reviewUrl": "topics/wellness/nutrition/advanced-muscle-plus.html",
+      "bookingUrl": "/topics/wellness/nutrition/advanced-muscle-plus",
+      "pageState": "published",
+      "destinationState": "internal",
+      "needsBrowser": false
+    },
+    {
+      "id": 75,
+      "title": "Advanced Joint Support: Label, Pack Sizes & UK Buying Guide",
+      "reviewUrl": "topics/wellness/joint-health/advanced-joint-support.html",
+      "bookingUrl": "/topics/wellness/joint-health/advanced-joint-support",
+      "pageState": "published",
+      "destinationState": "internal",
+      "needsBrowser": false
+    },
+    {
+      "id": 74,
+      "title": "FastSEOHub Elite: SEO Audit & Content Workflow Guide",
+      "reviewUrl": "topics/business/marketing-tools/fastseohub-elite.html",
+      "bookingUrl": "https://www.digistore24.com/redir/676823/gabrielhenriquep123f97e/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 73,
+      "title": "SalesForge Pro: Landing Page Builder & Export Guide",
+      "reviewUrl": "topics/business/marketing-tools/salesforge-pro.html",
+      "bookingUrl": "https://salesforgepro.netlify.app/#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 72,
+      "title": "ExpertSlides: PowerPoint Add-In & Annual Plan Guide",
+      "reviewUrl": "topics/business/productivity/expertslides-powerpoint.html",
+      "bookingUrl": "https://www.digistore24.com/redir/456090/gabrielhenriquep123f97e/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 71,
+      "title": "SUPP UP.: Travel Nutrition & Fitness Guide Bundle",
+      "reviewUrl": "topics/education/fitness-learning/supp-up-travel-system.html",
+      "bookingUrl": "https://www.digistore24.com/redir/338690/gabrielhenriquep123f97e/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 70,
+      "title": "NEXTMETHOD: Chargeback Prevention Training Guide",
+      "reviewUrl": "topics/business/professional-learning/chargeback-prevention-masterclass.html",
+      "bookingUrl": "https://nextmethod-chargeback.netlify.app/#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 69,
+      "title": "Empowered Parenting: School Engagement Course Guide",
+      "reviewUrl": "topics/business/family-learning/empowered-parenting.html",
+      "bookingUrl": "https://www.digistore24.com/redir/530683/gabrielhenriquep123f97e/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 68,
+      "title": "Ultimate Viddeos AI: Video Tools & Annual Plan Guide",
+      "reviewUrl": "topics/business/marketing-tools/ultimate-viddeos-ai.html",
+      "bookingUrl": "https://viddeos.ai/yes/#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 67,
+      "title": "Agent X: AI Automation Tools & Purchase Guide",
+      "reviewUrl": "topics/business/ai-training/agent-x.html",
+      "bookingUrl": "https://getagentx.com/order#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 66,
+      "title": "Remixable Founder Edition: Website & Video Tool Guide",
+      "reviewUrl": "topics/business/digital-skills/remixable-founder.html",
+      "bookingUrl": "https://www.digistore24.com/redir/467549/gabrielhenriquep123f97e/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 65,
+      "title": "Traffic Genius: AI Video Tools, Training & Purchase Guide",
+      "reviewUrl": "topics/business/marketing-tools/traffic-genius.html",
+      "bookingUrl": "https://viddeos.ai/start/#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 64,
+      "title": "SAP EWM Complete Pack: English Warehouse Training Guide",
+      "reviewUrl": "topics/business/technical-training/sap-ewm-complete-pack.html",
+      "bookingUrl": "https://knowyourewm.com/the-sap-ewm-bundle-one/",
+      "pageState": "held-for-review",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 63,
+      "title": "GLP-1 Plus: Supplement Ingredients, Label & Buying Guide",
+      "reviewUrl": "topics/wellness/metabolic-health/glp-1-plus.html",
+      "bookingUrl": "https://www.checkout-ds24.com/product/627406?aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": true
+    },
+    {
+      "id": 62,
+      "title": "Integrative Digestive Formula: Capsule Label & Pack Guide",
+      "reviewUrl": "topics/wellness/gut-health/integrative-digestive-formula.html",
+      "bookingUrl": "https://www.checkout-ds24.com/product/599549?aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": true
+    },
+    {
+      "id": 61,
+      "title": "Curcumitol-Q: Curcumin Label & Six-Bottle Buying Guide",
+      "reviewUrl": "topics/wellness/nutrition/curcumitol-q.html",
+      "bookingUrl": "https://www.checkout-ds24.com/product/580377?aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": true
+    },
+    {
+      "id": 60,
+      "title": "Pep Tonic: Greens Powder, Label & Bag Options",
+      "reviewUrl": "topics/wellness/nutrition/pep-tonic.html",
+      "bookingUrl": "https://www.checkout-ds24.com/product/623256?aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": true
+    },
+    {
+      "id": 59,
+      "title": "Advanced Vision Formula: Tablet Label & Buying Guide",
+      "reviewUrl": "topics/wellness/vision-health/advanced-vision-formula.html",
+      "bookingUrl": "https://www.checkout-ds24.com/product/630842?aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": true
+    },
+    {
+      "id": 58,
+      "title": "BrainAMP: Capsule Ingredients, Label & Pack Options",
+      "reviewUrl": "topics/wellness/brain-health/brainamp.html",
+      "bookingUrl": "https://www.checkout-ds24.com/product/630381?aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": true
+    },
+    {
+      "id": 57,
+      "title": "Coachy Premium: Create an Online Course in English",
+      "reviewUrl": "topics/business/digital-skills/coachy-premium.html",
+      "bookingUrl": "https://www.coachy.net/a/gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 56,
+      "title": "ChartSensor: Learn About Charts in English",
+      "reviewUrl": "topics/business/finance-ai/chartsensor.html",
+      "bookingUrl": "/topics/business/finance-ai/chartsensor#purchase",
+      "pageState": "held-for-review",
+      "destinationState": "internal",
+      "needsBrowser": false
+    },
+    {
+      "id": 55,
+      "title": "Ayurveda-Ausbildung online: Inhalte, Ablauf und Kosten",
+      "reviewUrl": "topics/education/holistic-learning/ayurveda-komplett-ausbildung.html",
+      "bookingUrl": "https://www.digistore24.com/redir/369670/gabrielhenriquep123f97e/",
+      "pageState": "published",
+      "destinationState": "unconfirmed",
+      "needsBrowser": false
+    },
+    {
+      "id": 54,
+      "title": "Herdenschutzhund-Kurs: Inhalte, Zugang und Kosten",
+      "reviewUrl": "topics/education/pet-learning/herdenschutzhund-kurs.html",
+      "bookingUrl": "https://www.digistore24.com/redir/276887/gabrielhenriquep123f97e/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 53,
+      "title": "FunnelCockpit Standard: Webseiten und Marketing verbinden",
+      "reviewUrl": "topics/business/marketing-tools/funnelcockpit-standard.html",
+      "bookingUrl": "https://www.digistore24.com/redir/98201/gabrielhenriquep123f97e/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 52,
+      "title": "ET-Akademie Dozenten-Paket: Inhalte und Kaufdetails",
+      "reviewUrl": "topics/education/technical-training/et-akademie-dozenten-paket.html",
+      "bookingUrl": "https://et-akademie.de/ubersicht/#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 51,
+      "title": "Endlich Klavier Spielen: Kursinhalte und Voraussetzungen",
+      "reviewUrl": "topics/education/music-learning/endlich-klavier-spielen.html",
+      "bookingUrl": "https://www.digistore24.com/redir/530008/gabrielhenriquep123f97e/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 50,
+      "title": "Advanced Mitochondrial Formula: Capsules, Label & Pack Options",
+      "reviewUrl": "topics/wellness/longevity/advanced-mitochondrial-formula.html",
+      "bookingUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 49,
+      "title": "CircO2: Dissolving Tablets, Label & Box Options",
+      "reviewUrl": "topics/wellness/longevity/circo2.html",
+      "bookingUrl": "https://www.advancedbionutritionals.com/DS24/Nitric-Oxide-Supplements/Superhuman-At-70/HD.htm#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 48,
+      "title": "Advanced Amino Formula: Tablets, Label & Pack Options",
+      "reviewUrl": "topics/wellness/longevity/advanced-amino-formula.html",
+      "bookingUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/SL-V1.htm#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 47,
+      "title": "Social Media Masterclass: Inhalte, KI-Tools und Kosten",
+      "reviewUrl": "topics/business/creative-learning/social-media-masterclass.html",
+      "bookingUrl": "https://www.digistore24.com/content/646880/36202/gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 46,
+      "title": "Excel-Paket: Vorlagen, Kompatibilität und Kaufdetails",
+      "reviewUrl": "topics/business/productivity/excel-paket.html",
+      "bookingUrl": "https://www.checkout-ds24.com/redir/175711/gabrielhenriquep123f97e/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 10,
+      "title": "Business Kickstart KI-Training: Free AI Webinar Overview",
+      "reviewUrl": "topics/business/ai-training/ki-training.html",
+      "bookingUrl": "https://business-kickstart.de/ki-training-1/#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "blocked",
+      "needsBrowser": false
+    },
+    {
+      "id": 1,
+      "title": "Advanced Memory Formula: 11-Ingredient Product Overview",
+      "reviewUrl": "topics/wellness/brain-health/advanced-memory-formula.html",
+      "bookingUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 2,
+      "title": "CleanSeSana: Product Information and Link Status",
+      "reviewUrl": "topics/wellness/gut-health/cleansesana.html",
+      "bookingUrl": "/affiliate-disclosure.html",
+      "pageState": "held-for-review",
+      "destinationState": "internal",
+      "needsBrowser": false
+    },
+    {
+      "id": 11,
+      "title": "KetoSana: Liquid Drops, Formula and Buyer Guide",
+      "reviewUrl": "topics/wellness/gut-health/ketosana.html",
+      "bookingUrl": "https://myketosana.com/ketosana-pdp-fe#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 9,
+      "title": "Prime Perform Pro: Ingredients and Buyer Guide",
+      "reviewUrl": "topics/wellness/mens-health/prime-perform-pro.html",
+      "bookingUrl": "https://primeperformpro.com/principal/#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 3,
+      "title": "48-hour city breaks that feel premium",
+      "reviewUrl": "#recent",
+      "bookingUrl": "https://www.aviasales.com",
+      "pageState": "not-prepared",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 4,
+      "title": "Beach weeks with easy transfers and space",
+      "reviewUrl": "#recent",
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Cancun",
+      "pageState": "not-prepared",
+      "destinationState": "reachable",
+      "needsBrowser": true
+    },
+    {
+      "id": 5,
+      "title": "7-night stays built for work and calm",
+      "reviewUrl": "#recent",
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lisbon",
+      "pageState": "not-prepared",
+      "destinationState": "reachable",
+      "needsBrowser": true
+    },
+    {
+      "id": 6,
+      "title": "Romantic escapes with a fast booking flow",
+      "reviewUrl": "#recent",
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Rome",
+      "pageState": "not-prepared",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 7,
+      "title": "Airport-to-resort without the friction",
+      "reviewUrl": "#recent",
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dubai",
+      "pageState": "not-prepared",
+      "destinationState": "reachable",
+      "needsBrowser": true
+    },
+    {
+      "id": 8,
+      "title": "Low-cost weekends that feel like an upgrade",
+      "reviewUrl": "#recent",
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Prague",
+      "pageState": "not-prepared",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 12,
+      "title": "SpartaMax: Gummy Format, Ingredients and Buyer Guide",
+      "reviewUrl": "topics/wellness/mens-health/spartamax.html",
+      "bookingUrl": "https://getspartamax.com/#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 13,
+      "title": "Advanced Collagen Plus: Formula, Sources and Product Details",
+      "reviewUrl": "topics/wellness/longevity/collagen.html",
+      "bookingUrl": "https://www.advancedbionutritionals.com/DS24/Collagen/This-Simple-10-Second-Kitchen-Test/HD.htm#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 14,
+      "title": "VigorSana: Seller-Listed Ingredients and Product Guide",
+      "reviewUrl": "topics/wellness/longevity/vigorsana.html",
+      "bookingUrl": "https://myvigorsana.com/vigorsana-pdp-fe#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 15,
+      "title": "Hook Mastery: Marketing Copy Course Overview",
+      "reviewUrl": "topics/business/digital-skills/hook-mastery.html",
+      "bookingUrl": "https://go.eugen-grinschuk.de/hook-mastery/#aff=gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "blocked",
+      "needsBrowser": false
+    },
+    {
+      "id": 16,
+      "title": "Hackeando a Fluência: curso de inglês e visão geral",
+      "reviewUrl": "topics/education/language-learning/hackeando-a-fluencia.html",
+      "bookingUrl": "https://kiwify.app/rYAlC2Q?afid=zprVreMy",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 19,
+      "title": "ConsertaFlix: cursos de manutenção de celulares",
+      "reviewUrl": "topics/education/technical-training/consertaflix.html",
+      "bookingUrl": "https://kiwify.app/EKe5iSs?afid=jV6Yvef9",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 20,
+      "title": "IA Para Finanças: visão geral do treinamento",
+      "reviewUrl": "topics/business/finance-ai/ia-para-financas.html",
+      "bookingUrl": "https://kiwify.app/PRCmj8S?afid=yYOA0xa0",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 21,
+      "title": "Método ADL: guia de compra antes do leilão",
+      "reviewUrl": "topics/business/vehicle-buying/metodo-adl.html",
+      "bookingUrl": "https://kiwify.app/itNNPGK?afid=YSHscwfG",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 22,
+      "title": "GPBOX: biblioteca de jogos retrô para Windows",
+      "reviewUrl": "topics/entertainment/retro-gaming/gpbox.html",
+      "bookingUrl": "https://kiwify.app/NrZYgmr?afid=cpJ2Ufmh",
+      "pageState": "held-for-review",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 23,
+      "title": "Vivendo de Acessórios: curso para vender e escolher fornecedores",
+      "reviewUrl": "topics/business/accessories-business/vivendo-de-acessorios.html",
+      "bookingUrl": "https://kiwify.app/AHZioht?afid=qvV4fwLb",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 17,
+      "title": "Business Program listing under review",
+      "reviewUrl": "topics/business/course/business-program.html",
+      "bookingUrl": "https://www.digistore24.com/redir/626900/gabrielhenriquep123f97e/",
+      "pageState": "held-for-review",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 18,
+      "title": "Aivatar Academy: AI Avatar Training and Webinar Details",
+      "reviewUrl": "topics/business/course/advanced-program.html",
+      "bookingUrl": "https://www.digistore24.com/redir/628355/gabrielhenriquep123f97e/",
+      "pageState": "published",
+      "destinationState": "blocked",
+      "needsBrowser": false
+    },
+    {
+      "id": 24,
+      "title": "Pacote de 4 Guias de Idiomas: alemão, inglês, espanhol e francês",
+      "reviewUrl": "topics/education/language-learning/pacote-4-guias-idiomas.html",
+      "bookingUrl": "https://www.checkout-ds24.com/redir/725241/gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": true
+    },
+    {
+      "id": 25,
+      "title": "Elite Travelhacking BasiX: visão geral do curso de pontos e hotéis",
+      "reviewUrl": "topics/travel/points-and-miles/elite-travelhacking-basix.html",
+      "bookingUrl": "https://www.checkout-ds24.com/redir/553720/gabrielhenriquep123f97e",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 26,
+      "title": "Canva Pro: features, subscription and licence checks",
+      "reviewUrl": "topics/business/design-tools/canva-pro.html",
+      "bookingUrl": "https://www.canva.com/pro/",
+      "pageState": "published",
+      "destinationState": "blocked",
+      "needsBrowser": false
+    },
+    {
+      "id": 27,
+      "title": "Skillshare: classes, subscription and renewal guide",
+      "reviewUrl": "topics/business/creative-learning/skillshare.html",
+      "bookingUrl": "https://www.skillshare.com/en/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 28,
+      "title": "Domestika Plus: subscription, credits and course access",
+      "reviewUrl": "topics/business/creative-learning/domestika-plus.html",
+      "bookingUrl": "https://www.domestika.org/en/plus",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 29,
+      "title": "Coursera Plus: included courses and subscription checks",
+      "reviewUrl": "topics/business/professional-learning/coursera-plus.html",
+      "bookingUrl": "https://www.coursera.org/courseraplus",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 30,
+      "title": "Babbel: languages, lessons and subscription guide",
+      "reviewUrl": "topics/education/language-learning/babbel.html",
+      "bookingUrl": "https://www.babbel.com/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 31,
+      "title": "Airalo eSIM guide: coverage, compatibility and activation",
+      "reviewUrl": "topics/travel/connectivity/airalo.html",
+      "bookingUrl": "https://www.airalo.com/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 32,
+      "title": "Holafly eSIM guide: destinations, validity and setup",
+      "reviewUrl": "topics/travel/connectivity/holafly.html",
+      "bookingUrl": "https://esim.holafly.com/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 33,
+      "title": "GetYourGuide: booking, operators and cancellation checks",
+      "reviewUrl": "topics/travel/experiences/getyourguide.html",
+      "bookingUrl": "https://www.getyourguide.com/",
+      "pageState": "published",
+      "destinationState": "blocked",
+      "needsBrowser": false
+    },
+    {
+      "id": 34,
+      "title": "Civitatis: tours, booking and cancellation checks",
+      "reviewUrl": "topics/travel/experiences/civitatis.html",
+      "bookingUrl": "https://www.civitatis.com/en/",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 35,
+      "title": "Omio: train, bus and flight booking checks",
+      "reviewUrl": "topics/travel/transport/omio.html",
+      "bookingUrl": "https://www.omio.com/",
+      "pageState": "published",
+      "destinationState": "blocked",
+      "needsBrowser": false
+    },
+    {
+      "id": 36,
+      "title": "The Mystery of Nils: Norwegian course and level guide",
+      "reviewUrl": "topics/education/language-learning/mystery-of-nils.html",
+      "bookingUrl": "https://www.digistore24.com/product/475168",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": true
+    },
+    {
+      "id": 37,
+      "title": "Spanish Slow and Easy: lessons, language and access",
+      "reviewUrl": "topics/education/language-learning/spanish-slow-and-easy.html",
+      "bookingUrl": "https://www.digistore24.com/product/647431",
+      "pageState": "published",
+      "destinationState": "blocked",
+      "needsBrowser": false
+    },
+    {
+      "id": 38,
+      "title": "Dennis Schmelz Lightroom Presets: compatibility and use",
+      "reviewUrl": "topics/business/creative-learning/dennis-schmelz-lightroom-presets.html",
+      "bookingUrl": "https://www.digistore24.com/product/514539",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 39,
+      "title": "Prejudice SLOG3 LUTs: camera and software compatibility",
+      "reviewUrl": "topics/business/creative-learning/prejudice-slog3-luts.html",
+      "bookingUrl": "https://www.digistore24.com/product/384522",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 40,
+      "title": "Key Account Management Training: syllabus and access",
+      "reviewUrl": "topics/business/professional-learning/key-account-management-training.html",
+      "bookingUrl": "https://www.digistore24.com/product/300560",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 41,
+      "title": "SAP EWM Supercharged: course scope and prerequisites",
+      "reviewUrl": "topics/business/professional-learning/sap-ewm-supercharged.html",
+      "bookingUrl": "https://www.digistore24.com/product/349934",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 42,
+      "title": "Raspberry Pi for Beginners: course and hardware checks",
+      "reviewUrl": "topics/education/technical-training/raspberry-pi-for-beginners.html",
+      "bookingUrl": "https://www.digistore24.com/product/271198",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 43,
+      "title": "Leadership Crash Course: content, language and access",
+      "reviewUrl": "topics/business/professional-learning/leadership-crash-course.html",
+      "bookingUrl": "https://www.digistore24.com/product/609748",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 44,
+      "title": "megaSPRACHEN Reise-Englisch: course format and language",
+      "reviewUrl": "topics/education/language-learning/mega-sprachen-reise-englisch.html",
+      "bookingUrl": "https://www.digistore24.com/product/395450",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    },
+    {
+      "id": 45,
+      "title": "Piano Boogie Woogie: course level and practice requirements",
+      "reviewUrl": "topics/education/music-learning/piano-boogie-woogie.html",
+      "bookingUrl": "https://www.digistore24.com/product/29447",
+      "pageState": "published",
+      "destinationState": "reachable",
+      "needsBrowser": false
+    }
+  ],
+  "checkedAt": "2026-10-12T19:28:33.584Z",
+  "limits": "HTTP reachability only. A successful response does not verify current prices, product identity, affiliation, delivery or commission. Bot-blocked responses require browser verification.",
+  "counts": {
+    "reachable": 262,
+    "blocked": 23,
+    "unconfirmed": 1
+  },
+  "results": [
+    {
+      "url": "https://antesdoleilao.store/",
+      "contexts": [
+        "topics/business/vehicle-buying/metodo-adl.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://antesdoleilao.store/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Antes do Leilão — Compre carros 30% mais baratos",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://app.fluentesparasempre.com.br/vendas-b",
+      "contexts": [
+        "topics/education/language-learning/hackeando-a-fluencia.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://app.fluentesparasempre.com.br/vendas-b",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Inglês com Músicas, Séries e Flashcards | Fluentes Para Sempre",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Amino-2023/High-Design/ingredients-label.jpg",
+      "contexts": [
+        "topics/wellness/longevity/advanced-amino-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Amino-2023/High-Design/ingredients-label.jpg",
+      "contentType": "image/jpeg",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Muscle-Plus/High-Design/ingredients-label.jpg?v=2",
+      "contexts": [
+        "topics/wellness/nutrition/advanced-muscle-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Muscle-Plus/High-Design/ingredients-label.jpg?v=2",
+      "contentType": "image/jpeg",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/BrainAMP/High-Design/ingredients-label.jpg",
+      "contexts": [
+        "topics/wellness/brain-health/brainamp.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/BrainAMP/High-Design/ingredients-label.jpg",
+      "contentType": "image/jpeg",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/CircO2-2024/High-Design/ingredient-label-2025.jpg",
+      "contexts": [
+        "topics/wellness/longevity/circo2.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/CircO2-2024/High-Design/ingredient-label-2025.jpg",
+      "contentType": "image/jpeg",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/GLP-1-Plus/High-Design/glp1-plus-full-label.jpg?v=2",
+      "contexts": [
+        "topics/wellness/metabolic-health/glp-1-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/GLP-1-Plus/High-Design/glp1-plus-full-label.jpg?v=2",
+      "contentType": "image/jpeg",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/IDF-2020/idf-label.jpg",
+      "contexts": [
+        "topics/wellness/gut-health/integrative-digestive-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/IDF-2020/idf-label.jpg",
+      "contentType": "image/jpeg",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Mitochondrial-2023/supplement-facts.jpg",
+      "contexts": [
+        "topics/wellness/longevity/advanced-mitochondrial-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Mitochondrial-2023/supplement-facts.jpg",
+      "contentType": "image/jpeg",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Vision-2025/High-Design/ingredients-label.jpg",
+      "contexts": [
+        "topics/wellness/vision-health/advanced-vision-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Vision-2025/High-Design/ingredients-label.jpg",
+      "contentType": "image/jpeg",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Products-2020/Advanced-Joint-Support/joint-full-label.png",
+      "contexts": [
+        "topics/wellness/joint-health/advanced-joint-support.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Advanced-Joint-Support/joint-full-label.png",
+      "contentType": "image/png",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Products-2020/Advanced-Prostate-Formula/prostate-full-label.png",
+      "contexts": [
+        "topics/wellness/mens-health/advanced-prostate-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Advanced-Prostate-Formula/prostate-full-label.png",
+      "contentType": "image/png",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Products-2020/Curcumitol-Q/ingredient-label.png",
+      "contexts": [
+        "topics/wellness/nutrition/curcumitol-q.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Curcumitol-Q/ingredient-label.png",
+      "contentType": "image/png",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://assets.advancedbionutritionals.com/Images/Sales-Pages/Pep-Tonic/supplement-facts.jpg?v=2",
+      "contexts": [
+        "topics/wellness/nutrition/pep-tonic.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://assets.advancedbionutritionals.com/Images/Sales-Pages/Pep-Tonic/supplement-facts.jpg?v=2",
+      "contentType": "image/jpeg",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://ayurvedaschule.s3.eu-west-1.amazonaws.com/2026/Ausbildungsinformationen/01%2C+Kurse+und+Wartezeiten+bei+der+Ayurveda-Komplettausbildung.pdf",
+      "contexts": [
+        "topics/education/holistic-learning/ayurveda-komplett-ausbildung.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://ayurvedaschule.s3.eu-west-1.amazonaws.com/2026/Ausbildungsinformationen/01%2C+Kurse+und+Wartezeiten+bei+der+Ayurveda-Komplettausbildung.pdf",
+      "contentType": "application/pdf",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/",
+      "contexts": [
+        "public:index.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "PokiSky: European travel, course and supplement buying guides",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/affiliate-disclosure",
+      "contexts": [
+        "public:affiliate-disclosure.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/affiliate-disclosure",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Affiliate Disclosure & Editorial Standards | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/courses",
+      "contexts": [
+        "public:guides/courses.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/guides/courses",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Online courses and digital tools: compare before buying | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europa-esim",
+      "contexts": [
+        "public:guides/europa-esim.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/guides/europa-esim",
+      "contentType": "text/html; charset=utf-8",
+      "title": "eSIM für Europa: Airalo und Holafly vergleichen | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europe",
+      "contexts": [
+        "public:guides/europe.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/guides/europe",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Europe buying guides: English, German, UK and Ireland | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europe-de",
+      "contexts": [
+        "public:guides/europe-de.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/guides/europe-de",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Ratgeber auf Deutsch: Kurse, Software und Kaufchecks | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europe-esim",
+      "contexts": [
+        "public:guides/europe-esim.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/guides/europe-esim",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Airalo vs Holafly for Europe: eSIM buying checklist | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/travel",
+      "contexts": [
+        "public:guides/travel.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/guides/travel",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Travel planning: eSIMs, transport and experiences | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/uk-ireland",
+      "contexts": [
+        "public:guides/uk-ireland.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/guides/uk-ireland",
+      "contentType": "text/html; charset=utf-8",
+      "title": "UK and Ireland buying guides: labels, packs and delivery checks | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/wellness",
+      "contexts": [
+        "public:guides/wellness.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/guides/wellness",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Supplement buyer guides: labels, formats and seller claims | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/accessories-business/vivendo-de-acessorios",
+      "contexts": [
+        "public:topics/business/accessories-business/vivendo-de-acessorios.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/accessories-business/vivendo-de-acessorios",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Vivendo de Acessórios: curso para vender e escolher fornecedores | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/ai-training/agent-x",
+      "contexts": [
+        "public:topics/business/ai-training/agent-x.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/ai-training/agent-x",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Agent X: AI Automation Tools & Purchase Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/ai-training/ki-training",
+      "contexts": [
+        "public:topics/business/ai-training/ki-training.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/ai-training/ki-training",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Business Kickstart KI-Training: Free AI Webinar Overview | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/course/advanced-program",
+      "contexts": [
+        "public:topics/business/course/advanced-program.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/course/advanced-program",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Aivatar Academy: AI Avatar Training and Webinar Details | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+      "contexts": [
+        "public:topics/business/creative-learning/dennis-schmelz-lightroom-presets.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Dennis Schmelz Lightroom Presets: compatibility and use | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/domestika-plus",
+      "contexts": [
+        "public:topics/business/creative-learning/domestika-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/domestika-plus",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Domestika Plus: subscription, credits and course access | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/prejudice-slog3-luts",
+      "contexts": [
+        "public:topics/business/creative-learning/prejudice-slog3-luts.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/prejudice-slog3-luts",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Prejudice SLOG3 LUTs: camera and software compatibility | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/skillshare",
+      "contexts": [
+        "public:topics/business/creative-learning/skillshare.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/skillshare",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Skillshare: classes, subscription and renewal guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/social-media-masterclass",
+      "contexts": [
+        "public:topics/business/creative-learning/social-media-masterclass.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/social-media-masterclass",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Social Media Masterclass: Inhalte, KI-Tools und Kosten | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/design-tools/canva-pro",
+      "contexts": [
+        "public:topics/business/design-tools/canva-pro.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/design-tools/canva-pro",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Canva Pro: features, subscription and licence checks | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/coachy-premium",
+      "contexts": [
+        "public:topics/business/digital-skills/coachy-premium.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/coachy-premium",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Coachy Premium: Create an Online Course in English | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/hook-mastery",
+      "contexts": [
+        "public:topics/business/digital-skills/hook-mastery.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/hook-mastery",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Hook Mastery: Marketing Copy Course Overview | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/remixable-founder",
+      "contexts": [
+        "public:topics/business/digital-skills/remixable-founder.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/remixable-founder",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Remixable Founder Edition: Website & Video Tool Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/family-learning/empowered-parenting",
+      "contexts": [
+        "public:topics/business/family-learning/empowered-parenting.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/family-learning/empowered-parenting",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Empowered Parenting: School Engagement Course Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/finance-ai/ia-para-financas",
+      "contexts": [
+        "public:topics/business/finance-ai/ia-para-financas.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/finance-ai/ia-para-financas",
+      "contentType": "text/html; charset=utf-8",
+      "title": "IA Para Finanças: visão geral do treinamento | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/fastseohub-elite",
+      "contexts": [
+        "public:topics/business/marketing-tools/fastseohub-elite.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/fastseohub-elite",
+      "contentType": "text/html; charset=utf-8",
+      "title": "FastSEOHub Elite: SEO Audit & Content Workflow Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/funnelcockpit-standard",
+      "contexts": [
+        "public:topics/business/marketing-tools/funnelcockpit-standard.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/funnelcockpit-standard",
+      "contentType": "text/html; charset=utf-8",
+      "title": "FunnelCockpit Standard: Webseiten und Marketing verbinden | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/salesforge-pro",
+      "contexts": [
+        "public:topics/business/marketing-tools/salesforge-pro.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/salesforge-pro",
+      "contentType": "text/html; charset=utf-8",
+      "title": "SalesForge Pro: Landing Page Builder & Export Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/traffic-genius",
+      "contexts": [
+        "public:topics/business/marketing-tools/traffic-genius.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/traffic-genius",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Traffic Genius: AI Video Tools, Training & Purchase Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/ultimate-viddeos-ai",
+      "contexts": [
+        "public:topics/business/marketing-tools/ultimate-viddeos-ai.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/ultimate-viddeos-ai",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Ultimate Viddeos AI: Video Tools & Annual Plan Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-paket",
+      "contexts": [
+        "public:topics/business/productivity/excel-paket.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-paket",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Excel-Paket: Vorlagen, Kompatibilität und Kaufdetails | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/productivity/expertslides-powerpoint",
+      "contexts": [
+        "public:topics/business/productivity/expertslides-powerpoint.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/productivity/expertslides-powerpoint",
+      "contentType": "text/html; charset=utf-8",
+      "title": "ExpertSlides: PowerPoint Add-In & Annual Plan Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/chargeback-prevention-masterclass",
+      "contexts": [
+        "public:topics/business/professional-learning/chargeback-prevention-masterclass.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/chargeback-prevention-masterclass",
+      "contentType": "text/html; charset=utf-8",
+      "title": "NEXTMETHOD: Chargeback Prevention Training Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/coursera-plus",
+      "contexts": [
+        "public:topics/business/professional-learning/coursera-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/coursera-plus",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Coursera Plus: included courses and subscription checks | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/key-account-management-training",
+      "contexts": [
+        "public:topics/business/professional-learning/key-account-management-training.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/key-account-management-training",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Key Account Management Training: syllabus and access | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/leadership-crash-course",
+      "contexts": [
+        "public:topics/business/professional-learning/leadership-crash-course.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/leadership-crash-course",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Leadership Crash Course: content, language and access | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/sap-ewm-supercharged",
+      "contexts": [
+        "public:topics/business/professional-learning/sap-ewm-supercharged.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/sap-ewm-supercharged",
+      "contentType": "text/html; charset=utf-8",
+      "title": "SAP EWM Supercharged: course scope and prerequisites | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/vehicle-buying/metodo-adl",
+      "contexts": [
+        "public:topics/business/vehicle-buying/metodo-adl.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/business/vehicle-buying/metodo-adl",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Método ADL: guia de compra antes do leilão | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/supp-up-travel-system",
+      "contexts": [
+        "public:topics/education/fitness-learning/supp-up-travel-system.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/supp-up-travel-system",
+      "contentType": "text/html; charset=utf-8",
+      "title": "SUPP UP.: Travel Nutrition & Fitness Guide Bundle | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+      "contexts": [
+        "public:topics/education/holistic-learning/ayurveda-komplett-ausbildung.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Ayurveda-Ausbildung online: Inhalte, Ablauf und Kosten | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/babbel",
+      "contexts": [
+        "public:topics/education/language-learning/babbel.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/language-learning/babbel",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Babbel: languages, lessons and subscription guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/hackeando-a-fluencia",
+      "contexts": [
+        "public:topics/education/language-learning/hackeando-a-fluencia.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/language-learning/hackeando-a-fluencia",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Hackeando a Fluência: curso de inglês e visão geral | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mega-sprachen-reise-englisch",
+      "contexts": [
+        "public:topics/education/language-learning/mega-sprachen-reise-englisch.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mega-sprachen-reise-englisch",
+      "contentType": "text/html; charset=utf-8",
+      "title": "megaSPRACHEN Reise-Englisch: course format and language | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mystery-of-nils",
+      "contexts": [
+        "public:topics/education/language-learning/mystery-of-nils.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mystery-of-nils",
+      "contentType": "text/html; charset=utf-8",
+      "title": "The Mystery of Nils: Norwegian course and level guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/pacote-4-guias-idiomas",
+      "contexts": [
+        "public:topics/education/language-learning/pacote-4-guias-idiomas.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/language-learning/pacote-4-guias-idiomas",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Pacote de 4 Guias de Idiomas: alemão, inglês, espanhol e francês | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/spanish-slow-and-easy",
+      "contexts": [
+        "public:topics/education/language-learning/spanish-slow-and-easy.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/language-learning/spanish-slow-and-easy",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Spanish Slow and Easy: lessons, language and access | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+      "contexts": [
+        "public:topics/education/music-learning/boogie-woogie-piano-course-prerequisites.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Boogie woogie piano course: are you ready for the beginner lessons? | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/endlich-klavier-spielen",
+      "contexts": [
+        "public:topics/education/music-learning/endlich-klavier-spielen.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/music-learning/endlich-klavier-spielen",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Endlich Klavier Spielen: Kursinhalte und Voraussetzungen | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/piano-boogie-woogie",
+      "contexts": [
+        "public:topics/education/music-learning/piano-boogie-woogie.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/music-learning/piano-boogie-woogie",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Piano Boogie Woogie: course level and practice requirements | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/pet-learning/herdenschutzhund-kurs",
+      "contexts": [
+        "public:topics/education/pet-learning/herdenschutzhund-kurs.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/pet-learning/herdenschutzhund-kurs",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Herdenschutzhund-Kurs: Inhalte, Zugang und Kosten | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/consertaflix",
+      "contexts": [
+        "public:topics/education/technical-training/consertaflix.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/technical-training/consertaflix",
+      "contentType": "text/html; charset=utf-8",
+      "title": "ConsertaFlix: cursos de manutenção de celulares | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/et-akademie-dozenten-paket",
+      "contexts": [
+        "public:topics/education/technical-training/et-akademie-dozenten-paket.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/technical-training/et-akademie-dozenten-paket",
+      "contentType": "text/html; charset=utf-8",
+      "title": "ET-Akademie Dozenten-Paket: Inhalte und Kaufdetails | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/raspberry-pi-for-beginners",
+      "contexts": [
+        "public:topics/education/technical-training/raspberry-pi-for-beginners.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/education/technical-training/raspberry-pi-for-beginners",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Raspberry Pi for Beginners: course and hardware checks | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/airalo",
+      "contexts": [
+        "public:topics/travel/connectivity/airalo.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/airalo",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Airalo eSIM guide: coverage, compatibility and activation | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/holafly",
+      "contexts": [
+        "public:topics/travel/connectivity/holafly.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/holafly",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Holafly eSIM guide: destinations, validity and setup | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/experiences/civitatis",
+      "contexts": [
+        "public:topics/travel/experiences/civitatis.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/travel/experiences/civitatis",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Civitatis: tours, booking and cancellation checks | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/experiences/getyourguide",
+      "contexts": [
+        "public:topics/travel/experiences/getyourguide.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/travel/experiences/getyourguide",
+      "contentType": "text/html; charset=utf-8",
+      "title": "GetYourGuide: booking, operators and cancellation checks | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/elite-travelhacking-basix",
+      "contexts": [
+        "public:topics/travel/points-and-miles/elite-travelhacking-basix.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/elite-travelhacking-basix",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Elite Travelhacking BasiX: visão geral do curso de pontos e hotéis | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/transport/omio",
+      "contexts": [
+        "public:topics/travel/transport/omio.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/travel/transport/omio",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Omio: train, bus and flight booking checks | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula",
+      "contexts": [
+        "public:topics/wellness/brain-health/advanced-memory-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Memory Formula: 11-Ingredient Product Overview | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp",
+      "contexts": [
+        "public:topics/wellness/brain-health/brainamp.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp",
+      "contentType": "text/html; charset=utf-8",
+      "title": "BrainAMP: Capsule Ingredients, Label & Pack Options | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula",
+      "contexts": [
+        "public:topics/wellness/gut-health/integrative-digestive-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Integrative Digestive Formula: Capsule Label & Pack Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana",
+      "contexts": [
+        "public:topics/wellness/gut-health/ketosana.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana",
+      "contentType": "text/html; charset=utf-8",
+      "title": "KetoSana: Liquid Drops, Formula and Buyer Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support",
+      "contexts": [
+        "public:topics/wellness/joint-health/advanced-joint-support.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Joint Support: Label, Pack Sizes & UK Buying Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula",
+      "contexts": [
+        "public:topics/wellness/longevity/advanced-amino-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Amino Formula: Tablets, Label & Pack Options | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula",
+      "contexts": [
+        "public:topics/wellness/longevity/advanced-mitochondrial-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Mitochondrial Formula: Capsules, Label & Pack Options | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2",
+      "contexts": [
+        "public:topics/wellness/longevity/circo2.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2",
+      "contentType": "text/html; charset=utf-8",
+      "title": "CircO2: Dissolving Tablets, Label & Box Options | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen",
+      "contexts": [
+        "public:topics/wellness/longevity/collagen.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Collagen Plus: Formula, Sources and Product Details | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana",
+      "contexts": [
+        "public:topics/wellness/longevity/vigorsana.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana",
+      "contentType": "text/html; charset=utf-8",
+      "title": "VigorSana: Seller-Listed Ingredients and Product Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula",
+      "contexts": [
+        "public:topics/wellness/mens-health/advanced-prostate-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Prostate Formula: Label, Pack Sizes & UK Buying Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro",
+      "contexts": [
+        "public:topics/wellness/mens-health/prime-perform-pro.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Prime Perform Pro: Ingredients and Buyer Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax",
+      "contexts": [
+        "public:topics/wellness/mens-health/spartamax.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax",
+      "contentType": "text/html; charset=utf-8",
+      "title": "SpartaMax: Gummy Format, Ingredients and Buyer Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus",
+      "contexts": [
+        "public:topics/wellness/metabolic-health/glp-1-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus",
+      "contentType": "text/html; charset=utf-8",
+      "title": "GLP-1 Plus: Supplement Ingredients, Label & Buying Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus",
+      "contexts": [
+        "public:topics/wellness/nutrition/advanced-muscle-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Muscle Plus: Dileucine, Vitamin D & Buying Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q",
+      "contexts": [
+        "public:topics/wellness/nutrition/curcumitol-q.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Curcumitol-Q: Curcumin Label & Six-Bottle Buying Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa",
+      "contexts": [
+        "public:topics/wellness/nutrition/eznaturals-moringa.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa",
+      "contentType": "text/html; charset=utf-8",
+      "title": "EZNaturals Moringa: Capsule Label & US Buying Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic",
+      "contexts": [
+        "public:topics/wellness/nutrition/pep-tonic.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Pep Tonic: Greens Powder, Label & Bag Options | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula",
+      "contexts": [
+        "public:topics/wellness/vision-health/advanced-vision-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Vision Formula: Tablet Label & Buying Guide | PokiSky",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://blog.google/intl/de-de/produkte/suchen-entdecken/google-trends-reisereport-2026/",
+      "contexts": [
+        "topics/travel/points-and-miles/elite-travelhacking-basix.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog.google/intl/de-de/produkte/suchen-entdecken/google-trends-reisereport-2026/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Google Trends: So reist Deutschland 2026",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://business-kickstart.de/ki-training-1/",
+      "contexts": [
+        "catalog:10",
+        "topics/business/ai-training/ki-training.html"
+      ],
+      "status": 429,
+      "finalUrl": "https://business-kickstart.de/ki-training-1/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Vercel Security Checkpoint",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://catracalivre.com.br/saude-bem-estar/como-aprender-as-500-palavras-mais-usadas-no-ingles-em-30-dias/",
+      "contexts": [
+        "topics/education/language-learning/hackeando-a-fluencia.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://catracalivre.com.br/saude-bem-estar/como-aprender-as-500-palavras-mais-usadas-no-ingles-em-30-dias/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Como aprender as 500 palavras mais usadas no inglês em 30 dias?",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://chartsensor.com/imprint",
+      "contexts": [
+        "topics/business/finance-ai/chartsensor.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://chartsensor.com/imprint",
+      "contentType": "text/html; charset=utf-8",
+      "title": "ChartSensor – AI Enabled Technical Analysis",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://chartsensor.com/join",
+      "contexts": [
+        "topics/business/finance-ai/chartsensor.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://chartsensor.com/join",
+      "contentType": "text/html; charset=utf-8",
+      "title": "ChartSensor – AI Enabled Technical Analysis",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://chartsensor.com/jv",
+      "contexts": [
+        "topics/business/finance-ai/chartsensor.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://chartsensor.com/jv",
+      "contentType": "text/html; charset=utf-8",
+      "title": "ChartSensor – AI Enabled Technical Analysis",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://cleansesana.com/cleansesana-pdp-fe",
+      "contexts": [
+        "topics/wellness/gut-health/cleansesana.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://cleansesana.com/cleansesana-pdp-fe",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Natürliche Nahrungsergänzungsmittel für Darmgesundheit | CleanseSana",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://coachy.net/en/pricing/",
+      "contexts": [
+        "topics/business/digital-skills/coachy-premium.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://coachy.net/en/pricing/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Pricing and Packages at a Glance | Coachy",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://coachy.net/en/terms-and-conditions/",
+      "contexts": [
+        "topics/business/digital-skills/coachy-premium.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://coachy.net/en/terms-and-conditions/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Terms and Conditions | Coachy",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://consertaflix.com.br/principal/",
+      "contexts": [
+        "topics/education/technical-training/consertaflix.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://consertaflix.com.br/principal/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "ConsertaFlix – Infocell JK - ConsertaFlix",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://dennisschmelz.de/lightroom-presets-dennis-schmelz-dop",
+      "contexts": [
+        "topics/business/creative-learning/dennis-schmelz-lightroom-presets.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://dennisschmelz.de/lightroom-presets-dennis-schmelz-dop",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Lightroom Presets",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://dennisschmelz.de/lut-slog3-prejudice-80s-vintage-look-dennis-schmelz-dop",
+      "contexts": [
+        "topics/business/creative-learning/prejudice-slog3-luts.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://dennisschmelz.de/lut-slog3-prejudice-80s-vintage-look-dennis-schmelz-dop",
+      "contentType": "text/html; charset=utf-8",
+      "title": "LUT SLOG3 Prejudice 80s Vintage Look",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://digistore24.advancedbionutritionals.com/advanced-joint-support-19",
+      "contexts": [
+        "topics/wellness/joint-health/advanced-joint-support.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://digistore24.advancedbionutritionals.com/advanced-joint-support-19",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Joint Support · Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://digistore24.advancedbionutritionals.com/advanced-muscle-plus-27",
+      "contexts": [
+        "topics/wellness/nutrition/advanced-muscle-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://digistore24.advancedbionutritionals.com/advanced-muscle-plus-27",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Muscle Plus · Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://digistore24.advancedbionutritionals.com/advanced-prostate-formula-21",
+      "contexts": [
+        "topics/wellness/mens-health/advanced-prostate-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://digistore24.advancedbionutritionals.com/advanced-prostate-formula-21",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Prostate Formula · Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://digistore24.advancedbionutritionals.com/advanced-vision-formula-31",
+      "contexts": [
+        "topics/wellness/vision-health/advanced-vision-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://digistore24.advancedbionutritionals.com/advanced-vision-formula-31",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Advanced Vision Formula · Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://digistore24.advancedbionutritionals.com/brainamp-32",
+      "contexts": [
+        "topics/wellness/brain-health/brainamp.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://digistore24.advancedbionutritionals.com/brainamp-32",
+      "contentType": "text/html; charset=utf-8",
+      "title": "BrainAMP · Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://digistore24.advancedbionutritionals.com/curcumitol-q-biobdmc-12",
+      "contexts": [
+        "topics/wellness/nutrition/curcumitol-q.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://digistore24.advancedbionutritionals.com/curcumitol-q-biobdmc-12",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Curcumitol-Q BioBDMC · Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://digistore24.advancedbionutritionals.com/glp-1-plus-42",
+      "contexts": [
+        "topics/wellness/metabolic-health/glp-1-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://digistore24.advancedbionutritionals.com/glp-1-plus-42",
+      "contentType": "text/html; charset=utf-8",
+      "title": "GLP-1 Plus · Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://digistore24.advancedbionutritionals.com/integrative-digestion-formula-13",
+      "contexts": [
+        "topics/wellness/gut-health/integrative-digestive-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://digistore24.advancedbionutritionals.com/integrative-digestion-formula-13",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Integrative Digestion Formula · Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://digistore24.advancedbionutritionals.com/pep-tonic-26",
+      "contexts": [
+        "topics/wellness/nutrition/pep-tonic.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://digistore24.advancedbionutritionals.com/pep-tonic-26",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Pep Tonic · Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://digistore24.advancedbionutritionals.com/promotional-guidelines-14",
+      "contexts": [
+        "topics/wellness/longevity/advanced-mitochondrial-formula.html",
+        "topics/wellness/longevity/circo2.html",
+        "topics/wellness/longevity/advanced-amino-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://digistore24.advancedbionutritionals.com/promotional-guidelines-14",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Promotional Guidelines · Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://docs.coachy.net/en/about-coachy/30-days-trial-period/",
+      "contexts": [
+        "topics/business/digital-skills/coachy-premium.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://docs.coachy.net/en/about-coachy/30-days-trial-period/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "30 days trial period | Home",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://docs.coachy.net/en/about-coachy/most-important-functions/",
+      "contexts": [
+        "topics/business/digital-skills/coachy-premium.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://docs.coachy.net/en/about-coachy/most-important-functions/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Most important functions | Home",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://elitetravelhacking.de/basix/",
+      "contexts": [
+        "topics/travel/points-and-miles/elite-travelhacking-basix.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://elitetravelhacking.de/basix/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Elitetravelhacking BASIX - Elite Travelhacking",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://esim.holafly.com/",
+      "contexts": [
+        "catalog:32",
+        "topics/travel/connectivity/holafly.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://esim.holafly.com/",
+      "contentType": "text/html",
+      "title": "Buy eSIM for International Travel | Holafly",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://et-akademie.de/ubersicht/",
+      "contexts": [
+        "catalog:52",
+        "topics/education/technical-training/et-akademie-dozenten-paket.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://et-akademie.de/ubersicht/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Übersicht – ET-Akademie",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://expertslides.com/expertslides-digistore24/",
+      "contexts": [
+        "topics/business/productivity/expertslides-powerpoint.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://expertslides.com/expertslides-digistore24/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "ExpertSlides Digistore24 - ExpertSlides",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://expertslides.com/impressum/",
+      "contexts": [
+        "topics/business/productivity/expertslides-powerpoint.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://expertslides.com/impressum/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "General Information - ExpertSlides",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://expertslides.com/terms-and-conditions/",
+      "contexts": [
+        "topics/business/productivity/expertslides-powerpoint.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://expertslides.com/terms-and-conditions/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Terms and Conditions - ExpertSlides",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://eznaturals.co/moringa-digistore24/",
+      "contexts": [
+        "topics/wellness/nutrition/eznaturals-moringa.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://eznaturals.co/moringa-digistore24/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Moringa – Digistore24 – EZNaturalsMoringa – Digistore24 – EZNaturals",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://eznaturals.co/moringa-digistore24/?aff=gabrielhenriquep123f97e&creative=pokisky-guide&utm_source=affiliate&utm_medium=content&utm_campaign=ezn-launch",
+      "contexts": [
+        "topics/wellness/nutrition/eznaturals-moringa.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://eznaturals.co/moringa-digistore24/?aff=gabrielhenriquep123f97e&creative=pokisky-guide&utm_source=affiliate&utm_medium=content&utm_campaign=ezn-launch",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Moringa – Digistore24 – EZNaturalsMoringa – Digistore24 – EZNaturals",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://eznaturals.co/refund-policy/",
+      "contexts": [
+        "topics/wellness/nutrition/eznaturals-moringa.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://eznaturals.co/refund-policy/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Refund Policy – EZNaturalsRefund Policy – EZNaturals",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://eznaturals.co/shipping-policy/",
+      "contexts": [
+        "topics/wellness/nutrition/eznaturals-moringa.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://eznaturals.co/shipping-policy/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Shipping Policy – EZNaturalsShipping Policy – EZNaturals",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://eznaturals.co/wp-content/uploads/2026/08/approved-moringa-label-final-1-scaled.png",
+      "contexts": [
+        "topics/wellness/nutrition/eznaturals-moringa.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://eznaturals.co/wp-content/uploads/2026/08/approved-moringa-label-final-1-scaled.png",
+      "contentType": "image/png",
+      "title": "",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://fastseohub.com/contact",
+      "contexts": [
+        "topics/business/marketing-tools/fastseohub-elite.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://fastseohub.com/contact",
+      "contentType": "text/html; charset=utf-8",
+      "title": "FastSEOHub | SEO, AEO & GEO Intelligence",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://fastseohub.com/digistore24",
+      "contexts": [
+        "topics/business/marketing-tools/fastseohub-elite.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://fastseohub.com/digistore24",
+      "contentType": "text/html; charset=utf-8",
+      "title": "FastSEOHub | SEO, AEO & GEO Intelligence",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://fastseohub.com/refunds",
+      "contexts": [
+        "topics/business/marketing-tools/fastseohub-elite.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://fastseohub.com/refunds",
+      "contentType": "text/html; charset=utf-8",
+      "title": "FastSEOHub | SEO, AEO & GEO Intelligence",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://fastseohub.com/terms",
+      "contexts": [
+        "topics/business/marketing-tools/fastseohub-elite.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://fastseohub.com/terms",
+      "contentType": "text/html; charset=utf-8",
+      "title": "FastSEOHub | SEO, AEO & GEO Intelligence",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://funnelcockpit.com/",
+      "contexts": [
+        "topics/business/marketing-tools/funnelcockpit-standard.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://funnelcockpit.com/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "FunnelCockpit – Webseiten, Funnels & Marketing mit KIMobile Funnel in FunnelCockpit-FarbenFunnelCockpit: alles in einem System",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://funnelcockpit.com/pricing/",
+      "contexts": [
+        "topics/business/marketing-tools/funnelcockpit-standard.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://funnelcockpit.com/pricing/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "FunnelCockpit Preise – Lite, Standard & Business",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://getagentx.com/order",
+      "contexts": [
+        "catalog:67",
+        "topics/business/ai-training/agent-x.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://getagentx.com/order/",
+      "contentType": "text/html",
+      "title": "Get AI Agent",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://getagentx.com/order/",
+      "contexts": [
+        "topics/business/ai-training/agent-x.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://getagentx.com/order/",
+      "contentType": "text/html",
+      "title": "Get AI Agent",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://getagentx.com/order/disclaimer-terms.html",
+      "contexts": [
+        "topics/business/ai-training/agent-x.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://getagentx.com/order/disclaimer-terms.html",
+      "contentType": "text/html",
+      "title": "Terms of service",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://getspartamax.com/",
+      "contexts": [
+        "catalog:12",
+        "topics/wellness/mens-health/spartamax.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://getspartamax.com/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Spartamax Male Vitality Gummies",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://go.eugen-grinschuk.de/hook-mastery/",
+      "contexts": [
+        "catalog:15",
+        "topics/business/digital-skills/hook-mastery.html"
+      ],
+      "status": 429,
+      "finalUrl": "https://go.eugen-grinschuk.de/hook-mastery/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Vercel Security Checkpoint",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://gpbox.com.br/?utm_source=direto&sck=1791218419528_17912181926848",
+      "contexts": [
+        "topics/entertainment/retro-gaming/gpbox.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://gpbox.com.br/?utm_source=direto&sck=1791218419528_17912181926848",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "GPBOX – Sistema MultijogosGPBOX – Sistema Multijogos",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://iaparafinancas.com.br/",
+      "contexts": [
+        "topics/business/finance-ai/ia-para-financas.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://iaparafinancas.com.br/",
+      "contentType": "text/html",
+      "title": "Hostinger Horizons",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://kiwify.app/AHZioht?afid=qvV4fwLb",
+      "contexts": [
+        "catalog:23",
+        "topics/business/accessories-business/vivendo-de-acessorios.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://luanamacedo.com.br/vivendo-de-acessorios/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Plataforma Venda de Acessórios – Luana Macedo",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://kiwify.app/EKe5iSs?afid=jV6Yvef9",
+      "contexts": [
+        "catalog:19",
+        "topics/education/technical-training/consertaflix.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://consertaflix.com.br/principal/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "ConsertaFlix – Infocell JK - ConsertaFlix",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://kiwify.app/itNNPGK?afid=YSHscwfG",
+      "contexts": [
+        "catalog:21",
+        "topics/business/vehicle-buying/metodo-adl.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://antesdoleilao.store/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Antes do Leilão — Compre carros 30% mais baratos",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://kiwify.app/NrZYgmr?afid=cpJ2Ufmh",
+      "contexts": [
+        "catalog:22",
+        "topics/entertainment/retro-gaming/gpbox.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://gpbox.com.br/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "GPBOX – Sistema MultijogosGPBOX – Sistema Multijogos",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://kiwify.app/PRCmj8S?afid=yYOA0xa0",
+      "contexts": [
+        "catalog:20",
+        "topics/business/finance-ai/ia-para-financas.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://iaparafinancas.com.br/",
+      "contentType": "text/html",
+      "title": "Hostinger Horizons",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://kiwify.app/rYAlC2Q?afid=zprVreMy",
+      "contexts": [
+        "catalog:16",
+        "topics/education/language-learning/hackeando-a-fluencia.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://app.fluentesparasempre.com.br/vendas-b",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Inglês com Músicas, Séries e Flashcards | Fluentes Para Sempre",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://klavier-kurs.de/endlich-klavier-spielen-onlinekurs/",
+      "contexts": [
+        "topics/education/music-learning/endlich-klavier-spielen.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://klavier-kurs.de/endlich-klavier-spielen-onlinekurs/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "ENDLICH KLAVIER SPIELEN Onlinekurs",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://knowyourewm.com/impressum-legal-disclosure/",
+      "contexts": [
+        "topics/business/technical-training/sap-ewm-complete-pack.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://knowyourewm.com/impressum-legal-disclosure/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Impressum,Legal Disclosure Of Knowyourewm | Knowyourewm",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://knowyourewm.com/the-sap-ewm-bundle-one/",
+      "contexts": [
+        "catalog:64",
+        "topics/business/technical-training/sap-ewm-complete-pack.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://knowyourewm.com/the-sap-ewm-bundle-one/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "SAP EWM Complete Pack - All In One EWM Experience | KnowYourEWM",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://luanamacedo.com.br/vivendo-de-acessorios/",
+      "contexts": [
+        "topics/business/accessories-business/vivendo-de-acessorios.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://luanamacedo.com.br/vivendo-de-acessorios/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Plataforma Venda de Acessórios – Luana Macedo",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://marketplace.microsoft.com/en-us/product/office/WA200003724?tab=Overview",
+      "contexts": [
+        "topics/business/productivity/expertslides-powerpoint.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://marketplace.microsoft.com/en-us/product/office/WA200003724?tab=Overview",
+      "contentType": "text/html",
+      "title": "Azure WAF",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://myketosana.com/ketosana-pdp-fe",
+      "contexts": [
+        "catalog:11",
+        "topics/wellness/gut-health/ketosana.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://myketosana.com/ketosana-pdp-fe",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Stoffwechsel-Booster für natürlichen Keto-Erfolg",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://myvigorsana.com/vigorsana-pdp-fe",
+      "contexts": [
+        "catalog:14",
+        "topics/wellness/longevity/vigorsana.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://myvigorsana.com/vigorsana-pdp-fe",
+      "contentType": "text/html; charset=utf-8",
+      "title": "VigorSana",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://nextmethod-chargeback.netlify.app/",
+      "contexts": [
+        "catalog:70",
+        "topics/business/professional-learning/chargeback-prevention-masterclass.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://nextmethod-chargeback.netlify.app/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "NEXTMETHOD - Chargeback Prevention Masterclass",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://pay.kiwify.com.br/agsRolp?afid=YSHscwfG",
+      "contexts": [
+        "topics/business/vehicle-buying/metodo-adl.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://pay.kiwify.com.br/agsRolp?afid=YSHscwfG",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Método ADL - Comprando Antes do Leilão",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://pay.kiwify.com.br/B5pE3Ey?afid=cpJ2Ufmh",
+      "contexts": [
+        "topics/entertainment/retro-gaming/gpbox.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://pay.kiwify.com.br/B5pE3Ey?afid=cpJ2Ufmh",
+      "contentType": "text/html; charset=utf-8",
+      "title": "GPBOX - Sistema Multijogos",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://pay.kiwify.com.br/CqH4vCT?afid=qvV4fwLb",
+      "contexts": [
+        "topics/business/accessories-business/vivendo-de-acessorios.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://pay.kiwify.com.br/CqH4vCT?afid=qvV4fwLb",
+      "contentType": "text/html; charset=utf-8",
+      "title": "VIVENDO DE ACESSÓRIOS",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://pay.kiwify.com.br/CVGGqrZ?afid=zprVreMy",
+      "contexts": [
+        "topics/education/language-learning/hackeando-a-fluencia.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://pay.kiwify.com.br/CVGGqrZ?afid=zprVreMy",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Hackeando A Fluência",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://pay.kiwify.com.br/picIlP0?afid=jV6Yvef9",
+      "contexts": [
+        "topics/education/technical-training/consertaflix.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://pay.kiwify.com.br/picIlP0?afid=jV6Yvef9",
+      "contentType": "text/html; charset=utf-8",
+      "title": "ConsertaFLIX",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://pay.kiwify.com.br/PmnkmJE?afid=yYOA0xa0",
+      "contexts": [
+        "topics/business/finance-ai/ia-para-financas.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://pay.kiwify.com.br/PmnkmJE?afid=yYOA0xa0",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Inteligência Artificial aplicada a Finanças",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://pay.kiwify.com/jyN1ejJ?afid=cpJ2Ufmh",
+      "contexts": [
+        "topics/entertainment/retro-gaming/gpbox.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://pay.kiwify.com/jyN1ejJ?afid=cpJ2Ufmh",
+      "contentType": "text/html; charset=utf-8",
+      "title": "GPBOX - Sistema Multijogos",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://primeperformpro.com/principal/",
+      "contexts": [
+        "catalog:9",
+        "topics/wellness/mens-health/prime-perform-pro.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://primeperformpro.com/principal/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Digistore – Prime Perform – ES – Principal – primeperformpro.com",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://primeperformpro.com/welcome/",
+      "contexts": [
+        "topics/wellness/mens-health/prime-perform-pro.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://primeperformpro.com/welcome/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Digistore – Prime Perform – EN – Principal – primeperformpro.com",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://remixable.net/join/",
+      "contexts": [
+        "topics/business/digital-skills/remixable-founder.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://remixable.net/join/",
+      "contentType": "text/html",
+      "title": "Remixable",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://remixable.net/join/disclaimer-terms.html",
+      "contexts": [
+        "topics/business/digital-skills/remixable-founder.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://remixable.net/join/disclaimer-terms.html",
+      "contentType": "text/html",
+      "title": "Terms of service",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://salesforgepro-affiliates.netlify.app/",
+      "contexts": [
+        "topics/business/marketing-tools/salesforge-pro.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://salesforgepro-affiliates.netlify.app/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "SalesForge Pro Affiliate Program — 60% Commission",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://salesforgepro.netlify.app/",
+      "contexts": [
+        "catalog:73",
+        "topics/business/marketing-tools/salesforge-pro.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://salesforgepro.netlify.app/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "SalesForge Pro — Build Sales Pages Without Monthly Fees",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://schule-fuer-ayurveda.de/ayurveda-komplett-ausbildung/",
+      "contexts": [
+        "topics/education/holistic-learning/ayurveda-komplett-ausbildung.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://schule-fuer-ayurveda.de/ayurveda-komplett-ausbildung/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Komplett-Schulung - Schule für Ayurveda",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://shikaku-life.jp/article-toeic-800.html",
+      "contexts": [
+        "topics/education/language-learning/hackeando-a-fluencia.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://shikaku-life.jp/article-toeic-800.html",
+      "contentType": "text/html; charset=utf-8",
+      "title": "TOEIC 600→800、半年で伸ばした朝活ルーティン｜資格Life",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://smm.hochpreisaffiliate.com/",
+      "contexts": [
+        "topics/business/creative-learning/social-media-masterclass.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://smm.hochpreisaffiliate.com/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Social Media Masterclass – KI-Content, der Umsatz bringt",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://spanishslowandeasy.com/ds24/",
+      "contexts": [
+        "topics/education/language-learning/spanish-slow-and-easy.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://spanishslowandeasy.com/ds24/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Finally Learn Spanish Course - Spanish Slow and Easy",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://supp-up.blog/affiliate-resources-ds24/",
+      "contexts": [
+        "topics/education/fitness-learning/supp-up-travel-system.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://supp-up.blog/affiliate-resources-ds24/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Affiliate Resources – SUPP UP.",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://supp-up.com/ds24-complete-travel-system",
+      "contexts": [
+        "topics/education/fitness-learning/supp-up-travel-system.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://supp-up.com/ds24-complete-travel-system",
+      "contentType": "text/html;charset=utf-8",
+      "title": "Complete Travel System DS24 — SUPP UP.The SUPP UP. Complete Travel System | Field Guides",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://supp-up.com/legal-stuff",
+      "contexts": [
+        "topics/education/fitness-learning/supp-up-travel-system.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://supp-up.com/legal-stuff",
+      "contentType": "text/html;charset=utf-8",
+      "title": "Legal Stuff — SUPP UP.",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://support.babbel.com/hc/en-gb/articles/205600308-Babbel-subscriptions",
+      "contexts": [
+        "topics/education/language-learning/babbel.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://support.babbel.com/hc/en-gb/articles/205600308-Babbel-subscriptions",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://support.babbel.com/hc/en-gb/articles/205600508-Available-languages",
+      "contexts": [
+        "topics/education/language-learning/babbel.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://support.babbel.com/hc/en-gb/articles/205600508-Available-languages",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://togetr4success.thinkific.com/bundles/togetr4success",
+      "contexts": [
+        "topics/business/family-learning/empowered-parenting.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://togetr4success.thinkific.com/bundles/togetr4success",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Togetr4Success™ (TG4S™ -100) and 10-Week Challenge Workshop",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://togetr4success.thinkific.com/courses/10-week-challenge-workshop-course",
+      "contexts": [
+        "topics/business/family-learning/empowered-parenting.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://togetr4success.thinkific.com/courses/10-week-challenge-workshop-course",
+      "contentType": "text/html; charset=utf-8",
+      "title": "The Power of Parent Involvement in Schools",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://togetr4success.thinkific.com/courses/TG4S-100",
+      "contexts": [
+        "topics/business/family-learning/empowered-parenting.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://togetr4success.thinkific.com/courses/TG4S-100",
+      "contentType": "text/html; charset=utf-8",
+      "title": "\"Discover the Power of Parent Involvement in Education\"",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://togetr4success.thinkific.com/pages/privacy-policy-and-terms-of-use",
+      "contexts": [
+        "topics/business/family-learning/empowered-parenting.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://togetr4success.thinkific.com/pages/privacy-policy-and-terms-of-use",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Privacy policy and terms of use",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://togetr4success.thinkific.com/pages/refund-policy",
+      "contexts": [
+        "topics/business/family-learning/empowered-parenting.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://togetr4success.thinkific.com/pages/refund-policy",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Refund Policy",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://unsplash.com/photos/man-soldering-wires-rP30_20fDpw",
+      "contexts": [
+        "topics/education/technical-training/consertaflix.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://unsplash.com/photos/man-soldering-wires-rP30_20fDpw",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Man soldering wires - Free Photo on UnsplashUnsplash Home",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://viddeos.ai/start/",
+      "contexts": [
+        "catalog:65",
+        "topics/business/marketing-tools/traffic-genius.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://viddeos.ai/start/",
+      "contentType": "text/html",
+      "title": "The Traffic Genius System | Special ONE-TIME Deal!",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://viddeos.ai/terms-of-service/",
+      "contexts": [
+        "topics/business/marketing-tools/ultimate-viddeos-ai.html",
+        "topics/business/marketing-tools/traffic-genius.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://viddeos.ai/terms-of-service/",
+      "contentType": "text/html",
+      "title": "Viddeos AI | Terms of Service",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://viddeos.ai/yes/",
+      "contexts": [
+        "catalog:68",
+        "topics/business/marketing-tools/ultimate-viddeos-ai.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://viddeos.ai/yes/",
+      "contentType": "text/html",
+      "title": "The Ultimate Viddeos AI System | \"V-VIP\" Special Deal!",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/Collagen/Collagen-Plus/HD.htm",
+      "contexts": [
+        "topics/wellness/longevity/collagen.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.advancedbionutritionals.com/Collagen/Collagen-Plus/HD.htm",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Attention Required! | Cloudflare",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm",
+      "contexts": [
+        "topics/wellness/longevity/advanced-amino-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "It Feels Like My Muscles Are Waking Up and Working",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/SL-V1.htm",
+      "contexts": [
+        "catalog:48",
+        "topics/wellness/longevity/advanced-amino-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/SL-V1.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "The Real Reason You're Losing Muscle Mass as You Age and How to Stop It and Even Reverse It",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Advanced-Joint/Beat-Joint-Pain-With-Cucumbers.htm",
+      "contexts": [
+        "topics/wellness/joint-health/advanced-joint-support.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Joint/Beat-Joint-Pain-With-Cucumbers.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Beat Joint Pain with CUCUMBERS?",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm",
+      "contexts": [
+        "catalog:1",
+        "topics/wellness/brain-health/advanced-memory-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Nobel-Prize-Winning Breakthroughs That Work Together to Make Memory Problems a Thing of the Past",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm",
+      "contexts": [
+        "catalog:50",
+        "topics/wellness/longevity/advanced-mitochondrial-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "You’ve Made It. But Are You Too Tired To Enjoy It?",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Advanced-Muscle-Plus/Strange-Muscle-Building-Secret/HD.htm",
+      "contexts": [
+        "topics/wellness/nutrition/advanced-muscle-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Muscle-Plus/Strange-Muscle-Building-Secret/HD.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "The Last Time I saw Gains Like This Was In High School",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Advanced-Prostate-Formula/Prostate-Enemy.htm",
+      "contexts": [
+        "topics/wellness/mens-health/advanced-prostate-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Prostate-Formula/Prostate-Enemy.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Prostate Enemy #1: Hint: It’s not testosterone, estrogen, or DHT.",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Advanced-Vision/Tired-Eyes-And-Fatigue/HD.htm",
+      "contexts": [
+        "topics/wellness/vision-health/advanced-vision-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Advanced-Vision/Tired-Eyes-And-Fatigue/HD.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Tired Eyes & Fatigue Caused By Eyestrain?",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/BrainAMP/Brain-Just-Switched-On/HD.htm",
+      "contexts": [
+        "topics/wellness/brain-health/brainamp.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/BrainAMP/Brain-Just-Switched-On/HD.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Feels Like My Brain Just Switched On and It's Firing On All Cylinders",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Collagen/This-Simple-10-Second-Kitchen-Test/HD.htm",
+      "contexts": [
+        "catalog:13",
+        "topics/wellness/longevity/collagen.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Collagen/This-Simple-10-Second-Kitchen-Test/HD.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Experience The Advanced Collagen Plus Difference",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Curcumitol-Q/Stronger-Than-Regular-Curcumin/SL-V1.htm",
+      "contexts": [
+        "topics/wellness/nutrition/curcumitol-q.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Curcumitol-Q/Stronger-Than-Regular-Curcumin/SL-V1.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "59 Times Stronger Than Regular Curcumin",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/GLP-1-Plus/The-Rest-Of-Us/HD.htm",
+      "contexts": [
+        "topics/wellness/metabolic-health/glp-1-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/GLP-1-Plus/The-Rest-Of-Us/HD.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "GLP-1 For The Rest of Us",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Integrative-Digestive-Formula/Surprising-Digestion-Secret.htm",
+      "contexts": [
+        "topics/wellness/gut-health/integrative-digestive-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Integrative-Digestive-Formula/Surprising-Digestion-Secret.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Why You Can Take All The Probiotics, Enzymes, and Antacids You Want, and Still Not Fix Your Digestive Problems",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Nitric-Oxide-Supplements/Superhuman-At-70/HD.htm",
+      "contexts": [
+        "catalog:49",
+        "topics/wellness/longevity/circo2.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Nitric-Oxide-Supplements/Superhuman-At-70/HD.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Nitric Oxide Levels Jump 200% Higher In Just 20 Minutes",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm",
+      "contexts": [
+        "topics/wellness/nutrition/pep-tonic.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm",
+      "contentType": "text/html; charset=utf-8",
+      "title": "My Energy Is Back and I Feel Like A New Man",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/Memory-Supplements/Advanced-Memory-Formula.htm",
+      "contexts": [
+        "topics/wellness/brain-health/advanced-memory-formula.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.advancedbionutritionals.com/Memory-Supplements/Advanced-Memory-Formula.htm",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Attention Required! | Cloudflare",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.airalo.com/",
+      "contexts": [
+        "catalog:31",
+        "topics/travel/connectivity/airalo.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.airalo.com/",
+      "contentType": "text/html;charset=utf-8",
+      "title": "Buy eSIMs for international travel - Airalo | Airalo",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.airalo.com/how-airalo-works",
+      "contexts": [
+        "topics/travel/connectivity/airalo.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.airalo.com/how-airalo-works",
+      "contentType": "text/html;charset=utf-8",
+      "title": "Learn with Airalo | How Airalo works",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.aivataracademy.com/",
+      "contexts": [
+        "topics/business/course/advanced-program.html"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.aivataracademy.com/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Vercel Security Checkpoint",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.aivataracademy.com/partnerprogramm/",
+      "contexts": [
+        "topics/business/course/advanced-program.html"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.aivataracademy.com/partnerprogramm/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Vercel Security Checkpoint",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.aviasales.com",
+      "contexts": [
+        "catalog:3"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.aviasales.com/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Cheap Flights, Airline Tickets & Airfares - Find Deals on Flights at Aviasales.com",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.babbel.com/",
+      "contexts": [
+        "catalog:30",
+        "topics/education/language-learning/babbel.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.babbel.com/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Learn a Language Online - Fast & Effective | Babbel",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.booking.com/searchresults.html?ss=Cancun",
+      "contexts": [
+        "catalog:4"
+      ],
+      "status": 202,
+      "finalUrl": "https://www.booking.com/searchresults.html?ss=Cancun",
+      "contentType": "text/html; charset=utf-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.booking.com/searchresults.html?ss=Dubai",
+      "contexts": [
+        "catalog:7"
+      ],
+      "status": 202,
+      "finalUrl": "https://www.booking.com/searchresults.html?ss=Dubai",
+      "contentType": "text/html",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.booking.com/searchresults.html?ss=Lisbon",
+      "contexts": [
+        "catalog:5"
+      ],
+      "status": 202,
+      "finalUrl": "https://www.booking.com/searchresults.html?ss=Lisbon",
+      "contentType": "text/html",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.booking.com/searchresults.html?ss=Prague",
+      "contexts": [
+        "catalog:8"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.booking.com/searchresults.html?ss=Prague",
+      "contentType": "text/html;charset=utf-8",
+      "title": "Booking.com: Search results: Prague. Book your hotel now!",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.booking.com/searchresults.html?ss=Rome",
+      "contexts": [
+        "catalog:6"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.booking.com/searchresults.html?ss=Rome",
+      "contentType": "text/html;charset=utf-8",
+      "title": "Booking.com: Search results: Rome. Book your hotel now!",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.canva.com/pro/",
+      "contexts": [
+        "catalog:26",
+        "topics/business/design-tools/canva-pro.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.canva.com/pro/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Canva",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/175711/",
+      "contexts": [
+        "topics/business/productivity/excel-paket.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/175711/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Excel Paket | Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/538695",
+      "contexts": [
+        "topics/wellness/longevity/circo2.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/538695",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/576635",
+      "contexts": [
+        "topics/wellness/longevity/advanced-mitochondrial-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/576635",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/580377?aff=gabrielhenriquep123f97e",
+      "contexts": [
+        "catalog:61",
+        "topics/wellness/nutrition/curcumitol-q.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/580377?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/599549?aff=gabrielhenriquep123f97e",
+      "contexts": [
+        "catalog:62",
+        "topics/wellness/gut-health/integrative-digestive-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/599549?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/603765?aff=gabrielhenriquep123f97e",
+      "contexts": [
+        "topics/wellness/joint-health/advanced-joint-support.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/603765?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/606700?aff=gabrielhenriquep123f97e",
+      "contexts": [
+        "topics/wellness/mens-health/advanced-prostate-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/606700?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/623256?aff=gabrielhenriquep123f97e",
+      "contexts": [
+        "catalog:60",
+        "topics/wellness/nutrition/pep-tonic.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/623256?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/627162?aff=gabrielhenriquep123f97e",
+      "contexts": [
+        "topics/wellness/nutrition/advanced-muscle-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/627162?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/627406?aff=gabrielhenriquep123f97e",
+      "contexts": [
+        "catalog:63",
+        "topics/wellness/metabolic-health/glp-1-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/627406?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/630381?aff=gabrielhenriquep123f97e",
+      "contexts": [
+        "catalog:58",
+        "topics/wellness/brain-health/brainamp.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/630381?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/630842?aff=gabrielhenriquep123f97e",
+      "contexts": [
+        "catalog:59",
+        "topics/wellness/vision-health/advanced-vision-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/630842?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/725241",
+      "contexts": [
+        "topics/education/language-learning/pacote-4-guias-idiomas.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/725241",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/product/98201?plan=2",
+      "contexts": [
+        "topics/business/marketing-tools/funnelcockpit-standard.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/98201?plan=2",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/redir/175711/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:46",
+        "topics/business/productivity/excel-paket.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hanseatic-business-school.com/excel-box/excel-paket?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Excel Paket - Hanseatic Business School",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/redir/553720/gabrielhenriquep123f97e",
+      "contexts": [
+        "catalog:25",
+        "topics/travel/points-and-miles/elite-travelhacking-basix.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://elitetravelhacking.de/basix/?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Elitetravelhacking BASIX - Elite Travelhacking",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.checkout-ds24.com/redir/725241/gabrielhenriquep123f97e",
+      "contexts": [
+        "catalog:24",
+        "topics/education/language-learning/pacote-4-guias-idiomas.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.checkout-ds24.com/product/725241?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.civitatis.com/en/",
+      "contexts": [
+        "catalog:34",
+        "topics/travel/experiences/civitatis.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.civitatis.com/en/",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "Civitatis – Guided Tours & Experiences around the World",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.coachy.net/a/gabrielhenriquep123f97e",
+      "contexts": [
+        "catalog:57",
+        "topics/business/digital-skills/coachy-premium.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://coachy.net/de/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Kurs- und Lernplattform für Coaches und Unternehmen | Coachy",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.coursera.org/courseraplus",
+      "contexts": [
+        "catalog:29",
+        "topics/business/professional-learning/coursera-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.coursera.org/courseraplus",
+      "contentType": "text/html",
+      "title": "Coursera Plus | Unlimited Access to 10,000+ Online Courses",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/content/646880/36202/gabrielhenriquep123f97e",
+      "contexts": [
+        "catalog:47",
+        "topics/business/creative-learning/social-media-masterclass.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://smm.hochpreisaffiliate.com/?aff=gabrielhenriquep123f97e&ds24_domain=www.digistore24.com",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Social Media Masterclass – KI-Content, der Umsatz bringt",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/192091",
+      "contexts": [
+        "topics/education/technical-training/et-akademie-dozenten-paket.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/192091",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/271198",
+      "contexts": [
+        "catalog:42",
+        "topics/education/technical-training/raspberry-pi-for-beginners.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/271198",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Raspberry Pi for Beginners (Mac+PC) | Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/276887",
+      "contexts": [
+        "topics/education/pet-learning/herdenschutzhund-kurs.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/276887",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Du und Dein Herdenschutzhund-glücklich miteinander verbunden | Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/29447",
+      "contexts": [
+        "catalog:45",
+        "topics/education/music-learning/boogie-woogie-piano-course-prerequisites.html",
+        "topics/education/music-learning/piano-boogie-woogie.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/29447",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Piano Boogie Woogie für Anfänger | Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/300560",
+      "contexts": [
+        "catalog:40",
+        "topics/business/professional-learning/key-account-management-training.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/300560",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Key Account Management online training | Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/349934",
+      "contexts": [
+        "catalog:41",
+        "topics/business/professional-learning/sap-ewm-supercharged.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/349934",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "SAP EWM Supercharged | Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/369670",
+      "contexts": [
+        "topics/education/holistic-learning/ayurveda-komplett-ausbildung.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/369670",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/384522",
+      "contexts": [
+        "catalog:39",
+        "topics/business/creative-learning/prejudice-slog3-luts.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/384522",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Prejudice LUT SLOG3 80s Vintage Look | Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/395450",
+      "contexts": [
+        "catalog:44",
+        "topics/education/language-learning/mega-sprachen-reise-englisch.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/395450",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "megaSPRACHEN - \"Reise-Englisch\" | Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/472943",
+      "contexts": [
+        "topics/wellness/longevity/advanced-amino-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/472943",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/475168",
+      "contexts": [
+        "catalog:36",
+        "topics/education/language-learning/mystery-of-nils.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/475168",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/514539",
+      "contexts": [
+        "catalog:38",
+        "topics/business/creative-learning/dennis-schmelz-lightroom-presets.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/514539",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Lightroom Presets by Dennis Schmelz | Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/530008",
+      "contexts": [
+        "topics/education/music-learning/endlich-klavier-spielen.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/530008",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/609748",
+      "contexts": [
+        "catalog:43",
+        "topics/business/professional-learning/leadership-crash-course.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/609748",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Leadership Crash Course | Digistore24",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/646880",
+      "contexts": [
+        "topics/business/creative-learning/social-media-masterclass.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.digistore24.com/product/646880",
+      "contentType": "text/html;charset=UTF-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/product/647431",
+      "contexts": [
+        "catalog:37",
+        "topics/education/language-learning/spanish-slow-and-easy.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.digistore24.com/product/647431",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Error",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.digistore24.com/redir/276887/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:54",
+        "topics/education/pet-learning/herdenschutzhund-kurs.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Du und dein Herdenschutzhund",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/redir/338690/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:71",
+        "topics/education/fitness-learning/supp-up-travel-system.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://supp-up.com/ds24-complete-travel-system?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html;charset=utf-8",
+      "title": "Complete Travel System DS24 — SUPP UP.The SUPP UP. Complete Travel System | Field Guides",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/redir/369670/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:55",
+        "topics/education/holistic-learning/ayurveda-komplett-ausbildung.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://schule-fuer-ayurveda.de/ayurveda-komplett-ausbildung/?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html; charset=UTF-8",
+      "state": "unconfirmed",
+      "error": "TimeoutError"
+    },
+    {
+      "url": "https://www.digistore24.com/redir/456090/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:72",
+        "topics/business/productivity/expertslides-powerpoint.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://expertslides.com/expertslides-digistore24/?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "ExpertSlides Digistore24 - ExpertSlides",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/redir/467549/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:66",
+        "topics/business/digital-skills/remixable-founder.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://remixable.net/join/?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html",
+      "title": "Remixable",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/redir/530008/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:51",
+        "topics/education/music-learning/endlich-klavier-spielen.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://klavier-kurs.de/endlich-klavier-spielen-onlinekurs/?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "ENDLICH KLAVIER SPIELEN Onlinekurs",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/redir/530683/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:69",
+        "topics/business/family-learning/empowered-parenting.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://togetr4success.thinkific.com/bundles/togetr4success?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Togetr4Success™ (TG4S™ -100) and 10-Week Challenge Workshop",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/redir/626900/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:17",
+        "topics/business/course/business-program.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.thomasyoung.online/love?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Masterclass Thomas Young",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/redir/628355/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:18",
+        "topics/business/course/advanced-program.html"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.aivataracademy.com/?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Vercel Security Checkpoint",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.digistore24.com/redir/676823/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:74",
+        "topics/business/marketing-tools/fastseohub-elite.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://fastseohub.com/digistore24?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html; charset=utf-8",
+      "title": "FastSEOHub | SEO, AEO & GEO Intelligence",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.digistore24.com/redir/98201/gabrielhenriquep123f97e/",
+      "contexts": [
+        "catalog:53",
+        "topics/business/marketing-tools/funnelcockpit-standard.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://funnelcockpit.com/?aff=gabrielhenriquep123f97e",
+      "contentType": "text/html; charset=utf-8",
+      "title": "FunnelCockpit – Webseiten, Funnels & Marketing mit KIMobile Funnel in FunnelCockpit-FarbenFunnelCockpit: alles in einem System",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.domestika.org/en/plus",
+      "contexts": [
+        "catalog:28",
+        "topics/business/creative-learning/domestika-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.domestika.org/en/plus",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Domestika Plus — Unlimited Online Creative Courses Subscription | Domestika",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.getyourguide.com/",
+      "contexts": [
+        "catalog:33",
+        "topics/travel/experiences/getyourguide.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.getyourguide.com/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "GetYourGuide – Error",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/food-supplements-guidance-for-consumers/food-supplements-guidance",
+      "contexts": [
+        "topics/wellness/nutrition/advanced-muscle-plus.html",
+        "topics/wellness/joint-health/advanced-joint-support.html",
+        "topics/wellness/metabolic-health/glp-1-plus.html",
+        "topics/wellness/gut-health/integrative-digestive-formula.html",
+        "topics/wellness/nutrition/curcumitol-q.html",
+        "topics/wellness/nutrition/pep-tonic.html",
+        "topics/wellness/vision-health/advanced-vision-formula.html",
+        "topics/wellness/brain-health/brainamp.html",
+        "topics/wellness/longevity/advanced-mitochondrial-formula.html",
+        "topics/wellness/longevity/circo2.html",
+        "topics/wellness/longevity/advanced-amino-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gov.uk/government/publications/food-supplements-guidance-for-consumers/food-supplements-guidance",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Food supplements guidance - GOV.UKGOV.UK",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.hanseatic-business-school.com/excel-box/excel-paket/",
+      "contexts": [
+        "topics/business/productivity/excel-paket.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hanseatic-business-school.com/excel-box/excel-paket/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Excel Paket - Hanseatic Business School",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.hanseatic-business-school.com/excel-box/excel-tools-im-paket/",
+      "contexts": [
+        "topics/business/productivity/excel-paket.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hanseatic-business-school.com/excel-box/excel-tools-im-paket/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Übersicht der Excel Tools im Paket - Hanseatic Business School",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund",
+      "contexts": [
+        "topics/education/pet-learning/herdenschutzhund-kurs.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Du und dein Herdenschutzhund",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+      "contexts": [
+        "topics/education/holistic-learning/ayurveda-komplett-ausbildung.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+      "contentType": "text/html",
+      "title": "Ayurvedic Medicine: In Depth | NCCIH",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.nccih.nih.gov/health/saw-palmetto",
+      "contexts": [
+        "topics/wellness/mens-health/advanced-prostate-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nccih.nih.gov/health/saw-palmetto",
+      "contentType": "text/html",
+      "title": "Saw Palmetto: Usefulness and Safety | NCCIH",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/prostatitis/",
+      "contexts": [
+        "topics/wellness/mens-health/advanced-prostate-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/conditions/prostatitis/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Prostatitis\n - NHSNHS",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+      "contexts": [
+        "topics/wellness/nutrition/advanced-muscle-plus.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Vitamin D\n - NHSNHS",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.nhs.uk/symptoms/blood-in-urine/",
+      "contexts": [
+        "topics/wellness/mens-health/advanced-prostate-formula.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/symptoms/blood-in-urine/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Blood in urine\n - NHSNHS",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.omio.com/",
+      "contexts": [
+        "catalog:35",
+        "topics/travel/transport/omio.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.omio.com/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.pexels.com/photo/a-laptop-showing-graphs-7109316/",
+      "contexts": [
+        "topics/business/finance-ai/ia-para-financas.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.pexels.com/photo/a-laptop-showing-graphs-7109316/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.pexels.com/photo/a-man-holding-a-light-checking-under-a-vehicle-7019600/",
+      "contexts": [
+        "topics/business/vehicle-buying/metodo-adl.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.pexels.com/photo/a-man-holding-a-light-checking-under-a-vehicle-7019600/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.pexels.com/photo/a-person-repairing-a-smartphone-6754839/",
+      "contexts": [
+        "topics/education/technical-training/consertaflix.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.pexels.com/photo/a-person-repairing-a-smartphone-6754839/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.pexels.com/photo/bench-hands-people-creative-6262833/",
+      "contexts": [
+        "topics/business/accessories-business/vivendo-de-acessorios.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.pexels.com/photo/bench-hands-people-creative-6262833/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.pexels.com/photo/focused-professional-man-using-laptop-7567529/",
+      "contexts": [
+        "topics/business/finance-ai/ia-para-financas.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.pexels.com/photo/focused-professional-man-using-laptop-7567529/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.pexels.com/photo/jewelry-on-display-in-a-store-8681007/",
+      "contexts": [
+        "topics/business/accessories-business/vivendo-de-acessorios.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.pexels.com/photo/jewelry-on-display-in-a-store-8681007/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.pexels.com/photo/person-holding-a-game-controller-7856689/",
+      "contexts": [
+        "topics/entertainment/retro-gaming/gpbox.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.pexels.com/photo/person-holding-a-game-controller-7856689/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.pexels.com/photo/player-playing-pc-game-with-game-pad-19012029/",
+      "contexts": [
+        "topics/entertainment/retro-gaming/gpbox.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.pexels.com/photo/player-playing-pc-game-with-game-pad-19012029/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.pexels.com/photo/row-of-parked-cars-at-a-dealership-lot-28928971/",
+      "contexts": [
+        "topics/business/vehicle-buying/metodo-adl.html"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.pexels.com/photo/row-of-parked-cars-at-a-dealership-lot-28928971/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "needsBrowser": false,
+      "state": "blocked"
+    },
+    {
+      "url": "https://www.skillshare.com/en/",
+      "contexts": [
+        "catalog:27",
+        "topics/business/creative-learning/skillshare.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.skillshare.com/en/",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Online Classes for Creatives | Skillshare",
+      "needsBrowser": false,
+      "state": "reachable"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6fzwuyr75N8",
+      "contexts": [
+        "topics/entertainment/retro-gaming/gpbox.html"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=6fzwuyr75N8",
+      "contentType": "text/html; charset=utf-8",
+      "title": "",
+      "needsBrowser": true,
+      "state": "reachable"
+    }
+  ],
+  "browserChecks": [
+    {
+      "url": "https://www.digistore24.com/redir/628355/gabrielhenriquep123f97e/",
+      "state": "reachable-in-browser",
+      "destination": "https://www.aivataracademy.com/?aff=gabrielhenriquep123f97e",
+      "note": "German free webinar landing page opened; no registration or paid-membership access tested."
+    },
+    {
+      "url": "https://www.aivataracademy.com/",
+      "state": "reachable-in-browser",
+      "note": "Confirmed by the affiliate redirect destination; partnership page not inspected."
+    },
+    {
+      "url": "https://business-kickstart.de/ki-training-1/",
+      "state": "reachable-in-browser",
+      "note": "German free training page opened. No registration or earnings result verified."
+    },
+    {
+      "url": "https://go.eugen-grinschuk.de/hook-mastery/",
+      "state": "reachable-in-browser",
+      "note": "German course page opened; its earnings and conversion claims remain seller claims."
+    },
+    {
+      "url": "https://go.eugen-grinschuk.de/hook-mastery/#aff=gabrielhenriquep123f97e",
+      "state": "checkout-attribution-visible",
+      "note": "Followed supplier purchase button to product 595134 Hook Mastery. Displayed total EUR27, optional EUR19 and EUR37 additions; footer displayed intended affiliate identifier. No purchase, add-on selection, terms acceptance or partnership/commission-account check."
+    },
+    {
+      "url": "https://www.canva.com/pro/",
+      "state": "reachable-in-browser",
+      "note": "Official Canva Pro feature and subscription page opened; no trial activated."
+    },
+    {
+      "url": "https://www.omio.com/",
+      "state": "reachable-in-browser",
+      "note": "Official travel comparison interface opened."
+    },
+    {
+      "url": "https://www.getyourguide.com/",
+      "state": "security-check-unresolved",
+      "note": "Cloudflare security verification displayed; not completed or bypassed."
+    },
+    {
+      "url": "https://www.advancedbionutritionals.com/Memory-Supplements/Advanced-Memory-Formula.htm",
+      "state": "browser-timeout",
+      "note": "Navigation timed out; availability remains unconfirmed for this source URL. Existing affiliate sales-page path responded in HTTP audit."
+    }
+  ]
+}

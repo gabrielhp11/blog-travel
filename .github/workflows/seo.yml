@@ -11,5 +11,6 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run seo:check
+      - run: npm run posts:test
       - run: npm run seo:build
       - run: git diff --exit-code

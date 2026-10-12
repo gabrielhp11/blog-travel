@@ -22,15 +22,20 @@ for (const file of ['index.html', 'affiliate-disclosure.html', ...hubs.map(h=>h.
 // Exercise the actual filter script against generated cards, including markets
 // such as "English-speaking European audience" that the previous exact check missed.
 const home = cheerio.load(fs.readFileSync('index.html','utf8'));
-const cards = home('#blog-grid .blog-post').toArray().map(element => ({dataset: {...home(element).data()}, hidden: false}));
+const cards = home('#blog-grid .blog-post').toArray().map(element => ({dataset: {...home(element).data()}, hidden: false, textContent: home(element).text()}));
 // Browser dataset values are strings; cheerio converts booleans automatically.
 cards.forEach(card => Object.keys(card.dataset).forEach(key => card.dataset[key] = String(card.dataset[key])));
 const handlers = {};
-const buttons = ['all','europe','german','uk'].map(filter=>({dataset:{filter},classList:{toggle(){}},setAttribute(){},addEventListener(name, callback){handlers[filter]=callback;}}));
+const buttons = ['all','europe','german','uk','us'].map(filter=>({dataset:{filter},classList:{toggle(){}},setAttribute(){},addEventListener(name, callback){handlers[filter]=callback;}}));
 const count = {textContent:''};
+const searchHandlers={}, languageHandlers={}, resetHandlers={};
+const search={value:'',addEventListener(n,fn){searchHandlers[n]=fn;},focus(){}};
+const language={value:'all',addEventListener(n,fn){languageHandlers[n]=fn;}};
+const reset={addEventListener(n,fn){resetHandlers[n]=fn;}};
+const empty={hidden:true};
 vm.runInNewContext(fs.readFileSync('assets/js/main.js','utf8'), {document:{
   addEventListener(name, callback){callback();},
-  getElementById(id){return id === 'blog-grid' ? {querySelectorAll(){return cards;}} : id === 'guide-count' ? count : null;},
+  getElementById(id){return id === 'blog-grid' ? {querySelectorAll(){return cards;}} : id === 'guide-count' ? count : id === 'guide-search' ? search : id === 'guide-language' ? language : id === 'catalog-reset' ? reset : id === 'catalog-empty' ? empty : null;},
   querySelectorAll(){return buttons;},querySelector(){return {hidden:true};}
 }});
 handlers.europe();
@@ -46,6 +51,19 @@ assert.equal(cards.filter(c=>!c.hidden).length, guides.filter(g=>localeOf(g).sta
 handlers.uk();
 assert.equal(cards.filter(c=>!c.hidden).length, guides.filter(isUkIrelandGuide).length);
 assert.equal(count.textContent, guides.filter(isUkIrelandGuide).length + ' guides');
+handlers.us();
+assert.equal(cards.filter(c=>!c.hidden).length,guides.filter(g=>/united states|\bus\b/i.test(g.market||'')).length);
 handlers.all();assert.equal(cards.filter(c=>!c.hidden).length, guides.length);
 assert.equal(guidesFor(hubs.find(h=>h.key==='europe')).length, english.length + guides.filter(g=>isEuropeanGuide(g) && localeOf(g).startsWith('de')).length);
+search.value='aIrAlO'; searchHandlers.input();
+assert.equal(cards.filter(c=>!c.hidden).length,1);
+assert.ok(cards.find(c=>!c.hidden).textContent.includes('Airalo'));
+language.value='de'; languageHandlers.change();
+assert.equal(cards.filter(c=>!c.hidden).length,0);
+assert.equal(empty.hidden,false);
+resetHandlers.click(); assert.equal(cards.filter(c=>!c.hidden).length,guides.length);
+search.value='fluencia'; language.value='pt'; searchHandlers.input();
+assert.ok(cards.filter(c=>!c.hidden).some(c=>c.textContent.includes('Fluência')));
+assert.ok(cards.every(c=>c.hidden||c.dataset.locale.startsWith('pt')));
+resetHandlers.click();
 console.log(`Europe and performance checks passed: ${english.length} English Europe guides; local fonts verified; actual filters exercised.`);

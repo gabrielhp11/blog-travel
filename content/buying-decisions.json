@@ -1,0 +1,46 @@
+{
+  "topics/education/language-learning/babbel.html": {
+    "heading": "Match the subscription to one real conversation",
+    "intro": "These are editorial planning scenarios, not promised learning results. Write down a situation, your base language and your starting level before comparing a subscription.",
+    "columns": ["Your goal", "What to compare", "When to pause"],
+    "rows": [
+      ["Use everyday phrases on a trip", "Check that the target language is available from your base language. Choose lessons for the situations you expect and allow time for revision.", "Do not pay for a long plan solely because the headline monthly equivalent looks low. Compare the full billed amount with your travel date."],
+      ["Continue beyond beginner lessons", "Check the actual course levels and sample content for your language pair, rather than assuming every language has the same depth.", "Pause if the level you need is not clearly included in the selected subscription."],
+      ["Build speaking confidence", "Use app exercises as one part of a routine that also includes listening and real conversation where possible.", "Do not treat an app subscription as a guarantee of fluency or assume live tuition is included."]
+    ],
+    "next": "Before opening the offer, note your language pair, level, purchasing channel, total charge and renewal date. Keep those five checks beside the plan comparison."
+  },
+  "topics/business/productivity/expertslides-powerpoint.html": {
+    "heading": "Decide whether you need this add-in or a different workflow",
+    "intro": "Start with a deck you already create. The useful comparison is whether the advertised workflow fits your software, permission and licence requirements.",
+    "columns": ["Your situation", "What to compare", "When to pause"],
+    "rows": [
+      ["You regularly build decks in PowerPoint", "Compare the supplier’s sample layouts with one agenda, chart or timeline you need. Confirm the add-in works with your version and operating system.", "Pause if you need a different presentation application or your organisation does not permit the add-in."],
+      ["You create presentations for clients", "Ask which plan permits your exact client use. The public commercial-use wording and current Pro/Premium terms differ, as explained below.", "Do not assume that buying Pro permits redistribution or resale of the supplied assets."],
+      ["You are comparing a trial with the annual plan", "Write down the trial end, full annual total, renewal rule and cancellation deadline. Compare the monthly option separately.", "Do not read an annual plan’s monthly equivalent as a monthly billing commitment, or assume prepaid months are refundable."]
+    ],
+    "next": "Ask the supplier to identify the exact add-in or AI platform, included features and licence in writing before depending on an ambiguous order description."
+  },
+  "topics/business/professional-learning/chargeback-prevention-masterclass.html": {
+    "heading": "Compare the training with the records you already keep",
+    "intro": "This comparison helps you assess an educational purchase. It does not determine how a real dispute should be handled or replace your payment provider’s current instructions.",
+    "columns": ["Your situation", "What to compare", "When to pause"],
+    "rows": [
+      ["You want a structured documentation routine", "Compare the advertised module outline and worksheets with gaps in your current order records, policies and communication process.", "Pause if you cannot identify which part of the syllabus adds value beyond the resources you already use."],
+      ["You need somebody to manage an active dispute", "The supplier describes training and planning tools. Ask what support is included; the course does not manage disputes for you.", "Do not choose the package on an expectation of representation or guaranteed dispute outcomes."],
+      ["Several staff members would use the file", "Check the single-user or licensed-business terms, permitted internal use, device compatibility and backup process.", "Pause if sharing permissions, updates or access duration are unresolved. We have not tested the file or its local-storage claims."]
+    ],
+    "next": "List the module you need, intended users, device, backup requirements and access questions before comparing the full checkout commitment below."
+  },
+  "topics/business/creative-learning/social-media-masterclass.html": {
+    "heading": "Vom Lernziel zur Kaufentscheidung",
+    "intro": "Diese redaktionellen Planungsszenarien helfen beim Vergleich. Sie sind keine Zusicherung von Reichweite, Kunden oder Einnahmen.",
+    "columns": ["Ihr Ausgangspunkt", "Was Sie vergleichen sollten", "Wann Sie warten sollten"],
+    "rows": [
+      ["Sie möchten Ihren ersten Content-Workflow aufbauen", "Wählen Sie einen Kanal und ein eigenes Angebot. Vergleichen Sie die neun beschriebenen Module mit den konkreten Aufgaben, die Ihnen noch fehlen.", "Kaufen Sie nicht allein wegen einer Einnahmenserwartung. Planen Sie Zeit für Lernen, Überarbeiten und Veröffentlichen ein."],
+      ["Sie können bereits gestalten, brauchen aber Planung", "Prüfen Sie die Inhalte zu Veröffentlichungsplanung, Profilen und Handlungsaufforderungen. Fragen Sie, wie tief die für Sie relevanten Themen behandelt werden.", "Warten Sie, wenn die Übersicht Ihr konkretes Problem nicht erklärt oder überwiegend bereits bekannte Grundlagen nennt."],
+      ["Sie vergleichen Ihr Gesamtbudget", "Trennen Sie den Kurspreis von möglichen KI-, Design- und Planungsabonnements. Fragen Sie nach den aktuell eingesetzten Werkzeugen und Nutzungsgrenzen.", "Gehen Sie nicht davon aus, dass alle Softwarekosten, Launch-Boni oder eine bestimmte Zugangsdauer im Kurs enthalten sind."]
+    ],
+    "next": "Notieren Sie vor dem Checkout Ihr Lernziel, die benötigten Module, Ihr Werkzeugbudget und offene Fragen zu Zugang und Kaufbedingungen."
+  }
+}
