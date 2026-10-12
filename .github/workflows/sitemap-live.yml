@@ -1,0 +1,29 @@
+name: Published sitemap validation
+on:
+  workflow_dispatch:
+  deployment_status:
+permissions:
+  contents: read
+concurrency:
+  group: sitemap-live
+  cancel-in-progress: false
+jobs:
+  validate:
+    if: github.event_name == 'workflow_dispatch' || github.event.deployment_status.state == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run seo:live -- sitemap-live.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: sitemap-live
+          path: sitemap-live.json

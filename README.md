@@ -44,6 +44,10 @@ The public catalog is maintained in `assets/js/articles.js`. Pages with unverifi
 
 ## SEO maintenance
 
+Run `npm run seo:live` after deployment to check the live sitemap and every listed URL: direct HTTP 200, HTML, matching canonical, static content, robots.txt and indexing restrictions in meta tags/HTTP headers. Pass a report path with `npm run seo:live -- report.json`. The check fails when the deployed sitemap differs from the checkout or a listed page fails a technical requirement. It does not report Google index status or guarantee indexing.
+
+`Published sitemap validation` runs when GitHub receives a successful deployment status and can also be started manually. It checks the production site against `main` and retains a JSON artifact. Execution depends on GitHub Actions being enabled and the deployment provider emitting the event. It never submits repeated indexing requests or publishes drafts.
+
 Use filenames ending in `.html` in the catalog and on disk. Public URLs, canonicals, internal links and the sitemap use extensionless paths to match Vercel's `cleanUrls` redirects. Existing `.html` URLs continue to redirect to their clean equivalents.
 
 `npm run seo:build` updates published guide titles and H1s from the catalog, page languages, visible editorial bylines, related links, Article/BreadcrumbList metadata, static catalogs, local font loading and the sitemap. It preserves seller links and existing source-check dates. It does not invent review ratings, author credentials, publication dates, translated alternatives or product results. Keep each guide's catalog title descriptive of its actual content.

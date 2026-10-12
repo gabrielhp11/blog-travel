@@ -1,6 +1,8 @@
 {
   "scripts": {
     "seo:sitemap": "node scripts/generate-sitemap.js",
+    "seo:live": "node scripts/check-live-sitemap.js",
+    "seo:live:test": "node --test scripts/check-live-sitemap.test.js",
     "seo:build": "node scripts/generate-editorial-posts.js && node scripts/generate-planning-guides.js && node scripts/optimize-pages.js && node scripts/generate-catalog.js && node scripts/enhance-buying-experience.js && node scripts/optimize-performance.js && node scripts/generate-sitemap.js",
     "seo:check": "node scripts/validate-seo.js && node scripts/validate-europe-performance.js && node scripts/validate-editorial-posts.js && node scripts/validate-buying-experience.js",
     "posts:next": "node scripts/publish-next-post.js",
