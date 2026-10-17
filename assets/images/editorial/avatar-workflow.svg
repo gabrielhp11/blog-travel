@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Plan, create and review an avatar video</title>
+<desc id="desc">Original editorial illustration of a script, a presenter silhouette and a review checklist. Not an Academy interface or official product artwork.</desc>
+<rect width="960" height="600" rx="24" fill="#f2f3fa"/>
+<g fill="#fff" stroke="#635997" stroke-width="3">
+<rect x="60" y="130" width="240" height="320" rx="20"/>
+<rect x="360" y="130" width="240" height="320" rx="20"/>
+<rect x="660" y="130" width="240" height="320" rx="20"/>
+</g>
+<g fill="none" stroke="#aaa2cc" stroke-width="9" stroke-linecap="round"><path d="M100 220h160m-160 45h140m-140 45h155m-155 45h110"/><path d="M710 220h140m-140 55h140m-140 55h110"/></g>
+<circle cx="480" cy="240" r="50" fill="#d8d2ec"/>
+<path d="M400 380v-30a80 80 0 0 1 160 0v30z" fill="#635997"/>
+<g fill="none" stroke="#8075a8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M315 285h27m-12-12 12 12-12 12M615 285h27m-12-12 12 12-12 12"/></g>
+<g font-family="Arial,sans-serif" text-anchor="middle" fill="#4a426e"><text x="180" y="405" font-size="26">Plan the script</text><text x="480" y="415" font-size="26">Create a draft</text><text x="780" y="405" font-size="26">Review it</text><text x="480" y="520" font-size="18">Editorial illustration · not a product interface</text></g>
+</svg>

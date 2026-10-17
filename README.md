@@ -29,6 +29,8 @@ The public catalog is maintained in `assets/js/articles.js`. Pages with unverifi
 - Use an accurate product image or no product image. Keep each page’s product-specific palette in its own stylesheet.
 - Original editorial illustrations may be used for digital services when clearly labelled. They must not imitate official product packaging, screenshots, or logos.
 - Offer pages should have at least three distinct, relevant images. Include alt text and dimensions; lazy-load supporting illustrations below the first viewport.
+- Open every product guide with a short, audience-specific explanation of what the item is and what it is offered for, plus a visible primary image. On mobile, show the image before purchase buttons and lengthy detail blocks. Keep at least two distinct supporting images in the article.
+- `content/product-openings.json` supplies the direct-purpose introductions. `scripts/prepare-product-heroes.js` builds the shared responsive opening before SEO metadata is generated. `assets/images/sources/manifest.json` records pinned supplier/context images, original URLs, dimensions and checksums. Keep editorial substitutions labelled; do not use earnings graphics as the opening product visual.
 - Make each title, description, canonical URL, and main heading specific to that page.
 - Do not add review ratings or Product/Review structured data unless the visible page genuinely substantiates the marked-up information.
 - Keep the affiliate disclosure visible on the home page and every product guide.

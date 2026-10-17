@@ -1,0 +1,942 @@
+[
+  {
+    "sourceUrl": "https://eznaturals.co/wp-content/uploads/2026/07/eznatural-moringa-approved-1-bottle.png",
+    "usedBy": [
+      "topics/wellness/nutrition/eznaturals-moringa.html"
+    ],
+    "path": "/assets/images/sources/eznaturals-moringa-7d889c90f3b4.png",
+    "width": 1024,
+    "height": 1536,
+    "sha256": "a952e73fadcf6abb478554c0123c91e4f93ba852382c74adf91765271fb5885d",
+    "bytes": 1632564,
+    "retrievedAt": "2026-10-17T17:44:47.633575+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://eznaturals.co/wp-content/uploads/2026/08/approved-moringa-label-final-1-scaled.png",
+    "usedBy": [
+      "topics/wellness/nutrition/eznaturals-moringa.html"
+    ],
+    "path": "/assets/images/sources/eznaturals-moringa-6cdefd23ce28.png",
+    "width": 2560,
+    "height": 1341,
+    "sha256": "7b320d2f2120493e274ad1b0bdce16f533e752528c911c3673dc95ecd2cf1a84",
+    "bytes": 1565593,
+    "retrievedAt": "2026-10-17T17:44:46.499355+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://eznaturals.co/wp-content/uploads/2026/07/eznatural-moringa-approved-6-bottles-v2.png",
+    "usedBy": [
+      "topics/wellness/nutrition/eznaturals-moringa.html"
+    ],
+    "path": "/assets/images/sources/eznaturals-moringa-5676e2dbb077.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "6e3772ef6fe301acf21ba4bc8ff83d6bd7a8c02461aa0177bdb033915918c0bf",
+    "bytes": 1807952,
+    "retrievedAt": "2026-10-17T17:44:46.570838+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Advanced-Prostate-Formula/social-new.jpg",
+    "usedBy": [
+      "topics/wellness/mens-health/advanced-prostate-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-prostate-formula-3233fd6a20ed.jpg",
+    "width": 600,
+    "height": 600,
+    "sha256": "0b636c64e10130feb520b4bb57943ce2ccdff3088010f80809c43b3b8c03f753",
+    "bytes": 25990,
+    "retrievedAt": "2026-10-17T17:43:43.829795+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Advanced-Prostate-Formula/prostate-full-label.png",
+    "usedBy": [
+      "topics/wellness/mens-health/advanced-prostate-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-prostate-formula-61988503e2e1.png",
+    "width": 750,
+    "height": 259,
+    "sha256": "a537602149f1a6e9d0a49e9939a08c9b9ba8a4e2e509676e1682f40078b1ebbc",
+    "bytes": 49377,
+    "retrievedAt": "2026-10-17T17:43:43.793407+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Advanced-Prostate-Formula/6bottle.png",
+    "usedBy": [
+      "topics/wellness/mens-health/advanced-prostate-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-prostate-formula-40d8d7e161cc.png",
+    "width": 518,
+    "height": 323,
+    "sha256": "a6a48e01411290b3d9d307329658bcbef568332596508413a446b2295e17a3aa",
+    "bytes": 41131,
+    "retrievedAt": "2026-10-17T17:43:43.635720+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Muscle-Plus/High-Design/1bottle.jpg",
+    "usedBy": [
+      "topics/wellness/nutrition/advanced-muscle-plus.html"
+    ],
+    "path": "/assets/images/sources/advanced-muscle-plus-2e1a2f6ebc56.jpg",
+    "width": 220,
+    "height": 240,
+    "sha256": "172e2b82c570e48854a4337847bae3a9fb71685060ce053a4b43ddb4c538bdd5",
+    "bytes": 9341,
+    "retrievedAt": "2026-10-17T17:43:43.835173+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Muscle-Plus/High-Design/ingredients-label.jpg?v=2",
+    "usedBy": [
+      "topics/wellness/nutrition/advanced-muscle-plus.html"
+    ],
+    "path": "/assets/images/sources/advanced-muscle-plus-1a23ed4f6cc6.jpg",
+    "width": 700,
+    "height": 700,
+    "sha256": "b14172207f572a9cbbc96406121be5d09057ec0e784c481474826e898787e57a",
+    "bytes": 54066,
+    "retrievedAt": "2026-10-17T17:43:43.954886+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Muscle-Plus/High-Design/3bottle.jpg",
+    "usedBy": [
+      "topics/wellness/nutrition/advanced-muscle-plus.html"
+    ],
+    "path": "/assets/images/sources/advanced-muscle-plus-7b7f9ee29b51.jpg",
+    "width": 240,
+    "height": 240,
+    "sha256": "5acfac271b2fe2a9c808cef59170a47018c28d2b7aacab742fc0e6d01feda9e2",
+    "bytes": 18570,
+    "retrievedAt": "2026-10-17T17:43:44.029395+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Joint-2019/1-bottle.png",
+    "usedBy": [
+      "topics/wellness/joint-health/advanced-joint-support.html"
+    ],
+    "path": "/assets/images/sources/advanced-joint-support-9f1e9a126b79.png",
+    "width": 487,
+    "height": 662,
+    "sha256": "a7265af1357e0f70cc91dc325c4acd7ebd00e91256652a96cc56602f7f6d8a2d",
+    "bytes": 138967,
+    "retrievedAt": "2026-10-17T17:43:44.045841+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Advanced-Joint-Support/joint-full-label.png",
+    "usedBy": [
+      "topics/wellness/joint-health/advanced-joint-support.html"
+    ],
+    "path": "/assets/images/sources/advanced-joint-support-528a7e240b78.png",
+    "width": 800,
+    "height": 271,
+    "sha256": "9eba3a7a4bced72e41d2d6f1263facb56705f0261e93d33b639e3eeb261976f4",
+    "bytes": 52573,
+    "retrievedAt": "2026-10-17T17:43:44.552008+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Joint-2019/3-bottles.png",
+    "usedBy": [
+      "topics/wellness/joint-health/advanced-joint-support.html"
+    ],
+    "path": "/assets/images/sources/advanced-joint-support-9f2d029f4ea5.png",
+    "width": 324,
+    "height": 309,
+    "sha256": "8ea1f143414cea9e28cbe04ba16ad4aee7fb06d42aa0bbd414bfda5f5a42a261",
+    "bytes": 79564,
+    "retrievedAt": "2026-10-17T17:43:44.780931+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/GLP-1-Plus/1bottle.png",
+    "usedBy": [
+      "topics/wellness/metabolic-health/glp-1-plus.html"
+    ],
+    "path": "/assets/images/sources/glp-1-plus-ef292a014ef0.png",
+    "width": 312,
+    "height": 340,
+    "sha256": "173199c3aac4df5ea9ea35ac431b830986bcea49a030fdb75ecbec4ce808e6a9",
+    "bytes": 20901,
+    "retrievedAt": "2026-10-17T17:43:44.497486+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/GLP-1-Plus/High-Design/glp1-plus-full-label.jpg?v=2",
+    "usedBy": [
+      "topics/wellness/metabolic-health/glp-1-plus.html"
+    ],
+    "path": "/assets/images/sources/glp-1-plus-42ed025d8673.jpg",
+    "width": 1000,
+    "height": 347,
+    "sha256": "2349aa1c5061d1305f6679770600d19375de5c6a00b78aab8d503958f45d7023",
+    "bytes": 148864,
+    "retrievedAt": "2026-10-17T17:43:45.260929+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/GLP-1-Plus/6bottle.png",
+    "usedBy": [
+      "topics/wellness/metabolic-health/glp-1-plus.html"
+    ],
+    "path": "/assets/images/sources/glp-1-plus-4f2a6dbd3780.png",
+    "width": 500,
+    "height": 329,
+    "sha256": "e4ba8656291ce04f41e7829a9b5f36c188ebcd42933801013ef6371d1c6f4785",
+    "bytes": 40836,
+    "retrievedAt": "2026-10-17T17:43:45.101243+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Integrative-Digestive-Formula/1-Bottle.png",
+    "usedBy": [
+      "topics/wellness/gut-health/integrative-digestive-formula.html"
+    ],
+    "path": "/assets/images/sources/integrative-digestive-formula-628e623cc327.png",
+    "width": 312,
+    "height": 340,
+    "sha256": "ebb0ba4190504e935974b21971a4d010946fa4d57baa00e7abf68696c1001914",
+    "bytes": 20329,
+    "retrievedAt": "2026-10-17T17:43:44.817710+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/IDF-2020/idf-label.jpg",
+    "usedBy": [
+      "topics/wellness/gut-health/integrative-digestive-formula.html"
+    ],
+    "path": "/assets/images/sources/integrative-digestive-formula-20723392d270.jpg",
+    "width": 800,
+    "height": 293,
+    "sha256": "feb076fabc8881e80f7a5cc4637ed912184160e493b331d9aed01ae60ca1c53e",
+    "bytes": 110802,
+    "retrievedAt": "2026-10-17T17:43:45.531611+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Integrative-Digestive-Formula/6bottle.png",
+    "usedBy": [
+      "topics/wellness/gut-health/integrative-digestive-formula.html"
+    ],
+    "path": "/assets/images/sources/integrative-digestive-formula-d3ee895c42ef.png",
+    "width": 507,
+    "height": 340,
+    "sha256": "b70512b41d2448f2bfb6a93dfb79100de93167e35f2137d1cd3bea8540f6b282",
+    "bytes": 44399,
+    "retrievedAt": "2026-10-17T17:43:45.320683+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Curcumitol-Q/1bottle.png",
+    "usedBy": [
+      "topics/wellness/nutrition/curcumitol-q.html"
+    ],
+    "path": "/assets/images/sources/curcumitol-q-834c3e15d3eb.png",
+    "width": 312,
+    "height": 340,
+    "sha256": "ae52adf44bf69e89a9f5dc19fa7444f7b23ac7361d0457d8e8f6ab3ec8ef2eb8",
+    "bytes": 14783,
+    "retrievedAt": "2026-10-17T17:43:45.294269+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Curcumitol-Q/ingredient-label.png",
+    "usedBy": [
+      "topics/wellness/nutrition/curcumitol-q.html"
+    ],
+    "path": "/assets/images/sources/curcumitol-q-a27a9bb44629.png",
+    "width": 379,
+    "height": 395,
+    "sha256": "e7463dc847dd50fd500f5b1d2f444ad73a295ae616fe22727039a6fd6870b496",
+    "bytes": 27221,
+    "retrievedAt": "2026-10-17T17:43:45.245052+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://www.checkout-ds24.com/pb/img/merchant_2005677/image/product/YB7MHESH.png?o=440",
+    "usedBy": [
+      "topics/wellness/nutrition/curcumitol-q.html"
+    ],
+    "path": "/assets/images/sources/curcumitol-q-68fe84c8af4c.webp",
+    "width": 400,
+    "height": 269,
+    "sha256": "23f9121a26dd207f4e49488494b07197c6197a82e5d16c7e28fbaa8be6db0f9e",
+    "bytes": 26564,
+    "retrievedAt": "2026-10-17T17:43:45.516673+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Pep-Tonic/1bag.png?v=2",
+    "usedBy": [
+      "topics/wellness/nutrition/pep-tonic.html"
+    ],
+    "path": "/assets/images/sources/pep-tonic-a21dc0ef9bdb.png",
+    "width": 450,
+    "height": 554,
+    "sha256": "a0bfac97b692d9a02032d31bff0cfd0564eccf9564813ebe282d6c7b249fed35",
+    "bytes": 57513,
+    "retrievedAt": "2026-10-17T17:43:45.319027+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Sales-Pages/Pep-Tonic/supplement-facts.jpg?v=2",
+    "usedBy": [
+      "topics/wellness/nutrition/pep-tonic.html"
+    ],
+    "path": "/assets/images/sources/pep-tonic-7edf543bd0d0.jpg",
+    "width": 700,
+    "height": 700,
+    "sha256": "831011c4e4159c69dbb64f7746c6cd9e7dc6ba7e0dc0e853ef54138b1bc1327f",
+    "bytes": 55312,
+    "retrievedAt": "2026-10-17T17:43:46.011086+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Pep-Tonic/6bag.png?v=2",
+    "usedBy": [
+      "topics/wellness/nutrition/pep-tonic.html"
+    ],
+    "path": "/assets/images/sources/pep-tonic-fc8abb713108.png",
+    "width": 500,
+    "height": 293,
+    "sha256": "2d8cb2010a0fe6236c11f42e6ea7126142078548e2c12f209962c05076c27ff0",
+    "bytes": 43495,
+    "retrievedAt": "2026-10-17T17:43:45.347607+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Vision-2025/High-Design/1bottle.jpg",
+    "usedBy": [
+      "topics/wellness/vision-health/advanced-vision-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-vision-formula-095a93d4b3b0.jpg",
+    "width": 220,
+    "height": 240,
+    "sha256": "aa95291bcbb592b74d6811c0734f5fac790acfa9da0a8ffa5af9143b1999b38b",
+    "bytes": 7622,
+    "retrievedAt": "2026-10-17T17:43:45.752830+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Vision-2025/High-Design/ingredients-label.jpg",
+    "usedBy": [
+      "topics/wellness/vision-health/advanced-vision-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-vision-formula-8cdf869348ec.jpg",
+    "width": 700,
+    "height": 700,
+    "sha256": "aa1c025864d6ec9520965e0a87b4295afaf7e1a9340f637a88b410d093269c1c",
+    "bytes": 66557,
+    "retrievedAt": "2026-10-17T17:43:45.397222+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Vision-2025/High-Design/6bottle.png",
+    "usedBy": [
+      "topics/wellness/vision-health/advanced-vision-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-vision-formula-94153d51a57a.png",
+    "width": 348,
+    "height": 240,
+    "sha256": "5a75ea2625f271df35ff829376867a7e083a342e03d95ef902ec749026526a45",
+    "bytes": 22682,
+    "retrievedAt": "2026-10-17T17:43:45.406010+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/BrainAMP/1bottle.png?v=2",
+    "usedBy": [
+      "topics/wellness/brain-health/brainamp.html"
+    ],
+    "path": "/assets/images/sources/brainamp-6bd2e6e419b2.webp",
+    "width": 312,
+    "height": 340,
+    "sha256": "6adf78eee10176e85f65bbfe2cca56484100341f65a969afb367bf7b4c0ab8cc",
+    "bytes": 8846,
+    "retrievedAt": "2026-10-17T17:43:45.531285+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/BrainAMP/High-Design/ingredients-label.jpg",
+    "usedBy": [
+      "topics/wellness/brain-health/brainamp.html"
+    ],
+    "path": "/assets/images/sources/brainamp-b149aaa0ed35.jpg",
+    "width": 700,
+    "height": 700,
+    "sha256": "ecbc04b15ea0c3f443bc08e11d4cd9a2eb2b25376e89b70e33b3bcc6bb9e9e0c",
+    "bytes": 57718,
+    "retrievedAt": "2026-10-17T17:43:45.495584+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/BrainAMP/6bottle.png?v=2",
+    "usedBy": [
+      "topics/wellness/brain-health/brainamp.html"
+    ],
+    "path": "/assets/images/sources/brainamp-d97f408b8b70.png",
+    "width": 345,
+    "height": 220,
+    "sha256": "c09fd91828c54ddd813dc146a16af6732b57fb863229605feba5b50c6da8ee35",
+    "bytes": 27310,
+    "retrievedAt": "2026-10-17T17:43:46.112142+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Mitochondrial-2023/High-Design/header-bottle.png",
+    "usedBy": [
+      "topics/wellness/longevity/advanced-mitochondrial-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-mitochondrial-formula-be034a6da14e.png",
+    "width": 537,
+    "height": 612,
+    "sha256": "b20f2550824337fb45ef212f7a47df1264712e2ec2115348513bf908c211be7a",
+    "bytes": 46456,
+    "retrievedAt": "2026-10-17T17:43:45.554793+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Mitochondrial-2023/supplement-facts.jpg",
+    "usedBy": [
+      "topics/wellness/longevity/advanced-mitochondrial-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-mitochondrial-formula-65a34d9575a2.jpg",
+    "width": 547,
+    "height": 631,
+    "sha256": "2abadd2e87a0d208e82b8280221e84c9097b5394a23f5aa3387081184d8d3ecd",
+    "bytes": 62172,
+    "retrievedAt": "2026-10-17T17:43:45.586631+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Products-2020/Advanced-Mitochondrial-Formula/3bottle.png",
+    "usedBy": [
+      "topics/wellness/longevity/advanced-mitochondrial-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-mitochondrial-formula-80863956bfdc.png",
+    "width": 345,
+    "height": 344,
+    "sha256": "28f5c9b02a1f131fe9532690f4f5d76a60a1d0928e0a7bb464449d1591ad5a26",
+    "bytes": 28092,
+    "retrievedAt": "2026-10-17T17:43:45.583589+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/CircO2-2024/High-Design/1box.jpg",
+    "usedBy": [
+      "topics/wellness/longevity/circo2.html"
+    ],
+    "path": "/assets/images/sources/circo2-a0a1b509be1b.jpg",
+    "width": 401,
+    "height": 280,
+    "sha256": "5ac41d4a52ac0f2b39e8da7bc4ccdfd98139df790a2e6f3bb79cd3197325d456",
+    "bytes": 46743,
+    "retrievedAt": "2026-10-17T17:43:45.603871+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/CircO2-2024/High-Design/ingredient-label-2025.jpg",
+    "usedBy": [
+      "topics/wellness/longevity/circo2.html"
+    ],
+    "path": "/assets/images/sources/circo2-cbd6724c6fbe.jpg",
+    "width": 700,
+    "height": 700,
+    "sha256": "aa76963d689168f21e9c0af3f016c4432b2319c59f4a984092464f5b2486f73b",
+    "bytes": 61910,
+    "retrievedAt": "2026-10-17T17:43:46.186256+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/CircO2-2024/High-Design/6box.png",
+    "usedBy": [
+      "topics/wellness/longevity/circo2.html"
+    ],
+    "path": "/assets/images/sources/circo2-94c30cfcc015.png",
+    "width": 401,
+    "height": 280,
+    "sha256": "618ace7332debb0d3736f75d93498143a2b70d576108125344056c25b711694f",
+    "bytes": 31260,
+    "retrievedAt": "2026-10-17T17:43:46.152911+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Amino-2023/High-Design/1bottle.jpg",
+    "usedBy": [
+      "topics/wellness/longevity/advanced-amino-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-amino-formula-6191d7c696be.jpg",
+    "width": 220,
+    "height": 240,
+    "sha256": "3a83bf7ec72cc733754f41daf0166fab79a87600ddad1ea2eb408fdc031b7c60",
+    "bytes": 8853,
+    "retrievedAt": "2026-10-17T17:43:45.705505+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Amino-2023/High-Design/ingredients-label.jpg",
+    "usedBy": [
+      "topics/wellness/longevity/advanced-amino-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-amino-formula-498bf9f348eb.jpg",
+    "width": 700,
+    "height": 700,
+    "sha256": "85be0861cacb61bc3deeb79518a7afcd33cbf1213d67721f30398bde12f6892f",
+    "bytes": 54155,
+    "retrievedAt": "2026-10-17T17:43:45.764245+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Advanced-Amino-2023/High-Design/6bottle.png",
+    "usedBy": [
+      "topics/wellness/longevity/advanced-amino-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-amino-formula-b25de3b75cda.png",
+    "width": 348,
+    "height": 240,
+    "sha256": "fae9c4c9d4e91873a496b5ef3a4e41b8382b3f7fbdfb094e12f36f9ee39505f1",
+    "bytes": 21107,
+    "retrievedAt": "2026-10-17T17:43:45.825237+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://static.funnelcockpit.com/upload/guKpfcma9vXMkQgks/1799ce72592ae408b06914d73328632c.png",
+    "usedBy": [
+      "topics/business/ai-training/ki-training.html"
+    ],
+    "path": "/assets/images/sources/ki-training-6c8851012883.png",
+    "width": 1120,
+    "height": 630,
+    "sha256": "db65401a22f48acce246fcf35d78fd2d683a3d5ad28336b2e8ad29835d7fca06",
+    "bytes": 596094,
+    "retrievedAt": "2026-10-17T17:43:46.201192+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://static.funnelcockpit.com/upload/guKpfcma9vXMkQgks/b3ce06291a445f939ed1dbd75ea55e2e.jpg",
+    "usedBy": [
+      "topics/business/ai-training/ki-training.html"
+    ],
+    "path": "/assets/images/sources/ki-training-7bf0cc9da3f7.jpg",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "4f2a531c851b264eb7321b6ed005307a3ce627b3686edaecfd73ae89248d6ea0",
+    "bytes": 177364,
+    "retrievedAt": "2026-10-17T17:43:46.107288+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Memory-2024/High-Design/memory-guarantee.jpg",
+    "usedBy": [
+      "topics/wellness/brain-health/advanced-memory-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-memory-formula-2c207ce7bb29.jpg",
+    "width": 700,
+    "height": 700,
+    "sha256": "690412c2e2fac5f5d762d6a074ce7948967915a077afe7a52a702fb1a68f52a7",
+    "bytes": 40263,
+    "retrievedAt": "2026-10-17T17:43:46.137881+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Memory-2024/High-Design/ingredients.jpg",
+    "usedBy": [
+      "topics/wellness/brain-health/advanced-memory-formula.html"
+    ],
+    "path": "/assets/images/sources/advanced-memory-formula-44bf76cc7a8e.jpg",
+    "width": 700,
+    "height": 700,
+    "sha256": "14bd4c4baf6a65c9676d45992d5aab57bccb8b5a432297cb70aee39d76e65707",
+    "bytes": 80029,
+    "retrievedAt": "2026-10-17T17:43:46.247608+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https%3A//assets.cdn.filesafe.space/L4LdQDk3vJiv9duiMlUd/media/69510be273a5e0e33266e443.jpg",
+    "usedBy": [
+      "topics/wellness/gut-health/ketosana.html"
+    ],
+    "path": "/assets/images/sources/ketosana-43707627c1b0.webp",
+    "width": 984,
+    "height": 985,
+    "sha256": "ed39e58dd65bf68171ea5498b823e8c52c4a1ef8339172c055cf86edcc3b84d2",
+    "bytes": 31726,
+    "retrievedAt": "2026-10-17T17:43:47.081493+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https%3A//assets.cdn.filesafe.space/L4LdQDk3vJiv9duiMlUd/media/69525ba9e889d3eea9d69a06.png",
+    "usedBy": [
+      "topics/wellness/gut-health/ketosana.html"
+    ],
+    "path": "/assets/images/sources/ketosana-442cb9f4a608.webp",
+    "width": 1024,
+    "height": 1024,
+    "sha256": "d1777e0de8d133d84ceb44f6163d9209572d9e34cea747065bf2c6a62947773a",
+    "bytes": 68018,
+    "retrievedAt": "2026-10-17T17:43:46.253997+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://primeperformpro.com/wp-content/uploads/2026/06/nueva-botella-1-768x706.webp",
+    "usedBy": [
+      "topics/wellness/mens-health/prime-perform-pro.html"
+    ],
+    "path": "/assets/images/sources/prime-perform-pro-852491d90026.webp",
+    "width": 768,
+    "height": 706,
+    "sha256": "97e238240a69e13884e001f7e37e4b40681b8e49605452affd3b295138897c91",
+    "bytes": 65934,
+    "retrievedAt": "2026-10-17T17:43:46.353397+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://primeperformpro.com/wp-content/uploads/2025/06/Extracto-de-Epimedium15x-296x300.webp",
+    "usedBy": [
+      "topics/wellness/mens-health/prime-perform-pro.html"
+    ],
+    "path": "/assets/images/sources/prime-perform-pro-22f16cdd7e3c.webp",
+    "width": 296,
+    "height": 300,
+    "sha256": "7eb41c5fc56d7189b8f566fd1caafed9c5bf0fbff6539c6361d23c0de0af9b27",
+    "bytes": 27046,
+    "retrievedAt": "2026-10-17T17:43:46.301072+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://getspartamax.com/assets/imgs/bottles/SpartaMax1newb.png",
+    "usedBy": [
+      "topics/wellness/mens-health/spartamax.html"
+    ],
+    "path": "/assets/images/sources/spartamax-1653547695d0.png",
+    "width": 900,
+    "height": 652,
+    "sha256": "8f47c5eed87466f09c4fa36f3ecb4b374a70220b627073e7798e04b532d1ad6c",
+    "bytes": 67526,
+    "retrievedAt": "2026-10-17T17:43:46.279393+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://getspartamax.com/assets/imgs/bottles/3_bottle_white_gummy.png",
+    "usedBy": [
+      "topics/wellness/mens-health/spartamax.html"
+    ],
+    "path": "/assets/images/sources/spartamax-826061502562.png",
+    "width": 900,
+    "height": 870,
+    "sha256": "92cd97af05ee84502c05e507938f5aa2ef9a2f9e883d54d77b1d5dc6ccab12ae",
+    "bytes": 800803,
+    "retrievedAt": "2026-10-17T17:43:46.451869+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Collagen-2024/High-Design/1bag.jpg",
+    "usedBy": [
+      "topics/wellness/longevity/collagen.html"
+    ],
+    "path": "/assets/images/sources/collagen-6c843707bbaf.jpg",
+    "width": 220,
+    "height": 240,
+    "sha256": "d525ff717f62add482ab320822815d592ff1f77459f5d441f11f7f49b990a409",
+    "bytes": 13293,
+    "retrievedAt": "2026-10-17T17:43:46.324823+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Collagen-2024/High-Design/collagen-lifestyle.jpg",
+    "usedBy": [
+      "topics/wellness/longevity/collagen.html"
+    ],
+    "path": "/assets/images/sources/collagen-00f2b732af11.jpg",
+    "width": 300,
+    "height": 300,
+    "sha256": "46514af354a4716f9873b65becd403241e2103364667cab54a5de8b0aa6f1722",
+    "bytes": 37077,
+    "retrievedAt": "2026-10-17T17:43:46.352069+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https%3A//assets.cdn.filesafe.space/L4LdQDk3vJiv9duiMlUd/media/694128ae9a634f5461735ada.png",
+    "usedBy": [
+      "topics/wellness/longevity/vigorsana.html"
+    ],
+    "path": "/assets/images/sources/vigorsana-72d5f90f4982.webp",
+    "width": 1200,
+    "height": 1159,
+    "sha256": "5618091bddc205c990b8b20842d4e8adc42bea4cb6801fd2cf2180e6a3352dbc",
+    "bytes": 93974,
+    "retrievedAt": "2026-10-17T17:43:47.081867+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https%3A//assets.cdn.filesafe.space/L4LdQDk3vJiv9duiMlUd/media/69f613f452d70cb7669cb640.png",
+    "usedBy": [
+      "topics/wellness/longevity/vigorsana.html"
+    ],
+    "path": "/assets/images/sources/vigorsana-164c08b37148.webp",
+    "width": 883,
+    "height": 319,
+    "sha256": "84a88f266b4db281910491c9c4674fdb7fefb396f0b8299b8e380ffcda8a3c46",
+    "bytes": 12156,
+    "retrievedAt": "2026-10-17T17:43:47.010983+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://static.funnelcockpit.com/upload/TeF8rgweu6iQgrc5e/6968c9cabaa94892deb20147bf7e6511.png",
+    "usedBy": [
+      "topics/business/digital-skills/hook-mastery.html"
+    ],
+    "path": "/assets/images/sources/hook-mastery-65f9a96eed43.png",
+    "width": 462,
+    "height": 1000,
+    "sha256": "cc130831c9115ee423943166dab6fd6a5070cb239166fc8b8dedc814e1255bda",
+    "bytes": 148980,
+    "retrievedAt": "2026-10-17T17:43:46.710102+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://static.funnelcockpit.com/upload/TeF8rgweu6iQgrc5e/9261104c816195593689ea09cf32f526.png",
+    "usedBy": [
+      "topics/business/digital-skills/hook-mastery.html"
+    ],
+    "path": "/assets/images/sources/hook-mastery-c2c5d7f4a6cb.png",
+    "width": 369,
+    "height": 800,
+    "sha256": "a2afac205123258c634ef592bed69edfd72705cbc20d0fcf50d45893f6c154de",
+    "bytes": 462540,
+    "retrievedAt": "2026-10-17T17:43:46.681190+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://catracalivre.com.br/i/qwJrWWsAxa6IZ39npO4K5TCM4rByrXco4X-VXlG_omk/rs%3Afill%3A1200%3A630%3A1/g%3Asm/q%3A80/bG9jYWw6Ly8vMjAyNi8wMS9mcmVlcGlrLWhvbWVtLWFkdWx0by1qb3ZlbS11c2FuZG8tZm9uZXMtZGUtb3V2aWRvLWVucXVhbnRvLTU5MzE3LmpwZWc",
+    "usedBy": [
+      "topics/education/language-learning/hackeando-a-fluencia.html"
+    ],
+    "path": "/assets/images/sources/hackeando-a-fluencia-7cd24fe68130.jpg",
+    "width": 1200,
+    "height": 630,
+    "sha256": "88979c133648e4a26d58a102f61027ee1ba621d5d5243df3d06e4c30c232bac8",
+    "bytes": 91476,
+    "retrievedAt": "2026-10-17T17:43:46.567158+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://shikaku-life.jp/images/art-toeic.webp",
+    "usedBy": [
+      "topics/education/language-learning/hackeando-a-fluencia.html"
+    ],
+    "path": "/assets/images/sources/hackeando-a-fluencia-0f58b28fdba4.webp",
+    "width": 1376,
+    "height": 768,
+    "sha256": "6ece4ac344a06325f14858192f0fb92c122dec57cd9c3dec104b8d072bbe54d1",
+    "bytes": 121066,
+    "retrievedAt": "2026-10-17T17:43:47.603602+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.pexels.com/photos/6754839/pexels-photo-6754839.jpeg?auto=compress&dpr=1&h=750&w=1260",
+    "usedBy": [
+      "topics/education/technical-training/consertaflix.html"
+    ],
+    "path": "/assets/images/sources/consertaflix-ec9da1579908.jpg",
+    "width": 1125,
+    "height": 750,
+    "sha256": "8baa6f939a9bbcd2a937f60730413643fa8bf229eb62b74078f230c73b618c6e",
+    "bytes": 84990,
+    "retrievedAt": "2026-10-17T17:44:44.522855+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.unsplash.com/photo-1562941995-17dc31eaaf6d?auto=format&fit=crop&fm=jpg&q=80&w=1800",
+    "usedBy": [
+      "topics/education/technical-training/consertaflix.html"
+    ],
+    "path": "/assets/images/sources/consertaflix-e034d968f7d1.webp",
+    "width": 1800,
+    "height": 1200,
+    "sha256": "ec8c95d55495dea83496e1aa4f3820b221bd67fd111628e3cf195c39379b4f10",
+    "bytes": 224986,
+    "retrievedAt": "2026-10-17T17:44:45.090609+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.pexels.com/photos/7109316/pexels-photo-7109316.jpeg?auto=compress&dpr=1&h=750&w=1260",
+    "usedBy": [
+      "topics/business/finance-ai/ia-para-financas.html"
+    ],
+    "path": "/assets/images/sources/ia-para-financas-f33a46e557c2.webp",
+    "width": 500,
+    "height": 750,
+    "sha256": "5dfc9d82b16ee31da34cb5267488d2a455a0b52d4fd0d2f1a8b2d87fb8423b64",
+    "bytes": 37218,
+    "retrievedAt": "2026-10-17T17:44:44.965603+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.pexels.com/photos/7567529/pexels-photo-7567529.jpeg?auto=compress&dpr=1&h=750&w=1260",
+    "usedBy": [
+      "topics/business/finance-ai/ia-para-financas.html"
+    ],
+    "path": "/assets/images/sources/ia-para-financas-454324f8c6a1.webp",
+    "width": 500,
+    "height": 750,
+    "sha256": "a2750aae1aa0556d3778cc651040e503bb8bf9fb019081c492ff382553039f51",
+    "bytes": 27600,
+    "retrievedAt": "2026-10-17T17:44:45.083267+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.pexels.com/photos/28928971/pexels-photo-28928971/free-photo-of-row-of-parked-cars-at-a-dealership-lot.jpeg?auto=compress&dpr=1&h=750&w=1260",
+    "usedBy": [
+      "topics/business/vehicle-buying/metodo-adl.html"
+    ],
+    "path": "/assets/images/sources/metodo-adl-4283592ca48b.jpg",
+    "width": 563,
+    "height": 750,
+    "sha256": "80fcd3da0761abf7b7adad0e249cb91aba25b56f4cc0e743faadd0b62bdc987c",
+    "bytes": 95743,
+    "retrievedAt": "2026-10-17T17:44:45.167585+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://antesdoleilao.store/assets/expert-fabio-8SJ9msn6.jpg",
+    "usedBy": [
+      "topics/business/vehicle-buying/metodo-adl.html"
+    ],
+    "path": "/assets/images/sources/metodo-adl-fd5091b81f26.png",
+    "width": 1080,
+    "height": 1350,
+    "sha256": "f2ec392380d0df132e6d0868d04fbd66327231669783b133a632ddadaa107640",
+    "bytes": 1954761,
+    "retrievedAt": "2026-10-17T17:43:50.506644+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.pexels.com/photos/7019600/pexels-photo-7019600.jpeg?auto=compress&dpr=1&h=750&w=1260",
+    "usedBy": [
+      "topics/business/vehicle-buying/metodo-adl.html"
+    ],
+    "path": "/assets/images/sources/metodo-adl-b5e24a34108a.webp",
+    "width": 1125,
+    "height": 750,
+    "sha256": "b812a63c4306305c1b6103c53c8a5bc8375cf5e877a28fd8e440739f3e7278ca",
+    "bytes": 28424,
+    "retrievedAt": "2026-10-17T17:44:45.577531+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://luanamacedo.com.br/wp-content/uploads/2024/06/intro.png",
+    "usedBy": [
+      "topics/business/accessories-business/vivendo-de-acessorios.html"
+    ],
+    "path": "/assets/images/sources/vivendo-de-acessorios-796452536d29.png",
+    "width": 640,
+    "height": 960,
+    "sha256": "d227ceac6211579d8d4f7c997cd459734dcea6709792fa09ca799659e367b7b5",
+    "bytes": 182384,
+    "retrievedAt": "2026-10-17T17:43:47.451011+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.pexels.com/photos/6262833/pexels-photo-6262833.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "usedBy": [
+      "topics/business/accessories-business/vivendo-de-acessorios.html"
+    ],
+    "path": "/assets/images/sources/vivendo-de-acessorios-dc0734c582dd.webp",
+    "width": 1260,
+    "height": 1890,
+    "sha256": "ca89d05f1985faca944bfb0409218976858e5f02cb39509bec7c46a559531568",
+    "bytes": 40548,
+    "retrievedAt": "2026-10-17T17:44:45.849262+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.pexels.com/photos/8681007/pexels-photo-8681007.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "usedBy": [
+      "topics/business/accessories-business/vivendo-de-acessorios.html"
+    ],
+    "path": "/assets/images/sources/vivendo-de-acessorios-3d94301b1fca.webp",
+    "width": 1260,
+    "height": 1890,
+    "sha256": "ddfed8ecef51ddff496db966d27e7e0b21e08154eb98753480b6f950cabca0f0",
+    "bytes": 92472,
+    "retrievedAt": "2026-10-17T17:44:46.037480+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://static.funnelcockpit.com/upload/CuWYM4GEbiApbhTJ6/01e1f141a5335ce728c11ca0f76638b7.jpg",
+    "usedBy": [
+      "topics/business/course/advanced-program.html"
+    ],
+    "path": "/assets/images/sources/advanced-program-501f5b9d679c.jpg",
+    "width": 2688,
+    "height": 1536,
+    "sha256": "a44fc367ae2aff7cb9e685bb4b115de3ce1b5662353fd72d983c710284d242e2",
+    "bytes": 595364,
+    "retrievedAt": "2026-10-17T17:43:47.808560+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://static.funnelcockpit.com/upload/CuWYM4GEbiApbhTJ6/5bd1a6eaf59c6624cf8313b6cb709b3b.gif",
+    "usedBy": [
+      "topics/business/course/advanced-program.html"
+    ],
+    "path": "/assets/images/editorial/avatar-workflow.svg",
+    "width": 960,
+    "height": 600,
+    "sha256": "be21764262d678a98f6cd9cdc382d9f2d666fe2fba51c4fef8b11d4223ab1f32",
+    "bytes": 28154904,
+    "retrievedAt": "2026-10-17T17:44:49.547758+00:00",
+    "status": "editorial-replacement",
+    "replacement": {
+      "alt": "Script, presenter silhouette and review checklist; original editorial illustration, not Academy artwork",
+      "caption": "Original PokiSky editorial illustration of planning and reviewing an avatar video; not an Academy interface or official product artwork."
+    }
+  },
+  {
+    "sourceUrl": "https://img.youtube.com/vi/6fzwuyr75N8/hqdefault.jpg",
+    "usedBy": [
+      "topics/entertainment/retro-gaming/gpbox.html"
+    ],
+    "path": "/assets/images/sources/gpbox-125c73761e08.jpg",
+    "width": 480,
+    "height": 360,
+    "sha256": "b6887e8572690da8b11778db50a8909c06d2c198a505ae3e15785d5096c7094b",
+    "bytes": 22840,
+    "retrievedAt": "2026-10-17T17:51:14.610970+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.pexels.com/photos/7856689/pexels-photo-7856689.jpeg?auto=compress&dpr=1&h=750&w=1260",
+    "usedBy": [
+      "topics/entertainment/retro-gaming/gpbox.html"
+    ],
+    "path": "/assets/images/sources/gpbox-88496edd78da.webp",
+    "width": 1125,
+    "height": 750,
+    "sha256": "feaac4f7d1db8b1b36de022b76947d4e0fb61e545a3839dceeec5ea4b8e0c066",
+    "bytes": 69976,
+    "retrievedAt": "2026-10-17T17:51:15.271843+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://images.pexels.com/photos/19012029/pexels-photo-19012029/free-photo-of-player-playing-pc-game-with-game-pad.jpeg?auto=compress&dpr=1&h=750&w=1260",
+    "usedBy": [
+      "topics/entertainment/retro-gaming/gpbox.html"
+    ],
+    "path": "/assets/images/sources/gpbox-3812351b92f9.jpg",
+    "width": 500,
+    "height": 750,
+    "sha256": "0ec2097d82de3f74742d7d2af2bc4676082e924b26898a2a169384b8f08f56bf",
+    "bytes": 57164,
+    "retrievedAt": "2026-10-17T17:51:14.737467+00:00",
+    "status": "cached"
+  }
+]

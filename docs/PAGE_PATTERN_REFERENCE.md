@@ -79,11 +79,15 @@ A página deve conter, no mínimo:
 - breadcrumb
 - eyebrow label
 - headline principal
-- lead text com benefício claro
+- lead curto, no idioma do guia, explicando diretamente o que é o produto e a finalidade descrita pelo fornecedor, sem prometer resultados
+- imagem principal visível junto à abertura, inclusive no celular; botões e blocos longos de condições vêm depois da introdução e da imagem
 - CTA principal e CTA secundário
 - trust badges
 - product card com imagem, nome, descrição e meta facts
 - pelo menos três imagens relevantes e distintas por página; identificar ilustrações editoriais, incluir `alt`, dimensões e `loading="lazy"` nas imagens de apoio
+- manter uma imagem principal com `loading="eager"` e `fetchpriority="high"`, mais duas imagens de apoio no corpo do artigo; contar arquivos de imagem distintos, não apenas URLs
+- servir imagens pelo próprio site, com fonte original e checksum registrados no manifesto; validar o carregamento e a primeira tela em 320×568, 360×640 e 1366×768
+- cadastros sem identidade confirmada e páginas de redirecionamento não são ofertas: manter seus avisos e bloqueios, sem inventar produto ou embalagem
 
 ### Estrutura recomendada de conteúdo
 
@@ -349,6 +353,7 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-10-17 | Abertura direta com imagem visível no celular e imagens locais verificadas | `topics/`, `content/product-openings.json`, novo preparador/validador, CSS e imagens | 71 guias preparados; 68 públicos conferidos em três telas; três imagens distintas por guia; fontes e afiliação preservadas |
 | 2026-10-17 | Revisão de copy por público em 70 guias e limpeza de páginas órfãs | `topics/`, catálogo, home, diretórios, sitemap e relatório editorial | Base atual do GitHub; estrutura, imagens, links e datas das fontes preservados; retenções de indexação mantidas; ver `COPY_REVIEW_2026-10-17.md` |
 | 2026-10-11 | Artigo de requisitos do curso de piano e três pautas diárias para itens existentes na Europa/EUA | `content/`, `scripts/`, artigo de piano, catálogo, sitemap, CSS e documentação | Três imagens por artigo; rascunhos fora da publicação; liberação de uma pauta por dia; sinais reais de busca ainda limitados |
 | 2026-10-08 | Comparativo editorial de eSIMs para Europa em inglês e alemão, navegação entre traduções e sitemap determinístico | `guides/europe-esim.html`, `guides/europa-esim.html`, `scripts/`, `assets/css/`, home e diretórios | Fontes oficiais; roaming existente, restrição de residência Holafly e hotspot explícitos; hreflang só entre páginas equivalentes; lastmod apenas com revisão real |
