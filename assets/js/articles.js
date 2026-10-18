@@ -2115,11 +2115,6 @@ const blogArticles = [
   },
   ];
 
-
-
-
-
-
 // kiwify-guides:start
 blogArticles.push(...[
   {

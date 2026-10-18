@@ -60,3 +60,5 @@ As consultas autenticadas foram feitas no navegador nas três redes fornecidas. 
 - Conferência visual das duas aberturas em 320×568, 360×640 e 1366×768 no navegador. Imagem principal aparece antes dos botões no celular.
 - GearUP: as três imagens carregaram ao navegar para o corpo do guia; sem transbordamento horizontal observado.
 - Destinos GearUP e Creality: HTTP 200 e atribuição preservada no redirecionamento. Sem compra de teste ou evidência de pagamento de comissão.
+
+A conferência de reprodução encontrou uma linha em branco adicional no catálogo a cada execução do gerador Kiwify. O delimitador foi normalizado para manter a geração estável e permitir a checagem de artefatos sem alterações na CI.
