@@ -938,5 +938,413 @@
     "bytes": 57164,
     "retrievedAt": "2026-10-17T17:51:14.737467+00:00",
     "status": "cached"
+  },
+  {
+    "sourceUrl": "original-editorial:comunidade-milhas",
+    "path": "/assets/images/products/comunidade-milhas.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "e3e3b88cbdbc5583379239fbecd48ae212ae86a93d245278e07e79b82a2ba812"
+  },
+  {
+    "sourceUrl": "original-editorial:comunidade-milhas-support-1",
+    "path": "/assets/images/products/comunidade-milhas-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "a308079c3d240e77ed8ad7fdd79aece0f83085f396098ba50d8fde6988df55ee"
+  },
+  {
+    "sourceUrl": "original-editorial:comunidade-milhas-support-2",
+    "path": "/assets/images/products/comunidade-milhas-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "d0fae64fb2ecc2b629d1bfc2f6a45ea0fd6aa6a6dff4c90f4a229845f5299766"
+  },
+  {
+    "sourceUrl": "original-editorial:gifts-da-isa",
+    "path": "/assets/images/products/gifts-da-isa.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "96f51626ed8e06fc75a59af3b6d642b87611ae5be3d460436b15063b1889d9fd"
+  },
+  {
+    "sourceUrl": "original-editorial:gifts-da-isa-support-1",
+    "path": "/assets/images/products/gifts-da-isa-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "aa894efb35763a47fd2d018ad0bd08e84a4c166f8b9e4c4d318bfcf89b97778d"
+  },
+  {
+    "sourceUrl": "original-editorial:gifts-da-isa-support-2",
+    "path": "/assets/images/products/gifts-da-isa-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "482f619ec7cca495cc9cd95466175bbdc97bf53ef153ef0a56fcbee357db59e1"
+  },
+  {
+    "sourceUrl": "original-editorial:confeitaria-express",
+    "path": "/assets/images/products/confeitaria-express.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "657e2d1574faca3c7f0ca5f36617dd075a3166112dae8e901c9682a0cbda0db6"
+  },
+  {
+    "sourceUrl": "original-editorial:confeitaria-express-support-1",
+    "path": "/assets/images/products/confeitaria-express-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "49df2ac32206c790bfcdc3e2e5ceae0acde63534706a4fe9fe501bf988873d94"
+  },
+  {
+    "sourceUrl": "original-editorial:confeitaria-express-support-2",
+    "path": "/assets/images/products/confeitaria-express-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "bd0448f999b3b561598f590b2275443ee2d086c685b3169e2e3688500351fbeb"
+  },
+  {
+    "sourceUrl": "original-editorial:excel-profissional",
+    "path": "/assets/images/products/excel-profissional.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "8d9bfcf6820e129c218d38718009de688d81a0a569b6f8054a1a8a8eefd71897"
+  },
+  {
+    "sourceUrl": "original-editorial:excel-profissional-support-1",
+    "path": "/assets/images/products/excel-profissional-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "86f3ba46bce8431ceafbc82a1214a2976f0173850ede51e4fae5d114bcb83f96"
+  },
+  {
+    "sourceUrl": "original-editorial:excel-profissional-support-2",
+    "path": "/assets/images/products/excel-profissional-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "c7ebbcbf05d93c3ac25e2e73aef9a1bfe8cf5a743e24f338c2fdc8e239a18a41"
+  },
+  {
+    "sourceUrl": "original-editorial:manicure-padrao-excelencia",
+    "path": "/assets/images/products/manicure-padrao-excelencia.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "19634f8d864a7517c343f61fee9581b23be962732ad61795cd5610dbce5d7adb"
+  },
+  {
+    "sourceUrl": "original-editorial:manicure-padrao-excelencia-support-1",
+    "path": "/assets/images/products/manicure-padrao-excelencia-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "5638a39d8d1a1c054bd29bcfab53bfa923502de8520627c021a713a3a4c8e790"
+  },
+  {
+    "sourceUrl": "original-editorial:manicure-padrao-excelencia-support-2",
+    "path": "/assets/images/products/manicure-padrao-excelencia-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "5101aa1662b20422d4ffa38264b66689b4c6eeedb954029da688bd2d4c5f89c8"
+  },
+  {
+    "sourceUrl": "original-editorial:aprenda-croche",
+    "path": "/assets/images/products/aprenda-croche.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "2c1349158d6374f6d25c2130ae6e6ea3aec4a3354a5e4748dd8764f3b5dc7e8c"
+  },
+  {
+    "sourceUrl": "original-editorial:aprenda-croche-support-1",
+    "path": "/assets/images/products/aprenda-croche-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "a022a426fc06ba5bc98fd2c38cb543fdb5d433cbc705f6fc697c1e43d905bd99"
+  },
+  {
+    "sourceUrl": "original-editorial:aprenda-croche-support-2",
+    "path": "/assets/images/products/aprenda-croche-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "34fd942ad46fa8bc9d3a5c09b082da71fd97fd9965a2981bf89020b88d0b6ca4"
+  },
+  {
+    "sourceUrl": "original-editorial:supremo-enem",
+    "path": "/assets/images/products/supremo-enem.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "606b4c964751d92d27764bf0bdde66c744000fd9031f7e31cd04a601f0fc96cc"
+  },
+  {
+    "sourceUrl": "original-editorial:supremo-enem-support-1",
+    "path": "/assets/images/products/supremo-enem-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "cc8875c0a80092621ddb4bc0be2fe324a64693f60de248bbc34cf5ed9a9c4405"
+  },
+  {
+    "sourceUrl": "original-editorial:supremo-enem-support-2",
+    "path": "/assets/images/products/supremo-enem-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "f5b2e650f688cbc95d8cc51ebe3febb5c1857327c63a74bf7f37543029f4f315"
+  },
+  {
+    "sourceUrl": "original-editorial:design-sobrancelhas",
+    "path": "/assets/images/products/design-sobrancelhas.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "df66418e8ace074ca7a18a414db3caf5a6856ab00ed731add0888b9e0ac03326"
+  },
+  {
+    "sourceUrl": "original-editorial:design-sobrancelhas-support-1",
+    "path": "/assets/images/products/design-sobrancelhas-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "00c64de28528f201be3186897a153fe2bd9f3bedb9bdd7f18a9f7ad665a4cab2"
+  },
+  {
+    "sourceUrl": "original-editorial:design-sobrancelhas-support-2",
+    "path": "/assets/images/products/design-sobrancelhas-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "e39e42582f35c5e3eb9831d4aa58b00baa0275fe504c15143eb59af1165022dc"
+  },
+  {
+    "sourceUrl": "original-editorial:segredo-adestramento-canino",
+    "path": "/assets/images/products/segredo-adestramento-canino.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "84956ea4a55f3e9aa2f1f20e4175c008f475a4e9146127165ad8a4c643b6d366"
+  },
+  {
+    "sourceUrl": "original-editorial:segredo-adestramento-canino-support-1",
+    "path": "/assets/images/products/segredo-adestramento-canino-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "efaef31fe446c1a659f7b04cea2051216cd66c2a40efb882449838f9e78fb0b9"
+  },
+  {
+    "sourceUrl": "original-editorial:segredo-adestramento-canino-support-2",
+    "path": "/assets/images/products/segredo-adestramento-canino-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "95cab53150e734dda23810502ef3b705098c5fd340124317f0726f8535cfb9a3"
+  },
+  {
+    "sourceUrl": "original-editorial:ingles-para-viagens",
+    "path": "/assets/images/products/ingles-para-viagens.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "0291f41008ea145079af1b826c0dc509750afb6592348dce9129aebf75864b21"
+  },
+  {
+    "sourceUrl": "original-editorial:ingles-para-viagens-support-1",
+    "path": "/assets/images/products/ingles-para-viagens-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "cffc06aac731dbeacd83a1ddb01e9c6a038b2c334f5fc6e8691c22b3b73475b3"
+  },
+  {
+    "sourceUrl": "original-editorial:ingles-para-viagens-support-2",
+    "path": "/assets/images/products/ingles-para-viagens-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "dd5b3076f1b63e54c6a8b107e8867f1fad906fcc43d8df390e75f12cf50b5017"
+  },
+  {
+    "sourceUrl": "original-editorial:recupery-do-zero",
+    "path": "/assets/images/products/recupery-do-zero.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "f415047489f1cecdf7739ace2cad6a878cd22c6d6cf99d0f454cc7c6d734691c"
+  },
+  {
+    "sourceUrl": "original-editorial:recupery-do-zero-support-1",
+    "path": "/assets/images/products/recupery-do-zero-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "07d09d164ba5be19c80de877b2ac91d1a217b138828f12e2ea26c24658594140"
+  },
+  {
+    "sourceUrl": "original-editorial:recupery-do-zero-support-2",
+    "path": "/assets/images/products/recupery-do-zero-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "04fef09ea11f077bc3aee2c754dce99e66d44b6e237e0ad987afffbdc428b57c"
+  },
+  {
+    "sourceUrl": "original-editorial:fundamentos-do-corte",
+    "path": "/assets/images/products/fundamentos-do-corte.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "20aded8af0d356e880075aec2a208b5a5c7d901be9df055c6d224249b6944e62"
+  },
+  {
+    "sourceUrl": "original-editorial:fundamentos-do-corte-support-1",
+    "path": "/assets/images/products/fundamentos-do-corte-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "09c6453cda06e80c0f5fb8d89c8675973e23f9467f57e42470beabd254e5c8cc"
+  },
+  {
+    "sourceUrl": "original-editorial:fundamentos-do-corte-support-2",
+    "path": "/assets/images/products/fundamentos-do-corte-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "fad16b4cd2db49de9ec3d726cb20b86be65680c464026205ea8556d874428956"
+  },
+  {
+    "sourceUrl": "original-editorial:homem-da-casa",
+    "path": "/assets/images/products/homem-da-casa.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "dc15f626094d72753694bc5b37fdc1ea8ad2d94a75e664213c426aba79401d28"
+  },
+  {
+    "sourceUrl": "original-editorial:homem-da-casa-support-1",
+    "path": "/assets/images/products/homem-da-casa-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "78c9900398045518764e993a3684f7d81692ad559cdbf63df13ca81cc1473797"
+  },
+  {
+    "sourceUrl": "original-editorial:homem-da-casa-support-2",
+    "path": "/assets/images/products/homem-da-casa-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "4bdec26d8be6271e298f51946190db2599cc4d17639f2ddf117c6c3ada9119f5"
+  },
+  {
+    "sourceUrl": "original-editorial:claude-para-financas",
+    "path": "/assets/images/products/claude-para-financas.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "623de12b898a4a580fe95070e1d3555a980b5e8ccb16819af5daa2acd3bca0fd"
+  },
+  {
+    "sourceUrl": "original-editorial:claude-para-financas-support-1",
+    "path": "/assets/images/products/claude-para-financas-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "e0b8db90a53890eaa39481db9a5dc49605d1f003740e13beb3e1c94c24f80f37"
+  },
+  {
+    "sourceUrl": "original-editorial:claude-para-financas-support-2",
+    "path": "/assets/images/products/claude-para-financas-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "8e12cd1ce05aa66391c5968d50fabf5165180839b9779b99a6e9516be33d4f39"
+  },
+  {
+    "sourceUrl": "original-editorial:formacao-redlips",
+    "path": "/assets/images/products/formacao-redlips.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "1b409a6b80437bdae73711eac09d0b7be164dc254ddefbd41230199d3787915f"
+  },
+  {
+    "sourceUrl": "original-editorial:formacao-redlips-support-1",
+    "path": "/assets/images/products/formacao-redlips-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "3747bc67c9fefc58fc438985f04f480b3467dc61ae3a6825fc50449c33be6927"
+  },
+  {
+    "sourceUrl": "original-editorial:formacao-redlips-support-2",
+    "path": "/assets/images/products/formacao-redlips-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "0892c843d0fee85433c7c78463155b7d0c3486ed1de3bdebc724979296e65734"
+  },
+  {
+    "sourceUrl": "original-editorial:leitura-baralho-cigano",
+    "path": "/assets/images/products/leitura-baralho-cigano.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "03adf2015777553d018a4b43e3b2ced76b96f18153f80d68de0498f9580e5317"
+  },
+  {
+    "sourceUrl": "original-editorial:leitura-baralho-cigano-support-1",
+    "path": "/assets/images/products/leitura-baralho-cigano-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "c6e2ec1ea929d4e248a9e52d191867d778ddaea5a2325c9f6cc7717cdb69f676"
+  },
+  {
+    "sourceUrl": "original-editorial:leitura-baralho-cigano-support-2",
+    "path": "/assets/images/products/leitura-baralho-cigano-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "b6588c61e831ce3acf280362c7d754f0cbf2b77d427c641bd6ad7bfc7ca2f8db"
+  },
+  {
+    "sourceUrl": "original-editorial:metodo-flow-futevolei",
+    "path": "/assets/images/products/metodo-flow-futevolei.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "f4a39d7c2b8608b1fa84a447074fb770dc5885aa086fa2f79842025d39cdbfe7"
+  },
+  {
+    "sourceUrl": "original-editorial:metodo-flow-futevolei-support-1",
+    "path": "/assets/images/products/metodo-flow-futevolei-support-1.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "0ff4826e9b25c625b229ad11928a5ecb2620450ceb755f731ba8ffd862652a60"
+  },
+  {
+    "sourceUrl": "original-editorial:metodo-flow-futevolei-support-2",
+    "path": "/assets/images/products/metodo-flow-futevolei-support-2.svg",
+    "width": 960,
+    "height": 600,
+    "status": "cached",
+    "sha256": "55b75f7644c38457253da7146ef89cc62520730b0189188dba6e510ee6eb74ae"
   }
 ]

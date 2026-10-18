@@ -353,6 +353,7 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-10-18 | 17 guias Kiwify e reconciliação da conta | `content/kiwify-guides.json`, gerador, catálogo, páginas, 51 SVGs e auditoria | 11 guias no catálogo; 6 páginas documentais noindex; afiliação desativada e GPBOX fora do catálogo |
 | 2026-10-17 | Abertura direta com imagem visível no celular e imagens locais verificadas | `topics/`, `content/product-openings.json`, novo preparador/validador, CSS e imagens | 71 guias preparados; 68 públicos conferidos em três telas; três imagens distintas por guia; fontes e afiliação preservadas |
 | 2026-10-17 | Revisão de copy por público em 70 guias e limpeza de páginas órfãs | `topics/`, catálogo, home, diretórios, sitemap e relatório editorial | Base atual do GitHub; estrutura, imagens, links e datas das fontes preservados; retenções de indexação mantidas; ver `COPY_REVIEW_2026-10-17.md` |
 | 2026-10-11 | Artigo de requisitos do curso de piano e três pautas diárias para itens existentes na Europa/EUA | `content/`, `scripts/`, artigo de piano, catálogo, sitemap, CSS e documentação | Três imagens por artigo; rascunhos fora da publicação; liberação de uma pauta por dia; sinais reais de busca ainda limitados |

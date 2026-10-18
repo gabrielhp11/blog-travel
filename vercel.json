@@ -576,6 +576,176 @@
       "source": "/boogie-woogie-piano-course-prerequisites.html",
       "destination": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
       "permanent": true
+    },
+    {
+      "source": "/comunidade-milhas",
+      "destination": "/topics/travel/points-and-miles/comunidade-milhas",
+      "permanent": true
+    },
+    {
+      "source": "/comunidade-milhas.html",
+      "destination": "/topics/travel/points-and-miles/comunidade-milhas",
+      "permanent": true
+    },
+    {
+      "source": "/gifts-da-isa",
+      "destination": "/topics/education/creative-learning/gifts-da-isa",
+      "permanent": true
+    },
+    {
+      "source": "/gifts-da-isa.html",
+      "destination": "/topics/education/creative-learning/gifts-da-isa",
+      "permanent": true
+    },
+    {
+      "source": "/confeitaria-express",
+      "destination": "/topics/education/creative-learning/confeitaria-express",
+      "permanent": true
+    },
+    {
+      "source": "/confeitaria-express.html",
+      "destination": "/topics/education/creative-learning/confeitaria-express",
+      "permanent": true
+    },
+    {
+      "source": "/excel-profissional",
+      "destination": "/topics/business/productivity/excel-profissional",
+      "permanent": true
+    },
+    {
+      "source": "/excel-profissional.html",
+      "destination": "/topics/business/productivity/excel-profissional",
+      "permanent": true
+    },
+    {
+      "source": "/manicure-padrao-excelencia",
+      "destination": "/topics/education/technical-training/manicure-padrao-excelencia",
+      "permanent": true
+    },
+    {
+      "source": "/manicure-padrao-excelencia.html",
+      "destination": "/topics/education/technical-training/manicure-padrao-excelencia",
+      "permanent": true
+    },
+    {
+      "source": "/aprenda-croche",
+      "destination": "/topics/education/creative-learning/aprenda-croche",
+      "permanent": true
+    },
+    {
+      "source": "/aprenda-croche.html",
+      "destination": "/topics/education/creative-learning/aprenda-croche",
+      "permanent": true
+    },
+    {
+      "source": "/supremo-enem",
+      "destination": "/topics/education/professional-learning/supremo-enem",
+      "permanent": true
+    },
+    {
+      "source": "/supremo-enem.html",
+      "destination": "/topics/education/professional-learning/supremo-enem",
+      "permanent": true
+    },
+    {
+      "source": "/design-sobrancelhas",
+      "destination": "/topics/education/technical-training/design-sobrancelhas",
+      "permanent": true
+    },
+    {
+      "source": "/design-sobrancelhas.html",
+      "destination": "/topics/education/technical-training/design-sobrancelhas",
+      "permanent": true
+    },
+    {
+      "source": "/segredo-adestramento-canino",
+      "destination": "/topics/education/pet-learning/segredo-adestramento-canino",
+      "permanent": true
+    },
+    {
+      "source": "/segredo-adestramento-canino.html",
+      "destination": "/topics/education/pet-learning/segredo-adestramento-canino",
+      "permanent": true
+    },
+    {
+      "source": "/ingles-para-viagens",
+      "destination": "/topics/education/language-learning/ingles-para-viagens",
+      "permanent": true
+    },
+    {
+      "source": "/ingles-para-viagens.html",
+      "destination": "/topics/education/language-learning/ingles-para-viagens",
+      "permanent": true
+    },
+    {
+      "source": "/recupery-do-zero",
+      "destination": "/topics/education/technical-training/recupery-do-zero",
+      "permanent": true
+    },
+    {
+      "source": "/recupery-do-zero.html",
+      "destination": "/topics/education/technical-training/recupery-do-zero",
+      "permanent": true
+    },
+    {
+      "source": "/fundamentos-do-corte",
+      "destination": "/topics/education/technical-training/fundamentos-do-corte",
+      "permanent": true
+    },
+    {
+      "source": "/fundamentos-do-corte.html",
+      "destination": "/topics/education/technical-training/fundamentos-do-corte",
+      "permanent": true
+    },
+    {
+      "source": "/homem-da-casa",
+      "destination": "/topics/education/family-learning/homem-da-casa",
+      "permanent": true
+    },
+    {
+      "source": "/homem-da-casa.html",
+      "destination": "/topics/education/family-learning/homem-da-casa",
+      "permanent": true
+    },
+    {
+      "source": "/claude-para-financas",
+      "destination": "/topics/business/finance-ai/claude-para-financas",
+      "permanent": true
+    },
+    {
+      "source": "/claude-para-financas.html",
+      "destination": "/topics/business/finance-ai/claude-para-financas",
+      "permanent": true
+    },
+    {
+      "source": "/formacao-redlips",
+      "destination": "/topics/education/technical-training/formacao-redlips",
+      "permanent": true
+    },
+    {
+      "source": "/formacao-redlips.html",
+      "destination": "/topics/education/technical-training/formacao-redlips",
+      "permanent": true
+    },
+    {
+      "source": "/leitura-baralho-cigano",
+      "destination": "/topics/education/holistic-learning/leitura-baralho-cigano",
+      "permanent": true
+    },
+    {
+      "source": "/leitura-baralho-cigano.html",
+      "destination": "/topics/education/holistic-learning/leitura-baralho-cigano",
+      "permanent": true
+    },
+    {
+      "source": "/metodo-flow-futevolei",
+      "destination": "/topics/education/fitness-learning/metodo-flow-futevolei",
+      "permanent": true
+    },
+    {
+      "source": "/metodo-flow-futevolei.html",
+      "destination": "/topics/education/fitness-learning/metodo-flow-futevolei",
+      "permanent": true
     }
   ],
   "headers": [

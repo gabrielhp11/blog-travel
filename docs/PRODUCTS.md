@@ -730,3 +730,8 @@ Complete daily drafts: Canva Free/Pro decision exercise (item 26, 12 October), E
 Shared buying explanations and navigation were revised across the public guides. Social Media Masterclass, NEXTMETHOD, Babbel and ExpertSlides gained product-specific editorial comparison scenarios. No new offer was published. All original product-guide external destinations were retained.
 
 The read-only HTTP and browser checks are recorded in `docs/audits/link-status-2026-10-12.json`, with held registrations in `docs/audits/REGISTERED_LINKS_2026-10-12.md`. HTTP success does not renew source verification, affiliate acceptance or price guarantees. Hook Mastery's supplier path reached the correct product 595134 checkout with the intended affiliate identifier visible; no order or commission-account verification occurred. The held Business Program redirect (626900) now identifies a Thomas Young Masterclass at `thomasyoung.online/love`; full offer identification remains necessary before release. CleanSeSana still has no purchase destination confirmed.
+
+
+## 18 October 2026 — Kiwify account reconciliation
+
+Created 17 Portuguese guides for missing active affiliations, each with three original labelled local illustrations and the exact account affiliate URL. Eleven enter the public catalog; six retain explicit documentation holds and noindex (Recupery, Confeitaria Express, Manicure, Design de Sobrancelhas, Homem da Casa, Baralho Cigano). Existing GPBOX remains hidden/noindex. IA para Finanças is now hidden/noindex because its account affiliation is disabled; the active Claude course has its own guide. See [full account audit, page list, sources and limits](KIWIFY_REVIEW_2026-10-18.md). No Google tracker was added after the user cancelled that request.
