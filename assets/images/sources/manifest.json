@@ -1346,5 +1346,86 @@
     "height": 600,
     "status": "cached",
     "sha256": "55b75f7644c38457253da7146ef89cc62520730b0189188dba6e510ee6eb74ae"
+  },
+  {
+    "sourceUrl": "https://drive.google.com/file/d/1_IxMcSd0B73fbM9F36QGp5v64oMYjQRH/view",
+    "usedBy": [
+      "topics/entertainment/gaming-network/gearup-booster.html"
+    ],
+    "path": "/assets/images/products/gearup-home.jpg",
+    "width": 998,
+    "height": 688,
+    "sha256": "3c04998ce156fd26da63342fb5373ae0f31a13c4ef562b04395059f2f91a19f3",
+    "bytes": 108754,
+    "retrievedAt": "2026-10-18",
+    "status": "cached",
+    "sourceFolder": "https://drive.google.com/drive/folders/1xH2KIPES8i1dg0qhHYPwndMKgLI6ys6P"
+  },
+  {
+    "sourceUrl": "https://drive.google.com/file/d/1kh_T5DgycT2AEouNWn9e3EMwdMYX2LxZ/view",
+    "usedBy": [
+      "topics/entertainment/gaming-network/gearup-booster.html"
+    ],
+    "path": "/assets/images/products/gearup-boosting.jpg",
+    "width": 997,
+    "height": 686,
+    "sha256": "d8dbd3635f85b8e3ade0e10fe778df4a64175edae7ddf6fcd792e851c0dbe053",
+    "bytes": 72911,
+    "retrievedAt": "2026-10-18",
+    "status": "cached",
+    "sourceFolder": "https://drive.google.com/drive/folders/1xH2KIPES8i1dg0qhHYPwndMKgLI6ys6P"
+  },
+  {
+    "sourceUrl": "https://drive.google.com/file/d/1yEg2OBhVCdeaomERPDMUUfHVPvvRufjt/view",
+    "usedBy": [
+      "topics/entertainment/gaming-network/gearup-booster.html"
+    ],
+    "path": "/assets/images/products/gearup-games.jpg",
+    "width": 1001,
+    "height": 691,
+    "sha256": "0a87bfadb6f4bf2bc01bfb427f25873428c17dfbbd045910a6287fa1d3b81675",
+    "bytes": 129485,
+    "retrievedAt": "2026-10-18",
+    "status": "cached",
+    "sourceFolder": "https://drive.google.com/drive/folders/1xH2KIPES8i1dg0qhHYPwndMKgLI6ys6P"
+  },
+  {
+    "sourceUrl": "https://cdn.creality.com/ow/official/47a2e434-2687-42d2-957d-97643f677a25.jpg",
+    "usedBy": [
+      "topics/business/maker-tools/creality-3d-printers.html"
+    ],
+    "path": "/assets/images/products/creality-k2-pro.jpg",
+    "width": 2808,
+    "height": 1740,
+    "sha256": "14d3d9bf3dd71b407007a36f6bd87030904f2cb95c87c4866f05ed81c99c7ba6",
+    "bytes": 131568,
+    "retrievedAt": "2026-10-18",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://cdn.creality.com/ow/official/13bbe83a-fa7a-4928-84f2-17566f746f31.png",
+    "usedBy": [
+      "topics/business/maker-tools/creality-3d-printers.html"
+    ],
+    "path": "/assets/images/products/creality-k2.png",
+    "width": 2808,
+    "height": 1740,
+    "sha256": "06d6a7a4425ca2d47a2fe9fecfe94ede8a014c26384a2e0bb186d5d6fe91a7d1",
+    "bytes": 495181,
+    "retrievedAt": "2026-10-18",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://cdn.creality.com/ow/official/4b0ce16b-8a45-4067-a074-bafb9091defb.jpg",
+    "usedBy": [
+      "topics/business/maker-tools/creality-3d-printers.html"
+    ],
+    "path": "/assets/images/products/creality-k2-plus.jpg",
+    "width": 2808,
+    "height": 1740,
+    "sha256": "b4afca4e534b0712307b54d94b403e1ce23713da69cfa515d718953917908e4b",
+    "bytes": 131507,
+    "retrievedAt": "2026-10-18",
+    "status": "cached"
   }
 ]

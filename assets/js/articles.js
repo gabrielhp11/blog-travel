@@ -9,6 +9,62 @@ const AFFILIATE_CONFIG = {
 };
 
 const blogArticles = [
+{
+  "id": 10018,
+  "topic": "business",
+  "subtopic": "maker-tools",
+  "locale": "en",
+  "market": "United States; verify delivery to your address",
+  "category": "3D printing tools",
+  "audience": "US beginners and makers choosing a first 3D printer setup",
+  "title": "Creality 3D Printers: Choose Your First US Setup",
+  "summary": "Compare Creality printer families with your projects, materials and workspace. Check the exact bundle, ongoing costs, US delivery and seller terms before buying.",
+  "highlights": [
+    "Compare printer families",
+    "Check bundle contents",
+    "Budget beyond the machine"
+  ],
+  "service": "Physical 3D printers",
+  "ctaText": "Explore Creality printers in the US store",
+  "reviewUrl": "topics/business/maker-tools/creality-3d-printers.html",
+  "bookingUrl": "/topics/business/maker-tools/creality-3d-printers",
+  "imageUrl": "assets/images/products/creality-k2-pro.jpg",
+  "imageAlt": "Official Creality K2 Pro printer photograph",
+  "imageType": "official",
+  "linkType": "affiliate",
+  "network": "CJ Affiliate",
+  "affiliateStatus": "Active advertiser 8023201; 3% displayed in account. CJ-generated US collection link 17337054 for property 101895710; redirect preserves publisher attribution. Payout not observed.",
+  "isDirectAffiliate": false,
+  "featured": false
+},
+{
+  "id": 10017,
+  "topic": "entertainment",
+  "subtopic": "gaming-network",
+  "locale": "pt-BR",
+  "market": "Brasil; confirme disponibilidade e cobrança no fornecedor",
+  "category": "Conexão para jogos",
+  "audience": "Jogadores de PC com ping ou conexão instável",
+  "title": "GearUP Booster: teste uma rota melhor para o seu jogo",
+  "summary": "Veja como o GearUP propõe otimizar a conexão de jogos no PC. Confira compatibilidade, teste disponível, assinatura e como comparar o ping antes de pagar.",
+  "highlights": [
+    "Compatibilidade por jogo",
+    "Compare durante o teste",
+    "Confira a renovação"
+  ],
+  "service": "Software de conexão para jogos",
+  "ctaText": "Ver GearUP e teste disponível",
+  "reviewUrl": "topics/entertainment/gaming-network/gearup-booster.html",
+  "bookingUrl": "/topics/entertainment/gaming-network/gearup-booster",
+  "imageUrl": "assets/images/products/gearup-home.jpg",
+  "imageAlt": "Tela inicial do GearUP em captura oficial da marca",
+  "imageType": "official",
+  "linkType": "affiliate",
+  "network": "Impact",
+  "affiliateStatus": "GearUP active in Impact My Brands; paid subscription 70% displayed, 30-day referral period. User supplied link redirect preserves partner 7712072. Payout not observed.",
+  "isDirectAffiliate": false,
+  "featured": false
+},
 // editorial-posts:start
 {
   "id": 79,
@@ -2058,6 +2114,10 @@ const blogArticles = [
     "featured": false
   },
   ];
+
+
+
+
 
 
 // kiwify-guides:start

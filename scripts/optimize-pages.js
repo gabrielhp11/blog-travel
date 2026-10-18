@@ -111,7 +111,8 @@ for (const file of files) {
     if (isEuropeanGuide(article) && europeHub) extraLinks.push(`<a href="${cleanPath(europeHub.file)}">${lang.startsWith('de') ? 'Europa-Ratgeber' : 'Europe buying guides'} &#8594;</a>`);
     if (lang.startsWith('de') && germanHub) extraLinks.push(`<a href="${cleanPath(germanHub.file)}" lang="de">Ratgeber auf Deutsch &#8594;</a>`);
     if (isUkIrelandGuide(article) && ukHub) extraLinks.push(`<a href="${cleanPath(ukHub.file)}">UK and Ireland guides &#8594;</a>`);
-    const relatedHtml = `<section class="editorial-section seo-related"><div class="container editorial-narrow"><h2>${text.related}</h2><ul class="seo-related-list">${related.map(item => `<li><a href="${cleanPath(item.reviewUrl)}" lang="${localeOf(item)}">${esc(item.title)}</a><small>${languages[localeOf(item)] || localeOf(item)} · ${esc(item.category)}</small></li>`).join('')}</ul>${extraLinks.join('')}</div></section>`;
+    if (!related.length) extraLinks.push(`<a href="/">${text.home} &#8594;</a>`);
+    const relatedHtml = `<section class="editorial-section seo-related"><div class="container editorial-narrow"><h2>${related.length ? text.related : text.browse}</h2><ul class="seo-related-list">${related.map(item => `<li><a href="${cleanPath(item.reviewUrl)}" lang="${localeOf(item)}">${esc(item.title)}</a><small>${languages[localeOf(item)] || localeOf(item)} · ${esc(item.category)}</small></li>`).join('')}</ul>${extraLinks.join('')}</div></section>`;
     const oldRelated = $('.seo-related').first().length ? $('.seo-related').first() : $('.offer-related-grid').closest('section').first();
     if (oldRelated.length) {
       const location = oldRelated[0].sourceCodeLocation;

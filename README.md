@@ -85,3 +85,7 @@ See [the 7 October European SEO audit](docs/SEO_EUROPE_AUDIT_2026-10-07.md) for 
 The home search combines topic, guide language and local text search. Cards lead to the product guide; seller and affiliate destinations stay inside that guide. `npm run seo:check` exercises these filters and verifies summaries, contents anchors, disclosures and guide-first catalog actions.
 
 `npm run links:audit` checks the public catalog, held registrations, external sources and site pages and writes a dated report. HTTP success is only reachability; bot blocks, JavaScript-only responses, prices, availability and affiliate eligibility need separate checks. See [the 12 October review](docs/PROJECT_REVIEW_2026-10-12.md) and [registered-link follow-ups](docs/audits/REGISTERED_LINKS_2026-10-12.md).
+
+## Gaming and maker offers
+
+The October 18 affiliate review adds a Portuguese GearUP PC connection guide and an English Creality US printer guide. Both use existing active partnerships and verified tracked destinations, with three pinned official images per page. `/guides/gaming` and the Gaming home filter expose gaming software independently of travel and courses; the Creality guide is grouped with business tools. See `docs/AFFILIATE_NETWORK_REVIEW_2026-10-18.md` for actual account states, candidate priorities and unconfirmed application attempts. Do not mark pending or blocked applications as approved.

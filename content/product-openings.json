@@ -350,5 +350,13 @@
   "topics/education/fitness-learning/metodo-flow-futevolei.html": {
     "description": "Curso em vídeo de futevôlei com sete módulos. Compare os fundamentos, o tempo de prática e as condições de acesso antes de começar.",
     "modified": "2026-10-18"
+  },
+  "topics/entertainment/gaming-network/gearup-booster.html": {
+    "description": "GearUP Booster é um software de otimização de conexão para jogos. No PC, ele busca rotas alternativas até o servidor para tentar reduzir ping, variação de latência e perda de pacotes. O resultado depende da sua rede e do jogo.",
+    "modified": "2026-10-18"
+  },
+  "topics/business/maker-tools/creality-3d-printers.html": {
+    "description": "Creality makes 3D printers that turn digital models into physical objects. This guide is for US shoppers comparing the printer, materials and setup needed for a first purchase from the official US store.",
+    "modified": "2026-10-18"
   }
 }

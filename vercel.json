@@ -746,6 +746,26 @@
       "source": "/metodo-flow-futevolei.html",
       "destination": "/topics/education/fitness-learning/metodo-flow-futevolei",
       "permanent": true
+    },
+    {
+      "source": "/gearup",
+      "destination": "/topics/entertainment/gaming-network/gearup-booster",
+      "permanent": true
+    },
+    {
+      "source": "/gearup.html",
+      "destination": "/topics/entertainment/gaming-network/gearup-booster",
+      "permanent": true
+    },
+    {
+      "source": "/creality",
+      "destination": "/topics/business/maker-tools/creality-3d-printers",
+      "permanent": true
+    },
+    {
+      "source": "/creality.html",
+      "destination": "/topics/business/maker-tools/creality-3d-printers",
+      "permanent": true
     }
   ],
   "headers": [

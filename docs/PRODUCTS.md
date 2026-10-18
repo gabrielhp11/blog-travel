@@ -1,5 +1,12 @@
 # Guias públicos da PokiSky
 
+## Parcerias ativas verificadas em 18/10/2026
+
+- **GearUP Booster (Impact, PC):** [guia em português](https://blog-travel-eight.vercel.app/topics/entertainment/gaming-network/gearup-booster). Link fornecido: <https://gearup.sjv.io/YVG1OO>. GearUP em My Brands, 70% exibidos e referência de 30 dias; não confundir percentual com comissão já recebida. Três capturas oficiais da pasta promocional. Resultado de ping depende da rede; teste, cobrança e renovação explícitos.
+- **Creality (CJ, coleção US):** [guia em inglês](https://blog-travel-eight.vercel.app/topics/business/maker-tools/creality-3d-printers). Link gerado pela conta: <https://www.tkqlhce.com/click-101895710-17337054>. Anunciante ativo com 3% exibidos. Destino US, parâmetros CJ preservados no redirecionamento; entrega para Brasil não estabelecida. Três fotos oficiais K2/K2 Pro/K2 Plus, com fonte e hash no manifesto.
+
+Análise das redes, candidatos e bloqueios: [AFFILIATE_NETWORK_REVIEW_2026-10-18.md](AFFILIATE_NETWORK_REVIEW_2026-10-18.md). Nenhuma nova candidatura ou aprovação foi confirmada nesta execução; as duas páginas usam parcerias preexistentes ativas.
+
 Lista operacional das páginas de produto e curso no catálogo público. O catálogo é definido em `assets/js/articles.js`; páginas `noindex` ou ocultas não devem aparecer aqui.
 
 ## Produtos ON
