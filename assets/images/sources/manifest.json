@@ -1492,5 +1492,187 @@
     "bytes": 12130,
     "retrievedAt": "2026-10-24T17:16:10.842229+00:00",
     "status": "cached"
+  },
+  {
+    "sourceUrl": "https://sleep-strips.elixolve.com/__l5e/assets-v1/be4f1459-ecae-4025-ab27-cb4df181704b/elixolve-hero-three-pack.png",
+    "usedBy": [
+      "topics/wellness/nutrition/elixolve-sleep-strips.html"
+    ],
+    "path": "/assets/images/sources/elixolve-sleep-strips-pack.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "cc0217329d96a6577061ea6c3d68a2ee68e8c232327d4d638f5c213bc2c28b73",
+    "bytes": 1770226,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://sleep-strips.elixolve.com/__l5e/assets-v1/099e7db8-ddb3-4ab8-9bce-1ce56ce09300/supplement-facts.webp",
+    "usedBy": [
+      "topics/wellness/nutrition/elixolve-sleep-strips.html"
+    ],
+    "path": "/assets/images/sources/elixolve-sleep-strips-facts.webp",
+    "width": 812,
+    "height": 812,
+    "sha256": "0b66420bfa2616aa2aa5ad84daf8508bf85536ff55ac1384969fea2e29bf2028",
+    "bytes": 74702,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://sleep-strips.elixolve.com/__l5e/assets-v1/388f759f-ad5a-4298-98e7-b63ca2de99f2/report-product-tin.webp",
+    "usedBy": [
+      "topics/wellness/nutrition/elixolve-sleep-strips.html"
+    ],
+    "path": "/assets/images/sources/elixolve-sleep-strips-context.webp",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "5d9e168824de02d931d5f71e9ebe04f363a464a566a3a0f50efcef64fad1ed9d",
+    "bytes": 87900,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://www.checkout-ds24.com/pb/img/merchant_4982699/image/product/UU44VHJ8.png?o=440",
+    "usedBy": [
+      "topics/wellness/metabolic-health/slimsana.html"
+    ],
+    "path": "/assets/images/sources/slimsana-bottle.webp",
+    "width": 500,
+    "height": 887,
+    "sha256": "768358793bf3fca155c66d91d750030f1af03c44f166cffdd230a794027c5fdb",
+    "bytes": 60140,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.cdn.filesafe.space/L4LdQDk3vJiv9duiMlUd/media/695447a22c710811bdfae197.pdf",
+    "usedBy": [
+      "topics/wellness/metabolic-health/slimsana.html"
+    ],
+    "path": "/assets/images/sources/slimsana-label.png",
+    "width": 1900,
+    "height": 742,
+    "sha256": "1c4f9241971439437a4db2db70eee13b6090dc61eedc2fb5fda09f1a577da0ab",
+    "bytes": 449150,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://www.checkout-ds24.com/pb/img/merchant_4982699/image/product/NOLF6Z3D.png?o=440",
+    "usedBy": [
+      "topics/wellness/metabolic-health/metabosana.html"
+    ],
+    "path": "/assets/images/sources/metabosana-bottle.webp",
+    "width": 500,
+    "height": 887,
+    "sha256": "b1aa94daacec2b40dbb48b391f030038f357408c71fcf66ac2e9fb60c33bf1fc",
+    "bytes": 61614,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.cdn.filesafe.space/L4LdQDk3vJiv9duiMlUd/media/695447aaeadab22820f22257.pdf",
+    "usedBy": [
+      "topics/wellness/metabolic-health/metabosana.html"
+    ],
+    "path": "/assets/images/sources/metabosana-label.png",
+    "width": 1900,
+    "height": 742,
+    "sha256": "650cc21998a3c7a2a7fc9dc6d3c42910121eeecd0c3b0571d83f3c3030217718",
+    "bytes": 510612,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://www.checkout-ds24.com/pb/img/merchant_4982699/image/product/X2U0DEW6.png?o=440",
+    "usedBy": [
+      "topics/wellness/metabolic-health/glucosana.html"
+    ],
+    "path": "/assets/images/sources/glucosana-bottle.webp",
+    "width": 500,
+    "height": 887,
+    "sha256": "fff0943157f09ea365d10125e7dbe19f4684a07443753f31cc263ee8855cf548",
+    "bytes": 63536,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.cdn.filesafe.space/L4LdQDk3vJiv9duiMlUd/media/695447b7035c3a19e7ea7098.pdf",
+    "usedBy": [
+      "topics/wellness/metabolic-health/glucosana.html"
+    ],
+    "path": "/assets/images/sources/glucosana-label.png",
+    "width": 1900,
+    "height": 742,
+    "sha256": "0fac1b0ab939a5d19a69878b2167853a30726cf55ff19442d86e9ab493a83c3e",
+    "bytes": 495753,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://www.checkout-ds24.com/pb/img/merchant_4982699/image/product/SCQH3FQ2.png?o=200",
+    "usedBy": [
+      "topics/wellness/mens-health/herosana-caliber.html"
+    ],
+    "path": "/assets/images/sources/herosana-caliber-bottle.webp",
+    "width": 200,
+    "height": 248,
+    "sha256": "149a27da5314d077297533bd9ccf37c38a7ced9dcbe9dea41289d03bb77dd0d4",
+    "bytes": 25040,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.cdn.filesafe.space/L4LdQDk3vJiv9duiMlUd/media/6a3d4719f8473fa2aefc1005.pdf",
+    "usedBy": [
+      "topics/wellness/mens-health/herosana-caliber.html"
+    ],
+    "path": "/assets/images/sources/herosana-caliber-label.png",
+    "width": 1900,
+    "height": 902,
+    "sha256": "d361a87248d8774ebf15f07cf3a0958e5b42e707b919b2c7f531ec571752e6f8",
+    "bytes": 468048,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://www.checkout-ds24.com/pb/img/merchant_4333617/image/product/8IVMMTZS.png?o=440",
+    "usedBy": [
+      "topics/wellness/metabolic-health/glucotrust-german.html"
+    ],
+    "path": "/assets/images/sources/glucotrust-german-bottle.webp",
+    "width": 500,
+    "height": 500,
+    "sha256": "a9b68a0460ee24dfd03056842895706986230cf00a4d138bf0fe1e0b36457619",
+    "bytes": 24420,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://assets.cdn.filesafe.space/L4LdQDk3vJiv9duiMlUd/media/6725162aae11b273468079bc.pdf",
+    "usedBy": [
+      "topics/wellness/metabolic-health/glucotrust-german.html"
+    ],
+    "path": "/assets/images/sources/glucotrust-german-label.png",
+    "width": 1900,
+    "height": 742,
+    "sha256": "e3ef9352dc7387a86ecebd26b1f19dc8d336870f05d58a2dc50ff100a40aa0a2",
+    "bytes": 470176,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://gluconite.co/home-new/images/three-bottle.png",
+    "usedBy": [
+      "topics/wellness/nutrition/gluconite.html"
+    ],
+    "path": "/assets/images/sources/gluconite-bottle.png",
+    "width": 600,
+    "height": 358,
+    "sha256": "0a7111e3853ddee464232397147cc2ca49b2470b982999869a30afccda2584bf",
+    "bytes": 245406,
+    "retrievedAt": "2026-10-25",
+    "status": "cached"
   }
 ]

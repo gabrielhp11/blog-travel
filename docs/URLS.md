@@ -19,3 +19,15 @@ The homepage catalog is maintained separately in `assets/js/articles.js`. Affili
 - `/selfplus-age-plus` → `/topics/wellness/longevity/selfplus-age-plus` (inglês; entrega somente US).
 - `/alpha-dualis` → `/topics/wellness/mens-health/alpha-dualis` (inglês; verificações de rótulo e oferta US).
 - Ambos também têm alias com `.html`; o catálogo e `/guides/wellness` apontam para os guias antes de qualquer oferta externa.
+
+
+## Supplement expansion — 25 October 2026
+
+- [Elixolve Sleep Strips: Ingredients & US Pack Costs](/topics/wellness/nutrition/elixolve-sleep-strips) · en
+- [SlimSana: Inhaltsstoffe, Kosten & Kaufbedingungen](/topics/wellness/metabolic-health/slimsana) · de-DE
+- [MetaboSana: Etikett, EGCG-Hinweise & Kosten](/topics/wellness/metabolic-health/metabosana) · de-DE
+- [GlucoSana: Chrom-Etikett & Kaufbedingungen](/topics/wellness/metabolic-health/glucosana) · de-DE
+- [HeroSana Caliber: Gummies, Etikett & Abo-Checks](/topics/wellness/mens-health/herosana-caliber) · de-DE
+- [GlucoTrust auf Deutsch: Etikett & Kaufkosten](/topics/wellness/metabolic-health/glucotrust-german) · de-DE
+- [Gluconite: Pack Costs, Returns & Label Questions](/topics/wellness/nutrition/gluconite) · en
+- [Insulin Herb Berberine: Costs & Formula Questions](/topics/wellness/metabolic-health/insulin-herb-berberine) · en

@@ -751,3 +751,15 @@ The read-only HTTP and browser checks are recorded in `docs/audits/link-status-2
 ## 18 October 2026 — Kiwify account reconciliation
 
 Created 17 Portuguese guides for missing active affiliations, each with three original labelled local illustrations and the exact account affiliate URL. Eleven enter the public catalog; six retain explicit documentation holds and noindex (Recupery, Confeitaria Express, Manicure, Design de Sobrancelhas, Homem da Casa, Baralho Cigano). Existing GPBOX remains hidden/noindex. IA para Finanças is now hidden/noindex because its account affiliation is disabled; the active Claude course has its own guide. See [full account audit, page list, sources and limits](KIWIFY_REVIEW_2026-10-18.md). No Google tracker was added after the user cancelled that request.
+
+
+## Supplement expansion — 25 October 2026
+
+- [Elixolve Sleep Strips: Ingredients & US Pack Costs](/topics/wellness/nutrition/elixolve-sleep-strips) · en
+- [SlimSana: Inhaltsstoffe, Kosten & Kaufbedingungen](/topics/wellness/metabolic-health/slimsana) · de-DE
+- [MetaboSana: Etikett, EGCG-Hinweise & Kosten](/topics/wellness/metabolic-health/metabosana) · de-DE
+- [GlucoSana: Chrom-Etikett & Kaufbedingungen](/topics/wellness/metabolic-health/glucosana) · de-DE
+- [HeroSana Caliber: Gummies, Etikett & Abo-Checks](/topics/wellness/mens-health/herosana-caliber) · de-DE
+- [GlucoTrust auf Deutsch: Etikett & Kaufkosten](/topics/wellness/metabolic-health/glucotrust-german) · de-DE
+- [Gluconite: Pack Costs, Returns & Label Questions](/topics/wellness/nutrition/gluconite) · en
+- [Insulin Herb Berberine: Costs & Formula Questions](/topics/wellness/metabolic-health/insulin-herb-berberine) · en

@@ -786,6 +786,86 @@
       "source": "/creality.html",
       "destination": "/topics/business/maker-tools/creality-3d-printers",
       "permanent": true
+    },
+    {
+      "source": "/elixolve-sleep-strips",
+      "destination": "/topics/wellness/nutrition/elixolve-sleep-strips",
+      "permanent": true
+    },
+    {
+      "source": "/elixolve-sleep-strips.html",
+      "destination": "/topics/wellness/nutrition/elixolve-sleep-strips",
+      "permanent": true
+    },
+    {
+      "source": "/slimsana",
+      "destination": "/topics/wellness/metabolic-health/slimsana",
+      "permanent": true
+    },
+    {
+      "source": "/slimsana.html",
+      "destination": "/topics/wellness/metabolic-health/slimsana",
+      "permanent": true
+    },
+    {
+      "source": "/metabosana",
+      "destination": "/topics/wellness/metabolic-health/metabosana",
+      "permanent": true
+    },
+    {
+      "source": "/metabosana.html",
+      "destination": "/topics/wellness/metabolic-health/metabosana",
+      "permanent": true
+    },
+    {
+      "source": "/glucosana",
+      "destination": "/topics/wellness/metabolic-health/glucosana",
+      "permanent": true
+    },
+    {
+      "source": "/glucosana.html",
+      "destination": "/topics/wellness/metabolic-health/glucosana",
+      "permanent": true
+    },
+    {
+      "source": "/herosana-caliber",
+      "destination": "/topics/wellness/mens-health/herosana-caliber",
+      "permanent": true
+    },
+    {
+      "source": "/herosana-caliber.html",
+      "destination": "/topics/wellness/mens-health/herosana-caliber",
+      "permanent": true
+    },
+    {
+      "source": "/glucotrust-german",
+      "destination": "/topics/wellness/metabolic-health/glucotrust-german",
+      "permanent": true
+    },
+    {
+      "source": "/glucotrust-german.html",
+      "destination": "/topics/wellness/metabolic-health/glucotrust-german",
+      "permanent": true
+    },
+    {
+      "source": "/gluconite",
+      "destination": "/topics/wellness/nutrition/gluconite",
+      "permanent": true
+    },
+    {
+      "source": "/gluconite.html",
+      "destination": "/topics/wellness/nutrition/gluconite",
+      "permanent": true
+    },
+    {
+      "source": "/insulin-herb-berberine",
+      "destination": "/topics/wellness/metabolic-health/insulin-herb-berberine",
+      "permanent": true
+    },
+    {
+      "source": "/insulin-herb-berberine.html",
+      "destination": "/topics/wellness/metabolic-health/insulin-herb-berberine",
+      "permanent": true
     }
   ],
   "headers": [

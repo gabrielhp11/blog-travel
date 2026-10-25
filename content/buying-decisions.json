@@ -2,44 +2,108 @@
   "topics/education/language-learning/babbel.html": {
     "heading": "Match the subscription to one real conversation",
     "intro": "These are editorial planning scenarios, not promised learning results. Write down a situation, your base language and your starting level before comparing a subscription.",
-    "columns": ["Your goal", "What to compare", "When to pause"],
+    "columns": [
+      "Your goal",
+      "What to compare",
+      "When to pause"
+    ],
     "rows": [
-      ["Use everyday phrases on a trip", "Check that the target language is available from your base language. Choose lessons for the situations you expect and allow time for revision.", "Do not pay for a long plan solely because the headline monthly equivalent looks low. Compare the full billed amount with your travel date."],
-      ["Continue beyond beginner lessons", "Check the actual course levels and sample content for your language pair, rather than assuming every language has the same depth.", "Pause if the level you need is not clearly included in the selected subscription."],
-      ["Build speaking confidence", "Use app exercises as one part of a routine that also includes listening and real conversation where possible.", "Do not treat an app subscription as a guarantee of fluency or assume live tuition is included."]
+      [
+        "Use everyday phrases on a trip",
+        "Check that the target language is available from your base language. Choose lessons for the situations you expect and allow time for revision.",
+        "Do not pay for a long plan solely because the headline monthly equivalent looks low. Compare the full billed amount with your travel date."
+      ],
+      [
+        "Continue beyond beginner lessons",
+        "Check the actual course levels and sample content for your language pair, rather than assuming every language has the same depth.",
+        "Pause if the level you need is not clearly included in the selected subscription."
+      ],
+      [
+        "Build speaking confidence",
+        "Use app exercises as one part of a routine that also includes listening and real conversation where possible.",
+        "Do not treat an app subscription as a guarantee of fluency or assume live tuition is included."
+      ]
     ],
     "next": "Before opening the offer, note your language pair, level, purchasing channel, total charge and renewal date. Keep those five checks beside the plan comparison."
   },
   "topics/business/productivity/expertslides-powerpoint.html": {
     "heading": "Decide whether you need this add-in or a different workflow",
     "intro": "Start with a deck you already create. The useful comparison is whether the advertised workflow fits your software, permission and licence requirements.",
-    "columns": ["Your situation", "What to compare", "When to pause"],
+    "columns": [
+      "Your situation",
+      "What to compare",
+      "When to pause"
+    ],
     "rows": [
-      ["You regularly build decks in PowerPoint", "Compare the supplier’s sample layouts with one agenda, chart or timeline you need. Confirm the add-in works with your version and operating system.", "Pause if you need a different presentation application or your organisation does not permit the add-in."],
-      ["You create presentations for clients", "Ask which plan permits your exact client use. The public commercial-use wording and current Pro/Premium terms differ, as explained below.", "Do not assume that buying Pro permits redistribution or resale of the supplied assets."],
-      ["You are comparing a trial with the annual plan", "Write down the trial end, full annual total, renewal rule and cancellation deadline. Compare the monthly option separately.", "Do not read an annual plan’s monthly equivalent as a monthly billing commitment, or assume prepaid months are refundable."]
+      [
+        "You regularly build decks in PowerPoint",
+        "Compare the supplier’s sample layouts with one agenda, chart or timeline you need. Confirm the add-in works with your version and operating system.",
+        "Pause if you need a different presentation application or your organisation does not permit the add-in."
+      ],
+      [
+        "You create presentations for clients",
+        "Ask which plan permits your exact client use. The public commercial-use wording and current Pro/Premium terms differ, as explained below.",
+        "Do not assume that buying Pro permits redistribution or resale of the supplied assets."
+      ],
+      [
+        "You are comparing a trial with the annual plan",
+        "Write down the trial end, full annual total, renewal rule and cancellation deadline. Compare the monthly option separately.",
+        "Do not read an annual plan’s monthly equivalent as a monthly billing commitment, or assume prepaid months are refundable."
+      ]
     ],
     "next": "Ask the supplier to identify the exact add-in or AI platform, included features and licence in writing before depending on an ambiguous order description."
   },
   "topics/business/professional-learning/chargeback-prevention-masterclass.html": {
     "heading": "Compare the training with the records you already keep",
     "intro": "This comparison helps you assess an educational purchase. It does not determine how a real dispute should be handled or replace your payment provider’s current instructions.",
-    "columns": ["Your situation", "What to compare", "When to pause"],
+    "columns": [
+      "Your situation",
+      "What to compare",
+      "When to pause"
+    ],
     "rows": [
-      ["You want a structured documentation routine", "Compare the advertised module outline and worksheets with gaps in your current order records, policies and communication process.", "Pause if you cannot identify which part of the syllabus adds value beyond the resources you already use."],
-      ["You need somebody to manage an active dispute", "The supplier describes training and planning tools. Ask what support is included; the course does not manage disputes for you.", "Do not choose the package on an expectation of representation or guaranteed dispute outcomes."],
-      ["Several staff members would use the file", "Check the single-user or licensed-business terms, permitted internal use, device compatibility and backup process.", "Pause if sharing permissions, updates or access duration are unresolved. We have not tested the file or its local-storage claims."]
+      [
+        "You want a structured documentation routine",
+        "Compare the advertised module outline and worksheets with gaps in your current order records, policies and communication process.",
+        "Pause if you cannot identify which part of the syllabus adds value beyond the resources you already use."
+      ],
+      [
+        "You need somebody to manage an active dispute",
+        "The supplier describes training and planning tools. Ask what support is included; the course does not manage disputes for you.",
+        "Do not choose the package on an expectation of representation or guaranteed dispute outcomes."
+      ],
+      [
+        "Several staff members would use the file",
+        "Check the single-user or licensed-business terms, permitted internal use, device compatibility and backup process.",
+        "Pause if sharing permissions, updates or access duration are unresolved. We have not tested the file or its local-storage claims."
+      ]
     ],
     "next": "List the module you need, intended users, device, backup requirements and access questions before comparing the full checkout commitment below."
   },
   "topics/business/creative-learning/social-media-masterclass.html": {
     "heading": "Vom Lernziel zur Kaufentscheidung",
     "intro": "Diese redaktionellen Planungsszenarien helfen beim Vergleich. Sie sind keine Zusicherung von Reichweite, Kunden oder Einnahmen.",
-    "columns": ["Ihr Ausgangspunkt", "Was Sie vergleichen sollten", "Wann Sie warten sollten"],
+    "columns": [
+      "Ihr Ausgangspunkt",
+      "Was Sie vergleichen sollten",
+      "Wann Sie warten sollten"
+    ],
     "rows": [
-      ["Sie möchten Ihren ersten Content-Workflow aufbauen", "Wählen Sie einen Kanal und ein eigenes Angebot. Vergleichen Sie die neun beschriebenen Module mit den konkreten Aufgaben, die Ihnen noch fehlen.", "Kaufen Sie nicht allein wegen einer Einnahmenserwartung. Planen Sie Zeit für Lernen, Überarbeiten und Veröffentlichen ein."],
-      ["Sie können bereits gestalten, brauchen aber Planung", "Prüfen Sie die Inhalte zu Veröffentlichungsplanung, Profilen und Handlungsaufforderungen. Fragen Sie, wie tief die für Sie relevanten Themen behandelt werden.", "Warten Sie, wenn die Übersicht Ihr konkretes Problem nicht erklärt oder überwiegend bereits bekannte Grundlagen nennt."],
-      ["Sie vergleichen Ihr Gesamtbudget", "Trennen Sie den Kurspreis von möglichen KI-, Design- und Planungsabonnements. Fragen Sie nach den aktuell eingesetzten Werkzeugen und Nutzungsgrenzen.", "Gehen Sie nicht davon aus, dass alle Softwarekosten, Launch-Boni oder eine bestimmte Zugangsdauer im Kurs enthalten sind."]
+      [
+        "Sie möchten Ihren ersten Content-Workflow aufbauen",
+        "Wählen Sie einen Kanal und ein eigenes Angebot. Vergleichen Sie die neun beschriebenen Module mit den konkreten Aufgaben, die Ihnen noch fehlen.",
+        "Kaufen Sie nicht allein wegen einer Einnahmenserwartung. Planen Sie Zeit für Lernen, Überarbeiten und Veröffentlichen ein."
+      ],
+      [
+        "Sie können bereits gestalten, brauchen aber Planung",
+        "Prüfen Sie die Inhalte zu Veröffentlichungsplanung, Profilen und Handlungsaufforderungen. Fragen Sie, wie tief die für Sie relevanten Themen behandelt werden.",
+        "Warten Sie, wenn die Übersicht Ihr konkretes Problem nicht erklärt oder überwiegend bereits bekannte Grundlagen nennt."
+      ],
+      [
+        "Sie vergleichen Ihr Gesamtbudget",
+        "Trennen Sie den Kurspreis von möglichen KI-, Design- und Planungsabonnements. Fragen Sie nach den aktuell eingesetzten Werkzeugen und Nutzungsgrenzen.",
+        "Gehen Sie nicht davon aus, dass alle Softwarekosten, Launch-Boni oder eine bestimmte Zugangsdauer im Kurs enthalten sind."
+      ]
     ],
     "next": "Notieren Sie vor dem Checkout Ihr Lernziel, die benötigten Module, Ihr Werkzeugbudget und offene Fragen zu Zugang und Kaufbedingungen."
   },
@@ -96,5 +160,221 @@
       ]
     ],
     "next": "Obtain the current labels and package contents first; then check your delivery eligibility, final total and return instructions."
+  },
+  "topics/wellness/nutrition/elixolve-sleep-strips.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial buying scenarios, not health recommendations or promised outcomes.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Current label",
+        "The published Supplement Facts lists 1 oral strip (210 mg) and 30 servings per tin. The 1 mg melatonin amount is per strip. The plant extracts are separate ingredients, not additional melatonin. A dissolving format does not itself establish faster action or better absorption.",
+        "Ask the supplier if the full current panel is unavailable."
+      ],
+      [
+        "Supply and total cost",
+        "Two tins contain 60 strips; three contain 90; six contain 180. Compare the full amount paid and the number of strips, rather than treating the largest advertised bundle as a personal usage recommendation.",
+        "Do not buy more solely for a lower unit price."
+      ],
+      [
+        "Suitability and warnings",
+        "This is a source-based description, not a recommendation to start melatonin. Review the complete ingredients and discuss suitability with a qualified healthcare professional, especially for pregnancy, nursing, medication or a medical condition.",
+        "Resolve clinical questions before ordering."
+      ]
+    ],
+    "next": "Check the label, eligible address, final total and return terms."
+  },
+  "topics/wellness/metabolic-health/slimsana.html": {
+    "heading": "Drei Prüfungen vor dem Kauf",
+    "intro": "Redaktionelle Vergleichssituationen, keine gesundheitlichen Empfehlungen oder Ergebniszusagen.",
+    "columns": [
+      "Ihre Frage",
+      "Was Sie prüfen",
+      "Wann Sie warten sollten"
+    ],
+    "rows": [
+      [
+        "Aktuelles Etikett",
+        "Das aktuelle Lieferantenetikett nennt eine Kapsel als Portion und 30 Kapseln pro Flasche. Grüntee-Extrakt, Apfelessig und Berberin-HCl werden mit eigenen Mengen aufgeführt. Die Gewichte verschiedener Stoffe sind keine vergleichbaren Wirksamkeitswerte.",
+        "Bei unvollständigen Angaben den Anbieter fragen."
+      ],
+      [
+        "Vorrat und Gesamtkosten",
+        "Das Etikett druckt für 100 µg Chrom 286 % NRV. GlucoSana druckt für dieselbe Menge 250 %. Diese Abweichung ist ein Grund, die aktuelle Packung und die Referenzangabe beim Anbieter zu prüfen; die Prozentzahl wird hier nicht als Qualitätsvergleich verwendet.",
+        "Nicht allein wegen des niedrigsten Stückpreises mehr kaufen."
+      ],
+      [
+        "Eignung und Warnungen",
+        "Laut Etikett nicht für unter 18-Jährige, Schwangere oder Stillende. Bei Medikamenten oder Erkrankungen vorher ärztlich beraten lassen. Das Etikett verlangt bei Diabetes oder Hypoglykämie wegen Chrom ärztliche Aufsicht. Der Ratgeber belegt keinen Gewichtsverlust.",
+        "Ärztliche Fragen vor einer Bestellung klären."
+      ]
+    ],
+    "next": "Etikett, Lieferland, Endbetrag und Rückgabe prüfen."
+  },
+  "topics/wellness/metabolic-health/metabosana.html": {
+    "heading": "Drei Prüfungen vor dem Kauf",
+    "intro": "Redaktionelle Vergleichssituationen, keine gesundheitlichen Empfehlungen oder Ergebniszusagen.",
+    "columns": [
+      "Ihre Frage",
+      "Was Sie prüfen",
+      "Wann Sie warten sollten"
+    ],
+    "rows": [
+      [
+        "Aktuelles Etikett",
+        "Eine Kapsel enthält laut Etikett 75 mg Alpha-Liponsäure, 75 mg Grünteeblatt sowie weitere Stoffe. Die Grüntee-Zeile nennt 98 % Polyphenole, 80 % Catechine und 50 % EGCG. Das sind Standardisierungsangaben derselben Zutat, keine zusätzlichen Zutatenmengen.",
+        "Bei unvollständigen Angaben den Anbieter fragen."
+      ],
+      [
+        "Vorrat und Gesamtkosten",
+        "Wichtig ist die EGCG-Warnung: nicht am selben Tag mit anderen Grüntee-Produkten konsumieren und nicht auf nüchternen Magen einnehmen. Das Etikett nennt außerdem eine Obergrenze von 800 mg EGCG pro Tag. Diese Grenze ist keine empfohlene Dosis für dieses Produkt.",
+        "Nicht allein wegen des niedrigsten Stückpreises mehr kaufen."
+      ],
+      [
+        "Eignung und Warnungen",
+        "Das Etikett nennt 30 Kapseln und eine Kapsel mit Nahrung. Nicht für unter 18-Jährige, Schwangere oder Stillende. Bei Medikamenten oder Erkrankungen ärztlich beraten lassen; bei Diabetes oder Hypoglykämie verlangt das Etikett ärztliche Aufsicht.",
+        "Ärztliche Fragen vor einer Bestellung klären."
+      ]
+    ],
+    "next": "Etikett, Lieferland, Endbetrag und Rückgabe prüfen."
+  },
+  "topics/wellness/metabolic-health/glucosana.html": {
+    "heading": "Drei Prüfungen vor dem Kauf",
+    "intro": "Redaktionelle Vergleichssituationen, keine gesundheitlichen Empfehlungen oder Ergebniszusagen.",
+    "columns": [
+      "Ihre Frage",
+      "Was Sie prüfen",
+      "Wann Sie warten sollten"
+    ],
+    "rows": [
+      [
+        "Aktuelles Etikett",
+        "Das aktuelle Etikett nennt 30 Kapseln und eine Kapsel mit Nahrung. Es führt vier Nährstoffe sowie eine Mischung pflanzlicher Stoffe auf. 200 mg Kurkuma-Rhizom sind beispielsweise nicht gleichbedeutend mit 200 mg isoliertem Curcumin.",
+        "Bei unvollständigen Angaben den Anbieter fragen."
+      ],
+      [
+        "Vorrat und Gesamtkosten",
+        "Die geprüften deutschen Etiketten von GlucoSana und GlucoTrust listen dieselben Nährstoff- und Pflanzenmengen. Es sind unterschiedliche Markenangebote mit vergleichbaren Deklarationen. Daraus folgt weder ein Vorteil des Kombinierens noch eine Empfehlung, beide einzunehmen.",
+        "Nicht allein wegen des niedrigsten Stückpreises mehr kaufen."
+      ],
+      [
+        "Eignung und Warnungen",
+        "Das Etikett warnt vor Verwendung bei bestimmten Gallenwegs-, Leber- und Gallenblasenerkrankungen wegen Kurkuma. Nicht für unter 18-Jährige, Schwangere oder Stillende. Bei Medikamenten oder Erkrankungen ärztlich beraten lassen. Nahrungsergänzung ersetzt keine Diabetes-Behandlung; Medikamente nicht aufgrund von Verkaufsaussagen ändern.",
+        "Ärztliche Fragen vor einer Bestellung klären."
+      ]
+    ],
+    "next": "Etikett, Lieferland, Endbetrag und Rückgabe prüfen."
+  },
+  "topics/wellness/mens-health/herosana-caliber.html": {
+    "heading": "Drei Prüfungen vor dem Kauf",
+    "intro": "Redaktionelle Vergleichssituationen, keine gesundheitlichen Empfehlungen oder Ergebniszusagen.",
+    "columns": [
+      "Ihre Frage",
+      "Was Sie prüfen",
+      "Wann Sie warten sollten"
+    ],
+    "rows": [
+      [
+        "Aktuelles Etikett",
+        "Das aktuelle PDF-Etikett nennt eine Gummipastille täglich und 30 Gummipastillen pro Glas. Die Verkaufseite beschreibt zugleich eine Zwei-Gummi-Routine. Der Ratgeber übernimmt die Etikettangabe und empfiehlt keine Verdopplung anhand von Werbung.",
+        "Bei unvollständigen Angaben den Anbieter fragen."
+      ],
+      [
+        "Vorrat und Gesamtkosten",
+        "Reine Vorratsrechnung: 30 Gummies reichen bei einem pro Tag für 30 Tage, bei zwei für 15 Tage. Die zweite Rechnung erklärt die Verkaufsangabe und ist keine Dosierungsempfehlung. Zwei, vier und acht Gläser enthalten insgesamt 60, 120 und 240 Gummies.",
+        "Nicht allein wegen des niedrigsten Stückpreises mehr kaufen."
+      ],
+      [
+        "Eignung und Warnungen",
+        "Die Zutatenliste beginnt mit Glukosesirup, Wasser und Zucker. Eine Zucker-Grammzahl wird im geprüften PDF nicht genannt. Das Produkt ist kein Testosteron-Booster oder Arzneimittel. Laut Etikett nur für Erwachsene; bei Medikamenten oder Erkrankungen ärztlich beraten lassen.",
+        "Ärztliche Fragen vor einer Bestellung klären."
+      ]
+    ],
+    "next": "Etikett, Lieferland, Endbetrag und Rückgabe prüfen."
+  },
+  "topics/wellness/metabolic-health/glucotrust-german.html": {
+    "heading": "Drei Prüfungen vor dem Kauf",
+    "intro": "Redaktionelle Vergleichssituationen, keine gesundheitlichen Empfehlungen oder Ergebniszusagen.",
+    "columns": [
+      "Ihre Frage",
+      "Was Sie prüfen",
+      "Wann Sie warten sollten"
+    ],
+    "rows": [
+      [
+        "Aktuelles Etikett",
+        "Das geprüfte deutsche PDF nennt 30 Kapseln und eine Kapsel mit Nahrung. Die Deklaration umfasst Vitamin C, Vitamin D, Magnesium, Chrom und Pflanzenstoffe. Angaben anderer GlucoTrust-Länderangebote dürfen nicht automatisch auf diese Version übertragen werden.",
+        "Bei unvollständigen Angaben den Anbieter fragen."
+      ],
+      [
+        "Vorrat und Gesamtkosten",
+        "Die deklarierten Mengen stimmen im geprüften PDF mit GlucoSana überein. Vergleichen Sie deshalb Marke, aktuelle Packung, Gesamtkosten und Rückgabe als Alternativen. Gleiche Mengen belegen weder identische Herstellungsqualität noch eine bessere Wirkung; beide Angebote sind keine ergänzenden Formeln.",
+        "Nicht allein wegen des niedrigsten Stückpreises mehr kaufen."
+      ],
+      [
+        "Eignung und Warnungen",
+        "Das Etikett nennt Kurkuma-bezogene Warnungen bei Gallenwegs-, Leber- und Gallenblasenerkrankungen. Nicht für unter 18-Jährige, Schwangere oder Stillende. Bei Medikamenten oder Erkrankungen vorher ärztlich beraten lassen. Der Ratgeber belegt keine Behandlung von Diabetes oder Schlafstörungen.",
+        "Ärztliche Fragen vor einer Bestellung klären."
+      ]
+    ],
+    "next": "Etikett, Lieferland, Endbetrag und Rückgabe prüfen."
+  },
+  "topics/wellness/nutrition/gluconite.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial buying scenarios, not health recommendations or promised outcomes.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Current label",
+        "The reviewed public sales pages describe the positioning and a 30-day bottle supply but do not provide a readable, complete current Supplement Facts panel. This guide does not reproduce ingredient amounts from unrelated listings or older products with the same name.",
+        "Ask the supplier if the full current panel is unavailable."
+      ],
+      [
+        "Supply and total cost",
+        "Ask the supplier for the complete current panel, serving size, ingredients, excipients, allergens and warnings for the exact product being shipped. In particular, do not assume whether it contains melatonin or what its amount is. A seller-described 30-day supply is not a verified scoop or capsule count.",
+        "Do not buy more solely for a lower unit price."
+      ],
+      [
+        "Suitability and warnings",
+        "The supplier directs pregnant or nursing people, medicine users and people with a medical condition to consult a physician. Do not replace diabetes care or change medication based on the sales presentation. We have not tested the product or established clinical effectiveness.",
+        "Resolve clinical questions before ordering."
+      ]
+    ],
+    "next": "Check the label, eligible address, final total and return terms."
+  },
+  "topics/wellness/metabolic-health/insulin-herb-berberine.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial buying scenarios, not health recommendations or promised outcomes.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Current label",
+        "The seller states 500 mg berberine per capsule, 60 capsules per bottle, and mentions milk thistle without a quantity. A complete readable current Supplement Facts panel was not available in the reviewed page. Treat these as sales-page statements until confirmed on the current label.",
+        "Ask the supplier if the full current panel is unavailable."
+      ],
+      [
+        "Supply and total cost",
+        "The seller describes two to three capsules per day while advertising a 30-day bottle. The arithmetic is 60 ÷ 2 = 30 days and 60 ÷ 3 = 20 days. This explains the inconsistency; it is not a personal dosage recommendation. Ask for the exact current directions and full excipient list before buying.",
+        "Do not buy more solely for a lower unit price."
+      ],
+      [
+        "Suitability and warnings",
+        "Do not follow the sales-page suggestion to combine this supplement with metformin without a qualified clinician’s assessment. The supplier’s disclaimer advises professional review for medication, medical conditions, pregnancy or nursing. This guide does not establish that the product treats diabetes or replaces prescribed care.",
+        "Resolve clinical questions before ordering."
+      ]
+    ],
+    "next": "Check the label, eligible address, final total and return terms."
   }
 }
