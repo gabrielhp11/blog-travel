@@ -10,6 +10,62 @@ const AFFILIATE_CONFIG = {
 
 const blogArticles = [
 {
+  "topic": "wellness",
+  "locale": "en",
+  "imageType": "official",
+  "linkType": "affiliate",
+  "network": "Digistore24",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "id": 10019,
+  "subtopic": "longevity",
+  "market": "United States only",
+  "category": "Resveratrol label guides",
+  "audience": "US adults comparing resveratrol labels and healthy-aging supplement costs",
+  "title": "SelfPlus AGE+: Resveratrol Label & US Pack Costs",
+  "summary": "Read the 250 mg knotweed extract and 125 mg trans-resveratrol distinction. Compare US package totals, shipping discrepancies and return costs before choosing.",
+  "highlights": [
+    "125 mg trans-resveratrol",
+    "US-only shipping",
+    "Return postage explained"
+  ],
+  "service": "Capsule supplement",
+  "ctaText": "Check current AGE+ packages",
+  "reviewUrl": "topics/wellness/longevity/selfplus-age-plus.html",
+  "bookingUrl": "/topics/wellness/longevity/selfplus-age-plus",
+  "imageUrl": "assets/images/sources/selfplus-age-plus-bottle.png",
+  "imageAlt": "Official SelfPlus AGE+ 30-capsule supplement bottle artwork",
+  "affiliateStatus": "Accepted in account on 2026-10-24, marketplace 59395, 60% displayed. Generated affiliate link verified at one-bottle checkout 728645; no sale or payout observed."
+},
+{
+  "topic": "wellness",
+  "locale": "en",
+  "imageType": "official",
+  "linkType": "affiliate",
+  "network": "Digistore24",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "id": 10020,
+  "subtopic": "mens-health",
+  "market": "United States; confirm exact-address delivery",
+  "category": "AM/PM supplement buying checks",
+  "audience": "US adult men comparing two-formula supplement routines and package commitments",
+  "title": "Alpha Dualis: AM/PM Formula Checks & US Pack Costs",
+  "summary": "Compare the morning and evening format, published evening label and conflicting ingredient counts. Check current labels, US pack prices and return conditions.",
+  "highlights": [
+    "AM/PM formula distinction",
+    "Label differences explained",
+    "Full upfront package costs"
+  ],
+  "service": "Two-formula capsule supplement",
+  "ctaText": "Check current labels and US offer",
+  "reviewUrl": "topics/wellness/mens-health/alpha-dualis.html",
+  "bookingUrl": "/topics/wellness/mens-health/alpha-dualis",
+  "imageUrl": "assets/images/sources/alpha-dualis-system.webp",
+  "imageAlt": "Official Alpha Dualis morning and evening supplement bottle artwork",
+  "affiliateStatus": "Accepted in account on 2026-10-24, marketplace 57493. Account displays 60%, title/copy 50%; rate discrepancy unresolved. Generated link verified at checkout 709652; no sale or payout observed."
+},
+{
   "id": 10018,
   "topic": "business",
   "subtopic": "maker-tools",

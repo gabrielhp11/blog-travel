@@ -1427,5 +1427,70 @@
     "bytes": 131507,
     "retrievedAt": "2026-10-18",
     "status": "cached"
+  },
+  {
+    "sourceUrl": "https://selfplus-care.com/__l5e/assets-v1/972eadbc-d732-4175-8e4a-2e4aafd9e91e/age-plus-bottle.png",
+    "usedBy": [
+      "topics/wellness/longevity/selfplus-age-plus.html"
+    ],
+    "path": "/assets/images/sources/selfplus-age-plus-bottle.png",
+    "width": 472,
+    "height": 988,
+    "sha256": "50d7e78cafce87fa8ba9b0951cb579d4cc18cb649fa5ef0201a271bbdde69886",
+    "bytes": 575876,
+    "retrievedAt": "2026-10-24T17:16:10.728057+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://selfplus-care.com/__l5e/assets-v1/d1e78e0b-fa5e-4d16-a46a-fa90da9502df/age-plus-formula-visual-v2.png",
+    "usedBy": [
+      "topics/wellness/longevity/selfplus-age-plus.html"
+    ],
+    "path": "/assets/images/sources/selfplus-age-plus-formula.png",
+    "width": 1371,
+    "height": 1147,
+    "sha256": "c4544264594c391be47556181619ee7edc04c89d5c4527bfd74255d508b0d60f",
+    "bytes": 1482344,
+    "retrievedAt": "2026-10-24T17:16:10.746993+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://alphadualis.com/wp-content/webp-express/webp-images/uploads/2026/04/Product-Image-1-1.png.webp",
+    "usedBy": [
+      "topics/wellness/mens-health/alpha-dualis.html"
+    ],
+    "path": "/assets/images/sources/alpha-dualis-system.webp",
+    "width": 1043,
+    "height": 1190,
+    "sha256": "b860c761a7bb8e0af3903c1f948e71f3eeaf5996bab056c5081166da970283c7",
+    "bytes": 112880,
+    "retrievedAt": "2026-10-24T17:16:10.837706+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://alphadualis.com/wp-content/uploads/2026/05/Mornig-Formula-1_11zon-1_11zon.webp",
+    "usedBy": [
+      "topics/wellness/mens-health/alpha-dualis.html"
+    ],
+    "path": "/assets/images/sources/alpha-dualis-morning.webp",
+    "width": 256,
+    "height": 468,
+    "sha256": "45afecd66895d3accf4210eabc1537e08eee9991d60871418e8551658e219514",
+    "bytes": 11708,
+    "retrievedAt": "2026-10-24T17:16:10.840455+00:00",
+    "status": "cached"
+  },
+  {
+    "sourceUrl": "https://alphadualis.com/wp-content/uploads/2026/05/Evening-Formula-1_11zon-1_11zon.webp",
+    "usedBy": [
+      "topics/wellness/mens-health/alpha-dualis.html"
+    ],
+    "path": "/assets/images/sources/alpha-dualis-evening.webp",
+    "width": 293,
+    "height": 534,
+    "sha256": "7db9c6a494eb7a1112f53d9d44ac70e4ecae79157e742a5acb0fc7ef939e6208",
+    "bytes": 12130,
+    "retrievedAt": "2026-10-24T17:16:10.842229+00:00",
+    "status": "cached"
   }
 ]

@@ -1,5 +1,14 @@
 # Guias públicos da PokiSky
 
+## Novas parcerias Digistore24 — revisão de 24/10/2026
+
+- **SelfPlus AGE+**: [guia em inglês para os EUA](https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus). Marketplace 59395, vendedor selfplus, parceria aceita e 60% exibidos. Link gerado pela conta: <https://selfplus-care.com/#aff=gabrielhenriquep123f97e>; identificador preservado no checkout 728645. Duas imagens oficiais e um diagrama editorial de leitura do rótulo. O extrato de 250 mg padronizado a 50% fornece 125 mg de trans-resveratrol; não somar os dois valores. Política de entrega somente US, frete $9.99 nos pacotes de 1/3 e grátis em 6; checkout inicial mostrou $0, divergência explicitada. Retorno em 60 dias, com frete de devolução do cliente e frete original geralmente não reembolsável. Sem compra ou resultado clínico observado.
+- **Alpha Dualis**: [guia em inglês com verificações para os EUA](https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis). Marketplace 57493, vendedor 65187541348b1, parceria aceita. Conta exibe 60%, título/texto 50%: divergência de comissão mantida como não resolvida. Link exato gerado: <https://alphadualis.com/#price&aff=gabrielhenriquep123f97e>; chegou ao checkout 709652 com `aff=gabrielhenriquep123f97e`. Três imagens oficiais distintas. O guia destaca a falta das quantidades matinais e a divergência entre “28” nas imagens, “16” na narrativa e cinco ativos no PDF público de prova do rótulo noturno. Pedir painéis atuais antes de comprar; não inferir dose ou eficácia. Pacotes $77/$154/$288, frete US anunciado grátis, total de endereço não confirmado; retorno em 60 dias com postagem do cliente. Sem compra ou comissão recebida observada.
+- **Liposomal Hair Renewal**: parceria aceita na conta nesta execução, mas não promovida no blog. A [página do programa](https://digistore24-affiliate.mydigibiz24.com/liposomal-hair-renewal/index.html) continua proibindo SEO com nome de marca/produto e sites de review, conforme exclusão editorial anterior. Nenhum guia ou campanha foi criado.
+- **GlutLess**: excluído. O endereço de venda listado no marketplace exibiu conteúdo de jogos de azar sem relação com o suplemento; nenhuma página ou solicitação de afiliação criada.
+
+Fontes, público específico, limitações e verificações: [revisão de suplementos de outubro](DIGISTORE_SUPPLEMENTS_2026-10-24.md). A aprovação da parceria não confirma eficácia, procura orgânica, conversão ou pagamento.
+
 ## Parcerias ativas verificadas em 18/10/2026
 
 - **GearUP Booster (Impact, PC):** [guia em português](https://blog-travel-eight.vercel.app/topics/entertainment/gaming-network/gearup-booster). Link fornecido: <https://gearup.sjv.io/YVG1OO>. GearUP em My Brands, 70% exibidos e referência de 30 dias; não confundir percentual com comissão já recebida. Três capturas oficiais da pasta promocional. Resultado de ping depende da rede; teste, cobrança e renovação explícitos.

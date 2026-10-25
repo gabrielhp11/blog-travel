@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">Reading the SelfPlus AGE+ label</title>
+<desc id="desc">250 milligrams of Japanese knotweed root extract standardized to 50 percent trans-resveratrol supplies 125 milligrams of trans-resveratrol. These are two descriptions of the same serving, not additive quantities.</desc>
+<rect width="1200" height="700" rx="32" fill="#fbf5ec"/>
+<g font-family="Arial, sans-serif" fill="#342b27">
+<text x="70" y="83" font-size="22" letter-spacing="3">POKISKY / LABEL READING</text>
+<text x="70" y="155" font-size="48" font-weight="700">Extract weight ≠ compound weight</text>
+<rect x="70" y="205" width="450" height="270" rx="22" fill="#fff" stroke="#d5bba6"/>
+<text x="105" y="267" font-size="27">Japanese knotweed extract</text>
+<text x="105" y="352" font-size="72" font-weight="700">250 mg</text>
+<text x="105" y="412" font-size="27">standardized to 50%</text>
+<path d="M555 340h70m-20-20 20 20-20 20" stroke="#9c512a" stroke-width="7" fill="none"/>
+<rect x="665" y="205" width="465" height="270" rx="22" fill="#fff" stroke="#d5bba6"/>
+<text x="700" y="267" font-size="27">Trans-resveratrol supplied</text>
+<text x="700" y="352" font-size="72" font-weight="700">125 mg</text>
+<text x="700" y="412" font-size="27">250 mg × 0.50</text>
+<text x="70" y="542" font-size="29" font-weight="700">The 125 mg is part of the 250 mg serving.</text>
+<text x="70" y="590" font-size="25">Do not add them together or compare them as equal measures.</text>
+<text x="70" y="652" font-size="20" fill="#6d5b50">Editorial diagram based on supplier artwork. No laboratory testing or benefit claim.</text>
+</g></svg>

@@ -13,3 +13,9 @@ The homepage catalog is maintained separately in `assets/js/articles.js`. Affili
 - `/gearup` → `/topics/entertainment/gaming-network/gearup-booster` (português, produto PC).
 - `/creality` → `/topics/business/maker-tools/creality-3d-printers` (inglês, loja US).
 - `/guides/gaming` agrupa software de conexão para jogos. A home inclui filtro Gaming.
+
+## Suplementos Digistore24 — outubro de 2026
+
+- `/selfplus-age-plus` → `/topics/wellness/longevity/selfplus-age-plus` (inglês; entrega somente US).
+- `/alpha-dualis` → `/topics/wellness/mens-health/alpha-dualis` (inglês; verificações de rótulo e oferta US).
+- Ambos também têm alias com `.html`; o catálogo e `/guides/wellness` apontam para os guias antes de qualquer oferta externa.

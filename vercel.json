@@ -3,6 +3,26 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/alpha-dualis.html",
+      "destination": "/topics/wellness/mens-health/alpha-dualis",
+      "permanent": true
+    },
+    {
+      "source": "/alpha-dualis",
+      "destination": "/topics/wellness/mens-health/alpha-dualis",
+      "permanent": true
+    },
+    {
+      "source": "/selfplus-age-plus.html",
+      "destination": "/topics/wellness/longevity/selfplus-age-plus",
+      "permanent": true
+    },
+    {
+      "source": "/selfplus-age-plus",
+      "destination": "/topics/wellness/longevity/selfplus-age-plus",
+      "permanent": true
+    },
+    {
       "source": "/advanced-muscle-plus.html",
       "destination": "/topics/wellness/nutrition/advanced-muscle-plus",
       "permanent": true

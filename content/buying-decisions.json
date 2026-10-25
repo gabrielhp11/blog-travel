@@ -42,5 +42,59 @@
       ["Sie vergleichen Ihr Gesamtbudget", "Trennen Sie den Kurspreis von möglichen KI-, Design- und Planungsabonnements. Fragen Sie nach den aktuell eingesetzten Werkzeugen und Nutzungsgrenzen.", "Gehen Sie nicht davon aus, dass alle Softwarekosten, Launch-Boni oder eine bestimmte Zugangsdauer im Kurs enthalten sind."]
     ],
     "next": "Notieren Sie vor dem Checkout Ihr Lernziel, die benötigten Module, Ihr Werkzeugbudget und offene Fragen zu Zugang und Kaufbedingungen."
+  },
+  "topics/wellness/longevity/selfplus-age-plus.html": {
+    "heading": "Match the label and package to your decision",
+    "intro": "These are editorial buying scenarios, not health recommendations or promised results. Resolve suitability with a qualified professional before comparing quantities.",
+    "columns": [
+      "Your situation",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "You compare resveratrol labels",
+        "Compare the named compound per capsule: the supplier describes 250 mg extract standardized to 50%, supplying 125 mg trans-resveratrol.",
+        "Pause if a competing listing gives only extract weight or you cannot read the complete ingredient panel."
+      ],
+      [
+        "You consider a larger package",
+        "Compare $88.99, $186.99 and $324 before tax using the published US shipping policy, then check the current checkout.",
+        "Do not choose six bottles just because its per-bottle price is lower; it requires a larger upfront purchase."
+      ],
+      [
+        "You need delivery outside the US",
+        "The shipping policy limits orders to the United States. Brazil was rejected in the inspected checkout.",
+        "Pause if you do not have an eligible US delivery address."
+      ]
+    ],
+    "next": "Check the complete ingredient list, suitability, shipping charge and return costs before paying."
+  },
+  "topics/wellness/mens-health/alpha-dualis.html": {
+    "heading": "Resolve the label version before comparing packs",
+    "intro": "These scenarios help compare published offer details. They are not clinical findings or a recommendation to begin an AM/PM supplement routine.",
+    "columns": [
+      "Your situation",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "You want to know the exact composition",
+        "Request both complete current panels. The morning narrative does not establish ingredient amounts, and the evening proof lists five actives.",
+        "Pause until the supplier reconciles the 28-ingredient bottle imagery, 16-ingredient sales copy and linked evening proof."
+      ],
+      [
+        "You already use supplements or medicines",
+        "Bring both labels to a qualified healthcare professional so suitability, interactions and overlapping ingredients can be considered.",
+        "Do not infer morning quantities from the evening panel or assume a two-formula system is appropriate for you."
+      ],
+      [
+        "You compare the package budget",
+        "The listed totals are $77, $154 and $288 for one, three and six packs, before applicable tax. Confirm exactly what each pack contains.",
+        "Do not confuse advertised daily equivalents with monthly billing or treat supply length as personal dosage guidance."
+      ]
+    ],
+    "next": "Obtain the current labels and package contents first; then check your delivery eligibility, final total and return instructions."
   }
 }
