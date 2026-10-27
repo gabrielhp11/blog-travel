@@ -376,5 +376,140 @@
       ]
     ],
     "next": "Check the label, eligible address, final total and return terms."
+  },
+  "topics/wellness/gut-health/floravitasana.html": {
+    "heading": "Trois vérifications avant de choisir",
+    "intro": "Comparaisons éditoriales, sans recommandation médicale ni promesse de résultat.",
+    "columns": [
+      "Votre question",
+      "À comparer",
+      "Quand attendre"
+    ],
+    "rows": [
+      [
+        "Lire la composition",
+        "Comparer les quantités par gélule et les allergènes.",
+        "Demander conseil si vous prenez un médicament."
+      ],
+      [
+        "Choisir un lot",
+        "Comparer 69 €, 147 € et 234 € au total.",
+        "Ne pas acheter six flacons uniquement pour le prix unitaire."
+      ],
+      [
+        "Vérifier la livraison",
+        "Confirmer l’adresse, les frais et le délai réel.",
+        "Résoudre la différence entre politique et checkout."
+      ]
+    ],
+    "next": "Confirmer l’étiquette, les frais et les conditions de retour."
+  },
+  "topics/wellness/metabolic-health/slin.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial buying scenarios, not personal usage recommendations or promised results.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Compare formulas",
+        "Current manufacturer table omits Gymnema; checkout mentions it.",
+        "Request the exact bundle’s label."
+      ],
+      [
+        "Choose order size",
+        "Affiliate link opens six bottles for US$230.",
+        "Do not mistake a single-bottle store price for this order."
+      ],
+      [
+        "Check suitability",
+        "Use complete ingredients and qualified professional advice.",
+        "Do not derive a dose from marketing FAQs."
+      ]
+    ],
+    "next": "Confirm the exact label, full cost and order-specific conditions."
+  },
+  "topics/wellness/nutrition/yara-hair-vitamins.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial buying scenarios, not personal usage recommendations or promised results.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Compare label transparency",
+        "409 mg is the total proprietary blend.",
+        "Do not infer individual botanical amounts."
+      ],
+      [
+        "Check recurring charges",
+        "Linked order is US$37 every month.",
+        "Confirm cancellation and next billing before paying."
+      ],
+      [
+        "Read return instructions",
+        "Policy pages disagree on address and deadline procedure.",
+        "Get one written set of instructions for your order."
+      ]
+    ],
+    "next": "Confirm the exact label, full cost and order-specific conditions."
+  },
+  "topics/wellness/gut-health/senflo-gummies.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial buying scenarios, not personal usage recommendations or promised results.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Check ingredient strength",
+        "Request senna or sennoside amount and full panel.",
+        "Pause purchase if the label remains unavailable."
+      ],
+      [
+        "Interpret package counts",
+        "15/45/90 days are seller package descriptions.",
+        "Do not treat these as recommended treatment duration."
+      ],
+      [
+        "Compare delivered price",
+        "Single-bottle checkout showed US$68.90 with shipping.",
+        "Confirm the final address quote and return costs."
+      ]
+    ],
+    "next": "Confirm the exact label, full cost and order-specific conditions."
+  },
+  "topics/wellness/nutrition/adaptogen-4.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial buying scenarios, not personal usage recommendations or promised results.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Read amounts",
+        "One capsule is the published serving.",
+        "Do not infer efficacy from standardisation percentages."
+      ],
+      [
+        "Compare quantity",
+        "60 capsules = 30 or 60 days by simple count.",
+        "Do not turn pack arithmetic into dosing advice."
+      ],
+      [
+        "Assess guarantee",
+        "Detailed policy limits opened-bottle refunds and charges return postage.",
+        "Ask which policy governs the exact order."
+      ]
+    ],
+    "next": "Confirm the exact label, full cost and order-specific conditions."
   }
 }

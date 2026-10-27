@@ -14,7 +14,7 @@ home = replaceBlock(home, 'catalog-count', `${guides.length} guides`);
 home = replaceBlock(home, 'planning', renderPlanningLinks('europe'));
 const homeTitle = 'PokiSky: travel, course, software and supplement buying guides';
 home = replaceBlock(home, 'home-schema', jsonLd({'@context': 'https://schema.org', '@graph': [
-  {'@type': 'WebSite', '@id': `${siteUrl}/#website`, name: 'PokiSky', url: `${siteUrl}/`, inLanguage: 'en', availableLanguage: ['en', 'en-GB', 'de', 'pt-BR']},
+  {'@type': 'WebSite', '@id': `${siteUrl}/#website`, name: 'PokiSky', url: `${siteUrl}/`, inLanguage: 'en', availableLanguage: ['en', 'en-GB', 'en-US', 'de', 'pt-BR', 'fr-FR']},
   {'@type': 'Organization', '@id': `${siteUrl}/#organization`, name: 'PokiSky', url: `${siteUrl}/`, knowsLanguage: ['en', 'de', 'pt']},
   {'@type': 'CollectionPage', '@id': `${siteUrl}/#webpage`, url: `${siteUrl}/`, name: homeTitle, isPartOf: {'@id': `${siteUrl}/#website`}, publisher: {'@id': `${siteUrl}/#organization`}, mainEntity: itemList(guides)}
 ]}));

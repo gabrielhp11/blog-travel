@@ -3,6 +3,56 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/adaptogen-4.html",
+      "destination": "/topics/wellness/nutrition/adaptogen-4",
+      "permanent": true
+    },
+    {
+      "source": "/adaptogen-4",
+      "destination": "/topics/wellness/nutrition/adaptogen-4",
+      "permanent": true
+    },
+    {
+      "source": "/senflo-gummies.html",
+      "destination": "/topics/wellness/gut-health/senflo-gummies",
+      "permanent": true
+    },
+    {
+      "source": "/senflo-gummies",
+      "destination": "/topics/wellness/gut-health/senflo-gummies",
+      "permanent": true
+    },
+    {
+      "source": "/yara-hair-vitamins.html",
+      "destination": "/topics/wellness/nutrition/yara-hair-vitamins",
+      "permanent": true
+    },
+    {
+      "source": "/yara-hair-vitamins",
+      "destination": "/topics/wellness/nutrition/yara-hair-vitamins",
+      "permanent": true
+    },
+    {
+      "source": "/slin.html",
+      "destination": "/topics/wellness/metabolic-health/slin",
+      "permanent": true
+    },
+    {
+      "source": "/slin",
+      "destination": "/topics/wellness/metabolic-health/slin",
+      "permanent": true
+    },
+    {
+      "source": "/floravitasana.html",
+      "destination": "/topics/wellness/gut-health/floravitasana",
+      "permanent": true
+    },
+    {
+      "source": "/floravitasana",
+      "destination": "/topics/wellness/gut-health/floravitasana",
+      "permanent": true
+    },
+    {
       "source": "/alpha-dualis.html",
       "destination": "/topics/wellness/mens-health/alpha-dualis",
       "permanent": true

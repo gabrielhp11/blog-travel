@@ -54,7 +54,11 @@ assert.equal(count.textContent, guides.filter(isUkIrelandGuide).length + ' guide
 handlers.us();
 assert.equal(cards.filter(c=>!c.hidden).length,guides.filter(g=>/united states|\bus\b/i.test(g.market||'')).length);
 handlers.all();assert.equal(cards.filter(c=>!c.hidden).length, guides.length);
-assert.equal(guidesFor(hubs.find(h=>h.key==='europe')).length, english.length + guides.filter(g=>isEuropeanGuide(g) && localeOf(g).startsWith('de')).length);
+assert.equal(guidesFor(hubs.find(h=>h.key==='europe')).length, guides.filter(g=>isEuropeanGuide(g) && /^(en|de|fr)/.test(localeOf(g))).length);
+language.value='fr'; languageHandlers.change();
+assert.equal(cards.filter(c=>!c.hidden).length, guides.filter(g=>localeOf(g).startsWith('fr')).length);
+assert.ok(cards.filter(c=>!c.hidden).every(c=>c.dataset.locale.startsWith('fr')));
+resetHandlers.click();
 search.value='aIrAlO'; searchHandlers.input();
 assert.equal(cards.filter(c=>!c.hidden).length,1);
 assert.ok(cards.find(c=>!c.hidden).textContent.includes('Airalo'));

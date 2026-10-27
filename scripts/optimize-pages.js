@@ -26,6 +26,7 @@ function normaliseUrl(value, file) {
 }
 
 const contexts = {
+  'fr-FR': {home: 'Accueil', breadcrumb: 'Fil d’Ariane', by: 'Par', related: 'Autres guides d’achat', browse: 'Explorer ce sujet', artwork: 'Illustration éditoriale PokiSky ; contexte, pas une image du produit.', heading: 'Comparer avant de choisir'},
   en: {home: 'Home', breadcrumb: 'Breadcrumb', by: 'By', related: 'Related buyer guides', browse: 'Browse this topic', artwork: 'Editorial illustration by PokiSky; context only, not a product image or course preview.', heading: 'A checklist for your decision'},
   'en-GB': {home: 'Home', breadcrumb: 'Breadcrumb', by: 'By', related: 'Related buyer guides', browse: 'Browse this topic', artwork: 'Editorial illustration by PokiSky; context only, not a product image or course preview.', heading: 'A checklist for your decision'},
   'pt-BR': {home: 'Início', breadcrumb: 'Você está em', by: 'Por', related: 'Guias relacionados', browse: 'Explorar este assunto', artwork: 'Ilustração editorial da PokiSky; contexto, não uma imagem do produto ou prévia do curso.', heading: 'Pontos para comparar antes de decidir'},

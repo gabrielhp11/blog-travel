@@ -763,3 +763,14 @@ Created 17 Portuguese guides for missing active affiliations, each with three or
 - [GlucoTrust auf Deutsch: Etikett & Kaufkosten](/topics/wellness/metabolic-health/glucotrust-german) · de-DE
 - [Gluconite: Pack Costs, Returns & Label Questions](/topics/wellness/nutrition/gluconite) · en
 - [Insulin Herb Berberine: Costs & Formula Questions](/topics/wellness/metabolic-health/insulin-herb-berberine) · en
+
+
+## Cinco suplementos — 26/10/2026
+
+- **FloraVitaSana**: [guia](https://blog-travel-eight.vercel.app/topics/wellness/gut-health/floravitasana); marketplace 61035, afiliação aceita, 60% exibidos na conta. Público: Adultes francophones comparant une formule avec fibres et les conditions de livraison. Link gerado preservado; sem compra nem receita observada.
+- **SLIN**: [guia](https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin); marketplace 50677, afiliação aceita, 50% exibidos na conta. Público: US adults who train and compare carbohydrate-focused supplement formulas. Link gerado preservado; sem compra nem receita observada.
+- **Yara Hair Growth Vitamins**: [guia](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins); marketplace 51614, afiliação aceita, 33% exibidos na conta. Público: Adult US women comparing hair supplement subscriptions and ingredient transparency. Link gerado preservado; sem compra nem receita observada.
+- **SenFlo Gummies**: [guia](https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies); marketplace 52159, afiliação aceita, 65% exibidos na conta. Público: US adults checking occasional-use senna products and warnings. Link gerado preservado; sem compra nem receita observada.
+- **AdaptoGen 4.0**: [guia](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4); marketplace 55041, afiliação aceita, 80% exibidos na conta. Público: US adults comparing a nine-botanical formula, especially women in midlife. Link gerado preservado; sem compra nem receita observada.
+
+Revisão: [fontes e limitações](DIGISTORE_FIVE_2026-10-26.md).

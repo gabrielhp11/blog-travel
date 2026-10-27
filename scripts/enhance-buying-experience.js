@@ -3,6 +3,7 @@ const fs = require('node:fs');
 const cheerio = require('cheerio');
 const {guides,hubs,planningPages,localeOf,escapeHtml:esc,cleanPath} = require('./site-data');
 const copy = {
+ fr:{quick:'En bref',overview:'Ce que ce guide explique',checks:'Avant de choisir',contents:'Dans ce guide',next:'Consulter l’offre actuelle',disclosure:'Nos guides et liens affiliés',note:'Vérifier la composition, le montant total, la livraison, les renouvellements éventuels et les conditions de retour avant de payer.',facts:'Points abordés dans ce guide'},
  en:{quick:'At a glance',overview:'What this guide covers',checks:'Before you choose',contents:'In this guide',next:'Compare the current offer',disclosure:'How our guides and affiliate links work',note:'Use the details below to check suitability. Confirm the seller’s current total, access or delivery, renewal and refund terms before paying.',facts:'Points covered in the guide'},
  de:{quick:'Auf einen Blick',overview:'Darum geht es',checks:'Vor der Entscheidung',contents:'In diesem Ratgeber',next:'Aktuelles Angebot vergleichen',disclosure:'Redaktion und Affiliate-Hinweis',note:'Prüfen Sie die Details unten und die aktuellen Kosten, den Zugang oder die Lieferung, Verlängerung und Rückgabebedingungen beim Anbieter.',facts:'Themen dieses Ratgebers'},
  pt:{quick:'Resumo para decidir',overview:'O que este guia explica',checks:'Antes de escolher',contents:'Neste guia',next:'Conferir a oferta atual',disclosure:'Como funcionam nossos guias e links de afiliado',note:'Use os detalhes abaixo para avaliar a adequação. Confira o custo total, acesso ou entrega, renovação e devolução diretamente com o vendedor antes de pagar.',facts:'Pontos abordados neste guia'}
@@ -22,7 +23,7 @@ for (const file of files) {
    const loc=main[0].sourceCodeLocation.startTag;
    edits.push({start:loc.startOffset,end:loc.endOffset,value:html.slice(loc.startOffset,loc.endOffset).replace(/>$/,' id="main-content">')});
   }
-  if (!$('.skip-link').length) insert($('body')[0].sourceCodeLocation.startTag.endOffset,`\n<a class="skip-link" href="#${esc(main.attr('id')||'main-content')}">${lang==='de'?'Zum Inhalt':lang==='pt'?'Pular para o conteúdo':'Skip to content'}</a>\n`);
+  if (!$('.skip-link').length) insert($('body')[0].sourceCodeLocation.startTag.endOffset,`\n<a class="skip-link" href="#${esc(main.attr('id')||'main-content')}">${lang==='de'?'Zum Inhalt':lang==='pt'?'Pular para o conteúdo':lang==='fr'?'Aller au contenu':'Skip to content'}</a>\n`);
   const headings=[]; const ids=new Set($('[id]').map((i,e)=>$(e).attr('id')).get());
   main.find('h2').each((i,e)=>{
    const h=$(e); if(h.closest('.hero,.seo-related,.offer-support-section').length || h.closest('section').find('.seo-context-gallery').length) return;

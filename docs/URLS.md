@@ -31,3 +31,11 @@ The homepage catalog is maintained separately in `assets/js/articles.js`. Affili
 - [GlucoTrust auf Deutsch: Etikett & Kaufkosten](/topics/wellness/metabolic-health/glucotrust-german) · de-DE
 - [Gluconite: Pack Costs, Returns & Label Questions](/topics/wellness/nutrition/gluconite) · en
 - [Insulin Herb Berberine: Costs & Formula Questions](/topics/wellness/metabolic-health/insulin-herb-berberine) · en
+
+## Cinco suplementos — 26/10/2026
+
+- `/floravitasana` → `/topics/wellness/gut-health/floravitasana`; alias `.html` incluído.
+- `/slin` → `/topics/wellness/metabolic-health/slin`; alias `.html` incluído.
+- `/yara-hair-vitamins` → `/topics/wellness/nutrition/yara-hair-vitamins`; alias `.html` incluído.
+- `/senflo-gummies` → `/topics/wellness/gut-health/senflo-gummies`; alias `.html` incluído.
+- `/adaptogen-4` → `/topics/wellness/nutrition/adaptogen-4`; alias `.html` incluído.

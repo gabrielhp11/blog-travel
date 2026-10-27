@@ -15,9 +15,9 @@ function indexable(file) {
 }
 
 const guides = catalog.filter(article => !article.hidden && article.reviewUrl?.endsWith('.html') && indexable(article.reviewUrl));
-const languages = {'pt-BR': 'Português', 'de-DE': 'Deutsch', 'en-GB': 'English', en: 'English'};
+const languages = {'pt-BR': 'Português', 'de-DE': 'Deutsch', 'fr-FR': 'Français', 'en-US': 'English', 'en-GB': 'English', en: 'English'};
 const localeOf = (article) => article.locale || 'en';
-const ogLocaleOf = (lang) => ({en: 'en_GB', 'en-GB': 'en_GB', 'de-DE': 'de_DE', 'pt-BR': 'pt_BR'}[lang] || 'en_GB');
+const ogLocaleOf = (lang) => ({en: 'en_GB', 'en-US': 'en_US', 'en-GB': 'en_GB', 'fr-FR': 'fr_FR', 'de-DE': 'de_DE', 'pt-BR': 'pt_BR'}[lang] || 'en_GB');
 const planningPages = [
   {file: 'guides/europe-esim.html', lang: 'en-GB', hreflang: 'en', title: 'Airalo vs Holafly for Europe: eSIM buying checklist', description: 'Compare Airalo and Holafly for a Europe trip: country coverage, data, hotspot, home roaming and activation. Source-based checks before you buy.', hubs: ['travel', 'europe', 'uk-ireland'], reviewed: '2026-10-08'},
   {file: 'guides/europa-esim.html', lang: 'de-DE', hreflang: 'de', title: 'eSIM für Europa: Airalo und Holafly vergleichen', description: 'Airalo oder Holafly für die Europareise? Prüfen Sie Länder, Daten, Hotspot, bestehendes Roaming und Aktivierung vor dem Kauf einer Reise-eSIM.', hubs: ['travel', 'europe', 'europe-de'], reviewed: '2026-10-08'}
@@ -55,17 +55,18 @@ const hubs = [
 hubs.push({
   key: 'europe',
   file: 'guides/europe.html',
-  title: 'Europe buying guides: English, German, UK and Ireland',
+  title: 'Europe buying guides: English, German and French',
   label: 'Europe',
   lang: 'en',
   image: 'coursera-plus.png',
-  description: 'English and German PokiSky guides for European readers. Check course language, VAT, UK or EU billing, licences and the seller’s current purchase terms.',
+  description: 'English, German and French PokiSky guides for European readers. Check language, VAT, UK or EU billing, licences, supplement labels and the seller’s current purchase terms.',
   topics: [],
   groupBy: 'locale',
-  select: article => isEuropeanGuide(article) && ['en', 'en-GB', 'de-DE'].includes(localeOf(article)),
+  select: article => isEuropeanGuide(article) && ['en', 'en-GB', 'de-DE', 'fr-FR'].includes(localeOf(article)),
   groups: [
     ['English guides for European readers', 'These guides are written in English. Check the supplier’s actual teaching, interface and support languages, as well as availability in your billing country.', ['en', 'en-GB']],
-    ['Ratgeber auf Deutsch', 'Vergleichen Sie Kursinhalte, Softwarelizenzen und Kaufbedingungen. Prüfen Sie Unterrichtssprache, Währung, den Gesamtpreis und die Verfügbarkeit in Ihrem Land direkt beim Anbieter.', ['de-DE']]
+    ['Ratgeber auf Deutsch', 'Vergleichen Sie Kursinhalte, Softwarelizenzen und Kaufbedingungen. Prüfen Sie Unterrichtssprache, Währung, den Gesamtpreis und die Verfügbarkeit in Ihrem Land direkt beim Anbieter.', ['de-DE']],
+    ['Guides en français', 'Comparer l’étiquette, le montant total et les conditions de livraison pour votre adresse avant de choisir.', ['fr-FR']]
   ],
   faqs: [
     {q: 'Do these guides cover every country in Europe?', a: 'No. Each guide records an intended audience and purchase context. Confirm your billing country, delivery destination and the seller’s current terms; availability is not established for every European country.'},
@@ -125,7 +126,7 @@ const hubFor = (article) => hubs.find(hub => hub.topics.includes(article.topic))
 const guidesFor = (hub) => hub.select ? guides.filter(hub.select) : guides.filter(article => hub.topics.includes(article.topic));
 function renderCard(article, index) {
   const lang = localeOf(article);
-  const guideLabel = lang === 'pt-BR' ? 'Ler o guia' : lang.startsWith('de') ? 'Zum Ratgeber' : 'Read the guide';
+  const guideLabel = lang === 'pt-BR' ? 'Ler o guia' : lang.startsWith('de') ? 'Zum Ratgeber' : lang.startsWith('fr') ? 'Lire le guide' : 'Read the guide';
   const network = article.network === 'Digistore24' || /(?:digistore24|checkout-ds24)\.com\//.test(article.bookingUrl || '') ? 'digistore24' : '';
   const imageUrl = article.imageUrl?.startsWith('assets/') ? `/${article.imageUrl}` : article.imageUrl;
   const page = cheerio.load(fs.readFileSync(article.reviewUrl, 'utf8'));

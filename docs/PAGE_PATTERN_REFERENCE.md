@@ -719,3 +719,10 @@ Se uma página não seguir esses padrões, ela deve ser ajustada antes de entrar
 - Added source-based summaries, static section navigation and explicit disclosure across the 68 public guides. Added specific decision scenarios to four Google crawled-but-not-indexed guides; existing supplier claims, source dates and offer destinations retained.
 - Audited 286 public/source/registered URLs with explicit HTTP, rendering and browser-verification limits. Recorded current Search Console baseline and held registrations in `docs/PROJECT_REVIEW_2026-10-12.md` and `docs/audits/`.
 - Search and buying-experience checks are part of `seo:check`; daily publication tests are included in the GitHub validation workflow. No conversion, commission, indexation or organic growth guarantee.
+
+
+### 26 October 2026 — Five supplement guides
+
+- Added FloraVitaSana in French and four English US guides, with accepted affiliations, three distinct local images each and product-specific palettes.
+- Kept subscription, formula, shipping and conditional-refund discrepancies visible; original Gemini editorial art is labelled and differs by product.
+- Catalogue, aliases, buying scenarios, openings and source manifest updated together.

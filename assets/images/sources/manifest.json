@@ -1674,5 +1674,200 @@
     "bytes": 245406,
     "retrievedAt": "2026-10-25",
     "status": "cached"
+  },
+  {
+    "path": "/assets/images/sources/floravitasana-bottle.webp",
+    "sourceUrl": "https://www.checkout-ds24.com/pb/img/merchant_5718407/image/product/UUGX0FG8.png?o=1320",
+    "width": 500,
+    "height": 887,
+    "sha256": "cd3fbe4a900ade19c2b94a7cb909c06d83ea0a4f5d3da0fa1a80a1610124fb6d",
+    "bytes": 57588,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/gut-health/floravitasana.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/floravitasana-label.png",
+    "sourceUrl": "https://assets.cdn.filesafe.space/L4LdQDk3vJiv9duiMlUd/media/6a6c569f497cd89d248737e0.pdf",
+    "width": 1800,
+    "height": 703,
+    "sha256": "0d48420afc4a8292d9da9c791d679bfe116048daa50177d5a2ab95927a98c815",
+    "bytes": 379877,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/gut-health/floravitasana.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/floravitasana-editorial.jpg",
+    "sourceUrl": "original-editorial:gemini/floravitasana-20261026",
+    "width": 825,
+    "height": 1024,
+    "sha256": "f031e0d7e483ead2c0fe21118cd1492279cba9fe54d596c91b761967afa27096",
+    "bytes": 106915,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/gut-health/floravitasana.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/slin-bottle.webp",
+    "sourceUrl": "https://enhancedlabs.com/cdn/shop/files/Slin_Front.png?v=1780641311&width=900",
+    "width": 900,
+    "height": 900,
+    "sha256": "378a858e5d313a367dbcf4e0c2edc7f77a6fc5e967d788c4c56fac28c7c36dc9",
+    "bytes": 71380,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/metabolic-health/slin.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/slin-three-bottles.webp",
+    "sourceUrl": "https://enhancedlabs.com/cdn/shop/files/SLIN_3_BOTTLES.png?v=1744000533&width=750",
+    "width": 750,
+    "height": 750,
+    "sha256": "2bc8fcd1536f68abac02e74a43589650e8597270c295a0ff5e2de3d39d84031c",
+    "bytes": 110456,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/metabolic-health/slin.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/slin-editorial.jpg",
+    "sourceUrl": "original-editorial:gemini/slin-20261026",
+    "width": 825,
+    "height": 1024,
+    "sha256": "62f886f31d93b6ca931dfbbf84662a555acd009ee23014d303ae07d1c5dfe825",
+    "bytes": 150581,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/metabolic-health/slin.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/yara-hair-vitamins-bottle.webp",
+    "sourceUrl": "https://i0.wp.com/yarahaircare.com/wp-content/uploads/2025/02/Group-158.png?w=592&ssl=1",
+    "width": 592,
+    "height": 592,
+    "sha256": "576db822b169a5b4a6eafbdce6a7d5eab5f6fbc1c348ca25a11345e45b32db18",
+    "bytes": 53006,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/nutrition/yara-hair-vitamins.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/yara-hair-vitamins-label.webp",
+    "sourceUrl": "https://i0.wp.com/yarahaircare.com/wp-content/uploads/2025/02/mockup.png?ssl=1",
+    "width": 1000,
+    "height": 565,
+    "sha256": "3c909080f7f437a8e8843836efe4610a10303871909a8aa5c8925fb079abedc3",
+    "bytes": 103966,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/nutrition/yara-hair-vitamins.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/yara-hair-vitamins-editorial.jpg",
+    "sourceUrl": "original-editorial:gemini/yara-20261026",
+    "width": 825,
+    "height": 1024,
+    "sha256": "b513af1719c2f5f0c0789162d5efd2d1d339a160095118e998d7f330f370ea31",
+    "bytes": 85728,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/nutrition/yara-hair-vitamins.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/senflo-gummies-bottle.png",
+    "sourceUrl": "https://senflogummies.com/wp-content/uploads/2025/03/1bottle-1-1-635x1024.png",
+    "width": 635,
+    "height": 1024,
+    "sha256": "007260f9575256237475e847f8bc85accc2bcb82b226172da9c1d6871ed8b1a8",
+    "bytes": 415747,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/gut-health/senflo-gummies.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/senflo-gummies-checklist.png",
+    "sourceUrl": "original-editorial:gemini/senflo-checklist-20261026",
+    "width": 1024,
+    "height": 687,
+    "sha256": "e057b8a667f59745709c8c7902abbfbcec0aef0e12162c888e28e0650176a959",
+    "bytes": 326149,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/gut-health/senflo-gummies.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/senflo-gummies-editorial.jpg",
+    "sourceUrl": "original-editorial:gemini/senflo-20261026",
+    "width": 825,
+    "height": 1024,
+    "sha256": "77cf83fb8f31cbf74f38253f0421e3c1877952f147efb4952343190c8a2406ec",
+    "bytes": 111840,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/gut-health/senflo-gummies.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/adaptogen-4-bottle.png",
+    "sourceUrl": "https://suppting.com/wp-content/uploads/2022/07/adaptogen-clouds.png",
+    "width": 1600,
+    "height": 1200,
+    "sha256": "3e8ea3df1bad9842a19af95e3d6243bd76c285de7ae76802407d71828cdf981b",
+    "bytes": 3974464,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/nutrition/adaptogen-4.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/adaptogen-4-label.png",
+    "sourceUrl": "https://suppting.com/wp-content/uploads/2025/11/Screenshot_38.png",
+    "width": 1939,
+    "height": 888,
+    "sha256": "d35d5ca678d7ec7b43e3a68d49d3df258a6f791fe6da6fb36e4de21d00a57ffe",
+    "bytes": 215983,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/nutrition/adaptogen-4.html"
+    ]
+  },
+  {
+    "path": "/assets/images/sources/adaptogen-4-context.jpg",
+    "sourceUrl": "https://suppting.com/wp-content/uploads/2022/07/1.jpg",
+    "width": 840,
+    "height": 600,
+    "sha256": "31b64f8077d5a8a6e9ea1d66d4499bd450e0cea139d2e97b4e3062d6587d0d76",
+    "bytes": 121869,
+    "retrievedAt": "2026-10-26",
+    "status": "cached",
+    "usedBy": [
+      "topics/wellness/nutrition/adaptogen-4.html"
+    ]
   }
 ]
