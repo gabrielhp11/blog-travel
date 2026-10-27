@@ -89,3 +89,7 @@ The home search combines topic, guide language and local text search. Cards lead
 ## Gaming and maker offers
 
 The October 18 affiliate review adds a Portuguese GearUP PC connection guide and an English Creality US printer guide. Both use existing active partnerships and verified tracked destinations, with three pinned official images per page. `/guides/gaming` and the Gaming home filter expose gaming software independently of travel and courses; the Creality guide is grouped with business tools. See `docs/AFFILIATE_NETWORK_REVIEW_2026-10-18.md` for actual account states, candidate priorities and unconfirmed application attempts. Do not mark pending or blocked applications as approved.
+
+## Supplement comparisons — 27 October 2026
+
+Ten source-based comparisons are maintained in `content/supplement-comparisons.json`, rendered by `scripts/generate-supplement-comparisons.js`, and checked by `scripts/validate-supplement-comparisons.js`. The `/guides/supplement-comparisons` directory exposes all ten. Each comparison has one separately generated Gemini editorial illustration and two existing product assets, a side-by-side table, uncertainties, dated prices and internal links to both product guides. These are editorial label and buying comparisons, not product trials or efficacy rankings.

@@ -726,3 +726,9 @@ Se uma página não seguir esses padrões, ela deve ser ajustada antes de entrar
 - Added FloraVitaSana in French and four English US guides, with accepted affiliations, three distinct local images each and product-specific palettes.
 - Kept subscription, formula, shipping and conditional-refund discrepancies visible; original Gemini editorial art is labelled and differs by product.
 - Catalogue, aliases, buying scenarios, openings and source manifest updated together.
+
+### 27 October 2026 — Source-based supplement comparisons
+
+- Comparison data lives in `content/supplement-comparisons.json`; the build renders ten pages and their directory. Each uses three distinct local images, explicit AI provenance, ingredient/serving/cost tables and internal calls to both registered guides.
+- Preserve original price dates and unresolved market/formula questions; do not infer efficacy rankings, personal results or combined dosing.
+- The comparison validator checks product references, sources, disclosures, unique artwork, tables and discoverability.

@@ -9,6 +9,329 @@ const AFFILIATE_CONFIG = {
 };
 
 const blogArticles = [
+// supplement-comparisons:start
+{
+  "id": 11001,
+  "comparison": true,
+  "sourceProductIds": [
+    10030,
+    10028
+  ],
+  "topic": "wellness",
+  "subtopic": "metabolic-health",
+  "locale": "en-US",
+  "market": "United States; verify each offer and address",
+  "category": "Supplement comparisons",
+  "audience": "Adults comparing supplement labels, serving definitions and purchase conditions",
+  "title": "SLIN vs Insulin Herb Berberine: Serving & Formula Checks",
+  "summary": "Compare SLIN and Insulin Herb Berberine by serving size, disclosed formula and US order commitment. See why a shared berberine name does not establish equivalent products.",
+  "highlights": [
+    "Side-by-side label checks",
+    "Separate total costs",
+    "Uncertainties visible"
+  ],
+  "service": "Editorial comparison",
+  "ctaText": "Read the comparison",
+  "reviewUrl": "topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine.html",
+  "bookingUrl": "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+  "imageUrl": "assets/images/sources/comparison-slin-vs-insulin-herb-berberine.jpg",
+  "imageAlt": "Individual AI editorial comparison illustration: SLIN vs Insulin Herb Berberine. Same ingredient, different serving?",
+  "imageType": "editorial",
+  "linkType": "official",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-10-27"
+},
+{
+  "id": 11002,
+  "comparison": true,
+  "sourceProductIds": [
+    10027,
+    10021
+  ],
+  "topic": "wellness",
+  "subtopic": "nutrition",
+  "locale": "en-US",
+  "market": "United States; confirm final shipping and current labels",
+  "category": "Supplement comparisons",
+  "audience": "Adults comparing supplement labels, serving definitions and purchase conditions",
+  "title": "Gluconite vs Elixolve Sleep Strips: Nighttime Label Comparison",
+  "summary": "Gluconite and Elixolve Sleep Strips both use nighttime support marketing. Compare the available label, serving format, pack quantity and return conditions without assuming equivalent formulas.",
+  "highlights": [
+    "Side-by-side label checks",
+    "Separate total costs",
+    "Uncertainties visible"
+  ],
+  "service": "Editorial comparison",
+  "ctaText": "Read the comparison",
+  "reviewUrl": "topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips.html",
+  "bookingUrl": "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+  "imageUrl": "assets/images/sources/comparison-gluconite-vs-elixolve-sleep-strips.jpg",
+  "imageAlt": "Individual AI editorial comparison illustration: Gluconite vs Elixolve Sleep Strips. Read the nighttime formula",
+  "imageType": "editorial",
+  "linkType": "official",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-10-27"
+},
+{
+  "id": 11003,
+  "comparison": true,
+  "sourceProductIds": [
+    10022,
+    11
+  ],
+  "topic": "wellness",
+  "subtopic": "metabolic-health",
+  "locale": "de-DE",
+  "market": "Europe; deutschsprachige Erwachsene, Lieferadresse prüfen",
+  "category": "Supplemente im Vergleich",
+  "audience": "Deutschsprachige Erwachsene vergleichen Deklaration und Kaufbedingungen",
+  "title": "SlimSana vs. KetoSana: Kapseln, Tropfen und Etiketten",
+  "summary": "SlimSana und KetoSana im Vergleich: Kapseln oder Tropfen, deklarierte Mengen, offene Etikettenfragen und Gesamtkosten. Keine Empfehlung zum Abnehmen oder zur Kombination.",
+  "highlights": [
+    "Etiketten vergleichen",
+    "Gesamtbetrag prüfen",
+    "Offene Fragen klären"
+  ],
+  "service": "Redaktioneller Vergleich",
+  "ctaText": "Vergleich lesen",
+  "reviewUrl": "topics/wellness/metabolic-health/slimsana-vs-ketosana.html",
+  "bookingUrl": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+  "imageUrl": "assets/images/sources/comparison-slimsana-vs-ketosana.jpg",
+  "imageAlt": "Individuelle KI-Illustration zum Vergleich SlimSana vs KetoSana. Kapseln oder Tropfen?",
+  "imageType": "editorial",
+  "linkType": "official",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-10-27"
+},
+{
+  "id": 11004,
+  "comparison": true,
+  "sourceProductIds": [
+    10023,
+    10024
+  ],
+  "topic": "wellness",
+  "subtopic": "metabolic-health",
+  "locale": "de-DE",
+  "market": "Europe; deutschsprachige Erwachsene, Lieferadresse prüfen",
+  "category": "Supplemente im Vergleich",
+  "audience": "Deutschsprachige Erwachsene vergleichen Deklaration und Kaufbedingungen",
+  "title": "MetaboSana vs. GlucoSana: Mengen und Warnhinweise",
+  "summary": "MetaboSana und GlucoSana: gleiche Kapselzahl, unterschiedliche Nährstoffe und Warnhinweise. Vergleichen Sie Mengen, Grüntee-Angaben, Kurkuma und Bestellbedingungen.",
+  "highlights": [
+    "Etiketten vergleichen",
+    "Gesamtbetrag prüfen",
+    "Offene Fragen klären"
+  ],
+  "service": "Redaktioneller Vergleich",
+  "ctaText": "Vergleich lesen",
+  "reviewUrl": "topics/wellness/metabolic-health/metabosana-vs-glucosana.html",
+  "bookingUrl": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+  "imageUrl": "assets/images/sources/comparison-metabosana-vs-glucosana.png",
+  "imageAlt": "Individuelle KI-Illustration zum Vergleich MetaboSana vs GlucoSana. Mengen und Warnhinweise vergleichen",
+  "imageType": "editorial",
+  "linkType": "official",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-10-27"
+},
+{
+  "id": 11005,
+  "comparison": true,
+  "sourceProductIds": [
+    61,
+    75
+  ],
+  "topic": "wellness",
+  "subtopic": "joint-health",
+  "locale": "en-GB",
+  "market": "United Kingdom; Joint Support also lists Ireland, exact address required",
+  "category": "Supplement comparisons",
+  "audience": "Adults comparing supplement labels, serving definitions and purchase conditions",
+  "title": "Curcumitol-Q vs Advanced Joint Support: Formula & Allergen Checks",
+  "summary": "Compare Curcumitol-Q with Advanced Joint Support by formula scope, serving format, shellfish source and unresolved tablet count. Includes separate UK order-cost context.",
+  "highlights": [
+    "Side-by-side label checks",
+    "Separate total costs",
+    "Uncertainties visible"
+  ],
+  "service": "Editorial comparison",
+  "ctaText": "Read the comparison",
+  "reviewUrl": "topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support.html",
+  "bookingUrl": "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+  "imageUrl": "assets/images/sources/comparison-curcumitol-q-vs-advanced-joint-support.png",
+  "imageAlt": "Individual AI editorial comparison illustration: Curcumitol-Q vs Advanced Joint Support. Compare the whole formula",
+  "imageType": "editorial",
+  "linkType": "official",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-10-27"
+},
+{
+  "id": 11006,
+  "comparison": true,
+  "sourceProductIds": [
+    76,
+    48
+  ],
+  "topic": "wellness",
+  "subtopic": "nutrition",
+  "locale": "en-GB",
+  "market": "United Kingdom and Ireland; exact address required",
+  "category": "Supplement comparisons",
+  "audience": "Adults comparing supplement labels, serving definitions and purchase conditions",
+  "title": "Advanced Muscle Plus vs Advanced Amino Formula: Label Differences",
+  "summary": "Advanced Muscle Plus and Advanced Amino Formula share muscle-support marketing but differ in vitamin D, HMB and amino-acid disclosure. Compare the labels before package prices.",
+  "highlights": [
+    "Side-by-side label checks",
+    "Separate total costs",
+    "Uncertainties visible"
+  ],
+  "service": "Editorial comparison",
+  "ctaText": "Read the comparison",
+  "reviewUrl": "topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula.html",
+  "bookingUrl": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+  "imageUrl": "assets/images/sources/comparison-advanced-muscle-plus-vs-advanced-amino-formula.png",
+  "imageAlt": "Individual AI editorial comparison illustration: Advanced Muscle Plus vs Advanced Amino Formula. Different blends, different checks",
+  "imageType": "editorial",
+  "linkType": "official",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-10-27"
+},
+{
+  "id": 11007,
+  "comparison": true,
+  "sourceProductIds": [
+    58,
+    1
+  ],
+  "topic": "wellness",
+  "subtopic": "brain-health",
+  "locale": "en-GB",
+  "market": "United Kingdom context; confirm Memory Formula delivery separately",
+  "category": "Supplement comparisons",
+  "audience": "Adults comparing supplement labels, serving definitions and purchase conditions",
+  "title": "BrainAMP vs Advanced Memory Formula: Ingredient & Serving Comparison",
+  "summary": "BrainAMP vs Advanced Memory Formula: compare paraxanthine, Alpha-GPC form, named ingredients and disclosure limits. A cognition-themed product name does not prove a memory outcome.",
+  "highlights": [
+    "Side-by-side label checks",
+    "Separate total costs",
+    "Uncertainties visible"
+  ],
+  "service": "Editorial comparison",
+  "ctaText": "Read the comparison",
+  "reviewUrl": "topics/wellness/brain-health/brainamp-vs-advanced-memory-formula.html",
+  "bookingUrl": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+  "imageUrl": "assets/images/sources/comparison-brainamp-vs-advanced-memory-formula.png",
+  "imageAlt": "Individual AI editorial comparison illustration: BrainAMP vs Advanced Memory Formula. Compare forms, not ingredient counts",
+  "imageType": "editorial",
+  "linkType": "official",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-10-27"
+},
+{
+  "id": 11008,
+  "comparison": true,
+  "sourceProductIds": [
+    10032,
+    62
+  ],
+  "topic": "wellness",
+  "subtopic": "gut-health",
+  "locale": "en-GB",
+  "market": "United States and United Kingdom offers differ; verify each destination",
+  "category": "Supplement comparisons",
+  "audience": "Adults comparing supplement labels, serving definitions and purchase conditions",
+  "title": "SenFlo vs Integrative Digestive Formula: Different Digestive Proposals",
+  "summary": "SenFlo Gummies and Integrative Digestive Formula use digestive marketing but have different ingredient types and missing-information limits. Compare purpose, serving evidence and delivery markets.",
+  "highlights": [
+    "Side-by-side label checks",
+    "Separate total costs",
+    "Uncertainties visible"
+  ],
+  "service": "Editorial comparison",
+  "ctaText": "Read the comparison",
+  "reviewUrl": "topics/wellness/gut-health/senflo-vs-integrative-digestive-formula.html",
+  "bookingUrl": "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+  "imageUrl": "assets/images/sources/comparison-senflo-vs-integrative-digestive-formula.jpg",
+  "imageAlt": "Individual AI editorial comparison illustration: SenFlo Gummies vs Integrative Digestive Formula. Same category, different purpose",
+  "imageType": "editorial",
+  "linkType": "official",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-10-27"
+},
+{
+  "id": 11009,
+  "comparison": true,
+  "sourceProductIds": [
+    78,
+    60
+  ],
+  "topic": "wellness",
+  "subtopic": "nutrition",
+  "locale": "en-GB",
+  "market": "Moringa US offer; Pep Tonic UK-listed offer; no common delivery assumed",
+  "category": "Supplement comparisons",
+  "audience": "Adults comparing supplement labels, serving definitions and purchase conditions",
+  "title": "EZNaturals Moringa vs Pep Tonic: Capsule & Powder Comparison",
+  "summary": "EZNaturals Moringa vs Pep Tonic: compare a capsule with a mixed powder, extract statements, fibre and blend disclosure. US and UK purchase conditions are kept separate.",
+  "highlights": [
+    "Side-by-side label checks",
+    "Separate total costs",
+    "Uncertainties visible"
+  ],
+  "service": "Editorial comparison",
+  "ctaText": "Read the comparison",
+  "reviewUrl": "topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic.html",
+  "bookingUrl": "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+  "imageUrl": "assets/images/sources/comparison-eznaturals-moringa-vs-pep-tonic.png",
+  "imageAlt": "Individual AI editorial comparison illustration: EZNaturals Moringa vs Pep Tonic. Capsule or mixed drink?",
+  "imageType": "editorial",
+  "linkType": "official",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-10-27"
+},
+{
+  "id": 11010,
+  "comparison": true,
+  "sourceProductIds": [
+    10019,
+    50
+  ],
+  "topic": "wellness",
+  "subtopic": "longevity",
+  "locale": "en-GB",
+  "market": "AGE+ US only; Mitochondrial UK/Ireland offer; availability differs",
+  "category": "Supplement comparisons",
+  "audience": "Adults comparing supplement labels, serving definitions and purchase conditions",
+  "title": "SelfPlus AGE+ vs Advanced Mitochondrial Formula: Label Scope",
+  "summary": "SelfPlus AGE+ vs Advanced Mitochondrial Formula: compare extract standardisation, trans-resveratrol amounts, formula breadth and different US/UK purchasing routes.",
+  "highlights": [
+    "Side-by-side label checks",
+    "Separate total costs",
+    "Uncertainties visible"
+  ],
+  "service": "Editorial comparison",
+  "ctaText": "Read the comparison",
+  "reviewUrl": "topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula.html",
+  "bookingUrl": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+  "imageUrl": "assets/images/sources/comparison-selfplus-age-plus-vs-advanced-mitochondrial-formula.jpg",
+  "imageAlt": "Individual AI editorial comparison illustration: SelfPlus AGE+ vs Advanced Mitochondrial Formula. One extract or a wider blend?",
+  "imageType": "editorial",
+  "linkType": "official",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-10-27"
+},
+// supplement-comparisons:end
+
 {
   "id": 10029,
   "topic": "wellness",
@@ -353,20 +676,20 @@ const blogArticles = [
   "market": "US only according to offer FAQ; general shipping policy has international boilerplate",
   "category": "Supplement label and purchase checks",
   "audience": "US adults comparing berberine capsule offers and total purchase costs",
-  "title": "Insulin Herb Berberine: Costs & Formula Questions",
-  "summary": "Insulin Herb sells an Ezyabsorb berberine capsule supplement marketed for blood-sugar support. This guide helps US adults compare the seller’s capsule claims, supply arithmetic, shipping differences and 90-day return conditions.",
+  "title": "Insulin Herb Berberine: Label & US Pack Costs",
+  "summary": "Insulin Herb Berberine is a capsule supplement marketed for metabolic support. This US guide compares its published berberine, milk-thistle and piperine amounts, serving-count discrepancy, package costs and returns.",
   "highlights": [
-    "60 capsules claimed",
-    "20–30-day supply arithmetic",
-    "US shipping FAQ"
+    "1 capsule per label serving",
+    "Three declared ingredients",
+    "Confirm the full US order"
   ],
   "service": "Dietary supplement",
   "ctaText": "Check the current offer and label",
   "reviewUrl": "topics/wellness/metabolic-health/insulin-herb-berberine.html",
   "bookingUrl": "/topics/wellness/metabolic-health/insulin-herb-berberine",
-  "imageUrl": "assets/images/products/insulin-herb-berberine-overview.svg",
-  "imageAlt": "Insulin Herb Berberine buying guide image",
-  "imageType": "editorial",
+  "imageUrl": "assets/images/sources/insulin-herb-berberine-bottle.png",
+  "imageAlt": "Supplier three-bottle Insulin Herb Berberine artwork",
+  "imageType": "official",
   "linkType": "affiliate",
   "network": "Digistore24",
   "isDirectAffiliate": false,

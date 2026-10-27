@@ -1,0 +1,17 @@
+.page-comparison{--bg:#faf8f3;--ink:#1b3837;--accent:#245d60;--muted:#596866;--line:rgba(27,56,55,.16)}
+.page-comparison .nav{flex-wrap:wrap;gap:14px}.page-comparison .nav-links{flex-wrap:wrap;gap:20px}
+.page-comparison .product-card{margin:0;background:#fff;border:1px solid var(--line);border-radius:18px;overflow:hidden}
+.page-comparison .product-card img{display:block;width:100%;height:340px;object-fit:contain}
+.page-comparison figcaption{font-size:.8rem;color:var(--muted);padding:16px;margin:0;line-height:1.6}
+.page-comparison .comparison-scroll{max-width:100%;min-width:0;overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:#fff}
+.page-comparison table{width:100%;min-width:570px;border-collapse:collapse;table-layout:fixed}
+.page-comparison th,.page-comparison td{vertical-align:top;text-align:left;padding:18px;border-bottom:1px solid var(--line);overflow-wrap:anywhere;line-height:1.6}
+.page-comparison thead th{background:#e4eeeb;color:#163d39}.page-comparison tbody th{width:24%}
+.page-comparison .comparison-layout{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,.7fr);gap:40px;align-items:start}
+.page-comparison .comparison-layout>*{min-width:0}.page-comparison .comparison-layout:has(>div:only-child){grid-template-columns:1fr;max-width:850px}
+.page-comparison .comparison-figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.page-comparison .comparison-figure img{display:block;width:100%;height:auto;max-height:420px;object-fit:contain}
+.page-comparison .comparison-method,.page-comparison .editorial-disclosure{font-size:.92rem;line-height:1.7}
+.page-comparison .editorial-source a,.page-comparison .editorial-disclosure a{text-decoration:underline}
+.page-comparison .comparison-date{font-size:.8rem;font-weight:600}.page-comparison ol{padding-left:24px}.page-comparison li{margin:10px 0}
+@media(max-width:760px){.page-comparison .comparison-layout{grid-template-columns:1fr;gap:24px}.page-comparison .product-card img{height:300px}.page-comparison .nav-links{gap:12px;font-size:.82rem}.page-comparison th,.page-comparison td{padding:12px}.page-comparison .cta-row{align-items:stretch}}

@@ -774,3 +774,18 @@ Created 17 Portuguese guides for missing active affiliations, each with three or
 - **AdaptoGen 4.0**: [guia](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4); marketplace 55041, afiliação aceita, 80% exibidos na conta. Público: US adults comparing a nine-botanical formula, especially women in midlife. Link gerado preservado; sem compra nem receita observada.
 
 Revisão: [fontes e limitações](DIGISTORE_FIVE_2026-10-26.md).
+
+## Ten editorial comparisons — 27 October 2026
+
+These compare existing registered guides; no new affiliation or product testing is implied. Supplier prices retain their original observation dates. The Insulin Herb and Advanced Memory Formula guides now include readable current quantitative panels reviewed on 27 October.
+
+- [SLIN vs Insulin Herb Berberine: Serving & Formula Checks](/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine) · en-US
+- [Gluconite vs Elixolve Sleep Strips: Nighttime Label Comparison](/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips) · en-US
+- [SlimSana vs. KetoSana: Kapseln, Tropfen und Etiketten](/topics/wellness/metabolic-health/slimsana-vs-ketosana) · de-DE
+- [MetaboSana vs. GlucoSana: Mengen und Warnhinweise](/topics/wellness/metabolic-health/metabosana-vs-glucosana) · de-DE
+- [Curcumitol-Q vs Advanced Joint Support: Formula & Allergen Checks](/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support) · en-GB
+- [Advanced Muscle Plus vs Advanced Amino Formula: Label Differences](/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula) · en-GB
+- [BrainAMP vs Advanced Memory Formula: Ingredient & Serving Comparison](/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula) · en-GB
+- [SenFlo vs Integrative Digestive Formula: Different Digestive Proposals](/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula) · en-GB
+- [EZNaturals Moringa vs Pep Tonic: Capsule & Powder Comparison](/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic) · en-GB
+- [SelfPlus AGE+ vs Advanced Mitochondrial Formula: Label Scope](/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula) · en-GB

@@ -133,7 +133,7 @@
   },
   "topics/wellness/brain-health/advanced-memory-formula.html": {
     "description": "Advanced Memory Formula is a dietary supplement marketed for memory and mental performance. The seller lists eleven nutrients and botanicals; this guide does not establish memory improvements.",
-    "modified": "2026-10-17"
+    "modified": "2026-10-27"
   },
   "topics/wellness/gut-health/ketosana.html": {
     "description": "KetoSana is a liquid dietary supplement marketed for keto and weight-management routines. Compare its seller-described ingredient blend with the complete label; weight-loss outcomes are not established here.",
@@ -396,8 +396,8 @@
     "modified": "2026-10-25"
   },
   "topics/wellness/metabolic-health/insulin-herb-berberine.html": {
-    "description": "Insulin Herb sells an Ezyabsorb berberine capsule supplement marketed for blood-sugar support. This guide helps US adults compare the seller’s capsule claims, supply arithmetic, shipping differences and 90-day return conditions.",
-    "modified": "2026-10-25"
+    "description": "Insulin Herb Berberine is a capsule supplement marketed for metabolic support. This US guide compares its published berberine, milk-thistle and piperine amounts, serving-count discrepancy, package costs and returns.",
+    "modified": "2026-10-27"
   },
   "topics/wellness/gut-health/floravitasana.html": {
     "description": "FloraVitaSana est un complément de 30 gélules à base de substances végétales et de L. acidophilus, proposé pour le confort digestif. Ce guide aide les adultes francophones à comparer la composition, le prix des lots et les conditions de livraison en Europe.",
@@ -418,5 +418,45 @@
   "topics/wellness/nutrition/adaptogen-4.html": {
     "description": "AdaptoGen 4.0 is a nine-botanical capsule formula marketed for stress support. This guide helps US adults, including women in midlife comparing wellness supplements, read the declared amounts, calculate pack quantities and check conditional refund terms.",
     "modified": "2026-10-26"
+  },
+  "topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine.html": {
+    "description": "SLIN and Insulin Herb Berberine both use berberine in their metabolic marketing, but the published amounts use different serving units and the linked orders differ. This comparison helps US adults read those differences before considering either product.",
+    "modified": "2026-10-27"
+  },
+  "topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips.html": {
+    "description": "Gluconite and Elixolve Sleep Strips appear in the same nighttime-support shopping journey, but their available labels and formats differ. US adults can use this review to separate a defined oral-strip serving from an unresolved full-formula question.",
+    "modified": "2026-10-27"
+  },
+  "topics/wellness/metabolic-health/slimsana-vs-ketosana.html": {
+    "description": "SlimSana und KetoSana werden für ähnliche Gewichts- und Stoffwechselinteressen angeboten. Für deutschsprachige Erwachsene ist der brauchbare Vergleich das konkrete Format, die verfügbare Deklaration und die Bestellung — nicht die Stärke der Werbeversprechen.",
+    "modified": "2026-10-27"
+  },
+  "topics/wellness/metabolic-health/metabosana-vs-glucosana.html": {
+    "description": "MetaboSana und GlucoSana sind Mehrstoff-Kapseln mit überlappender Stoffwechselwerbung. Beide geprüften Etiketten nennen 30 Kapseln, doch die Zusammensetzung und die hervorgehobenen Warnhinweise unterscheiden sich deutlich.",
+    "modified": "2026-10-27"
+  },
+  "topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support.html": {
+    "description": "Curcumitol-Q and Advanced Joint Support both appear in joint-comfort shopping, but they are different formulas. This UK-focused comparison explains the two-ingredient capsule approach, the broader tablet blend and the information to resolve before comparing value.",
+    "modified": "2026-10-27"
+  },
+  "topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula.html": {
+    "description": "Advanced Muscle Plus and Advanced Amino Formula both target adults comparing muscle-support supplements. Their ingredient types and serving definitions differ, and the displayed vitamin D amount in Muscle Plus deserves attention before any value calculation.",
+    "modified": "2026-10-27"
+  },
+  "topics/wellness/brain-health/brainamp-vs-advanced-memory-formula.html": {
+    "description": "BrainAMP and Advanced Memory Formula both use cognitive-support marketing. This UK-focused comparison examines their newly reviewed supplier label forms, the different Alpha-GPC ingredients and the soy warning on Memory Formula, without promising a cognitive outcome.",
+    "modified": "2026-10-27"
+  },
+  "topics/wellness/gut-health/senflo-vs-integrative-digestive-formula.html": {
+    "description": "SenFlo Gummies and Integrative Digestive Formula share a broad digestive-shopping category, but senna-based occasional use and a multi-blend capsule formula are different proposals. This comparison explains why their serving and purchase information cannot be treated as interchangeable.",
+    "modified": "2026-10-27"
+  },
+  "topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic.html": {
+    "description": "EZNaturals Moringa and Pep Tonic can both attract adults browsing plant-based nutrition products. One combines moringa powder and extracts in a capsule; the other is a mixed drink with fibre and several compounds. The formats and market routes need separate comparisons.",
+    "modified": "2026-10-27"
+  },
+  "topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula.html": {
+    "description": "SelfPlus AGE+ and Advanced Mitochondrial Formula share healthy-ageing and cellular-wellness marketing. Their labels describe different scopes: a focused resveratrol extract and a wider multi-ingredient formula. This review compares those facts without claiming a longevity result.",
+    "modified": "2026-10-27"
   }
 }

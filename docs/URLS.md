@@ -39,3 +39,18 @@ The homepage catalog is maintained separately in `assets/js/articles.js`. Affili
 - `/yara-hair-vitamins` → `/topics/wellness/nutrition/yara-hair-vitamins`; alias `.html` incluído.
 - `/senflo-gummies` → `/topics/wellness/gut-health/senflo-gummies`; alias `.html` incluído.
 - `/adaptogen-4` → `/topics/wellness/nutrition/adaptogen-4`; alias `.html` incluído.
+
+## Supplement comparisons — 27 October 2026
+
+Directory: `/guides/supplement-comparisons`. Every article also has short aliases with and without `.html`.
+
+- [SLIN vs Insulin Herb Berberine: Serving & Formula Checks](/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine) · en-US
+- [Gluconite vs Elixolve Sleep Strips: Nighttime Label Comparison](/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips) · en-US
+- [SlimSana vs. KetoSana: Kapseln, Tropfen und Etiketten](/topics/wellness/metabolic-health/slimsana-vs-ketosana) · de-DE
+- [MetaboSana vs. GlucoSana: Mengen und Warnhinweise](/topics/wellness/metabolic-health/metabosana-vs-glucosana) · de-DE
+- [Curcumitol-Q vs Advanced Joint Support: Formula & Allergen Checks](/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support) · en-GB
+- [Advanced Muscle Plus vs Advanced Amino Formula: Label Differences](/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula) · en-GB
+- [BrainAMP vs Advanced Memory Formula: Ingredient & Serving Comparison](/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula) · en-GB
+- [SenFlo vs Integrative Digestive Formula: Different Digestive Proposals](/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula) · en-GB
+- [EZNaturals Moringa vs Pep Tonic: Capsule & Powder Comparison](/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic) · en-GB
+- [SelfPlus AGE+ vs Advanced Mitochondrial Formula: Label Scope](/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula) · en-GB

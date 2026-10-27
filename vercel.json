@@ -916,6 +916,106 @@
       "source": "/insulin-herb-berberine.html",
       "destination": "/topics/wellness/metabolic-health/insulin-herb-berberine",
       "permanent": true
+    },
+    {
+      "source": "/slin-vs-insulin-herb-berberine",
+      "destination": "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+      "permanent": true
+    },
+    {
+      "source": "/slin-vs-insulin-herb-berberine.html",
+      "destination": "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+      "permanent": true
+    },
+    {
+      "source": "/gluconite-vs-elixolve-sleep-strips",
+      "destination": "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+      "permanent": true
+    },
+    {
+      "source": "/gluconite-vs-elixolve-sleep-strips.html",
+      "destination": "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+      "permanent": true
+    },
+    {
+      "source": "/slimsana-vs-ketosana",
+      "destination": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+      "permanent": true
+    },
+    {
+      "source": "/slimsana-vs-ketosana.html",
+      "destination": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+      "permanent": true
+    },
+    {
+      "source": "/metabosana-vs-glucosana",
+      "destination": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+      "permanent": true
+    },
+    {
+      "source": "/metabosana-vs-glucosana.html",
+      "destination": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+      "permanent": true
+    },
+    {
+      "source": "/curcumitol-q-vs-advanced-joint-support",
+      "destination": "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+      "permanent": true
+    },
+    {
+      "source": "/curcumitol-q-vs-advanced-joint-support.html",
+      "destination": "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+      "permanent": true
+    },
+    {
+      "source": "/advanced-muscle-plus-vs-advanced-amino-formula",
+      "destination": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+      "permanent": true
+    },
+    {
+      "source": "/advanced-muscle-plus-vs-advanced-amino-formula.html",
+      "destination": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+      "permanent": true
+    },
+    {
+      "source": "/brainamp-vs-advanced-memory-formula",
+      "destination": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+      "permanent": true
+    },
+    {
+      "source": "/brainamp-vs-advanced-memory-formula.html",
+      "destination": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+      "permanent": true
+    },
+    {
+      "source": "/senflo-vs-integrative-digestive-formula",
+      "destination": "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+      "permanent": true
+    },
+    {
+      "source": "/senflo-vs-integrative-digestive-formula.html",
+      "destination": "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+      "permanent": true
+    },
+    {
+      "source": "/eznaturals-moringa-vs-pep-tonic",
+      "destination": "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+      "permanent": true
+    },
+    {
+      "source": "/eznaturals-moringa-vs-pep-tonic.html",
+      "destination": "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+      "permanent": true
+    },
+    {
+      "source": "/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+      "destination": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+      "permanent": true
+    },
+    {
+      "source": "/selfplus-age-plus-vs-advanced-mitochondrial-formula.html",
+      "destination": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+      "permanent": true
     }
   ],
   "headers": [
