@@ -1,24 +1,20 @@
-# PokiSky — cinco posts para Pinterest e Facebook
+# PokiSky — cinco novos posts para Pinterest e Facebook
 
-Preparados em 28/10/2026. Cinco temas novos, com dez versões de texto em inglês. Base editorial: comparações do blog revisadas em 27/10/2026.
+Campanha de 28/10/2026. Cinco artes individuais geradas na interface web do Gemini, revisadas visualmente e salvas em JPG de 848 × 1264 pixels. Textos em inglês, divulgação de afiliados e identificação de arte editorial feita com IA. Base: comparações do blog revisadas em 27/10/2026; preços e rótulos de fornecedores não foram revalidados nesta campanha.
 
-**Status: textos e prompts prontos; artes não geradas; nenhuma publicação efetuada.** O controle do Chrome foi recusado pela ferramenta mesmo após a autorização textual do usuário. Manter Gemini/Nano Banana, conforme a preferência confirmada.
+**Status:** published_pinterest_and_facebook
 
-Os links foram conferidos contra os arquivos locais, canonical e sitemap. Esta etapa não refez a auditoria HTTP, não revisou os fornecedores e não atualizou datas de revisão de rótulos ou preços.
+## Publicação e identidade
 
-## Produção e revisão das artes
+Pinterest: pasta Supplement Buying Guides | PokiSky. Facebook: página PokiSky Supplement Guides. Cinco temas com novos títulos, enfoques e composições; as comparações gerais desses produtos já tinham posts anteriores. A pasta do Pinterest passou de 31 para 36 Pins após esta rodada. Nenhum anúncio pago, botão de telefone ou agendamento foi configurado.
 
-Gerar uma arte por vez, usando o prompt próprio de cada tema. Pinterest: composição vertical 2:3. A mesma arte pode acompanhar a versão para Facebook, como na campanha anterior; revisar a prévia de enquadramento antes de publicar. Conferir grafia, legibilidade em celular, marca PokiSky e rodapé de IA/afiliados. Não aceitar embalagem inventada, alegação de eficácia, estrelas, testemunhos ou selo oficial. Os textos alternativos abaixo são rascunhos: ajustar ao conteúdo visual efetivamente gerado.
-
-Usar a pasta existente Supplement Buying Guides | PokiSky no Pinterest e a página PokiSky Supplement Guides no Facebook. Marcar conteúdo de IA quando a plataforma oferecer esse recurso. Não marcar parceria paga com um fabricante sem uma relação que justifique a marcação. Os avisos de afiliados devem permanecer no início das legendas.
-
-UTMs distinguem plataforma e tema; não coletam métricas sozinhos. Não há agendamento criado nem promessa de alcance, indexação ou vendas. Espaçar as peças e avaliar cliques externos e salvamentos antes de repetir temas.
+Os parâmetros UTM distinguem a rede e a peça, mas não medem visitas por conta própria. Os textos alternativos foram conferidos com as imagens finais; o manifesto registra dimensões e hashes dos arquivos.
 
 ## 1. SLIN vs Insulin Herb Berberine: compare the serving first
 
-**Mercado e limite:** United States; verify the exact offer and address
+![Editorial graphic with a magnifying glass and two abstract label cards. Text: Serving size first. SLIN vs Insulin Herb Berberine. Compare the serving unit, full formula and total order. PokiSky. AI editorial illustration and affiliate guide.](images/01-serving_size_first.jpg)
 
-**Arquivo de arte previsto:** images/01-serving_size_first.png — ainda não criado.
+**Mercado e limite:** United States; verify the exact offer and address
 
 ### Pinterest
 
@@ -26,7 +22,9 @@ UTMs distinguem plataforma e tema; não coletam métricas sozinhos. Não há age
 
 Ad / affiliate disclosure: the linked guide contains affiliate links. Comparing SLIN and Insulin Herb Berberine? Start with the serving unit, then the full formula and total order. A matching ingredient name does not make two products equivalent. Save this checklist and read the side-by-side guide. AI editorial illustration; not product photography.
 
-**Destino:** https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine?utm_source=pinterest&utm_medium=organic_social&utm_campaign=comparison_guides_20261028&utm_content=serving_size_first
+**Destino do guia:** https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine?utm_source=pinterest&utm_medium=organic_social&utm_campaign=comparison_guides_20261028&utm_content=serving_size_first
+
+**Pin publicado:** https://br.pinterest.com/pin/765471267964072338/
 
 ### Facebook
 
@@ -46,17 +44,17 @@ https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin-vs-in
 
 AI editorial illustration; not product photography.
 
-### Texto alternativo provisório
+**Publicação:** https://www.facebook.com/photo/?fbid=122097164649532355&set=a.122094306885532355
+
+### Texto alternativo
 
 Editorial graphic with a magnifying glass and two abstract label cards. Text: Serving size first. SLIN vs Insulin Herb Berberine. Compare the serving unit, full formula and total order. PokiSky. AI editorial illustration and affiliate guide.
 
-**Prompt Gemini:** [01-serving_size_first.txt](prompts/01-serving_size_first.txt)
-
 ## 2. Gluconite vs Elixolve Sleep Strips: look beyond the format
 
-**Mercado e limite:** United States; confirm current labels and shipping
+![Midnight-purple editorial scene with an open notebook, a crescent-shaped paper sculpture and three checklist tabs. Text: Look beyond the format. Gluconite vs Elixolve Sleep Strips. Full label, serving definition, pack quantity. PokiSky. AI editorial illustration and affiliate guide.](images/02-nighttime_label_check.jpg)
 
-**Arquivo de arte previsto:** images/02-nighttime_label_check.png — ainda não criado.
+**Mercado e limite:** United States; confirm current labels and shipping
 
 ### Pinterest
 
@@ -64,7 +62,9 @@ Editorial graphic with a magnifying glass and two abstract label cards. Text: Se
 
 Ad / affiliate disclosure: the linked guide contains affiliate links. Gluconite and Elixolve Sleep Strips use different formats. Compare the full label, declared serving and package quantity before the purchase terms. Similar marketing does not establish equivalent formulas or results. Save the checklist and open the comparison. AI editorial illustration; not product photography.
 
-**Destino:** https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips?utm_source=pinterest&utm_medium=organic_social&utm_campaign=comparison_guides_20261028&utm_content=nighttime_label_check
+**Destino do guia:** https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips?utm_source=pinterest&utm_medium=organic_social&utm_campaign=comparison_guides_20261028&utm_content=nighttime_label_check
+
+**Pin publicado:** https://br.pinterest.com/pin/765471267964072342/
 
 ### Facebook
 
@@ -86,17 +86,17 @@ https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite-vs-elix
 
 AI editorial illustration; not product photography.
 
-### Texto alternativo provisório
+**Publicação:** https://www.facebook.com/photo/?fbid=122097173301532355&set=a.122094306885532355
+
+### Texto alternativo
 
 Midnight-purple editorial scene with an open notebook, a crescent-shaped paper sculpture and three checklist tabs. Text: Look beyond the format. Gluconite vs Elixolve Sleep Strips. Full label, serving definition, pack quantity. PokiSky. AI editorial illustration and affiliate guide.
 
-**Prompt Gemini:** [02-nighttime_label_check.txt](prompts/02-nighttime_label_check.txt)
-
 ## 3. BrainAMP vs Advanced Memory Formula: compare ingredient forms
 
-**Mercado e limite:** UK reader context; confirm each product's delivery separately
+![Cream and burnt-orange typographic poster with transparent overlapping geometric shapes and three editorial callouts. Text: Read the form, not just the name. BrainAMP vs Advanced Memory Formula. Ingredient form, label serving, allergen information. PokiSky. AI editorial illustration and affiliate guide.](images/03-ingredient_form_check.jpg)
 
-**Arquivo de arte previsto:** images/03-ingredient_form_check.png — ainda não criado.
+**Mercado e limite:** UK reader context; confirm each product's delivery separately
 
 ### Pinterest
 
@@ -104,7 +104,9 @@ Midnight-purple editorial scene with an open notebook, a crescent-shaped paper s
 
 Ad / affiliate disclosure: the linked guide contains affiliate links. BrainAMP vs Advanced Memory Formula: compare ingredient form, label serving and allergen information—not just ingredient counts. Delivery needs a separate check for each offer. Save this reading checklist and explore the guide. No ranking of memory or focus results. AI editorial illustration; not product photography.
 
-**Destino:** https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=comparison_guides_20261028&utm_content=ingredient_form_check
+**Destino do guia:** https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=comparison_guides_20261028&utm_content=ingredient_form_check
+
+**Pin publicado:** https://br.pinterest.com/pin/765471267964072359/
 
 ### Facebook
 
@@ -124,17 +126,17 @@ https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp-vs-ad
 
 AI editorial illustration; not product photography.
 
-### Texto alternativo provisório
+**Publicação:** https://www.facebook.com/photo/?fbid=122097180243532355&set=a.122094306885532355
+
+### Texto alternativo
 
 Cream and burnt-orange typographic poster with transparent overlapping geometric shapes and three editorial callouts. Text: Read the form, not just the name. BrainAMP vs Advanced Memory Formula. Ingredient form, label serving, allergen information. PokiSky. AI editorial illustration and affiliate guide.
 
-**Prompt Gemini:** [03-ingredient_form_check.txt](prompts/03-ingredient_form_check.txt)
-
 ## 4. Advanced Muscle Plus vs Advanced Amino Formula: label before price
 
-**Mercado e limite:** United Kingdom and Ireland; confirm the exact order address
+![Forest-green editorial still life of folded cream paper, a graphite pencil and layered comparison sheets. Text: Label before price. Advanced Muscle Plus vs Advanced Amino Formula. Full formula, serving definition, warnings and order terms. PokiSky. AI editorial illustration and affiliate guide.](images/04-full_formula_before_price.jpg)
 
-**Arquivo de arte previsto:** images/04-full_formula_before_price.png — ainda não criado.
+**Mercado e limite:** United Kingdom and Ireland; confirm the exact order address
 
 ### Pinterest
 
@@ -142,7 +144,9 @@ Cream and burnt-orange typographic poster with transparent overlapping geometric
 
 Ad / affiliate disclosure: the linked guide contains affiliate links. Advanced Muscle Plus and Advanced Amino Formula have different label profiles. Compare the full formula, serving definition and warnings before pack prices. Then check quantity, delivery and return conditions. Save the checklist and read the comparison. AI editorial illustration; not product photography.
 
-**Destino:** https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=comparison_guides_20261028&utm_content=full_formula_before_price
+**Destino do guia:** https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=comparison_guides_20261028&utm_content=full_formula_before_price
+
+**Pin publicado:** https://br.pinterest.com/pin/765471267964072371/
 
 ### Facebook
 
@@ -161,17 +165,17 @@ https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-p
 
 AI editorial illustration; not product photography.
 
-### Texto alternativo provisório
+**Publicação:** https://www.facebook.com/photo/?fbid=122097184185532355&set=a.122094306885532355
+
+### Texto alternativo
 
 Forest-green editorial still life of folded cream paper, a graphite pencil and layered comparison sheets. Text: Label before price. Advanced Muscle Plus vs Advanced Amino Formula. Full formula, serving definition, warnings and order terms. PokiSky. AI editorial illustration and affiliate guide.
 
-**Prompt Gemini:** [04-full_formula_before_price.txt](prompts/04-full_formula_before_price.txt)
-
 ## 5. SelfPlus AGE+ vs Advanced Mitochondrial Formula: check the buying route
 
-**Mercado e limite:** Separate US and UK/Ireland purchasing routes; no common destination assumed
+![Pale-blue editorial graphic with two separate cobalt paths, coral dots and sculpted paper shapes. Text: Check the buying route. SelfPlus AGE+ and Advanced Mitochondrial Formula. Destination eligibility, complete formula and delivered total. Explore the comparison. PokiSky. AI editorial illustration and affiliate guide.](images/05-check_destination_first.jpg)
 
-**Arquivo de arte previsto:** images/05-check_destination_first.png — ainda não criado.
+**Mercado e limite:** Separate US and UK/Ireland purchasing routes; no common destination assumed
 
 ### Pinterest
 
@@ -179,7 +183,9 @@ Forest-green editorial still life of folded cream paper, a graphite pencil and l
 
 Ad / affiliate disclosure: the linked guide contains affiliate links. SelfPlus AGE+ and Advanced Mitochondrial Formula differ in label scope and buying route. Start with destination eligibility, then compare the full formula and delivered total. Do not assume both offers serve the same country. Save this checklist and read the comparison. AI editorial illustration; not product photography.
 
-**Destino:** https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=comparison_guides_20261028&utm_content=check_destination_first
+**Destino do guia:** https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=comparison_guides_20261028&utm_content=check_destination_first
+
+**Pin publicado:** https://br.pinterest.com/pin/765471267964072407/
 
 ### Facebook
 
@@ -199,8 +205,8 @@ https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus
 
 AI editorial illustration; not product photography.
 
-### Texto alternativo provisório
+**Publicação:** https://www.facebook.com/photo/?fbid=122097186801532355&set=a.122094306885532355
 
-Pale-blue editorial collage with two abstract route lines that end separately, a folded blank card and coral accent dots. Text: Check the buying route. SelfPlus AGE+ vs Advanced Mitochondrial Formula. Destination eligibility, complete formula, delivered total. PokiSky. AI editorial illustration and affiliate guide.
+### Texto alternativo
 
-**Prompt Gemini:** [05-check_destination_first.txt](prompts/05-check_destination_first.txt)
+Pale-blue editorial graphic with two separate cobalt paths, coral dots and sculpted paper shapes. Text: Check the buying route. SelfPlus AGE+ and Advanced Mitochondrial Formula. Destination eligibility, complete formula and delivered total. Explore the comparison. PokiSky. AI editorial illustration and affiliate guide.

@@ -1,0 +1,47 @@
+[
+    {
+        "file":  "01-serving_size_first.jpg",
+        "width":  848,
+        "height":  1264,
+        "sha256":  "1bc0bf808029200287d9f7949c51c68b930f4a9b6fefd9ac75ec105782203915",
+        "generator":  "Gemini web / individual generation",
+        "reviewed":  "2026-10-28",
+        "editorialArtwork":  true
+    },
+    {
+        "file":  "02-nighttime_label_check.jpg",
+        "width":  848,
+        "height":  1264,
+        "sha256":  "af7f1e81c3a7651d58319e79c0411e9502c68d0cba609a394eafc62e49727705",
+        "generator":  "Gemini web / individual generation",
+        "reviewed":  "2026-10-28",
+        "editorialArtwork":  true
+    },
+    {
+        "file":  "03-ingredient_form_check.jpg",
+        "width":  848,
+        "height":  1264,
+        "sha256":  "879c35e86db6b6c198ade16cbe91a647913cd8689c80755d879e1c9248c0800d",
+        "generator":  "Gemini web / individual generation",
+        "reviewed":  "2026-10-28",
+        "editorialArtwork":  true
+    },
+    {
+        "file":  "04-full_formula_before_price.jpg",
+        "width":  848,
+        "height":  1264,
+        "sha256":  "21a4aab01281cd08a4e41e1e6ed4ef5e12e571e2655223bb3505fec9b43b4a9b",
+        "generator":  "Gemini web / individual generation",
+        "reviewed":  "2026-10-28",
+        "editorialArtwork":  true
+    },
+    {
+        "file":  "05-check_destination_first.jpg",
+        "width":  848,
+        "height":  1264,
+        "sha256":  "9caad00630913c3b399573b26099b6569ec4b1d83bd99df250d66149be8ec320",
+        "generator":  "Gemini web / individual generation",
+        "reviewed":  "2026-10-28",
+        "editorialArtwork":  true
+    }
+]
