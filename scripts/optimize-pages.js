@@ -5,7 +5,7 @@ const {siteUrl, guides, hubs, localeOf, ogLocaleOf, languages, cleanPath, absolu
 
 function htmlFiles(directory) {
   return fs.readdirSync(directory, {withFileTypes: true}).flatMap(entry => {
-    const file = path.join(directory, entry.name);
+    const file = path.join(directory, entry.name).replace(/\\/g, '/');
     return entry.isDirectory() ? htmlFiles(file) : entry.name.endsWith('.html') ? [file] : [];
   });
 }
