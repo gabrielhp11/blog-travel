@@ -46,6 +46,10 @@ The public catalog is maintained in `assets/js/articles.js`. Pages with unverifi
 
 ## SEO maintenance
 
+Run `npm run check` before delivery to validate SEO, navigation, images, comparison pages, the live-check logic and the full editorial release queue. The same command runs in GitHub Actions. Then run `npm run seo:build` and confirm `git diff --exit-code` leaves generated pages unchanged after committing the intended changes.
+
+On a machine with Node but no npm command in PATH, use `node scripts/run-task.js seo:build check`. This executes the Node-only tasks defined in `package.json` with the current Node executable, stops at the first failed step and works on Windows and Linux. Release tests use an isolated temporary copy and do not publish drafts to the working site. Text files use LF consistently across platforms through `.gitattributes`.
+
 Run `npm run seo:live` after deployment to check the live sitemap and every listed URL: direct HTTP 200, HTML, matching canonical, static content, robots.txt and indexing restrictions in meta tags/HTTP headers. Pass a report path with `npm run seo:live -- report.json`. The check fails when the deployed sitemap differs from the checkout or a listed page fails a technical requirement. It does not report Google index status or guarantee indexing.
 
 `Published sitemap validation` runs when GitHub receives a successful deployment status and can also be started manually. It checks the production site against `main` and retains a JSON artifact. Execution depends on GitHub Actions being enabled and the deployment provider emitting the event. It never submits repeated indexing requests or publishes drafts.

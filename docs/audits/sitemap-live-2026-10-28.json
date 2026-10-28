@@ -1,0 +1,595 @@
+{
+  "checkedAt": "2026-10-28T17:44:57.507Z",
+  "sitemap": "https://blog-travel-eight.vercel.app/sitemap.xml",
+  "scope": "HTTP and HTML technical eligibility; not Google index status",
+  "checked": 117,
+  "passed": 117,
+  "issues": [],
+  "results": [
+    {
+      "url": "https://blog-travel-eight.vercel.app/",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/affiliate-disclosure",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/courses",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europa-esim",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europe",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europe-de",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europe-esim",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/gaming",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/supplement-comparisons",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/travel",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/uk-ireland",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/wellness",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/accessories-business/vivendo-de-acessorios",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/ai-training/agent-x",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/ai-training/ki-training",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/course/advanced-program",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/domestika-plus",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/prejudice-slog3-luts",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/skillshare",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/social-media-masterclass",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/design-tools/canva-pro",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/coachy-premium",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/hook-mastery",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/remixable-founder",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/family-learning/empowered-parenting",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/finance-ai/claude-para-financas",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/maker-tools/creality-3d-printers",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/fastseohub-elite",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/funnelcockpit-standard",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/salesforge-pro",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/traffic-genius",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/ultimate-viddeos-ai",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-paket",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-profissional",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/productivity/expertslides-powerpoint",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/chargeback-prevention-masterclass",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/coursera-plus",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/key-account-management-training",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/leadership-crash-course",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/sap-ewm-supercharged",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/vehicle-buying/metodo-adl",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/creative-learning/aprenda-croche",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/creative-learning/gifts-da-isa",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/metodo-flow-futevolei",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/supp-up-travel-system",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/babbel",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/hackeando-a-fluencia",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/ingles-para-viagens",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mega-sprachen-reise-englisch",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mystery-of-nils",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/pacote-4-guias-idiomas",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/spanish-slow-and-easy",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/endlich-klavier-spielen",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/piano-boogie-woogie",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/pet-learning/herdenschutzhund-kurs",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/pet-learning/segredo-adestramento-canino",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/professional-learning/supremo-enem",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/consertaflix",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/et-akademie-dozenten-paket",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/formacao-redlips",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/fundamentos-do-corte",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/raspberry-pi-for-beginners",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/entertainment/gaming-network/gearup-booster",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/airalo",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/holafly",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/experiences/civitatis",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/experiences/getyourguide",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/comunidade-milhas",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/elite-travelhacking-basix",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/transport/omio",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/floravitasana",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/herosana-caliber",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glucosana",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glucotrust-german",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/insulin-herb-berberine",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula",
+      "status": 200,
+      "errors": []
+    }
+  ]
+}

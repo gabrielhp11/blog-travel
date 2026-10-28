@@ -1,5 +1,7 @@
 {
   "scripts": {
+    "check": "node scripts/run-task.js seo:check seo:live:test tasks:test posts:test",
+    "tasks:test": "node --test scripts/run-task.test.js",
     "seo:sitemap": "node scripts/generate-sitemap.js",
     "seo:live": "node scripts/check-live-sitemap.js",
     "seo:live:test": "node --test scripts/check-live-sitemap.test.js",

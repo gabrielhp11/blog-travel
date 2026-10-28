@@ -3,7 +3,7 @@ const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const os = require('node:os');
 const path = require('node:path');
-const {execFileSync} = require('node:child_process');
+const {runTask} = require('./run-task');
 const {localDate, nextPost} = require('./editorial-publishing');
 test('publication clock follows Sao Paulo across UTC midnight', () => {
   assert.equal(localDate(new Date('2026-10-12T02:59:00Z')), '2026-10-11');
@@ -23,7 +23,7 @@ test('all prepared releases build valid public pages without early exposure', ()
   try {
     const root = process.cwd();
     fs.cpSync(root, checkout, {recursive:true, filter: source => !['.git', 'node_modules', '.codex', '.agents', '.aws', '.cursor'].includes(path.relative(root,source).split(path.sep)[0])});
-    fs.symlinkSync(path.join(root,'node_modules'), path.join(checkout,'node_modules'), 'dir');
+    fs.symlinkSync(path.join(root,'node_modules'), path.join(checkout,'node_modules'), process.platform === 'win32' ? 'junction' : 'dir');
     const file = path.join(checkout,'content/editorial-posts.json');
     const posts = JSON.parse(fs.readFileSync(file,'utf8'));
     // Replay the prepared sequence even after real scheduled runs have released it.
@@ -42,8 +42,8 @@ test('all prepared releases build valid public pages without early exposure', ()
       assert.ok(post);
       post.publishedAt = today;
       fs.writeFileSync(file, JSON.stringify(posts,null,2)+'\n');
-      execFileSync('npm',['run','seo:build'], {cwd:checkout,stdio:'pipe'});
-      execFileSync('npm',['run','seo:check'], {cwd:checkout,stdio:'pipe'});
+      runTask('seo:build', {cwd:checkout,stdio:'pipe'});
+      runTask('seo:check', {cwd:checkout,stdio:'pipe'});
       assert.equal(nextPost(posts,today), null);
     }
     assert.equal(nextPost(posts,'2026-10-15'), null);
