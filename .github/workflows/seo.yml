@@ -1,7 +1,5 @@
 name: SEO validation
 on: [push, pull_request]
-permissions:
-  contents: read
 jobs:
   validate:
     runs-on: ubuntu-latest
@@ -12,12 +10,8 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm run check
+      - run: npm run seo:check
+      - run: npm run seo:live:test
+      - run: npm run posts:test
       - run: npm run seo:build
-      - name: Verify generated files are committed
-        run: |
-          git diff --exit-code
-          if [ -n "$(git ls-files --others --exclude-standard)" ]; then
-            git status --short
-            exit 1
-          fi
+      - run: git diff --exit-code

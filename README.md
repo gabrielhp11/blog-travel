@@ -46,7 +46,7 @@ The public catalog is maintained in `assets/js/articles.js`. Pages with unverifi
 
 ## SEO maintenance
 
-Run `npm run check` before delivery to validate SEO, navigation, images, comparison pages, the live-check logic and the full editorial release queue. The same command runs in GitHub Actions. Then run `npm run seo:build` and confirm `git diff --exit-code` leaves generated pages unchanged after committing the intended changes.
+Run `npm run check` before delivery to validate SEO, navigation, images, comparison pages, the live-check logic and the full editorial release queue. It groups the checks used by the existing GitHub Actions workflow; `seo:live:test` also covers the portable task runner. Then run `npm run seo:build` and confirm `git diff --exit-code` leaves generated pages unchanged after committing the intended changes. Check `git status --short` too, since newly generated files must be committed.
 
 On a machine with Node but no npm command in PATH, use `node scripts/run-task.js seo:build check`. This executes the Node-only tasks defined in `package.json` with the current Node executable, stops at the first failed step and works on Windows and Linux. Release tests use an isolated temporary copy and do not publish drafts to the working site. Text files use LF consistently across platforms through `.gitattributes`.
 

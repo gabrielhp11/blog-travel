@@ -4,8 +4,7 @@ The publication contains 117 indexable pages, 105 catalog guides, eight topic di
 
 ## Corrections
 
-- Added a shared `npm run check` entry point and used it in GitHub's SEO workflow so local delivery and CI run the same checks.
-- Made CI reject newly generated, untracked files as well as changes to tracked output; the validation job requests read-only repository permissions.
+- Added a shared `npm run check` entry point grouping the checks already used by GitHub's SEO workflow. The existing `seo:live:test` entry point now includes the task-runner regression test, so CI covers it without a workflow-file change.
 - Added `node scripts/run-task.js <task> [task ...]` for the Node-only scripts in `package.json`. It uses the running Node executable without npm or a shell, and stops at the first failing command. This also fixes the release simulation's dependency on resolving `npm` as a native executable on Windows.
 - Used a directory junction for the isolated release test's dependencies on Windows, retaining a directory symlink on other platforms.
 - Added cross-platform text line-ending rules to keep generated files at LF while retaining CRLF for Windows command files.
@@ -26,3 +25,5 @@ One editorial article is released and three complete drafts remain unreleased. T
 The browser approval gate denied opening the production site, so visual inspection was not completed and was not retried through another browser surface. Existing filter tests execute the actual client script, but do not replace a visual browser review. No current affiliate-account, checkout, Search Console or sales audit was performed. Successful push and deployment checks must be assessed separately from local validation.
 
 GitHub's previous [SEO validation run](https://github.com/gabrielhp11/blog-travel/actions/runs/40686698270) failed before starting any steps. Its check annotation states: “The job was not started because your account is locked due to a billing issue.” Local checks can run independently, but restoring hosted Actions requires resolving that account issue. No billing settings were changed.
+
+The first push was rejected because the configured token lacks `workflow` permission. The proposed workflow-file changes were restored to the existing remote version in a follow-up commit, without rewriting history. The portable tests remain integrated through `package.json`. The existing workflow still only checks tracked build differences; delivery must also inspect untracked generated files with `git status --short`.
