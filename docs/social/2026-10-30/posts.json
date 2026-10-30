@@ -1,0 +1,226 @@
+{
+  "campaign": "supplement_checks_20261030",
+  "brand": "PokiSky",
+  "language": "en",
+  "status": "prepared_not_published",
+  "createdDate": "2026-10-30",
+  "geminiConversation": "https://gemini.google.com/app/818df827b4fac038",
+  "posts": [
+    {
+      "id": "adaptogen-4",
+      "name": "AdaptoGen 4.0",
+      "path": "nutrition/adaptogen-4",
+      "headline": "A BOTANICAL NAME IS ONLY THE START",
+      "checks": [
+        "Full formula",
+        "Declared amounts",
+        "Label warnings"
+      ],
+      "scene": "Tactile forest green and warm cream editorial still life, sculptural unlabelled folded paper leaves on a stone plinth, brass detail. Elegant serif headline.",
+      "prompt": "Use case: ads-marketing. Create ONE finished premium 4:5 portrait social post for PokiSky Supplement Guides, suitable for Instagram and Facebook feed and a Pinterest Pin. Tactile forest green and warm cream editorial still life, sculptural unlabelled folded paper leaves on a stone plinth, brass detail. Elegant serif headline. Mobile-readable text, beautiful sophisticated art direction, generous safe margins, no dense copy, balanced hierarchy. Exact English text only: top brand 'PokiSky'; small category 'SUPPLEMENT BUYING GUIDE'; product name 'AdaptoGen 4.0'; bold main headline 'A BOTANICAL NAME IS ONLY THE START'; three separate readable short checklist lines 'Full formula', 'Declared amounts', 'Label warnings'; CTA 'Read the guide'; legible small footer 'AI editorial illustration · Affiliate guide'. No invented packaging, manufacturer logos, product photos, medicine, capsules, anatomical imagery, health outcomes, disease claims, dosage advice, endorsements, star ratings or prices. The artwork is conceptual editorial illustration only. Keep every text element fully inside the canvas. Output just one image.",
+      "sourceFile": "topics/wellness/nutrition/adaptogen-4.html",
+      "sourceReviewDate": "2026-10-26",
+      "status": "prepared_not_published",
+      "imageFile": "images/01-adaptogen-4.png",
+      "imageGenerator": "OpenAI built-in image generation (started before Gemini preference)",
+      "imageStatus": "reviewed",
+      "pinterestTitle": "AdaptoGen 4.0: read beyond the botanical name",
+      "pinterestDescription": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. Comparing AdaptoGen 4.0? Read the complete formula, declared amounts and label warnings before comparing bottle bundles. Our guide separates supplier information from buying questions. Save this checklist and read the guide. AI editorial illustration; not product photography.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=adaptogen-4",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=adaptogen-4",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=adaptogen-4"
+      },
+      "facebookText": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links.\n\nA familiar botanical name is only the start.\n\nThe PokiSky AdaptoGen 4.0 guide walks through the supplier's declared formula and the questions behind a purchase:\n• Which ingredients and amounts are listed?\n• What warnings and possible allergens need attention?\n• Which conditions apply to the advertised refund?\n\nRead the complete current label and policy before choosing a pack. The guide does not establish results for the finished formula.\n\nRead the guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=adaptogen-4\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links.\n\nWhat sits behind a botanical name? 🌿\n\nFor AdaptoGen 4.0, start with the full formula, declared amounts and label warnings. Then read the detailed refund conditions before comparing bundles.\n\nSave this checklist. Find “AdaptoGen 4.0” on the PokiSky blog for the full buying guide.\n\nGuide address (plain-text URL):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=adaptogen-4\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "AdaptoGen 4.0 editorial poster. Headline: A BOTANICAL NAME IS ONLY THE START. Checklist: Full formula; Declared amounts; Label warnings. PokiSky. Read the guide. AI editorial illustration; affiliate guide.",
+      "publications": {
+        "pinterest": {
+          "status": "not_published",
+          "url": null
+        },
+        "facebook": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagram": {
+          "status": "not_published",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "circo2",
+      "name": "CircO2",
+      "path": "longevity/circo2",
+      "headline": "WHAT DOES THE BLEND TOTAL TELL YOU?",
+      "checks": [
+        "Combined blend",
+        "Individual amounts?",
+        "Complete label"
+      ],
+      "scene": "Rich cobalt and pale blue, one large frosted glass shape casting a shadow over four smaller abstract paper discs, visually about a whole versus its parts; clean Swiss editorial typography. Not chemistry or product representation.",
+      "prompt": "Use case: ads-marketing. Create ONE finished premium 4:5 portrait social post for PokiSky Supplement Guides, suitable for Instagram and Facebook feed and a Pinterest Pin. Rich cobalt and pale blue, one large frosted glass shape casting a shadow over four smaller abstract paper discs, visually about a whole versus its parts; clean Swiss editorial typography. Not chemistry or product representation. Mobile-readable text, beautiful sophisticated art direction, generous safe margins, no dense copy, balanced hierarchy. Exact English text only: top brand 'PokiSky'; small category 'SUPPLEMENT BUYING GUIDE'; product name 'CircO2'; bold main headline 'WHAT DOES THE BLEND TOTAL TELL YOU?'; three separate readable short checklist lines 'Combined blend', 'Individual amounts?', 'Complete label'; CTA 'Read the guide'; legible small footer 'AI editorial illustration · Affiliate guide'. No invented packaging, manufacturer logos, product photos, medicine, capsules, anatomical imagery, health outcomes, disease claims, dosage advice, endorsements, star ratings or prices. The artwork is conceptual editorial illustration only. Keep every text element fully inside the canvas. Output just one image.",
+      "sourceFile": "topics/wellness/longevity/circo2.html",
+      "sourceReviewDate": "2026-10-06",
+      "status": "prepared_not_published",
+      "imageFile": "images/02-circo2.png",
+      "imageGenerator": "OpenAI built-in image generation (started before Gemini preference)",
+      "imageStatus": "reviewed",
+      "pinterestTitle": "CircO2: a blend total is not an ingredient breakdown",
+      "pinterestDescription": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. What does the CircO2 blend total tell you? Our guide explains the combined blend and which individual amounts remain undisclosed in the reviewed label. Check the complete label, warnings and exact delivery address before ordering. Save for your next label comparison. AI editorial illustration; not product photography.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=circo2",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=circo2",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=circo2"
+      },
+      "facebookText": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links.\n\nOne combined blend total leaves a useful follow-up question: how much of each ingredient is disclosed?\n\nThe CircO2 guide distinguishes the nutrients listed separately from ingredients grouped in a proprietary blend. Check:\n• The complete formula and other ingredients.\n• Which amounts are individual and which are combined.\n• The current delivery and return terms for your address.\n\nThe blend name alone does not establish a circulation benefit.\n\nRead the guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=circo2\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links.\n\nA blend total is one piece of the label. 🔎\n\nThe CircO2 guide separates individually listed nutrients from the combined blend. Ask what the label discloses about each ingredient before comparing packs.\n\nSave this question for your next label check. Find “CircO2” on the PokiSky blog.\n\nGuide address (plain-text URL):\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=circo2\n\nAI editorial illustration; not product photography.\n\n#LabelReading #SupplementGuide #PokiSky",
+      "altText": "CircO2 editorial poster. Headline: WHAT DOES THE BLEND TOTAL TELL YOU?. Checklist: Combined blend; Individual amounts?; Complete label. PokiSky. Read the guide. AI editorial illustration; affiliate guide.",
+      "publications": {
+        "pinterest": {
+          "status": "not_published",
+          "url": null
+        },
+        "facebook": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagram": {
+          "status": "not_published",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "advanced-vision-formula",
+      "name": "Advanced Vision Formula",
+      "path": "vision-health/advanced-vision-formula",
+      "headline": "ONE TABLET OR ONE SERVING?",
+      "checks": [
+        "Serving definition",
+        "Amount per serving",
+        "Formula overlap"
+      ],
+      "scene": "Deep plum, lavender and ivory, oversized typographic editorial poster with two overlapping blank translucent cards, dramatic soft light, refined geometric composition. No eye imagery.",
+      "prompt": "Use case: ads-marketing. Create ONE finished premium 4:5 portrait social post for PokiSky Supplement Guides, suitable for Instagram and Facebook feed and a Pinterest Pin. Deep plum, lavender and ivory, oversized typographic editorial poster with two overlapping blank translucent cards, dramatic soft light, refined geometric composition. No eye imagery. Mobile-readable text, beautiful sophisticated art direction, generous safe margins, no dense copy, balanced hierarchy. Exact English text only: top brand 'PokiSky'; small category 'SUPPLEMENT BUYING GUIDE'; product name 'Advanced Vision Formula'; bold main headline 'ONE TABLET OR ONE SERVING?'; three separate readable short checklist lines 'Serving definition', 'Amount per serving', 'Formula overlap'; CTA 'Read the guide'; legible small footer 'AI editorial illustration · Affiliate guide'. No invented packaging, manufacturer logos, product photos, medicine, capsules, anatomical imagery, health outcomes, disease claims, dosage advice, endorsements, star ratings or prices. The artwork is conceptual editorial illustration only. Keep every text element fully inside the canvas. Output just one image.",
+      "sourceFile": "topics/wellness/vision-health/advanced-vision-formula.html",
+      "sourceReviewDate": "2026-10-07",
+      "status": "prepared_not_published",
+      "imageFile": "images/03-advanced-vision-formula.png",
+      "imageGenerator": "OpenAI built-in image generation (started before Gemini preference)",
+      "imageStatus": "reviewed",
+      "pinterestTitle": "Advanced Vision Formula: check the serving unit first",
+      "pinterestDescription": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. Comparing Advanced Vision Formula label amounts? Check the serving definition before reading individual numbers, then review the whole formula and possible overlap with other supplements. Save this label-reading checklist and explore the PokiSky buying guide. AI editorial illustration; not product photography.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-vision-formula",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-vision-formula",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-vision-formula"
+      },
+      "facebookText": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links.\n\nBefore comparing a label amount, check what one serving means.\n\nOur Advanced Vision Formula guide explains the supplier's serving definition and complete formula. Keep these questions beside the label:\n• Is an amount per tablet or per label serving?\n• Which other ingredients and excipients are included?\n• What overlap with other supplements needs discussion with a qualified professional?\n\nThe product does not replace prescribed eye care. Read the current label and order details before deciding.\n\nRead the guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-vision-formula\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links.\n\nOne tablet and one label serving may describe different quantities. 📋\n\nStart with the serving definition when reading Advanced Vision Formula, then check the full formula and ingredient overlap.\n\nSave this reminder. Find “Advanced Vision Formula” on the PokiSky blog. Continue prescribed eye care.\n\nGuide address (plain-text URL):\nhttps://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-vision-formula\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #LabelChecklist #PokiSky",
+      "altText": "Advanced Vision Formula editorial poster. Headline: ONE TABLET OR ONE SERVING?. Checklist: Serving definition; Amount per serving; Formula overlap. PokiSky. Read the guide. AI editorial illustration; affiliate guide.",
+      "publications": {
+        "pinterest": {
+          "status": "not_published",
+          "url": null
+        },
+        "facebook": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagram": {
+          "status": "not_published",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "collagen",
+      "name": "Advanced Collagen Plus",
+      "path": "longevity/collagen",
+      "headline": "START WITH THE SOURCES",
+      "checks": [
+        "Source species",
+        "Allergen information",
+        "Complete formula"
+      ],
+      "scene": "Warm sand, terracotta and ivory, sculptural arrangement of four different textured paper ribbons flowing from a blank ivory reading card. Premium tactile magazine cover. No powder or food representation.",
+      "prompt": "Use case: ads-marketing. Create ONE finished premium 4:5 portrait social post for PokiSky Supplement Guides, suitable for Instagram and Facebook feed and a Pinterest Pin. Warm sand, terracotta and ivory, sculptural arrangement of four different textured paper ribbons flowing from a blank ivory reading card. Premium tactile magazine cover. No powder or food representation. Mobile-readable text, beautiful sophisticated art direction, generous safe margins, no dense copy, balanced hierarchy. Exact English text only: top brand 'PokiSky'; small category 'SUPPLEMENT BUYING GUIDE'; product name 'Advanced Collagen Plus'; bold main headline 'START WITH THE SOURCES'; three separate readable short checklist lines 'Source species', 'Allergen information', 'Complete formula'; CTA 'Read the guide'; legible small footer 'AI editorial illustration · Affiliate guide'. No invented packaging, manufacturer logos, product photos, medicine, capsules, anatomical imagery, health outcomes, disease claims, dosage advice, endorsements, star ratings or prices. The artwork is conceptual editorial illustration only. Keep every text element fully inside the canvas. Output just one image.",
+      "sourceFile": "topics/wellness/longevity/collagen.html",
+      "sourceReviewDate": "2026-10-05",
+      "status": "prepared_not_published",
+      "imageFile": "images/04-collagen-gemini.jpg",
+      "imageGenerator": "Gemini web / individual generation",
+      "imageStatus": "reviewed",
+      "pinterestTitle": "Advanced Collagen Plus: check sources and allergy information",
+      "pinterestDescription": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. Advanced Collagen Plus: start with source species and allergen information rather than the number of collagen types. The PokiSky guide summarises the supplier's source information and buying questions. Read the complete current label before choosing a powder. Save this checklist. AI editorial illustration; not product photography.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=collagen",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=collagen",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=collagen"
+      },
+      "facebookText": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links.\n\nFor a collagen powder, source information belongs near the top of the checklist.\n\nThe seller describes Advanced Collagen Plus as a multi-source formula. Our guide helps you check:\n• The source species listed for the product.\n• The complete allergen and ingredient statements.\n• The serving information and current purchase terms.\n\nA mixing demonstration cannot establish purity or effectiveness. Read the guide, and confirm any dietary restrictions or allergy questions before ordering.\n\nRead the guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=collagen\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links.\n\nStart with the sources. 📖\n\nBefore choosing Advanced Collagen Plus, read the source species, allergen information and complete formula. The number of collagen types does not answer those questions for you.\n\nSave this checklist. Find “Advanced Collagen Plus” on the PokiSky blog.\n\nGuide address (plain-text URL):\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=collagen\n\nAI editorial illustration; not product photography.\n\n#CollagenGuide #IngredientLabels #PokiSky",
+      "altText": "Advanced Collagen Plus editorial poster. Headline: START WITH THE SOURCES. Checklist: Source species; Allergen information; Complete formula. PokiSky. Read the guide. AI editorial illustration; affiliate guide.",
+      "publications": {
+        "pinterest": {
+          "status": "not_published",
+          "url": null
+        },
+        "facebook": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagram": {
+          "status": "not_published",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "advanced-joint-support",
+      "name": "Advanced Joint Support",
+      "path": "joint-health/advanced-joint-support",
+      "headline": "CONFIRM THE BOTTLE VERSION",
+      "checks": [
+        "Pack quantity",
+        "Current label",
+        "Order details"
+      ],
+      "scene": "Charcoal and vibrant lime, editorial still life of two unlabelled folded comparison sheets clipped together, one taller than the other, directional studio light. Sharp typography and spacious layout. No actual bottles.",
+      "prompt": "Use case: ads-marketing. Create ONE finished premium 4:5 portrait social post for PokiSky Supplement Guides, suitable for Instagram and Facebook feed and a Pinterest Pin. Charcoal and vibrant lime, editorial still life of two unlabelled folded comparison sheets clipped together, one taller than the other, directional studio light. Sharp typography and spacious layout. No actual bottles. Mobile-readable text, beautiful sophisticated art direction, generous safe margins, no dense copy, balanced hierarchy. Exact English text only: top brand 'PokiSky'; small category 'SUPPLEMENT BUYING GUIDE'; product name 'Advanced Joint Support'; bold main headline 'CONFIRM THE BOTTLE VERSION'; three separate readable short checklist lines 'Pack quantity', 'Current label', 'Order details'; CTA 'Read the guide'; legible small footer 'AI editorial illustration · Affiliate guide'. No invented packaging, manufacturer logos, product photos, medicine, capsules, anatomical imagery, health outcomes, disease claims, dosage advice, endorsements, star ratings or prices. The artwork is conceptual editorial illustration only. Keep every text element fully inside the canvas. Output just one image.",
+      "sourceFile": "topics/wellness/joint-health/advanced-joint-support.html",
+      "sourceReviewDate": "2026-10-08",
+      "status": "prepared_not_published",
+      "imageFile": "images/05-advanced-joint-support-gemini.jpg",
+      "imageGenerator": "Gemini web / individual generation",
+      "imageStatus": "reviewed",
+      "pinterestTitle": "Advanced Joint Support: confirm the bottle version before comparing",
+      "pinterestDescription": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. Which bottle version are you comparing? The Advanced Joint Support guide records a tablet-count discrepancy in supplier images and the full label. Confirm the version being shipped, current directions and order quantity before comparing supply length. Save this buying checklist. AI editorial illustration; not product photography.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-joint-support",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-joint-support",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-joint-support"
+      },
+      "facebookText": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links.\n\nCheck that the bottle photograph and full label describe the same version.\n\nThe Advanced Joint Support guide records a tablet-count discrepancy in the supplier materials reviewed. Before estimating value or supply length:\n• Ask which version will actually ship.\n• Request the matching current label and directions.\n• Confirm the selected pack and final delivery total.\n\nThe discrepancy remains unresolved in the guide. Ingredient names do not establish pain relief.\n\nRead the guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-joint-support\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links.\n\nDoes the bottle photo match the full label? 🔎\n\nOur Advanced Joint Support guide records a tablet-count discrepancy in the supplier materials reviewed. Confirm the version being shipped before estimating supply length or comparing packs.\n\nSave this buying question. Find “Advanced Joint Support” on the PokiSky blog.\n\nGuide address (plain-text URL):\nhttps://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-joint-support\n\nAI editorial illustration; not product photography.\n\n#BuyingChecklist #SupplementGuide #PokiSky",
+      "altText": "Advanced Joint Support editorial poster. Headline: CONFIRM THE BOTTLE VERSION. Checklist: Pack quantity; Current label; Order details. PokiSky. Read the guide. AI editorial illustration; affiliate guide.",
+      "publications": {
+        "pinterest": {
+          "status": "not_published",
+          "url": null
+        },
+        "facebook": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagram": {
+          "status": "not_published",
+          "url": null
+        }
+      }
+    }
+  ],
+  "notes": "Five posts and fifteen captions prepared. First three final artworks use the built-in tool started before the Gemini preference; last two final artworks were generated and downloaded in Gemini as requested. No social publication performed."
+}

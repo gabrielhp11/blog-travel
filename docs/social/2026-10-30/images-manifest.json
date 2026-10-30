@@ -1,0 +1,47 @@
+[
+  {
+    "file": "images/01-adaptogen-4.png",
+    "width": 1122,
+    "height": 1402,
+    "sha256": "3e6d6a0841099129727df0e280cddff633be69c3a28f3c6ef2eb4fdc5354aed3",
+    "generator": "OpenAI built-in image generation (started before Gemini preference)",
+    "reviewed": "2026-10-30",
+    "editorialArtwork": true
+  },
+  {
+    "file": "images/02-circo2.png",
+    "width": 1122,
+    "height": 1402,
+    "sha256": "19061df477e4b0a178d0dbf3c14b44512baf415309d06abc8cf6ea120d00463a",
+    "generator": "OpenAI built-in image generation (started before Gemini preference)",
+    "reviewed": "2026-10-30",
+    "editorialArtwork": true
+  },
+  {
+    "file": "images/03-advanced-vision-formula.png",
+    "width": 1122,
+    "height": 1402,
+    "sha256": "e67ee4d582451d47e88af2787bfa3f13141554c394c5e3b720f7ab8ddb9706ea",
+    "generator": "OpenAI built-in image generation (started before Gemini preference)",
+    "reviewed": "2026-10-30",
+    "editorialArtwork": true
+  },
+  {
+    "file": "images/04-collagen-gemini.jpg",
+    "width": 928,
+    "height": 1152,
+    "sha256": "7c727cd959f9b6e65018525781e9c0ee0d8803054cdc7e24db3232dca95eaec8",
+    "generator": "Gemini web / individual generation",
+    "reviewed": "2026-10-30",
+    "editorialArtwork": true
+  },
+  {
+    "file": "images/05-advanced-joint-support-gemini.jpg",
+    "width": 928,
+    "height": 1152,
+    "sha256": "8301c7aee1006e020f32df860da94bb128b4bdcd0b00b278eecf42cc04263d3e",
+    "generator": "Gemini web / individual generation",
+    "reviewed": "2026-10-30",
+    "editorialArtwork": true
+  }
+]
