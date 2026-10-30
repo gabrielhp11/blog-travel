@@ -11,3 +11,5 @@ A primeira sessão Gemini sofreu uma interrupção por falha na validação da U
 O fluxo reutilizável está em ../WORKFLOW.md e foi referenciado em AGENTS.md para consultas futuras. Inclui preparo, geração Gemini, publicação e verificação por rede.
 
 Para postar: usar os arquivos finais em posts.json, copiar as legendas dos CSVs ou de POSTS.md e verificar conta, destino e resultado em cada rede. Os registros publications continuam not_published até confirmação real.
+
+Validação: cinco guias de origem, cinco arquivos finais de arte, 15 legendas e 15 URLs conferidos. `node scripts/run-task.js check` passou, incluindo SEO, estrutura, imagens, comparações, sete testes de infraestrutura e três testes editoriais. O comando npm não estava no PATH; foi usado o executor Node documentado no projeto.
