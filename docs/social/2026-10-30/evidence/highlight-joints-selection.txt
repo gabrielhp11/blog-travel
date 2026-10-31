@@ -1,0 +1,483 @@
+Browser tab: 540249056, Title: "Meta Business Suite", URL: "https://business.facebook.com/latest/posts/active_stories?business_id=1797870504751927&asset_id=1441439982376766".
+1 AXWebArea Meta Business Suite, URL: business.facebook.com/latest/posts/active_stories?business_id=1797870504751927&asset_id=1441439982376766
+	2 container
+		3 container mount_0_0_05
+			4 container
+				5 container
+					6 heading Conteúdo, Value: 1
+						7 text Conteúdo
+					8 text Programe, publique e gerencie posts, reels e stories e muito mais.
+					9 toolbar
+						10 container
+							11 button Exportar dados
+								12 image
+								13 text Exportar dados
+							14 pop up button (collapsed) Abrir opções de exportação ​, Secondary Actions: Expand
+								15 text Abrir opções de exportação
+								16 image
+						17 button Criar reel
+							18 image
+							19 text Criar reel
+						20 container
+							21 button Criar post
+								22 image
+								23 text Criar post
+							24 pop up button (collapsed) Criar post ​, Secondary Actions: Expand
+								25 text Criar post
+								26 image
+						27 button Tarefas
+							28 image
+							29 text Tarefas
+						30 button Facebook
+							31 container
+								32 image Facebook
+					33 container
+						34 container
+							35 container Conteúdo
+								36 container
+									37 image
+									38 text Conteúdo
+								39 content list
+									40 container
+										41 link Description: Posts e reels, Value: business.facebook.com/latest/posts/published_posts?business_id=1797870504751927&asset_id=1441439982376766
+										42 text Posts e reels
+									43 container
+										44 link Description: Stories, Value: business.facebook.com/latest/posts/active_stories?business_id=1797870504751927&asset_id=1441439982376766
+										45 text Stories
+									46 container
+										47 link Description: Testes A/B, Value: business.facebook.com/latest/posts/ab_testing?business_id=1797870504751927&asset_id=1441439982376766
+										48 text Testes A/B
+									49 container
+										50 link Description: Feed e grade, Value: business.facebook.com/latest/posts/feed_and_grid?business_id=1797870504751927&asset_id=1441439982376766
+										51 text Feed e grade
+									52 container
+										53 link Description: Menções e marcações, Value: business.facebook.com/latest/posts/tagged_content?business_id=1797870504751927&asset_id=1441439982376766
+										54 text Menções e marcações
+									55 container
+										56 link Description: Clipes, Value: business.facebook.com/latest/posts/all_clips?business_id=1797870504751927&asset_id=1441439982376766
+										57 text Clipes
+							58 container Coleções
+								59 container
+									60 image
+									61 text Coleções
+								62 content list
+									63 container
+										64 link Description: Playlists, Value: business.facebook.com/latest/posts/all_playlists?business_id=1797870504751927&asset_id=1441439982376766
+										65 text Playlists
+							66 container Peças publicitárias
+								67 container
+									68 image
+									69 text Peças publicitárias
+								70 content list
+									71 container
+										72 link Description: Vídeos para post cruzado, Value: business.facebook.com/latest/posts/videos_you_can_crosspost?business_id=1797870504751927&asset_id=1441439982376766
+										73 text Vídeos para post cruzado
+						74 button Expandir ​
+							75 text Expandir
+							76 image
+					77 image
+					78 heading Ativar os insights de stories do Facebook, Value: 4
+						79 text Ativar os insights de stories do Facebook
+					80 button Fechar ​
+						81 text Fechar
+						82 image
+					83 button Ver mais
+					84 container
+						85 image Instagram
+						86 heading Destaques do Instagram, Value: 3
+							87 text Destaques do Instagram
+						88 button collapse IG highlight section ​
+							89 text collapse IG highlight section
+							90 image
+						91 button Abrir a célula de destaques do Instagram
+							92 image
+							93 text Novo
+						94 button Abrir a célula de destaques do Instagram
+							95 text Joints
+						96 button Abrir a célula de destaques do Instagram
+							97 text Collagen
+						98 button Abrir a célula de destaques do Instagram
+							99 text Vision
+						100 button Abrir a célula de destaques do Instagram
+							101 text Formulas
+						102 button Abrir a célula de destaques do Instagram
+							103 text Labels
+						104 tab group
+							105 tab (selected, settable, boolean) Description: Ativo, Value: 1
+							106 tab (selectable, settable, boolean) Description: Programado, Value: 0
+							107 tab (selectable, settable, boolean) Description: Itens Arquivados, Value: 0
+						108 container
+							109 text Posicionamento
+							110 combo box (collapsed) Posicionamento Posicionamento, Value: Posicionamento ​, ID: js_2o, Secondary Actions: Expand
+								111 container
+									112 text Posicionamento
+									113 image
+							114 text Filtrar
+							115 combo box (collapsed) Filtrar Filtrar, Value: Filtrar ​, ID: js_2u, Secondary Actions: Expand
+								116 container
+									117 text Filtrar
+									118 image
+							119 link Description: Limpar, Value: business.facebook.com/latest/posts/active_stories?business_id=1797870504751927&asset_id=1441439982376766#
+							120 button Últimos 90 dias: 1 de ago de 2026 a 29 de out de 2026
+								121 image
+								122 container
+									123 text Últimos 90 dias :  1 de ago de 2026 a 29 de out de 2026
+								124 image
+							125 table Uma tabela que mostra insights sobre o conteúdo criado para a Página ou perfil do Facebook e/ou o perfil do Instagram selecionado, incluindo anúncios, posts e stories.
+								126 row Story ​ Visualizadores Data da publicação Status
+									127 cell
+									128 cell
+										129 heading Story, Value: 4
+											130 text Story
+										131 image
+									132 cell
+										133 heading Visualizadores, Value: 4
+											134 text Visualizadores
+									135 cell
+										136 button Data da publicação
+											137 heading Data da publicação, Value: 4
+												138 text Data da publicação
+									139 cell
+										140 heading Status, Value: 4
+											141 text Status
+								142 container
+									143 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Sexta, 30 de outubro 11:35
+										144 cell
+											145 checkbox Selecionar item com a legenda "", Value: 0
+												146 container Selecionar item com a legenda ""
+										147 cell
+											148 container
+												149 image Instagram
+											150 heading Foto · 5 segundos, Value: 4
+												151 text Foto · 5 segundos
+											152 text 23 horas restantes
+											153 button Turbinar
+												154 text Turbinar
+										155 cell
+										156 cell
+											157 text Sexta, 30 de outubro 11:35
+										158 cell
+									159 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Sexta, 30 de outubro 11:35
+										160 cell
+											161 checkbox Selecionar item com a legenda "", Value: 0
+												162 container Selecionar item com a legenda ""
+										163 cell
+											164 container
+												165 image Instagram
+											166 heading Foto · 5 segundos, Value: 4
+												167 text Foto · 5 segundos
+											168 text 23 horas restantes
+											169 button Turbinar
+												170 text Turbinar
+										171 cell
+										172 cell
+											173 text Sexta, 30 de outubro 11:35
+										174 cell
+									175 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Sexta, 30 de outubro 11:18
+										176 cell
+											177 checkbox Selecionar item com a legenda "", Value: 0
+												178 container Selecionar item com a legenda ""
+										179 cell
+											180 container
+												181 image Instagram
+											182 heading Foto · 5 segundos, Value: 4
+												183 text Foto · 5 segundos
+											184 text 23 horas restantes
+											185 button Turbinar
+												186 text Turbinar
+										187 cell
+										188 cell
+											189 text Sexta, 30 de outubro 11:18
+										190 cell
+									191 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Sexta, 30 de outubro 11:18
+										192 cell
+											193 checkbox Selecionar item com a legenda "", Value: 0
+												194 container Selecionar item com a legenda ""
+										195 cell
+											196 container
+												197 image Instagram
+											198 heading Foto · 5 segundos, Value: 4
+												199 text Foto · 5 segundos
+											200 text 23 horas restantes
+											201 button Turbinar
+												202 text Turbinar
+										203 cell
+										204 cell
+											205 text Sexta, 30 de outubro 11:18
+										206 cell
+									207 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Sexta, 30 de outubro 11:17
+										208 cell
+											209 checkbox Selecionar item com a legenda "", Value: 0
+												210 container Selecionar item com a legenda ""
+										211 cell
+											212 container
+												213 image Instagram
+											214 heading Foto · 5 segundos, Value: 4
+												215 text Foto · 5 segundos
+											216 text 23 horas restantes
+											217 button Turbinar
+												218 text Turbinar
+										219 cell
+										220 cell
+											221 text Sexta, 30 de outubro 11:17
+										222 cell
+									223 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Sexta, 30 de outubro 11:17
+										224 cell
+											225 checkbox Selecionar item com a legenda "", Value: 0
+												226 container Selecionar item com a legenda ""
+										227 cell
+											228 container
+												229 image Instagram
+											230 heading Foto · 5 segundos, Value: 4
+												231 text Foto · 5 segundos
+											232 text 23 horas restantes
+											233 button Turbinar
+												234 text Turbinar
+										235 cell
+										236 cell
+											237 text Sexta, 30 de outubro 11:17
+										238 cell
+									239 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Sexta, 30 de outubro 11:17
+										240 cell
+											241 checkbox Selecionar item com a legenda "", Value: 0
+												242 container Selecionar item com a legenda ""
+										243 cell
+											244 container
+												245 image Instagram
+											246 heading Foto · 5 segundos, Value: 4
+												247 text Foto · 5 segundos
+											248 text 23 horas restantes
+											249 button Turbinar
+												250 text Turbinar
+										251 cell
+										252 cell
+											253 text Sexta, 30 de outubro 11:17
+										254 cell
+									255 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Sexta, 30 de outubro 11:11
+										256 cell
+											257 checkbox Selecionar item com a legenda "", Value: 0
+												258 container Selecionar item com a legenda ""
+										259 cell
+											260 container
+												261 image Instagram
+											262 heading Foto · 5 segundos, Value: 4
+												263 text Foto · 5 segundos
+											264 text 23 horas restantes
+											265 button Turbinar
+												266 text Turbinar
+										267 cell
+										268 cell
+											269 text Sexta, 30 de outubro 11:11
+										270 cell
+									271 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Sexta, 30 de outubro 11:11
+										272 cell
+											273 checkbox Selecionar item com a legenda "", Value: 0
+												274 container Selecionar item com a legenda ""
+										275 cell
+											276 container
+												277 image Instagram
+											278 heading Foto · 5 segundos, Value: 4
+												279 text Foto · 5 segundos
+											280 text 23 horas restantes
+											281 button Turbinar
+												282 text Turbinar
+										283 cell
+										284 cell
+											285 text Sexta, 30 de outubro 11:11
+										286 cell
+									287 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Sexta, 30 de outubro 11:11
+										288 cell
+											289 checkbox Selecionar item com a legenda "", Value: 0
+												290 container Selecionar item com a legenda ""
+										291 cell
+											292 container
+												293 image Instagram
+											294 heading Foto · 5 segundos, Value: 4
+												295 text Foto · 5 segundos
+											296 text 23 horas restantes
+											297 button Turbinar
+												298 text Turbinar
+										299 cell
+										300 cell
+											301 text Sexta, 30 de outubro 11:11
+										302 cell
+				303 button Assistente da Meta AI para empresas
+				304 container
+					305 button Meta Business Suite
+						306 text Meta Business Suite
+					307 button Pressable
+						308 container
+							309 image Instagram
+							310 image Facebook
+					311 container Links
+						312 text Links
+						313 content list
+							314 container
+								315 link Description: Página inicial, Value: business.facebook.com/latest/home?business_id=1797870504751927&asset_id=1441439982376766
+								316 text Página inicial
+							317 container
+								318 link Notificações
+									319 text Notificações
+								320 text Notificações
+							321 container
+								322 link Gerenciador de Anúncios
+									323 text Gerenciador de Anúncios
+								324 text Gerenciador de Anúncios
+							325 container
+								326 link Description: Caixa de Entrada, Value: business.facebook.com/latest/inbox?business_id=1797870504751927&asset_id=1441439982376766
+								327 text Caixa de Entrada
+							328 container
+								329 link Description: Conteúdo, Value: business.facebook.com/latest/posts?business_id=1797870504751927&asset_id=1441439982376766
+								330 text Conteúdo
+							331 container Links
+								332 text Links
+								333 content list
+									334 container
+										335 container
+											336 link Description: Central de Leads, Value: business.facebook.com/latest/leads_center?business_id=1797870504751927&asset_id=1441439982376766
+											337 text Central de Leads
+										338 container
+											339 link Description: Planner, Value: business.facebook.com/latest/content_calendar?business_id=1797870504751927&asset_id=1441439982376766
+											340 text Planner
+										341 container
+											342 link Description: Anúncios, Value: business.facebook.com/latest/ad_center/ads_summary?business_id=1797870504751927&asset_id=1441439982376766
+											343 text Anúncios
+							344 container
+								345 link Description: Cobrança e pagamentos, Value: business.facebook.com/billing_hub/?business_id=1797870504751927&placement=mbs_all_tools_menu
+								346 text Cobrança e pagamentos
+							347 container
+								348 link Description: Públicos, Value: business.facebook.com/ads/manager/audiences/?business_id=1797870504751927&nav_source=business_manager
+								349 text Públicos
+							350 container
+								351 link Description: Gerenciador de Eventos, Value: business.facebook.com/events_manager2/?business_id=1797870504751927&global_scope_id=1797870504751927&nav_source=biz_nav
+								352 text Gerenciador de Eventos
+							353 container
+								354 link Todas as ferramentas
+									355 text Todas as ferramentas
+								356 text Todas as ferramentas
+					357 container
+						358 link Pesquisar
+							359 text Pesquisar
+						360 text Pesquisar
+						361 image
+					362 container Links
+						363 text Links
+						364 content list
+							365 container
+								366 link Description: Configurações, Value: business.facebook.com/latest/settings/business_overview?business_id=1797870504751927&asset_id=1441439982376766
+								367 text Configurações
+					368 container
+						369 link Ajuda
+							370 text Ajuda
+						371 text Ajuda
+						372 image
+		373 container Editar destaque
+			374 container Editar destaque
+				375 heading Editar destaque, Value: 3, ID: js_42
+					376 text Editar destaque
+				377 button Fechar ​
+					378 text Fechar
+					379 image
+				380 container
+					381 heading Stories selecionados (3), Value: 3
+						382 text Stories selecionados (3)
+					383 container
+						384 button
+							385 container
+								386 text 30 de out
+							387 heading 4019400235079793329, Value: 4, ID: js_44
+								388 text 4019400235079793329
+					389 heading Todos os stories, Value: 3
+						390 text Todos os stories
+					391 container
+						392 button
+							393 container
+								394 text 30 de out
+							395 heading 4019409364989378387, Value: 4, ID: js_46
+								396 text 4019409364989378387
+					397 container
+						398 button
+							399 container
+								400 text 30 de out
+							401 heading 4019409306202979687, Value: 4, ID: js_48
+								402 text 4019409306202979687
+					403 container
+						404 button
+							405 container
+								406 text 30 de out
+							407 heading 4019400431767454208, Value: 4, ID: js_4a
+								408 text 4019400431767454208
+					409 container
+						410 button
+							411 container
+								412 text 30 de out
+							413 heading 4019400352671436579, Value: 4, ID: js_4c
+								414 text 4019400352671436579
+					415 container
+						416 button
+							417 container
+								418 text 30 de out
+							419 heading 4019400290923273671, Value: 4, ID: js_4e
+								420 text 4019400290923273671
+					421 container
+						422 button
+							423 container
+								424 text 30 de out
+							425 heading 4019400235079793329, Value: 4, ID: js_4g
+								426 text 4019400235079793329
+					427 container
+						428 button
+							429 container
+								430 text 30 de out
+							431 heading 4019400158685535670, Value: 4, ID: js_4i
+								432 text 4019400158685535670
+					433 container
+						434 button
+							435 container
+								436 text 30 de out
+							437 heading 4019397280520973365, Value: 4, ID: js_4k
+								438 text 4019397280520973365
+					439 container
+						440 button
+							441 container
+								442 text 30 de out
+							443 heading 4019397206071885962, Value: 4, ID: js_4m
+								444 text 4019397206071885962
+					445 container
+						446 button
+							447 container
+								448 text 30 de out
+							449 heading 4019397147946152334, Value: 4, ID: js_4o
+								450 text 4019397147946152334
+					451 container
+						452 button
+							453 container
+								454 text 30 de out
+							455 heading 4019397096844067892, Value: 4, ID: js_4q
+								456 text 4019397096844067892
+					457 container
+						458 button
+							459 container
+								460 text 30 de out
+							461 heading 4019397036671450765, Value: 4, ID: js_4s
+								462 text 4019397036671450765
+					463 heading Título, Value: 3
+						464 text Título
+					465 text Dê um nome ao destaque dos stories
+					466 container
+						467 text field (settable) Dê um nome ao destaque dos stories, Value: Joints, ID: js_4u
+						468 text 6 / 16
+					469 heading Capa, Value: 3
+						470 text Capa
+					471 button Editar capa
+						472 image
+						473 text Editar capa
+				474 button Excluir destaque
+					475 image
+					476 text Excluir destaque
+				477 button Cancelar
+					478 text Cancelar
+				479 button Salvar destaque
+					480 text Salvar destaque
+
+The focused UI element is 398 button

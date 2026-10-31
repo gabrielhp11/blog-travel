@@ -1,0 +1,61 @@
+[
+  {
+    "id": "advanced-amino-formula",
+    "prompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Deep navy and copper, eight abstract folded paper ribbons converging on one blank label card, dramatic editorial studio lighting. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Advanced Amino Formula'; headline 'ONE BLEND. EIGHT NAMES.'; checklist 'Combined total', 'Individual amounts?', 'Serving definition'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+    "revisions": [],
+    "revisionReason": null,
+    "imageFile": "images/01-advanced-amino-formula-gemini.jpg"
+  },
+  {
+    "id": "advanced-memory-formula",
+    "prompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Lavender, teal and warm ivory; a sculptural clear-glass prism above two elegant translucent reading cards, angled daylight, refined magazine typography. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Advanced Memory Formula'; headline 'FORM MATTERS'; checklist 'Ingredient form', 'Alpha-GPC wording', 'Allergen statement'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+    "revisions": [],
+    "revisionReason": null,
+    "imageFile": "images/02-advanced-memory-formula-gemini.jpg"
+  },
+  {
+    "id": "advanced-muscle-plus",
+    "prompt": "Crie uma imagem: cartaz editorial vertical 4:5, em bordô e creme, com tipografia elegante, um lápis de madeira e uma folha lisa sem desenhos. Use somente estes textos em inglês: 'PokiSky', 'SUPPLEMENT BUYING GUIDE', 'Advanced Muscle Plus', 'READ THE VITAMIN D ENTRY', 'Full label', 'Serving basis', 'Suitability review', 'Read the guide', 'AI editorial illustration · Affiliate guide'. O cartaz convida a ler um rótulo; não apresenta resultados de saúde. Mantenha margens amplas e todas as palavras legíveis. A composição deve conter apenas os textos informados, o lápis e o papel liso; deixe a folha sem gráficos ou fórmulas.",
+    "revisions": [
+      "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Burgundy and ivory with a restrained saffron accent; an oversized editorial pencil beside an abstract annotated reading sheet, strong serif typography, no medical symbols or athletes. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Advanced Muscle Plus'; headline 'READ THE VITAMIN D ENTRY'; checklist 'Full label', 'Serving basis', 'Suitability review'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+      "Generate ONE completely new finished 4:5 portrait editorial social poster for PokiSky. Burgundy, cream and restrained saffron. Typography-led composition with a single oversized wooden pencil beside ONE completely blank unmarked sheet of paper. No extra marks on the sheet. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Advanced Muscle Plus'; headline 'READ THE VITAMIN D ENTRY'; checklist 'Full label', 'Serving basis', 'Suitability review'; CTA 'Read the guide'; footer 'AI editorial illustration · Affiliate guide'. Generous safe margins, elegant serif headline and large clean supporting type. Absolutely NO charts, graphs, axes, bars, data, numbers, chemical structures, molecules, scientific diagrams, arrows, medical symbols, packaging, product photos, health claims, doses, ratings or prices. Only the exact specified words, pencil and blank paper. Generate the image now."
+    ],
+    "revisionReason": "Remove invented chemical diagrams, charts and decorative numerical data before publication.",
+    "imageFile": "images/03-advanced-muscle-plus-gemini-v2.jpg"
+  },
+  {
+    "id": "advanced-mitochondrial-formula",
+    "prompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Olive, parchment and muted gold; overlapping translucent paper sheets creating a graceful layered still life, spacious typographic composition, soft raking light. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Advanced Mitochondrial Formula'; headline 'CHECK FOR INGREDIENT OVERLAP'; checklist 'Complete formula', 'Other supplements', 'Current warnings'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+    "revisions": [],
+    "revisionReason": null,
+    "imageFile": "images/04-advanced-mitochondrial-formula-gemini.jpg"
+  },
+  {
+    "id": "integrative-digestive-formula",
+    "prompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Ivory, charcoal and burnt orange; three offset sculptural paper drawers with blank editorial tabs, a clean architectural still life, bold mobile-readable type. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Integrative Digestive Formula'; headline 'WHAT DOES THE LABEL LEAVE OPEN?'; checklist 'Blend totals', 'Individual amounts?', 'Enzyme activity?'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No charts, graphs, chemical formulas, scientific diagrams, data points or decorative numbers. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+    "revisions": [],
+    "revisionReason": null,
+    "imageFile": "images/05-integrative-digestive-formula-gemini.jpg"
+  },
+  {
+    "id": "eznaturals-moringa",
+    "prompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Sage green and cream; sculptural folded-paper leaves beside two unlabelled comparison cards on a stone pedestal, botanical editorial context rather than an ingredient or product photograph. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'EZNaturals Moringa'; headline 'POWDER OR EXTRACT?'; checklist 'Separate label entries', 'Extract wording', 'Full warnings'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No charts, graphs, chemical formulas, scientific diagrams, data points or decorative numbers. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+    "revisions": [],
+    "revisionReason": null,
+    "imageFile": "images/06-eznaturals-moringa-gemini.jpg"
+  },
+  {
+    "id": "pep-tonic",
+    "prompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Coral, slate blue and ivory; abstract paper fan and graceful measuring-inspired arc, premium tactile editorial composition, no powder or food photo, lively typography. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Pep Tonic'; headline 'A SCOOP IS NOT THE WHOLE STORY'; checklist 'Serving definition', 'Fibre statement', 'Blend details'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No charts, graphs, chemical formulas, scientific diagrams, data points or decorative numbers. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+    "revisions": [],
+    "revisionReason": null,
+    "imageFile": "images/07-pep-tonic-gemini.jpg"
+  },
+  {
+    "id": "curcumitol-q",
+    "prompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Saffron yellow, warm cream and charcoal; large curved paper segments and a blank editorial reading card, conceptual magazine still life, crisp shadows and strong type, no chart numbers or percentages. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Curcumitol-Q'; headline 'PERCENTAGES NEED CONTEXT'; checklist 'Ingredient specification', 'Capsule contents', 'Complete label'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No charts, graphs, chemical formulas, scientific diagrams, data points or decorative numbers. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+    "revisions": [],
+    "revisionReason": null,
+    "imageFile": "images/08-curcumitol-q-gemini.jpg"
+  }
+]

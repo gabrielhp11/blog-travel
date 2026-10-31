@@ -1,0 +1,715 @@
+Browser tab: 540249056, Title: "Meta Business Suite", URL: "https://business.facebook.com/latest/posts/published_posts/?business_id=1797870504751927&asset_id=1441439982376766".
+0 AXWebArea Meta Business Suite, URL: business.facebook.com/latest/posts/published_posts/?business_id=1797870504751927&asset_id=1441439982376766
+	1 container
+		2 container mount_0_0_wv
+			3 container
+				4 container
+					5 heading Conteúdo, Value: 1
+						6 text Conteúdo
+					7 text Programe, publique e gerencie posts, reels e stories e muito mais.
+					8 toolbar
+						9 container
+							10 button Exportar dados
+								11 image
+								12 text Exportar dados
+							13 pop up button (collapsed) Abrir opções de exportação ​, Secondary Actions: Expand
+								14 text Abrir opções de exportação
+								15 image
+						16 button Criar reel
+							17 image
+							18 text Criar reel
+						19 container
+							20 button Criar post
+								21 image
+								22 text Criar post
+							23 pop up button (collapsed) Criar post ​, Secondary Actions: Expand
+								24 text Criar post
+								25 image
+						26 button Tarefas
+							27 image
+							28 text Tarefas
+						29 button Facebook
+							30 container
+								31 image Facebook
+					32 container
+						33 container
+							34 container Conteúdo
+								35 container
+									36 image
+									37 text Conteúdo
+								38 content list
+									39 container
+										40 link Description: Posts e reels, Value: business.facebook.com/latest/posts/published_posts?business_id=1797870504751927&asset_id=1441439982376766
+										41 text Posts e reels
+									42 container
+										43 link Description: Stories, Value: business.facebook.com/latest/posts/active_stories?business_id=1797870504751927&asset_id=1441439982376766
+										44 text Stories
+									45 container
+										46 link Description: Testes A/B, Value: business.facebook.com/latest/posts/ab_testing?business_id=1797870504751927&asset_id=1441439982376766
+										47 text Testes A/B
+									48 container
+										49 link Description: Feed e grade, Value: business.facebook.com/latest/posts/feed_and_grid?business_id=1797870504751927&asset_id=1441439982376766
+										50 text Feed e grade
+									51 container
+										52 link Description: Menções e marcações, Value: business.facebook.com/latest/posts/tagged_content?business_id=1797870504751927&asset_id=1441439982376766
+										53 text Menções e marcações
+									54 container
+										55 link Description: Clipes, Value: business.facebook.com/latest/posts/all_clips?business_id=1797870504751927&asset_id=1441439982376766
+										56 text Clipes
+							57 container Coleções
+								58 container
+									59 image
+									60 text Coleções
+								61 content list
+									62 container
+										63 link Description: Playlists, Value: business.facebook.com/latest/posts/all_playlists?business_id=1797870504751927&asset_id=1441439982376766
+										64 text Playlists
+							65 container Peças publicitárias
+								66 container
+									67 image
+									68 text Peças publicitárias
+								69 content list
+									70 container
+										71 link Description: Vídeos para post cruzado, Value: business.facebook.com/latest/posts/videos_you_can_crosspost?business_id=1797870504751927&asset_id=1441439982376766
+										72 text Vídeos para post cruzado
+						73 button Expandir ​
+							74 text Expandir
+							75 image
+					76 image
+					77 heading O alcance do Facebook não estará mais disponível a partir de 31 de outubro de 2026, Value: 4
+						78 text O alcance do Facebook não estará mais disponível a partir de 31 de outubro de 2026
+					79 button Fechar ​
+						80 text Fechar
+						81 image
+					82 text "Visualizadores" é a métrica principal para entender quantas contas visualizaram seu conteúdo do Facebook.
+					83 container
+						84 tab group
+							85 tab (selected, settable, boolean) Description: Publicados, Value: 1
+							86 tab (selectable, settable, boolean) Description: Programados, Value: 0
+							87 tab (selectable, settable, boolean) Description: Rascunhos, Value: 0
+							88 tab (selectable, settable, boolean) Description: Quase expirando, Value: 0
+							89 pop up button Mais
+								90 image
+						91 text Filtrar
+						92 combo box (collapsed) Filtrar Filtrar, Value: Filtrar ​, ID: js_50, Secondary Actions: Expand
+							93 container
+								94 text Filtrar
+								95 image
+						96 container js_1t
+							97 text Pesquisar por ID ou legenda
+						98 container
+							99 text field (settable) Pesquisar por ID ou legenda, ID: js_1s
+						100 image
+						101 button Últimos 90 dias
+							102 image
+							103 text Últimos 90 dias
+							104 image
+						105 button Colunas ​
+							106 text Colunas
+							107 image
+						108 table Posts publicados
+							109 row Selecionar tudo Título Data da publicação Status Alcance ​ Visualizações ​
+								110 cell
+									111 container
+										112 checkbox (settable, integer) Description: Selecionar tudo, Value: 0
+										113 image
+								114 cell
+									115 heading Título, Value: 4
+										116 text Título
+								117 cell
+									118 button Data da publicação
+										119 heading Data da publicação, Value: 4
+											120 text Data da publicação
+								121 cell
+									122 button Status
+										123 heading Status, Value: 4
+											124 text Status
+								125 cell
+									126 button Alcance ​
+										127 heading Alcance ​, Value: 4
+											128 text Alcance
+											129 image
+								130 cell
+									131 button Visualizações ​
+										132 heading Visualizações ​, Value: 4
+											133 text Visualizações
+											134 image
+								135 cell
+									136 button Visualizadores ​
+										137 heading Visualizadores ​, Value: 4
+											138 text Visualizadores
+											139 image
+								140 cell
+									141 button Seguidores ​
+										142 heading Seguidores ​, Value: 4
+											143 text Seguidores
+											144 image
+								145 cell
+									146 button Interações líquidas ​
+										147 heading Interações líquidas ​, Value: 4
+											148 text Interações líquidas
+											149 image
+								150 cell
+									151 button Curtidas e reações ​
+										152 heading Curtidas e reações ​, Value: 4
+											153 text Curtidas e reações
+											154 image
+								155 cell
+									156 button Comentários ​
+										157 heading Comentários ​, Value: 4
+											158 text Comentários
+											159 image
+								160 cell
+									161 button Compartilhamentos ​
+										162 heading Compartilhamentos ​, Value: 4
+											163 text Compartilhamentos
+											164 image
+								165 cell
+									166 button Salvamentos ​
+										167 heading Salvamentos ​, Value: 4
+											168 text Salvamentos
+											169 image
+								170 cell
+									171 button Cliques no link ​
+										172 heading Cliques no link ​, Value: 4
+											173 text Cliques no link
+											174 image
+								175 cell
+									176 button Tempo de visualização ​
+										177 heading Tempo de visualização ​, Value: 4
+											178 text Tempo de visualização
+											179 image
+								180 cell
+									181 button Tempo médio de reprodução do vídeo ​
+										182 heading Tempo médio de reprodução do vídeo ​, Value: 4
+											183 text Tempo médio de reprodução do vídeo
+											184 image
+								185 cell
+									186 button Visualizações de 3 segundos ​
+										187 heading Visualizações de 3 segundos ​, Value: 4
+											188 text Visualizações de 3 segundos
+											189 image
+								190 cell
+									191 button Ganhos aproximados com anúncios in-stream ​
+										192 heading Ganhos aproximados com anúncios in-stream ​, Value: 4
+											193 text Ganhos aproximados com anúncios in-stream
+											194 image
+							195 container
+								196 row Selecionar item com identificação 122099154579532355 Instagram Facebook Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. Check that the bottle photograph and full label describe the same version. The Advanced Joint Support guide records a tablet-count discrepancy in the supplier materials reviewed. Before estimating value or supply length: • Ask which version will actually ship. • Request the matching current label and directions. • Confirm the selected pack and final delivery total. The discrepancy remains unresolved in the guide. Ingredient names do not establish pain relief. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-joint-support AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Sexta, 30 de outubro 11:00 Não turbinado no momento
+									197 cell
+										198 container
+											199 checkbox (settable, integer) Description: Selecionar item com identificação 122099154579532355, Value: 0
+											200 image
+									201 cell
+										202 container
+											203 container
+												204 image Instagram
+												205 image Facebook
+											206 text Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. Check that the bottle photograph and full label describe the same version. The Advanced Joint Support guide records a tablet-count discrepancy in the supplier materials reviewed. Before estimating value or supply length: • Ask which version will actually ship. • Request the matching current label and directions. • Confirm the selected pack and final delivery total. The discrepancy remains unresolved in the guide. Ingredient names do not establish pain relief. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-joint-support AI editorial illustration; not product photography.
+											207 image
+											208 text Foto
+											209 image
+											210 text Post cruzado
+											211 image
+											212 text PokiSky Supplement Guides, pokisky.guides
+											213 button Turbinar
+												214 text Turbinar
+											215 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												216 text Abrir menu suspenso
+												217 image
+											218 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												219 text Abrir menu suspenso
+												220 image
+									221 cell
+										222 checkbox Sexta, 30 de outubro 11:00, Value: 0
+									223 cell
+										224 checkbox Não turbinado no momento, Value: 0
+											225 container Não turbinado no momento
+									226 cell
+										227 checkbox 0
+									228 cell
+										229 checkbox 0
+									230 cell
+										231 checkbox 0
+									232 cell
+										233 checkbox 0
+									234 cell
+										235 checkbox 0
+									236 cell
+										237 checkbox 0
+									238 cell
+										239 checkbox 0
+									240 cell
+										241 checkbox 0
+									242 cell
+										243 checkbox 0
+									244 cell
+										245 checkbox 0
+									246 cell
+										247 checkbox ‑‑, Value: 0
+									248 cell
+										249 checkbox ‑‑, Value: 0
+									250 cell
+										251 checkbox 0
+									252 cell
+										253 checkbox ‑‑, Value: 0
+								254 row Selecionar item com identificação 122099149125532355 Instagram Facebook Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. For a collagen powder, source information belongs near the top of the checklist. The seller describes Advanced Collagen Plus as a multi-source formula. Our guide helps you check: • The source species listed for the product. • The complete allergen and ingredient statements. • The serving information and current purchase terms. A mixing demonstration cannot establish purity or effectiveness. Read the guide, and confirm any dietary restrictions or allergy questions before ordering. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=collagen AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Sexta, 30 de outubro 10:53 Não turbinado no momento
+									255 cell
+										256 container
+											257 checkbox (settable, integer) Description: Selecionar item com identificação 122099149125532355, Value: 0
+											258 image
+									259 cell
+										260 container
+											261 container
+												262 image Instagram
+												263 image Facebook
+											264 text Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. For a collagen powder, source information belongs near the top of the checklist. The seller describes Advanced Collagen Plus as a multi-source formula. Our guide helps you check: • The source species listed for the product. • The complete allergen and ingredient statements. • The serving information and current purchase terms. A mixing demonstration cannot establish purity or effectiveness. Read the guide, and confirm any dietary restrictions or allergy questions before ordering. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=collagen AI editorial illustration; not product photography.
+											265 image
+											266 text Foto
+											267 image
+											268 text Post cruzado
+											269 image
+											270 text PokiSky Supplement Guides, pokisky.guides
+											271 button Turbinar
+												272 text Turbinar
+											273 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												274 text Abrir menu suspenso
+												275 image
+											276 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												277 text Abrir menu suspenso
+												278 image
+									279 cell
+										280 checkbox Sexta, 30 de outubro 10:53, Value: 0
+									281 cell
+										282 checkbox Não turbinado no momento, Value: 0
+											283 container Não turbinado no momento
+									284 cell
+										285 checkbox 0
+									286 cell
+										287 checkbox 0
+									288 cell
+										289 checkbox 0
+									290 cell
+										291 checkbox 0
+									292 cell
+										293 checkbox 0
+									294 cell
+										295 checkbox 0
+									296 cell
+										297 checkbox 0
+									298 cell
+										299 checkbox 0
+									300 cell
+										301 checkbox 0
+									302 cell
+										303 checkbox 0
+									304 cell
+										305 checkbox ‑‑, Value: 0
+									306 cell
+										307 checkbox ‑‑, Value: 0
+									308 cell
+										309 checkbox 0
+									310 cell
+										311 checkbox ‑‑, Value: 0
+								312 row Selecionar item com identificação 122099148123532355 Instagram Facebook Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. Before comparing a label amount, check what one serving means. Our Advanced Vision Formula guide explains the supplier's serving definition and complete formula. Keep these questions beside the label: • Is an amount per tablet or per label serving? • Which other ingredients and excipients are included? • What overlap with other supplements needs discussion with a qualified professional? The product does not replace prescribed eye care. Read the current label and order details before deciding. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-vision-formula AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Sexta, 30 de outubro 10:51 Não turbinado no momento
+									313 cell
+										314 container
+											315 checkbox (settable, integer) Description: Selecionar item com identificação 122099148123532355, Value: 0
+											316 image
+									317 cell
+										318 container
+											319 container
+												320 image Instagram
+												321 image Facebook
+											322 text Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. Before comparing a label amount, check what one serving means. Our Advanced Vision Formula guide explains the supplier's serving definition and complete formula. Keep these questions beside the label: • Is an amount per tablet or per label serving? • Which other ingredients and excipients are included? • What overlap with other supplements needs discussion with a qualified professional? The product does not replace prescribed eye care. Read the current label and order details before deciding. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-vision-formula AI editorial illustration; not product photography.
+											323 image
+											324 text Foto
+											325 image
+											326 text Post cruzado
+											327 image
+											328 text PokiSky Supplement Guides, pokisky.guides
+											329 button Turbinar
+												330 text Turbinar
+											331 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												332 text Abrir menu suspenso
+												333 image
+											334 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												335 text Abrir menu suspenso
+												336 image
+									337 cell
+										338 checkbox Sexta, 30 de outubro 10:51, Value: 0
+									339 cell
+										340 checkbox Não turbinado no momento, Value: 0
+											341 container Não turbinado no momento
+									342 cell
+										343 checkbox 0
+									344 cell
+										345 checkbox 0
+									346 cell
+										347 checkbox 0
+									348 cell
+										349 checkbox 0
+									350 cell
+										351 checkbox 0
+									352 cell
+										353 checkbox 0
+									354 cell
+										355 checkbox 0
+									356 cell
+										357 checkbox 0
+									358 cell
+										359 checkbox 0
+									360 cell
+										361 checkbox 0
+									362 cell
+										363 checkbox ‑‑, Value: 0
+									364 cell
+										365 checkbox ‑‑, Value: 0
+									366 cell
+										367 checkbox 0
+									368 cell
+										369 checkbox ‑‑, Value: 0
+								370 row Selecionar item com identificação 122099147625532355 Instagram Facebook Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. One combined blend total leaves a useful follow-up question: how much of each ingredient is disclosed? The CircO2 guide distinguishes the nutrients listed separately from ingredients grouped in a proprietary blend. Check: • The complete formula and other ingredients. • Which amounts are individual and which are combined. • The current delivery and return terms for your address. The blend name alone does not establish a circulation benefit. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=circo2 AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Sexta, 30 de outubro 10:51 Não turbinado no momento
+									371 cell
+										372 container
+											373 checkbox (settable, integer) Description: Selecionar item com identificação 122099147625532355, Value: 0
+											374 image
+									375 cell
+										376 container
+											377 container
+												378 image Instagram
+												379 image Facebook
+											380 text Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. One combined blend total leaves a useful follow-up question: how much of each ingredient is disclosed? The CircO2 guide distinguishes the nutrients listed separately from ingredients grouped in a proprietary blend. Check: • The complete formula and other ingredients. • Which amounts are individual and which are combined. • The current delivery and return terms for your address. The blend name alone does not establish a circulation benefit. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=circo2 AI editorial illustration; not product photography.
+											381 image
+											382 text Foto
+											383 image
+											384 text Post cruzado
+											385 image
+											386 text PokiSky Supplement Guides, pokisky.guides
+											387 button Turbinar
+												388 text Turbinar
+											389 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												390 text Abrir menu suspenso
+												391 image
+											392 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												393 text Abrir menu suspenso
+												394 image
+									395 cell
+										396 checkbox Sexta, 30 de outubro 10:51, Value: 0
+									397 cell
+										398 checkbox Não turbinado no momento, Value: 0
+											399 container Não turbinado no momento
+									400 cell
+										401 checkbox 0
+									402 cell
+										403 checkbox 0
+									404 cell
+										405 checkbox 0
+									406 cell
+										407 checkbox 0
+									408 cell
+										409 checkbox 0
+									410 cell
+										411 checkbox 0
+									412 cell
+										413 checkbox 0
+									414 cell
+										415 checkbox 0
+									416 cell
+										417 checkbox 0
+									418 cell
+										419 checkbox 0
+									420 cell
+										421 checkbox ‑‑, Value: 0
+									422 cell
+										423 checkbox ‑‑, Value: 0
+									424 cell
+										425 checkbox 0
+									426 cell
+										427 checkbox ‑‑, Value: 0
+								428 row Selecionar item com identificação 122099145855532355 Instagram Facebook Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. A familiar botanical name is only the start. The PokiSky AdaptoGen 4.0 guide walks through the supplier's declared formula and the questions behind a purchase: • Which ingredients and amounts are listed? • What warnings and possible allergens need attention? • Which conditions apply to the advertised refund? Read the complete current label and policy before choosing a pack. The guide does not establish results for the finished formula. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=adaptogen-4 AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Sexta, 30 de outubro 10:49 Não turbinado no momento
+									429 cell
+										430 container
+											431 checkbox (settable, integer) Description: Selecionar item com identificação 122099145855532355, Value: 0
+											432 image
+									433 cell
+										434 container
+											435 container
+												436 image Instagram
+												437 image Facebook
+											438 text Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. A familiar botanical name is only the start. The PokiSky AdaptoGen 4.0 guide walks through the supplier's declared formula and the questions behind a purchase: • Which ingredients and amounts are listed? • What warnings and possible allergens need attention? • Which conditions apply to the advertised refund? Read the complete current label and policy before choosing a pack. The guide does not establish results for the finished formula. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=adaptogen-4 AI editorial illustration; not product photography.
+											439 image
+											440 text Foto
+											441 image
+											442 text Post cruzado
+											443 image
+											444 text PokiSky Supplement Guides, pokisky.guides
+											445 button Turbinar
+												446 text Turbinar
+											447 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												448 text Abrir menu suspenso
+												449 image
+											450 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												451 text Abrir menu suspenso
+												452 image
+									453 cell
+										454 checkbox Sexta, 30 de outubro 10:49, Value: 0
+									455 cell
+										456 checkbox Não turbinado no momento, Value: 0
+											457 container Não turbinado no momento
+									458 cell
+										459 checkbox 0
+									460 cell
+										461 checkbox 0
+									462 cell
+										463 checkbox 0
+									464 cell
+										465 checkbox 0
+									466 cell
+										467 checkbox 0
+									468 cell
+										469 checkbox 0
+									470 cell
+										471 checkbox 0
+									472 cell
+										473 checkbox 0
+									474 cell
+										475 checkbox 0
+									476 cell
+										477 checkbox 0
+									478 cell
+										479 checkbox ‑‑, Value: 0
+									480 cell
+										481 checkbox ‑‑, Value: 0
+									482 cell
+										483 checkbox 0
+									484 cell
+										485 checkbox ‑‑, Value: 0
+								486 row Selecionar item com identificação 17965035486229416 Instagram Este post não tem texto Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:11 Não turbinado no momento 1 1 1 0 0
+									487 cell
+										488 container
+											489 checkbox (settable, integer) Description: Selecionar item com identificação 17965035486229416, Value: 0
+											490 image
+									491 cell
+										492 container
+											493 container
+												494 image Instagram
+											495 text Este post não tem texto
+											496 image
+											497 text Foto
+											498 image
+											499 text pokisky.guides
+											500 button Turbinar
+												501 text Turbinar
+											502 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												503 text Abrir menu suspenso
+												504 image
+									505 cell
+										506 checkbox Quinta, 29 de outubro 10:11, Value: 0
+									507 cell
+										508 checkbox Não turbinado no momento, Value: 0
+											509 container Não turbinado no momento
+									510 cell
+										511 checkbox 1, Value: 0
+									512 cell
+										513 checkbox 1, Value: 0
+									514 cell
+										515 checkbox 1, Value: 0
+									516 cell
+										517 checkbox 0
+									518 cell
+										519 checkbox 0
+									520 cell
+										521 checkbox 0
+									522 cell
+										523 checkbox 0
+									524 cell
+										525 checkbox 0
+									526 cell
+										527 checkbox 0
+									528 cell
+										529 checkbox ‑‑, Value: 0
+									530 cell
+										531 checkbox ‑‑, Value: 0
+									532 cell
+										533 checkbox ‑‑, Value: 0
+									534 cell
+										535 checkbox ‑‑, Value: 0
+									536 cell
+										537 checkbox ‑‑, Value: 0
+								538 row Selecionar item com identificação 18086725283706033 Instagram Este post não tem texto Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:10 Não turbinado no momento 1 1 1 0 0
+									539 cell
+										540 container
+											541 checkbox (settable, integer) Description: Selecionar item com identificação 18086725283706033, Value: 0
+											542 image
+									543 cell
+										544 container
+											545 container
+												546 image Instagram
+											547 text Este post não tem texto
+											548 image
+											549 text Foto
+											550 image
+											551 text pokisky.guides
+											552 button Turbinar
+												553 text Turbinar
+											554 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												555 text Abrir menu suspenso
+												556 image
+									557 cell
+										558 checkbox Quinta, 29 de outubro 10:10, Value: 0
+									559 cell
+										560 checkbox Não turbinado no momento, Value: 0
+											561 container Não turbinado no momento
+									562 cell
+										563 checkbox 1, Value: 0
+									564 cell
+										565 checkbox 1, Value: 0
+									566 cell
+										567 checkbox 1, Value: 0
+									568 cell
+										569 checkbox 0
+									570 cell
+										571 checkbox 0
+									572 cell
+										573 checkbox 0
+									574 cell
+										575 checkbox 0
+									576 cell
+										577 checkbox 0
+									578 cell
+										579 checkbox 0
+									580 cell
+										581 checkbox ‑‑, Value: 0
+									582 cell
+										583 checkbox ‑‑, Value: 0
+									584 cell
+										585 checkbox ‑‑, Value: 0
+									586 cell
+										587 checkbox ‑‑, Value: 0
+									588 cell
+										589 checkbox ‑‑, Value: 0
+								590 row Selecionar item com identificação 18099131489447017 Instagram Este post não tem texto Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:09 Não turbinado no momento ‑‑ 0 ‑‑ 0 0
+									591 cell
+										592 container
+											593 checkbox (settable, integer) Description: Selecionar item com identificação 18099131489447017, Value: 0
+											594 image
+									595 cell
+										596 container
+											597 container
+												598 image Instagram
+											599 text Este post não tem texto
+											600 image
+											601 text Foto
+											602 image
+											603 text pokisky.guides
+											604 button Turbinar
+												605 text Turbinar
+											606 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												607 text Abrir menu suspenso
+												608 image
+									609 cell
+										610 checkbox Quinta, 29 de outubro 10:09, Value: 0
+									611 cell
+										612 checkbox Não turbinado no momento, Value: 0
+											613 container Não turbinado no momento
+									614 cell
+										615 checkbox ‑‑, Value: 0
+									616 cell
+										617 checkbox 0
+									618 cell
+										619 checkbox ‑‑, Value: 0
+									620 cell
+										621 checkbox 0
+									622 cell
+										623 checkbox 0
+									624 cell
+										625 checkbox 0
+									626 cell
+										627 checkbox 0
+									628 cell
+										629 checkbox 0
+									630 cell
+										631 checkbox 0
+									632 cell
+										633 checkbox ‑‑, Value: 0
+									634 cell
+										635 checkbox ‑‑, Value: 0
+									636 cell
+										637 checkbox ‑‑, Value: 0
+									638 cell
+										639 checkbox ‑‑, Value: 0
+									640 cell
+										641 checkbox ‑‑, Value: 0
+				642 button Assistente da Meta AI para empresas
+				643 container
+					644 button Meta Business Suite
+						645 text Meta Business Suite
+					646 button Pressable
+						647 container
+							648 image Instagram
+							649 image Facebook
+					650 container Links
+						651 text Links
+						652 content list
+							653 container
+								654 link Description: Página inicial, Value: business.facebook.com/latest/home?business_id=1797870504751927&asset_id=1441439982376766
+								655 text Página inicial
+							656 container
+								657 link Notificações
+									658 text Notificações
+								659 text Notificações
+							660 container
+								661 link Gerenciador de Anúncios
+									662 text Gerenciador de Anúncios
+								663 text Gerenciador de Anúncios
+							664 container
+								665 link Description: Caixa de Entrada, Value: business.facebook.com/latest/inbox?business_id=1797870504751927&asset_id=1441439982376766
+								666 text Caixa de Entrada
+							667 container
+								668 link Description: Conteúdo, Value: business.facebook.com/latest/posts?business_id=1797870504751927&asset_id=1441439982376766
+								669 text Conteúdo
+							670 container Links
+								671 text Links
+								672 content list
+									673 container
+										674 container
+											675 link Description: Central de Leads, Value: business.facebook.com/latest/leads_center?business_id=1797870504751927&asset_id=1441439982376766
+											676 text Central de Leads
+										677 container
+											678 link Description: Planner, Value: business.facebook.com/latest/content_calendar?business_id=1797870504751927&asset_id=1441439982376766
+											679 text Planner
+										680 container
+											681 link Description: Anúncios, Value: business.facebook.com/latest/ad_center/ads_summary?business_id=1797870504751927&asset_id=1441439982376766
+											682 text Anúncios
+							683 container
+								684 link Description: Cobrança e pagamentos, Value: business.facebook.com/billing_hub/?business_id=1797870504751927&placement=mbs_all_tools_menu
+								685 text Cobrança e pagamentos
+							686 container
+								687 link Description: Públicos, Value: business.facebook.com/ads/manager/audiences/?business_id=1797870504751927&nav_source=business_manager
+								688 text Públicos
+							689 container
+								690 link Description: Gerenciador de Eventos, Value: business.facebook.com/events_manager2/?business_id=1797870504751927&global_scope_id=1797870504751927&nav_source=biz_nav
+								691 text Gerenciador de Eventos
+							692 container
+								693 link Todas as ferramentas
+									694 text Todas as ferramentas
+								695 text Todas as ferramentas
+					696 container
+						697 link Pesquisar
+							698 text Pesquisar
+						699 text Pesquisar
+						700 image
+					701 container Links
+						702 text Links
+						703 content list
+							704 container
+								705 link Description: Configurações, Value: business.facebook.com/latest/settings/business_overview?business_id=1797870504751927&asset_id=1441439982376766
+								706 text Configurações
+					707 container
+						708 link Ajuda
+							709 text Ajuda
+						710 text Ajuda
+						711 image
+
+The focused UI element is 0 AXWebArea Meta Business Suite, URL: business.facebook.com/latest/posts/published_posts/?business_id=1797870504751927&asset_id=1441439982376766

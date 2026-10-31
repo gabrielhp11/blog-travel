@@ -1,0 +1,158 @@
+Browser tab: 540249447, Title: "Instagram", URL: "https://www.instagram.com/pokisky.guides/".
+0 AXWebArea Instagram, URL: instagram.com/pokisky.guides/
+	1 container
+		2 container mount_0_0_VF
+			3 container
+				4 container
+					5 link Description: Instagram, Value: instagram.com/
+					6 link Description: Página inicial, Value: instagram.com/
+					7 link Description: Reels, Value: instagram.com/reels/
+					8 link Description: Mensagens, Value: instagram.com/direct/inbox/
+					9 link Description: Pesquisa, Value: instagram.com/explore/
+					10 link Description: Notificações, Value: instagram.com/pokisky.guides/
+					11 container
+						12 link Description: Novo post, Value: instagram.com/pokisky.guides/
+					13 link Description: Painel profissional, Value: instagram.com/pokisky.guides/
+					14 link Description: Foto do perfil de pokisky.guides, Value: instagram.com/pokisky.guides/
+					15 link Description: Configurações, Value: instagram.com/pokisky.guides/
+					16 link Description: Também da Meta, Value: instagram.com/pokisky.guides/
+				17 container
+					18 container
+						19 button Nota...
+							20 text Nota...
+						21 button Foto do perfil de pokisky.guides
+							22 image
+							23 link Foto do perfil de pokisky.guides
+								24 image Foto do perfil de pokisky.guides
+					25 container
+						26 link Description: pokisky.guides, Value: instagram.com/pokisky.guides/
+						27 pop up button (collapsed) Opções, Secondary Actions: Expand
+							28 image Opções
+						29 text PokiSky | Supplement Guides 38  posts
+						30 link Description: 8 seguidores, Value: instagram.com/pokisky.guides/
+						31 link Description: 184 seguindo, Value: instagram.com/pokisky.guides/
+					32 container
+						33 button Independent supplement guides. Labels, ingredients & buying checks. AI editorial visuals. Affiliate links
+							34 text Independent supplement guides.
+							35 text Labels, ingredients & buying checks.
+							36 text AI editorial visuals. Affiliate links
+						37 text ... 
+						38 button mais
+						39 heading 1
+					40 container
+						41 link Description: Editar perfil, Value: instagram.com/accounts/edit/
+						42 link Description: Ver Itens Arquivados, Value: instagram.com/archive/stories/
+					43 container
+						44 content list
+							45 link Description: Ver destaque de Longevity, Value: instagram.com/stories/highlights/18076840808743676/
+							46 link Description: Ver destaque de Joints, Value: instagram.com/stories/highlights/18099737627429010/
+							47 link Description: Ver destaque de Collagen, Value: instagram.com/stories/highlights/17993191245081042/
+							48 link Description: Ver destaque de Vision, Value: instagram.com/stories/highlights/18003652280798335/
+							49 link Description: Ver destaque de Formulas, Value: instagram.com/stories/highlights/18128252122885523/
+							50 link Description: Ver destaque de Labels, Value: instagram.com/stories/highlights/18159764077513855/
+							51 button Ícone de mais Novo
+								52 container
+									53 image
+									54 image Ícone de mais
+								55 text Novo
+						56 button Avançar
+					57 tab group
+						58 link Description: Posts, Value: instagram.com/pokisky.guides/
+						59 link Description: Salvos, Value: instagram.com/pokisky.guides/saved/
+						60 link Description: Reposts, Value: instagram.com/pokisky.guides/reposts/
+						61 link Description: Marcados, Value: instagram.com/pokisky.guides/tagged/
+					62 container
+						63 link Value: instagram.com/pokisky.guides/p/DfHv3YKDrLF/, Description: Advanced Joint Support editorial poster. Headline: CONFIRM THE BOTTLE VERSION. Checklist: Pack quantity; Current label; Order details. PokiSky. Read the guide. AI editorial illustration; affiliate guide.
+						64 link Value: instagram.com/pokisky.guides/p/DfHu-hfDhah/, Description: Advanced Collagen Plus editorial poster. Headline: START WITH THE SOURCES. Checklist: Source species; Allergen information; Complete formula. PokiSky. Read the guide. AI editorial illustration; affiliate guide.
+						65 link Value: instagram.com/pokisky.guides/p/DfHu2NeDu6K/, Description: Advanced Vision Formula editorial poster. Headline: ONE TABLET OR ONE SERVING?. Checklist: Serving definition; Amount per serving; Formula overlap. PokiSky. Read the guide. AI editorial illustration; affiliate guide.
+						66 link Value: instagram.com/pokisky.guides/p/DfHuwRfjh9g/, Description: CircO2 editorial poster. Headline: WHAT DOES THE BLEND TOTAL TELL YOU?. Checklist: Combined blend; Individual amounts?; Complete label. PokiSky. Read the guide. AI editorial illustration; affiliate guide.
+						67 link Value: instagram.com/pokisky.guides/p/DfHultiDvXn/, Description: AdaptoGen 4.0 editorial poster. Headline: A BOTANICAL NAME IS ONLY THE START. Checklist: Full formula; Declared amounts; Label warnings. PokiSky. Read the guide. AI editorial illustration; affiliate guide.
+						68 link instagram.com/pokisky.guides/p/DfFFZgEpTZO/
+						69 link instagram.com/pokisky.guides/p/DfFFSW_JcV2/
+						70 link instagram.com/pokisky.guides/p/DfFFMTCJoV1/
+						71 link Value: instagram.com/pokisky.guides/p/DfFFGjQpvFE/, Description: SenFlo vs Integrative Digestive Formula: Different Digestive Proposals SenFlo Gummies and Integrative Digestive Formula use digestive marketing but have different ingredient types and missing-information limits. Compare purpose, serving evidence and delivery markets. Ad / affiliate links in the guide. AI editorial illustration. No personal product testing. Guide: https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=senflo-vs-integrative-digestive-formula
+						72 link Value: instagram.com/pokisky.guides/p/DfFE-DDpVVV/, Description: BrainAMP vs Advanced Memory Formula: Ingredient & Serving Comparison Compare paraxanthine, Alpha-GPC form, named ingredients and disclosure limits. A cognition-themed product name does not prove a memory outcome. Ad / affiliate links in the guide. AI editorial illustration. No personal product testing. Guide: https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=brainamp-vs-advanced-memory-formula
+						73 link Value: instagram.com/pokisky.guides/p/DfFE3P8J4Og/, Description: Advanced Muscle Plus vs Advanced Amino Formula: Label Differences Advanced Muscle Plus and Advanced Amino Formula share muscle-support marketing but differ in vitamin D, HMB and amino-acid disclosure. Compare the labels before package prices. Ad / affiliate links in the guide. AI editorial illustration. No personal product testing. Guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=advanced-muscle-plus-vs-advanced-amino-formula
+						74 link Value: instagram.com/pokisky.guides/p/DfFEr-tJwCe/, Description: MetaboSana vs. GlucoSana: Mengen und Warnhinweise MetaboSana und GlucoSana: gleiche Kapselzahl, unterschiedliche Nährstoffe und Warnhinweise. Vergleichen Sie Mengen, Grüntee-Angaben, Kurkuma und Bestellbedingungen. Werbung / Affiliate-Links in den Produktratgebern. KI-Illustration. Kein Produkttest. Guide: https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana-vs-glucosana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=metabosana-vs-glucosana
+				75 container
+					76 container
+						77 link Description: Meta, Value: about.meta.com/
+						78 link Description: Sobre, Value: about.instagram.com/
+						79 link Description: Blog, Value: about.instagram.com/blog/
+						80 link Description: Carreiras, Value: about.instagram.com/about-us/careers
+						81 link Description: Ajuda, Value: help.instagram.com/
+						82 link Description: API, Value: developers.facebook.com/docs/instagram
+						83 link Description: Privacidade, Value: instagram.com/legal/privacy/
+						84 link Description: Termos, Value: instagram.com/legal/terms/
+						85 link Description: Localizações, Value: instagram.com/explore/locations/
+						86 link Description: Popular, Value: instagram.com/popular/
+						87 link Description: Instagram Lite, Value: instagram.com/web/lite/
+						88 link Description: Meta AI, Value: meta.ai/
+						89 link Description: Muse, Value: muse.ai/
+						90 link Description: Threads, Value: threads.com/
+						91 link Description: Upload de contatos e não usuários, Value: facebook.com/help/instagram/261704639352628
+						92 link Description: Meta Verified, Value: instagram.com/accounts/meta_verified/
+					93 text Português (Brasil)
+					94 image Ícone de seta para baixo
+					95 pop up button (collapsed, settable) Description: Trocar idioma de exibição, Value: Português (Brasil), Secondary Actions: Expand
+						96 menu
+							97 Afrikaans
+							98 العربية
+							99 Čeština
+							100 Dansk
+							101 Deutsch
+							102 Ελληνικά
+							103 English
+							104 English (UK)
+							105 Español (España)
+							106 Español
+							107 فارسی
+							108 Suomi
+							109 Français
+							110 עברית
+							111 Bahasa Indonesia
+							112 Italiano
+							113 日本語
+							114 한국어
+							115 Bahasa Melayu
+							116 Norsk
+							117 Nederlands
+							118 Polski
+							119 (selected) Português (Brasil)
+							120 Português (Portugal)
+							121 Русский
+							122 Svenska
+							123 ภาษาไทย
+							124 Filipino
+							125 Türkçe
+							126 中文(简体)
+							127 中文(台灣)
+							128 বাংলা
+							129 ગુજરાતી
+							130 हिन्दी
+							131 Hrvatski
+							132 Magyar
+							133 ಕನ್ನಡ
+							134 മലയാളം
+							135 मराठी
+							136 नेपाली
+							137 ਪੰਜਾਬੀ
+							138 සිංහල
+							139 Slovenčina
+							140 தமிழ்
+							141 తెలుగు
+							142 اردو
+							143 Tiếng Việt
+							144 中文(香港)
+							145 Български
+							146 Français (Canada)
+							147 Română
+							148 Српски
+							149 Українська
+					150 text © 2026 Instagram from Meta
+			151 button Mensagens
+				152 container Mensagens
+					153 image Mensagens
+					154 text Mensagens
+
+The focused UI element is 0 AXWebArea Instagram, URL: instagram.com/pokisky.guides/

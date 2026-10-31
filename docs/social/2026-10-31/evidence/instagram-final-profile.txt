@@ -1,0 +1,161 @@
+Browser tab: 540249447, Title: "Instagram", URL: "https://www.instagram.com/pokisky.guides/".
+1 AXWebArea Instagram, URL: instagram.com/pokisky.guides/
+	2 container
+		3 container mount_0_0_eZ
+			4 container
+				5 container
+					6 link Description: Instagram, Value: instagram.com/
+					7 link Description: Página inicial, Value: instagram.com/
+					8 link Description: Reels, Value: instagram.com/reels/
+					9 link Description: Mensagens, Value: instagram.com/direct/inbox/
+					10 link Description: Pesquisa, Value: instagram.com/explore/
+					11 link Description: Notificações, Value: instagram.com/pokisky.guides/
+					12 container
+						13 link Description: Novo post, Value: instagram.com/pokisky.guides/
+					14 link Description: Painel profissional, Value: instagram.com/pokisky.guides/
+					15 link Description: Foto do perfil de pokisky.guides, Value: instagram.com/pokisky.guides/
+					16 link Description: Configurações, Value: instagram.com/pokisky.guides/
+					17 link Description: Também da Meta, Value: instagram.com/pokisky.guides/
+				18 container
+					19 container
+						20 button Nota...
+							21 text Nota...
+						22 button Foto do perfil de pokisky.guides
+							23 image
+							24 link Foto do perfil de pokisky.guides
+								25 image Foto do perfil de pokisky.guides
+					26 container
+						27 link Description: pokisky.guides, Value: instagram.com/pokisky.guides/
+						28 pop up button (collapsed) Opções, Secondary Actions: Expand
+							29 image Opções
+						30 text PokiSky | Supplement Guides 46  posts
+						31 link Description: 8 seguidores, Value: instagram.com/pokisky.guides/
+						32 link Description: 184 seguindo, Value: instagram.com/pokisky.guides/
+					33 container
+						34 button Independent supplement guides. Labels, ingredients & buying checks. AI editorial visuals. Affiliate links
+							35 text Independent supplement guides.
+							36 text Labels, ingredients & buying checks.
+							37 text AI editorial visuals. Affiliate links
+						38 text ... 
+						39 button mais
+						40 heading 1
+					41 container
+						42 link Description: Editar perfil, Value: instagram.com/accounts/edit/
+						43 link Description: Ver Itens Arquivados, Value: instagram.com/archive/stories/
+					44 container
+						45 content list
+							46 link Description: Ver destaque de Joints, Value: instagram.com/stories/highlights/18099737627429010/
+							47 link Description: Ver destaque de Longevity, Value: instagram.com/stories/highlights/18076840808743676/
+							48 link Description: Ver destaque de Digestion, Value: instagram.com/stories/highlights/18106038518269274/
+							49 link Description: Ver destaque de Brain, Value: instagram.com/stories/highlights/18135495877669528/
+							50 link Description: Ver destaque de Nutrition, Value: instagram.com/stories/highlights/17894119074616970/
+							51 link Description: Ver destaque de Collagen, Value: instagram.com/stories/highlights/17993191245081042/
+							52 link Description: Ver destaque de Vision, Value: instagram.com/stories/highlights/18003652280798335/
+							53 link Description: Ver destaque de Formulas, Value: instagram.com/stories/highlights/18128252122885523/
+							54 link Description: Ver destaque de Labels, Value: instagram.com/stories/highlights/18159764077513855/
+							55 button Ícone de mais Novo
+								56 container
+									57 image
+									58 image Ícone de mais
+								59 text Novo
+						60 button Avançar
+					61 tab group
+						62 link Description: Posts, Value: instagram.com/pokisky.guides/
+						63 link Description: Salvos, Value: instagram.com/pokisky.guides/saved/
+						64 link Description: Reposts, Value: instagram.com/pokisky.guides/reposts/
+						65 link Description: Marcados, Value: instagram.com/pokisky.guides/tagged/
+					66 container
+						67 link Value: instagram.com/pokisky.guides/p/DfKFlr_lv1n/, Description: PokiSky supplement buying guide for Curcumitol-Q. Headline: PERCENTAGES NEED CONTEXT. Checklist: Ingredient specification; Capsule contents; Complete label. Read the guide. AI editorial illustration; affiliate guide.
+						68 link Value: instagram.com/pokisky.guides/p/DfKFg2QFjtH/, Description: PokiSky supplement buying guide for Pep Tonic. Headline: A SCOOP IS NOT THE WHOLE STORY. Checklist: Serving definition; Fibre statement; Blend details. Read the guide. AI editorial illustration; affiliate guide.
+						69 link Value: instagram.com/pokisky.guides/p/DfKFbCwFqkJ/, Description: PokiSky supplement buying guide for EZNaturals Moringa. Headline: POWDER OR EXTRACT?. Checklist: Separate label entries; Extract wording; Full warnings. Read the guide. AI editorial illustration; affiliate guide.
+						70 link Value: instagram.com/pokisky.guides/p/DfKFXbkll7K/, Description: PokiSky supplement buying guide for Integrative Digestive Formula. Headline: WHAT DOES THE LABEL LEAVE OPEN?. Checklist: Blend totals; Individual amounts?; Enzyme activity?. Read the guide. AI editorial illustration; affiliate guide.
+						71 link Value: instagram.com/pokisky.guides/p/DfKFSKYFg7R/, Description: PokiSky supplement buying guide for Advanced Mitochondrial Formula. Headline: CHECK FOR INGREDIENT OVERLAP. Checklist: Complete formula; Other supplements; Current warnings. Read the guide. AI editorial illustration; affiliate guide.
+						72 link Value: instagram.com/pokisky.guides/p/DfKFN6uluBO/, Description: PokiSky supplement buying guide for Advanced Muscle Plus. Headline: READ THE VITAMIN D ENTRY. Checklist: Full label; Serving basis; Suitability review. Read the guide. AI editorial illustration; affiliate guide.
+						73 link Value: instagram.com/pokisky.guides/p/DfKFJ-sllXf/, Description: PokiSky supplement buying guide for Advanced Memory Formula. Headline: FORM MATTERS. Checklist: Ingredient form; Alpha-GPC wording; Allergen statement. Read the guide. AI editorial illustration; affiliate guide.
+						74 link Value: instagram.com/pokisky.guides/p/DfKFFD1FgWJ/, Description: PokiSky supplement buying guide for Advanced Amino Formula. Headline: ONE BLEND. EIGHT NAMES.. Checklist: Combined total; Individual amounts?; Serving definition. Read the guide. AI editorial illustration; affiliate guide.
+						75 link Value: instagram.com/pokisky.guides/p/DfHv3YKDrLF/, Description: Advanced Joint Support editorial poster. Headline: CONFIRM THE BOTTLE VERSION. Checklist: Pack quantity; Current label; Order details. PokiSky. Read the guide. AI editorial illustration; affiliate guide.
+						76 link Value: instagram.com/pokisky.guides/p/DfHu-hfDhah/, Description: Advanced Collagen Plus editorial poster. Headline: START WITH THE SOURCES. Checklist: Source species; Allergen information; Complete formula. PokiSky. Read the guide. AI editorial illustration; affiliate guide.
+						77 link Value: instagram.com/pokisky.guides/p/DfHu2NeDu6K/, Description: Advanced Vision Formula editorial poster. Headline: ONE TABLET OR ONE SERVING?. Checklist: Serving definition; Amount per serving; Formula overlap. PokiSky. Read the guide. AI editorial illustration; affiliate guide.
+						78 link Value: instagram.com/pokisky.guides/p/DfHuwRfjh9g/, Description: CircO2 editorial poster. Headline: WHAT DOES THE BLEND TOTAL TELL YOU?. Checklist: Combined blend; Individual amounts?; Complete label. PokiSky. Read the guide. AI editorial illustration; affiliate guide.
+				79 container
+					80 container
+						81 link Description: Meta, Value: about.meta.com/
+						82 link Description: Sobre, Value: about.instagram.com/
+						83 link Description: Blog, Value: about.instagram.com/blog/
+						84 link Description: Carreiras, Value: about.instagram.com/about-us/careers
+						85 link Description: Ajuda, Value: help.instagram.com/
+						86 link Description: API, Value: developers.facebook.com/docs/instagram
+						87 link Description: Privacidade, Value: instagram.com/legal/privacy/
+						88 link Description: Termos, Value: instagram.com/legal/terms/
+						89 link Description: Localizações, Value: instagram.com/explore/locations/
+						90 link Description: Popular, Value: instagram.com/popular/
+						91 link Description: Instagram Lite, Value: instagram.com/web/lite/
+						92 link Description: Meta AI, Value: meta.ai/
+						93 link Description: Muse, Value: muse.ai/
+						94 link Description: Threads, Value: threads.com/
+						95 link Description: Upload de contatos e não usuários, Value: facebook.com/help/instagram/261704639352628
+						96 link Description: Meta Verified, Value: instagram.com/accounts/meta_verified/
+					97 text Português (Brasil)
+					98 image Ícone de seta para baixo
+					99 pop up button (collapsed, settable) Description: Trocar idioma de exibição, Value: Português (Brasil), Secondary Actions: Expand
+						100 menu
+							101 Afrikaans
+							102 العربية
+							103 Čeština
+							104 Dansk
+							105 Deutsch
+							106 Ελληνικά
+							107 English
+							108 English (UK)
+							109 Español (España)
+							110 Español
+							111 فارسی
+							112 Suomi
+							113 Français
+							114 עברית
+							115 Bahasa Indonesia
+							116 Italiano
+							117 日本語
+							118 한국어
+							119 Bahasa Melayu
+							120 Norsk
+							121 Nederlands
+							122 Polski
+							123 (selected) Português (Brasil)
+							124 Português (Portugal)
+							125 Русский
+							126 Svenska
+							127 ภาษาไทย
+							128 Filipino
+							129 Türkçe
+							130 中文(简体)
+							131 中文(台灣)
+							132 বাংলা
+							133 ગુજરાતી
+							134 हिन्दी
+							135 Hrvatski
+							136 Magyar
+							137 ಕನ್ನಡ
+							138 മലയാളം
+							139 मराठी
+							140 नेपाली
+							141 ਪੰਜਾਬੀ
+							142 සිංහල
+							143 Slovenčina
+							144 தமிழ்
+							145 తెలుగు
+							146 اردو
+							147 Tiếng Việt
+							148 中文(香港)
+							149 Български
+							150 Français (Canada)
+							151 Română
+							152 Српски
+							153 Українська
+					154 text © 2026 Instagram from Meta
+			155 button Mensagens
+				156 container Mensagens
+					157 image Mensagens
+					158 text Mensagens
+
+The focused UI element is 1 AXWebArea Instagram, URL: instagram.com/pokisky.guides/

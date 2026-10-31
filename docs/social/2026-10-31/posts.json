@@ -1,0 +1,599 @@
+{
+  "campaign": "supplement_labels_20261031",
+  "brand": "PokiSky",
+  "language": "en",
+  "createdDate": "2026-10-31",
+  "status": "published_all_networks_stories_and_highlights",
+  "notes": "Adapted from existing blog guides; source dates retain their actual prior review dates. No fresh supplier commercial or clinical audit.",
+  "posts": [
+    {
+      "id": "advanced-amino-formula",
+      "name": "Advanced Amino Formula",
+      "sourceFile": "topics/wellness/longevity/advanced-amino-formula.html",
+      "sourceReviewDate": "2026-10-06",
+      "headline": "ONE BLEND. EIGHT NAMES.",
+      "checks": [
+        "Combined total",
+        "Individual amounts?",
+        "Serving definition"
+      ],
+      "highlight": "Nutrition",
+      "status": "published_all_networks_stories_and_highlight",
+      "imageFile": "images/01-advanced-amino-formula-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Deep navy and copper, eight abstract folded paper ribbons converging on one blank label card, dramatic editorial studio lighting. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Advanced Amino Formula'; headline 'ONE BLEND. EIGHT NAMES.'; checklist 'Combined total', 'Individual amounts?', 'Serving definition'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+      "pinterestTitle": "Advanced Amino Formula: one blend. eight names",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. Eight ingredient names do not provide eight separate amounts. The reviewed supplier panel for Advanced Amino Formula lists the amino acids as one combined blend. Compare the blend total and serving definition, and keep the undisclosed individual amounts visible when reading other labels. Save this label-reading checklist and open the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nOne blend. eight names.\n\nEight ingredient names do not provide eight separate amounts. The reviewed supplier panel for Advanced Amino Formula lists the amino acids as one combined blend. Compare the blend total and serving definition, and keep the undisclosed individual amounts visible when reading other labels.\n\nRead the source-based buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-amino-formula\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nONE BLEND. EIGHT NAMES.\n\nEight ingredient names do not provide eight separate amounts. The reviewed supplier panel for Advanced Amino Formula lists the amino acids as one combined blend. Compare the blend total and serving definition, and keep the undisclosed individual amounts visible when reading other labels.\n\nSave this checklist. Find “Advanced Amino Formula” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-amino-formula\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Advanced Amino Formula. Headline: ONE BLEND. EIGHT NAMES.. Checklist: Combined total; Individual amounts?; Serving definition. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-amino-formula",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-amino-formula",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-amino-formula"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "published",
+          "url": "https://br.pinterest.com/pin/765471267964118780/"
+        },
+        "facebook": {
+          "status": "published_meta_confirmed",
+          "id": "122099965131532355",
+          "url": null
+        },
+        "instagram": {
+          "status": "published_verified_on_profile",
+          "url": "https://instagram.com/pokisky.guides/p/DfKFFD1FgWJ/"
+        },
+        "instagramStory": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagramHighlight": {
+          "status": "not_published",
+          "url": null
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "highlight": "Nutrition",
+          "groupStoryIds": [
+            "4020052259499980172",
+            "4020052194479837163",
+            "4020052134132248946",
+            "4020052075646847054"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_ei175iei175iei17.jpg"
+    },
+    {
+      "id": "advanced-memory-formula",
+      "name": "Advanced Memory Formula",
+      "sourceFile": "topics/wellness/brain-health/advanced-memory-formula.html",
+      "sourceReviewDate": "2026-10-27",
+      "headline": "FORM MATTERS",
+      "checks": [
+        "Ingredient form",
+        "Alpha-GPC wording",
+        "Allergen statement"
+      ],
+      "highlight": "Brain",
+      "status": "published_all_networks_stories_and_highlight",
+      "imageFile": "images/02-advanced-memory-formula-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Lavender, teal and warm ivory; a sculptural clear-glass prism above two elegant translucent reading cards, angled daylight, refined magazine typography. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Advanced Memory Formula'; headline 'FORM MATTERS'; checklist 'Ingredient form', 'Alpha-GPC wording', 'Allergen statement'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+      "pinterestTitle": "Advanced Memory Formula: form matters",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. An ingredient name and the amount of its active constituent can describe different things. Our Advanced Memory Formula guide explains the supplier panel's Alpha-GPC wording and soy statement. Read the complete current label rather than assuming every named ingredient amount is a pure active amount. Save this label-reading checklist and open the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nForm matters\n\nAn ingredient name and the amount of its active constituent can describe different things. Our Advanced Memory Formula guide explains the supplier panel's Alpha-GPC wording and soy statement. Read the complete current label rather than assuming every named ingredient amount is a pure active amount.\n\nRead the source-based buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-memory-formula\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nFORM MATTERS\n\nAn ingredient name and the amount of its active constituent can describe different things. Our Advanced Memory Formula guide explains the supplier panel's Alpha-GPC wording and soy statement. Read the complete current label rather than assuming every named ingredient amount is a pure active amount.\n\nSave this checklist. Find “Advanced Memory Formula” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-memory-formula\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Advanced Memory Formula. Headline: FORM MATTERS. Checklist: Ingredient form; Alpha-GPC wording; Allergen statement. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-memory-formula",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-memory-formula",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-memory-formula"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "published",
+          "url": "https://br.pinterest.com/pin/765471267964118791/"
+        },
+        "facebook": {
+          "status": "published_meta_confirmed",
+          "id": "122099965767532355",
+          "url": null
+        },
+        "instagram": {
+          "status": "published_verified_on_profile",
+          "url": "https://instagram.com/pokisky.guides/p/DfKFJ-sllXf/"
+        },
+        "instagramStory": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagramHighlight": {
+          "status": "not_published",
+          "url": null
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "highlight": "Brain",
+          "storyId": "4020052798804372999"
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_veg41eveg41eveg4.jpg"
+    },
+    {
+      "id": "advanced-muscle-plus",
+      "name": "Advanced Muscle Plus",
+      "sourceFile": "topics/wellness/nutrition/advanced-muscle-plus.html",
+      "sourceReviewDate": "2026-10-08",
+      "headline": "READ THE VITAMIN D ENTRY",
+      "checks": [
+        "Full label",
+        "Serving basis",
+        "Suitability review"
+      ],
+      "highlight": "Nutrition",
+      "status": "published_all_networks_stories_and_highlight",
+      "imageFile": "images/03-advanced-muscle-plus-gemini-v2.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Crie uma imagem: cartaz editorial vertical 4:5, em bordô e creme, com tipografia elegante, um lápis de madeira e uma folha lisa sem desenhos. Use somente estes textos em inglês: 'PokiSky', 'SUPPLEMENT BUYING GUIDE', 'Advanced Muscle Plus', 'READ THE VITAMIN D ENTRY', 'Full label', 'Serving basis', 'Suitability review', 'Read the guide', 'AI editorial illustration · Affiliate guide'. O cartaz convida a ler um rótulo; não apresenta resultados de saúde. Mantenha margens amplas e todas as palavras legíveis. A composição deve conter apenas os textos informados, o lápis e o papel liso; deixe a folha sem gráficos ou fórmulas.",
+      "pinterestTitle": "Advanced Muscle Plus: read the vitamin d entry",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The vitamin D entry deserves attention before comparing pack prices. The Advanced Muscle Plus guide flags the supplier's displayed serving for individual clinical review. Read the full current panel and warnings, including the serving basis and other ingredients, and discuss suitability with a clinician before use. The guide does not recommend adjusting the serving to work around the warning. Save this label-reading checklist and open the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nRead the vitamin d entry\n\nThe vitamin D entry deserves attention before comparing pack prices. The Advanced Muscle Plus guide flags the supplier's displayed serving for individual clinical review. Read the full current panel and warnings, including the serving basis and other ingredients, and discuss suitability with a clinician before use. The guide does not recommend adjusting the serving to work around the warning.\n\nRead the source-based buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-muscle-plus\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREAD THE VITAMIN D ENTRY\n\nThe vitamin D entry deserves attention before comparing pack prices. The Advanced Muscle Plus guide flags the supplier's displayed serving for individual clinical review. Read the full current panel and warnings, including the serving basis and other ingredients, and discuss suitability with a clinician before use. The guide does not recommend adjusting the serving to work around the warning.\n\nSave this checklist. Find “Advanced Muscle Plus” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-muscle-plus\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Advanced Muscle Plus. Headline: READ THE VITAMIN D ENTRY. Checklist: Full label; Serving basis; Suitability review. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-muscle-plus",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-muscle-plus",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-muscle-plus"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "published",
+          "url": "https://br.pinterest.com/pin/765471267964118798/"
+        },
+        "facebook": {
+          "status": "published_meta_confirmed",
+          "id": "122099966097532355",
+          "url": null
+        },
+        "instagram": {
+          "status": "published_verified_on_profile",
+          "url": "https://instagram.com/pokisky.guides/p/DfKFN6uluBO/"
+        },
+        "instagramStory": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagramHighlight": {
+          "status": "not_published",
+          "url": null
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "highlight": "Nutrition",
+          "groupStoryIds": [
+            "4020052259499980172",
+            "4020052194479837163",
+            "4020052134132248946",
+            "4020052075646847054"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_wmieawmieawmieaw.jpg",
+      "revisionReason": "Remove invented chemical diagrams, charts and decorative numerical data before publication.",
+      "geminiPromptRevisions": [
+        "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Burgundy and ivory with a restrained saffron accent; an oversized editorial pencil beside an abstract annotated reading sheet, strong serif typography, no medical symbols or athletes. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Advanced Muscle Plus'; headline 'READ THE VITAMIN D ENTRY'; checklist 'Full label', 'Serving basis', 'Suitability review'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+        "Generate ONE completely new finished 4:5 portrait editorial social poster for PokiSky. Burgundy, cream and restrained saffron. Typography-led composition with a single oversized wooden pencil beside ONE completely blank unmarked sheet of paper. No extra marks on the sheet. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Advanced Muscle Plus'; headline 'READ THE VITAMIN D ENTRY'; checklist 'Full label', 'Serving basis', 'Suitability review'; CTA 'Read the guide'; footer 'AI editorial illustration · Affiliate guide'. Generous safe margins, elegant serif headline and large clean supporting type. Absolutely NO charts, graphs, axes, bars, data, numbers, chemical structures, molecules, scientific diagrams, arrows, medical symbols, packaging, product photos, health claims, doses, ratings or prices. Only the exact specified words, pencil and blank paper. Generate the image now."
+      ]
+    },
+    {
+      "id": "advanced-mitochondrial-formula",
+      "name": "Advanced Mitochondrial Formula",
+      "sourceFile": "topics/wellness/longevity/advanced-mitochondrial-formula.html",
+      "sourceReviewDate": "2026-10-06",
+      "headline": "CHECK FOR INGREDIENT OVERLAP",
+      "checks": [
+        "Complete formula",
+        "Other supplements",
+        "Current warnings"
+      ],
+      "highlight": "Longevity",
+      "status": "published_all_networks_stories_and_highlight",
+      "imageFile": "images/04-advanced-mitochondrial-formula-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Olive, parchment and muted gold; overlapping translucent paper sheets creating a graceful layered still life, spacious typographic composition, soft raking light. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Advanced Mitochondrial Formula'; headline 'CHECK FOR INGREDIENT OVERLAP'; checklist 'Complete formula', 'Other supplements', 'Current warnings'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+      "pinterestTitle": "Advanced Mitochondrial Formula: check for ingredient overlap",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. CoQ10 is one part of the Advanced Mitochondrial Formula label. Our guide looks at the complete formula and serving definition. Compare it with the labels of supplements you already use, and discuss overlap and interactions with a qualified professional. Ingredient names alone do not establish energy or longevity outcomes. Save this label-reading checklist and open the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCheck for ingredient overlap\n\nCoQ10 is one part of the Advanced Mitochondrial Formula label. Our guide looks at the complete formula and serving definition. Compare it with the labels of supplements you already use, and discuss overlap and interactions with a qualified professional. Ingredient names alone do not establish energy or longevity outcomes.\n\nRead the source-based buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-mitochondrial-formula\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK FOR INGREDIENT OVERLAP\n\nCoQ10 is one part of the Advanced Mitochondrial Formula label. Our guide looks at the complete formula and serving definition. Compare it with the labels of supplements you already use, and discuss overlap and interactions with a qualified professional. Ingredient names alone do not establish energy or longevity outcomes.\n\nSave this checklist. Find “Advanced Mitochondrial Formula” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-mitochondrial-formula\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Advanced Mitochondrial Formula. Headline: CHECK FOR INGREDIENT OVERLAP. Checklist: Complete formula; Other supplements; Current warnings. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-mitochondrial-formula",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-mitochondrial-formula",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=advanced-mitochondrial-formula"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "published",
+          "url": "https://br.pinterest.com/pin/765471267964118801/"
+        },
+        "facebook": {
+          "status": "published_meta_confirmed",
+          "id": "122099966511532355",
+          "url": null
+        },
+        "instagram": {
+          "status": "published_verified_on_profile",
+          "url": "https://instagram.com/pokisky.guides/p/DfKFSKYFg7R/"
+        },
+        "instagramStory": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagramHighlight": {
+          "status": "not_published",
+          "url": null
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "highlight": "Longevity",
+          "groupStoryIds": [
+            "4020054205111758806"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_m59i9tm59i9tm59i.jpg"
+    },
+    {
+      "id": "integrative-digestive-formula",
+      "name": "Integrative Digestive Formula",
+      "sourceFile": "topics/wellness/gut-health/integrative-digestive-formula.html",
+      "sourceReviewDate": "2026-10-07",
+      "headline": "WHAT DOES THE LABEL LEAVE OPEN?",
+      "checks": [
+        "Blend totals",
+        "Individual amounts?",
+        "Enzyme activity?"
+      ],
+      "highlight": "Digestion",
+      "status": "published_all_networks_stories_and_highlight",
+      "imageFile": "images/05-integrative-digestive-formula-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Ivory, charcoal and burnt orange; three offset sculptural paper drawers with blank editorial tabs, a clean architectural still life, bold mobile-readable type. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Integrative Digestive Formula'; headline 'WHAT DOES THE LABEL LEAVE OPEN?'; checklist 'Blend totals', 'Individual amounts?', 'Enzyme activity?'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No charts, graphs, chemical formulas, scientific diagrams, data points or decorative numbers. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+      "pinterestTitle": "Integrative Digestive Formula: what does the label leave open",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. A blend total does not answer every comparison question. Our Integrative Digestive Formula guide distinguishes the disclosed blend totals from individual ingredient amounts and enzyme activity units that are not shown in the reviewed panel. Ask for missing details if they matter to your decision, then check the current purchase terms. Save this label-reading checklist and open the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nWhat does the label leave open?\n\nA blend total does not answer every comparison question. Our Integrative Digestive Formula guide distinguishes the disclosed blend totals from individual ingredient amounts and enzyme activity units that are not shown in the reviewed panel. Ask for missing details if they matter to your decision, then check the current purchase terms.\n\nRead the source-based buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=integrative-digestive-formula\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nWHAT DOES THE LABEL LEAVE OPEN?\n\nA blend total does not answer every comparison question. Our Integrative Digestive Formula guide distinguishes the disclosed blend totals from individual ingredient amounts and enzyme activity units that are not shown in the reviewed panel. Ask for missing details if they matter to your decision, then check the current purchase terms.\n\nSave this checklist. Find “Integrative Digestive Formula” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=integrative-digestive-formula\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Integrative Digestive Formula. Headline: WHAT DOES THE LABEL LEAVE OPEN?. Checklist: Blend totals; Individual amounts?; Enzyme activity?. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=integrative-digestive-formula",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=integrative-digestive-formula",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=integrative-digestive-formula"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "published",
+          "url": "https://br.pinterest.com/pin/765471267964118805/"
+        },
+        "facebook": {
+          "status": "published_meta_confirmed",
+          "id": "122099966835532355",
+          "url": null
+        },
+        "instagram": {
+          "status": "published_verified_on_profile",
+          "url": "https://instagram.com/pokisky.guides/p/DfKFXbkll7K/"
+        },
+        "instagramStory": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagramHighlight": {
+          "status": "not_published",
+          "url": null
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "highlight": "Digestion",
+          "groupStoryIds": [
+            "4020053420367221371"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_4x1or54x1or54x1o.jpg"
+    },
+    {
+      "id": "eznaturals-moringa",
+      "name": "EZNaturals Moringa",
+      "sourceFile": "topics/wellness/nutrition/eznaturals-moringa.html",
+      "sourceReviewDate": "2026-10-10",
+      "headline": "POWDER OR EXTRACT?",
+      "checks": [
+        "Separate label entries",
+        "Extract wording",
+        "Full warnings"
+      ],
+      "highlight": "Nutrition",
+      "status": "published_all_networks_stories_and_highlight",
+      "imageFile": "images/06-eznaturals-moringa-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Sage green and cream; sculptural folded-paper leaves beside two unlabelled comparison cards on a stone pedestal, botanical editorial context rather than an ingredient or product photograph. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'EZNaturals Moringa'; headline 'POWDER OR EXTRACT?'; checklist 'Separate label entries', 'Extract wording', 'Full warnings'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No charts, graphs, chemical formulas, scientific diagrams, data points or decorative numbers. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+      "pinterestTitle": "EZNaturals Moringa: powder or extract",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. Moringa leaf powder and moringa extracts are separate label entries. The EZNaturals Moringa guide explains what to compare in the supplier's powder and extract wording, serving definition and complete warnings. An extract ratio alone does not establish a health benefit or a personal dose. Save this label-reading checklist and open the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nPowder or extract?\n\nMoringa leaf powder and moringa extracts are separate label entries. The EZNaturals Moringa guide explains what to compare in the supplier's powder and extract wording, serving definition and complete warnings. An extract ratio alone does not establish a health benefit or a personal dose.\n\nRead the source-based buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=eznaturals-moringa\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nPOWDER OR EXTRACT?\n\nMoringa leaf powder and moringa extracts are separate label entries. The EZNaturals Moringa guide explains what to compare in the supplier's powder and extract wording, serving definition and complete warnings. An extract ratio alone does not establish a health benefit or a personal dose.\n\nSave this checklist. Find “EZNaturals Moringa” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=eznaturals-moringa\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for EZNaturals Moringa. Headline: POWDER OR EXTRACT?. Checklist: Separate label entries; Extract wording; Full warnings. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=eznaturals-moringa",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=eznaturals-moringa",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=eznaturals-moringa"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "published",
+          "url": "https://br.pinterest.com/pin/765471267964118810/"
+        },
+        "facebook": {
+          "status": "published_meta_confirmed",
+          "id": "122099967555532355",
+          "url": null
+        },
+        "instagram": {
+          "status": "published_verified_on_profile",
+          "url": "https://instagram.com/pokisky.guides/p/DfKFbCwFqkJ/"
+        },
+        "instagramStory": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagramHighlight": {
+          "status": "not_published",
+          "url": null
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "highlight": "Nutrition",
+          "groupStoryIds": [
+            "4020052259499980172",
+            "4020052194479837163",
+            "4020052134132248946",
+            "4020052075646847054"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_5rerfb5rerfb5rer.jpg"
+    },
+    {
+      "id": "pep-tonic",
+      "name": "Pep Tonic",
+      "sourceFile": "topics/wellness/nutrition/pep-tonic.html",
+      "sourceReviewDate": "2026-10-07",
+      "headline": "A SCOOP IS NOT THE WHOLE STORY",
+      "checks": [
+        "Serving definition",
+        "Fibre statement",
+        "Blend details"
+      ],
+      "highlight": "Nutrition",
+      "status": "published_all_networks_stories_and_highlight",
+      "imageFile": "images/07-pep-tonic-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Coral, slate blue and ivory; abstract paper fan and graceful measuring-inspired arc, premium tactile editorial composition, no powder or food photo, lively typography. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Pep Tonic'; headline 'A SCOOP IS NOT THE WHOLE STORY'; checklist 'Serving definition', 'Fibre statement', 'Blend details'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No charts, graphs, chemical formulas, scientific diagrams, data points or decorative numbers. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+      "pinterestTitle": "Pep Tonic: a scoop is not the whole story",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. Before comparing bags of Pep Tonic, read what the label says about one serving, dietary fibre and the ingredient blends. Our guide separates stated amounts from details not disclosed within the blends. The powder is a supplement, not a replacement for meals or whole fruit and vegetables. Save this label-reading checklist and open the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nA scoop is not the whole story\n\nBefore comparing bags of Pep Tonic, read what the label says about one serving, dietary fibre and the ingredient blends. Our guide separates stated amounts from details not disclosed within the blends. The powder is a supplement, not a replacement for meals or whole fruit and vegetables.\n\nRead the source-based buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=pep-tonic\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nA SCOOP IS NOT THE WHOLE STORY\n\nBefore comparing bags of Pep Tonic, read what the label says about one serving, dietary fibre and the ingredient blends. Our guide separates stated amounts from details not disclosed within the blends. The powder is a supplement, not a replacement for meals or whole fruit and vegetables.\n\nSave this checklist. Find “Pep Tonic” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=pep-tonic\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Pep Tonic. Headline: A SCOOP IS NOT THE WHOLE STORY. Checklist: Serving definition; Fibre statement; Blend details. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=pep-tonic",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=pep-tonic",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=pep-tonic"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "published",
+          "url": "https://br.pinterest.com/pin/765471267964118816/"
+        },
+        "facebook": {
+          "status": "published_meta_confirmed",
+          "id": "122099968353532355",
+          "url": null
+        },
+        "instagram": {
+          "status": "published_verified_on_profile",
+          "url": "https://instagram.com/pokisky.guides/p/DfKFg2QFjtH/"
+        },
+        "instagramStory": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagramHighlight": {
+          "status": "not_published",
+          "url": null
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "highlight": "Nutrition",
+          "groupStoryIds": [
+            "4020052259499980172",
+            "4020052194479837163",
+            "4020052134132248946",
+            "4020052075646847054"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_iyfmtfiyfmtfiyfm.jpg"
+    },
+    {
+      "id": "curcumitol-q",
+      "name": "Curcumitol-Q",
+      "sourceFile": "topics/wellness/nutrition/curcumitol-q.html",
+      "sourceReviewDate": "2026-10-07",
+      "headline": "PERCENTAGES NEED CONTEXT",
+      "checks": [
+        "Ingredient specification",
+        "Capsule contents",
+        "Complete label"
+      ],
+      "highlight": "Joints",
+      "status": "published_all_networks_stories_and_highlight",
+      "imageFile": "images/08-curcumitol-q-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Generate ONE finished premium 4:5 portrait social graphic for PokiSky. At least 1500 pixels tall if available. Saffron yellow, warm cream and charcoal; large curved paper segments and a blank editorial reading card, conceptual magazine still life, crisp shadows and strong type, no chart numbers or percentages. Sophisticated mobile-readable typography and generous safe margins. Exact English text only: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Curcumitol-Q'; headline 'PERCENTAGES NEED CONTEXT'; checklist 'Ingredient specification', 'Capsule contents', 'Complete label'; CTA 'Read the guide'; legible footer 'AI editorial illustration · Affiliate guide'. No charts, graphs, chemical formulas, scientific diagrams, data points or decorative numbers. No product bottles, tablets, packaging, official logos, anatomy, health outcomes, dosages, prices, ratings or endorsements. Conceptual editorial illustration, not a product photo. Render all text clearly within the canvas. Generate the image now.",
+      "pinterestTitle": "Curcumitol-Q: percentages need context",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Curcumitol-Q guide separates ingredient specifications from claims about a finished supplement. The curcuminoid proportions on the reviewed label describe the turmeric-root ingredient; they are not percentages of the whole capsule or measures of clinical effectiveness. Compare the full formula and current order terms. Save this label-reading checklist and open the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nPercentages need context\n\nThe Curcumitol-Q guide separates ingredient specifications from claims about a finished supplement. The curcuminoid proportions on the reviewed label describe the turmeric-root ingredient; they are not percentages of the whole capsule or measures of clinical effectiveness. Compare the full formula and current order terms.\n\nRead the source-based buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=curcumitol-q\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nPERCENTAGES NEED CONTEXT\n\nThe Curcumitol-Q guide separates ingredient specifications from claims about a finished supplement. The curcuminoid proportions on the reviewed label describe the turmeric-root ingredient; they are not percentages of the whole capsule or measures of clinical effectiveness. Compare the full formula and current order terms.\n\nSave this checklist. Find “Curcumitol-Q” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=curcumitol-q\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Curcumitol-Q. Headline: PERCENTAGES NEED CONTEXT. Checklist: Ingredient specification; Capsule contents; Complete label. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=curcumitol-q",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=curcumitol-q",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261031&utm_content=curcumitol-q"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "published",
+          "url": "https://br.pinterest.com/pin/765471267964118826/"
+        },
+        "facebook": {
+          "status": "published_meta_confirmed",
+          "id": "122099969187532355",
+          "url": null
+        },
+        "instagram": {
+          "status": "published_verified_on_profile",
+          "url": "https://instagram.com/pokisky.guides/p/DfKFlr_lv1n/"
+        },
+        "instagramStory": {
+          "status": "not_published",
+          "url": null
+        },
+        "instagramHighlight": {
+          "status": "not_published",
+          "url": null
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "highlight": "Joints",
+          "groupStoryIds": [
+            "4020054746262229765"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_us8u9dus8u9dus8u.jpg"
+    }
+  ],
+  "geminiConversation": "https://gemini.google.com/app/ab80b6b11b0035c4",
+  "storyGroups": [
+    {
+      "name": "Nutrition",
+      "postIds": [
+        "advanced-amino-formula",
+        "advanced-muscle-plus",
+        "eznaturals-moringa",
+        "pep-tonic"
+      ],
+      "storyIds": [
+        "4020052259499980172",
+        "4020052194479837163",
+        "4020052134132248946",
+        "4020052075646847054"
+      ],
+      "totalInHighlight": 9,
+      "status": "saved"
+    },
+    {
+      "name": "Brain",
+      "postIds": [
+        "advanced-memory-formula"
+      ],
+      "storyIds": [
+        "4020052798804372999"
+      ],
+      "totalInHighlight": 1,
+      "status": "saved"
+    },
+    {
+      "name": "Digestion",
+      "postIds": [
+        "integrative-digestive-formula"
+      ],
+      "storyIds": [
+        "4020053420367221371"
+      ],
+      "totalInHighlight": 1,
+      "status": "saved"
+    },
+    {
+      "name": "Longevity",
+      "postIds": [
+        "advanced-mitochondrial-formula"
+      ],
+      "storyIds": [
+        "4020054205111758806"
+      ],
+      "totalInHighlight": 4,
+      "status": "saved"
+    },
+    {
+      "name": "Joints",
+      "postIds": [
+        "curcumitol-q"
+      ],
+      "storyIds": [
+        "4020054746262229765"
+      ],
+      "totalInHighlight": 4,
+      "status": "saved"
+    }
+  ],
+  "highlights": [
+    {
+      "name": "Joints",
+      "url": "https://instagram.com/stories/highlights/18099737627429010/"
+    },
+    {
+      "name": "Longevity",
+      "url": "https://instagram.com/stories/highlights/18076840808743676/"
+    },
+    {
+      "name": "Digestion",
+      "url": "https://instagram.com/stories/highlights/18106038518269274/"
+    },
+    {
+      "name": "Brain",
+      "url": "https://instagram.com/stories/highlights/18135495877669528/"
+    },
+    {
+      "name": "Nutrition",
+      "url": "https://instagram.com/stories/highlights/17894119074616970/"
+    },
+    {
+      "name": "Collagen",
+      "url": "https://instagram.com/stories/highlights/17993191245081042/"
+    },
+    {
+      "name": "Vision",
+      "url": "https://instagram.com/stories/highlights/18003652280798335/"
+    },
+    {
+      "name": "Formulas",
+      "url": "https://instagram.com/stories/highlights/18128252122885523/"
+    },
+    {
+      "name": "Labels",
+      "url": "https://instagram.com/stories/highlights/18159764077513855/"
+    }
+  ]
+}

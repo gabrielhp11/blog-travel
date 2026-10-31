@@ -1,15 +1,15 @@
-# Entrega — 30/10/2026
+# Campanha de suplementos — 30/10/2026
 
-Cinco posts de suplementos preparados, cada um com arte e legendas para Pinterest, Facebook e Instagram. Nenhuma publicação realizada nesta campanha.
+Concluída: cinco posts no Facebook, cinco no Instagram e cinco Pins. Os cinco Stories foram publicados novamente após ativar o arquivamento, conforme solicitado, e salvos nos destaques Labels, Formulas, Vision, Collagen e Joints.
 
-Itens: AdaptoGen 4.0, CircO2, Advanced Vision Formula, Advanced Collagen Plus e Advanced Joint Support. Conteúdo em inglês, conforme o padrão dos perfis, baseado nos guias locais e suas datas de revisão. Não houve nova auditoria comercial ou clínica.
+- adaptogen-4: [Instagram](https://www.instagram.com/pokisky.guides/p/DfHultiDvXn/), [Pinterest](https://br.pinterest.com/pin/765471267964103960/); Facebook confirmado pela Meta, ID 122099145855532355.
+- circo2: [Instagram](https://www.instagram.com/pokisky.guides/p/DfHuwRfjh9g/), [Pinterest](https://br.pinterest.com/pin/765471267964103976/); Facebook confirmado pela Meta, ID 122099147625532355.
+- advanced-vision-formula: [Instagram](https://www.instagram.com/pokisky.guides/p/DfHu2NeDu6K/), [Pinterest](https://br.pinterest.com/pin/765471267964103989/); Facebook confirmado pela Meta, ID 122099148123532355.
+- collagen: [Instagram](https://www.instagram.com/pokisky.guides/p/DfHu-hfDhah/), [Pinterest](https://br.pinterest.com/pin/765471267964104003/); Facebook confirmado pela Meta, ID 122099149125532355.
+- advanced-joint-support: [Instagram](https://www.instagram.com/pokisky.guides/p/DfHv3YKDrLF/), [Pinterest](https://br.pinterest.com/pin/765471267964104017/); Facebook confirmado pela Meta, ID 122099154579532355.
 
-As três primeiras artes finais vieram da ferramenta integrada iniciada antes da preferência por Gemini. As duas últimas foram geradas e baixadas na interface Gemini, revisadas visualmente e salvas em images/. As duas alternativas anteriores estão em alternatives/ e não devem ser confundidas com as artes finais. Prompts e origem constam nos arquivos da campanha.
+As três primeiras artes vieram da ferramenta integrada antes da preferência por Gemini. As duas últimas foram geradas no Gemini e revisadas. As próximas oito artes de 31/10 foram todas feitas no Gemini.
 
-A primeira sessão Gemini sofreu uma interrupção por falha na validação da URL do navegador. Após o usuário abrir o Gemini e pedir para continuar, a criação e o download das duas artes restantes foram concluídos. Conversa final: https://gemini.google.com/app/818df827b4fac038
+Links, arquivos e comprovantes: `posts.json`, `evidence/` e `images/`. Não gerar permalinks do Facebook apenas pelo ID informado pela Meta.
 
-O fluxo reutilizável está em ../WORKFLOW.md e foi referenciado em AGENTS.md para consultas futuras. Inclui preparo, geração Gemini, publicação e verificação por rede.
-
-Para postar: usar os arquivos finais em posts.json, copiar as legendas dos CSVs ou de POSTS.md e verificar conta, destino e resultado em cada rede. Os registros publications continuam not_published até confirmação real.
-
-Validação: cinco guias de origem, cinco arquivos finais de arte, 15 legendas e 15 URLs conferidos. `node scripts/run-task.js check` passou, incluindo SEO, estrutura, imagens, comparações, sete testes de infraestrutura e três testes editoriais. O comando npm não estava no PATH; foi usado o executor Node documentado no projeto.
+A tarefa adicional dos 33 posts antigos está em `other-posts/plan.json`, separada desta campanha. O usuário reautorizou commit e push normal ao final. O fluxo persistente está em `../WORKFLOW.md`.

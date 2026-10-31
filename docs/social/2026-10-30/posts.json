@@ -2,7 +2,7 @@
   "campaign": "supplement_checks_20261030",
   "brand": "PokiSky",
   "language": "en",
-  "status": "prepared_not_published",
+  "status": "published_all_networks_stories_and_highlights",
   "createdDate": "2026-10-30",
   "geminiConversation": "https://gemini.google.com/app/818df827b4fac038",
   "posts": [
@@ -20,7 +20,7 @@
       "prompt": "Use case: ads-marketing. Create ONE finished premium 4:5 portrait social post for PokiSky Supplement Guides, suitable for Instagram and Facebook feed and a Pinterest Pin. Tactile forest green and warm cream editorial still life, sculptural unlabelled folded paper leaves on a stone plinth, brass detail. Elegant serif headline. Mobile-readable text, beautiful sophisticated art direction, generous safe margins, no dense copy, balanced hierarchy. Exact English text only: top brand 'PokiSky'; small category 'SUPPLEMENT BUYING GUIDE'; product name 'AdaptoGen 4.0'; bold main headline 'A BOTANICAL NAME IS ONLY THE START'; three separate readable short checklist lines 'Full formula', 'Declared amounts', 'Label warnings'; CTA 'Read the guide'; legible small footer 'AI editorial illustration · Affiliate guide'. No invented packaging, manufacturer logos, product photos, medicine, capsules, anatomical imagery, health outcomes, disease claims, dosage advice, endorsements, star ratings or prices. The artwork is conceptual editorial illustration only. Keep every text element fully inside the canvas. Output just one image.",
       "sourceFile": "topics/wellness/nutrition/adaptogen-4.html",
       "sourceReviewDate": "2026-10-26",
-      "status": "prepared_not_published",
+      "status": "published_all_three",
       "imageFile": "images/01-adaptogen-4.png",
       "imageGenerator": "OpenAI built-in image generation (started before Gemini preference)",
       "imageStatus": "reviewed",
@@ -36,16 +36,18 @@
       "altText": "AdaptoGen 4.0 editorial poster. Headline: A BOTANICAL NAME IS ONLY THE START. Checklist: Full formula; Declared amounts; Label warnings. PokiSky. Read the guide. AI editorial illustration; affiliate guide.",
       "publications": {
         "pinterest": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_profile",
+          "url": "https://br.pinterest.com/pin/765471267964103960/"
         },
         "facebook": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_meta_library",
+          "id": "122099145855532355",
+          "url": null,
+          "urlNote": "Meta ID confirmed; public permalink not captured."
         },
         "instagram": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_profile",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfHultiDvXn/"
         }
       }
     },
@@ -63,7 +65,7 @@
       "prompt": "Use case: ads-marketing. Create ONE finished premium 4:5 portrait social post for PokiSky Supplement Guides, suitable for Instagram and Facebook feed and a Pinterest Pin. Rich cobalt and pale blue, one large frosted glass shape casting a shadow over four smaller abstract paper discs, visually about a whole versus its parts; clean Swiss editorial typography. Not chemistry or product representation. Mobile-readable text, beautiful sophisticated art direction, generous safe margins, no dense copy, balanced hierarchy. Exact English text only: top brand 'PokiSky'; small category 'SUPPLEMENT BUYING GUIDE'; product name 'CircO2'; bold main headline 'WHAT DOES THE BLEND TOTAL TELL YOU?'; three separate readable short checklist lines 'Combined blend', 'Individual amounts?', 'Complete label'; CTA 'Read the guide'; legible small footer 'AI editorial illustration · Affiliate guide'. No invented packaging, manufacturer logos, product photos, medicine, capsules, anatomical imagery, health outcomes, disease claims, dosage advice, endorsements, star ratings or prices. The artwork is conceptual editorial illustration only. Keep every text element fully inside the canvas. Output just one image.",
       "sourceFile": "topics/wellness/longevity/circo2.html",
       "sourceReviewDate": "2026-10-06",
-      "status": "prepared_not_published",
+      "status": "published_all_three",
       "imageFile": "images/02-circo2.png",
       "imageGenerator": "OpenAI built-in image generation (started before Gemini preference)",
       "imageStatus": "reviewed",
@@ -79,16 +81,18 @@
       "altText": "CircO2 editorial poster. Headline: WHAT DOES THE BLEND TOTAL TELL YOU?. Checklist: Combined blend; Individual amounts?; Complete label. PokiSky. Read the guide. AI editorial illustration; affiliate guide.",
       "publications": {
         "pinterest": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_profile",
+          "url": "https://br.pinterest.com/pin/765471267964103976/"
         },
         "facebook": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_meta_library",
+          "id": "122099147625532355",
+          "url": null,
+          "urlNote": "Meta ID confirmed; public permalink not captured."
         },
         "instagram": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_profile",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfHuwRfjh9g/"
         }
       }
     },
@@ -106,7 +110,7 @@
       "prompt": "Use case: ads-marketing. Create ONE finished premium 4:5 portrait social post for PokiSky Supplement Guides, suitable for Instagram and Facebook feed and a Pinterest Pin. Deep plum, lavender and ivory, oversized typographic editorial poster with two overlapping blank translucent cards, dramatic soft light, refined geometric composition. No eye imagery. Mobile-readable text, beautiful sophisticated art direction, generous safe margins, no dense copy, balanced hierarchy. Exact English text only: top brand 'PokiSky'; small category 'SUPPLEMENT BUYING GUIDE'; product name 'Advanced Vision Formula'; bold main headline 'ONE TABLET OR ONE SERVING?'; three separate readable short checklist lines 'Serving definition', 'Amount per serving', 'Formula overlap'; CTA 'Read the guide'; legible small footer 'AI editorial illustration · Affiliate guide'. No invented packaging, manufacturer logos, product photos, medicine, capsules, anatomical imagery, health outcomes, disease claims, dosage advice, endorsements, star ratings or prices. The artwork is conceptual editorial illustration only. Keep every text element fully inside the canvas. Output just one image.",
       "sourceFile": "topics/wellness/vision-health/advanced-vision-formula.html",
       "sourceReviewDate": "2026-10-07",
-      "status": "prepared_not_published",
+      "status": "published_all_three",
       "imageFile": "images/03-advanced-vision-formula.png",
       "imageGenerator": "OpenAI built-in image generation (started before Gemini preference)",
       "imageStatus": "reviewed",
@@ -122,16 +126,18 @@
       "altText": "Advanced Vision Formula editorial poster. Headline: ONE TABLET OR ONE SERVING?. Checklist: Serving definition; Amount per serving; Formula overlap. PokiSky. Read the guide. AI editorial illustration; affiliate guide.",
       "publications": {
         "pinterest": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_profile",
+          "url": "https://br.pinterest.com/pin/765471267964103989/"
         },
         "facebook": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_meta_library",
+          "id": "122099148123532355",
+          "url": null,
+          "urlNote": "Meta ID confirmed; public permalink not captured."
         },
         "instagram": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_profile",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfHu2NeDu6K/"
         }
       }
     },
@@ -149,7 +155,7 @@
       "prompt": "Use case: ads-marketing. Create ONE finished premium 4:5 portrait social post for PokiSky Supplement Guides, suitable for Instagram and Facebook feed and a Pinterest Pin. Warm sand, terracotta and ivory, sculptural arrangement of four different textured paper ribbons flowing from a blank ivory reading card. Premium tactile magazine cover. No powder or food representation. Mobile-readable text, beautiful sophisticated art direction, generous safe margins, no dense copy, balanced hierarchy. Exact English text only: top brand 'PokiSky'; small category 'SUPPLEMENT BUYING GUIDE'; product name 'Advanced Collagen Plus'; bold main headline 'START WITH THE SOURCES'; three separate readable short checklist lines 'Source species', 'Allergen information', 'Complete formula'; CTA 'Read the guide'; legible small footer 'AI editorial illustration · Affiliate guide'. No invented packaging, manufacturer logos, product photos, medicine, capsules, anatomical imagery, health outcomes, disease claims, dosage advice, endorsements, star ratings or prices. The artwork is conceptual editorial illustration only. Keep every text element fully inside the canvas. Output just one image.",
       "sourceFile": "topics/wellness/longevity/collagen.html",
       "sourceReviewDate": "2026-10-05",
-      "status": "prepared_not_published",
+      "status": "published_all_three",
       "imageFile": "images/04-collagen-gemini.jpg",
       "imageGenerator": "Gemini web / individual generation",
       "imageStatus": "reviewed",
@@ -165,16 +171,18 @@
       "altText": "Advanced Collagen Plus editorial poster. Headline: START WITH THE SOURCES. Checklist: Source species; Allergen information; Complete formula. PokiSky. Read the guide. AI editorial illustration; affiliate guide.",
       "publications": {
         "pinterest": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_profile",
+          "url": "https://br.pinterest.com/pin/765471267964104003/"
         },
         "facebook": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_meta_library",
+          "id": "122099149125532355",
+          "url": null,
+          "urlNote": "Meta ID confirmed; public permalink not captured."
         },
         "instagram": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_profile",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfHu-hfDhah/"
         }
       }
     },
@@ -192,7 +200,7 @@
       "prompt": "Use case: ads-marketing. Create ONE finished premium 4:5 portrait social post for PokiSky Supplement Guides, suitable for Instagram and Facebook feed and a Pinterest Pin. Charcoal and vibrant lime, editorial still life of two unlabelled folded comparison sheets clipped together, one taller than the other, directional studio light. Sharp typography and spacious layout. No actual bottles. Mobile-readable text, beautiful sophisticated art direction, generous safe margins, no dense copy, balanced hierarchy. Exact English text only: top brand 'PokiSky'; small category 'SUPPLEMENT BUYING GUIDE'; product name 'Advanced Joint Support'; bold main headline 'CONFIRM THE BOTTLE VERSION'; three separate readable short checklist lines 'Pack quantity', 'Current label', 'Order details'; CTA 'Read the guide'; legible small footer 'AI editorial illustration · Affiliate guide'. No invented packaging, manufacturer logos, product photos, medicine, capsules, anatomical imagery, health outcomes, disease claims, dosage advice, endorsements, star ratings or prices. The artwork is conceptual editorial illustration only. Keep every text element fully inside the canvas. Output just one image.",
       "sourceFile": "topics/wellness/joint-health/advanced-joint-support.html",
       "sourceReviewDate": "2026-10-08",
-      "status": "prepared_not_published",
+      "status": "published_all_three",
       "imageFile": "images/05-advanced-joint-support-gemini.jpg",
       "imageGenerator": "Gemini web / individual generation",
       "imageStatus": "reviewed",
@@ -208,19 +216,50 @@
       "altText": "Advanced Joint Support editorial poster. Headline: CONFIRM THE BOTTLE VERSION. Checklist: Pack quantity; Current label; Order details. PokiSky. Read the guide. AI editorial illustration; affiliate guide.",
       "publications": {
         "pinterest": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_profile",
+          "url": "https://br.pinterest.com/pin/765471267964104017/"
         },
         "facebook": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_meta_library",
+          "id": "122099154579532355",
+          "url": null,
+          "urlNote": "Meta ID confirmed; public permalink not captured."
         },
         "instagram": {
-          "status": "not_published",
-          "url": null
+          "status": "published_verified_profile",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfHv3YKDrLF/"
         }
       }
     }
   ],
-  "notes": "Five posts and fifteen captions prepared. First three final artworks use the built-in tool started before the Gemini preference; last two final artworks were generated and downloaded in Gemini as requested. No social publication performed."
+  "notes": "Five posts and fifteen captions prepared. First three final artworks use the built-in tool started before the Gemini preference; last two final artworks were generated and downloaded in Gemini as requested. No social publication performed.",
+  "githubNote": "User reauthorized normal GitHub commit/push at completion.",
+  "stories": {
+    "status": "published_and_in_highlights",
+    "destination": "Instagram pokisky.guides",
+    "items": [
+      {
+        "id": "adaptogen-4",
+        "imageFile": "images/01-adaptogen-4.png"
+      },
+      {
+        "id": "circo2",
+        "imageFile": "images/02-circo2.png"
+      },
+      {
+        "id": "advanced-vision-formula",
+        "imageFile": "images/03-advanced-vision-formula.png"
+      },
+      {
+        "id": "collagen",
+        "imageFile": "images/04-collagen-gemini.jpg"
+      },
+      {
+        "id": "advanced-joint-support",
+        "imageFile": "images/05-advanced-joint-support-gemini.jpg"
+      }
+    ],
+    "highlightsRequested": true,
+    "highlightReceipts": "evidence/instagram-highlights-created.json"
+  }
 }

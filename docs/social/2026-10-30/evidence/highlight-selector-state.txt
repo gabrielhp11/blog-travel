@@ -1,0 +1,19 @@
+Browser tab: 540249059, Title: "Instagram", URL: "https://www.instagram.com/pokisky.guides/".
+1 AXWebArea Instagram, URL: instagram.com/pokisky.guides/
+	2 container
+		3 button Mensagens
+			4 container Mensagens
+				5 image Mensagens
+				6 text Mensagens
+		7 container
+			8 container Stories
+				9 container
+					10 button Voltar
+						11 image
+					12 heading Stories, Value: 2
+						13 text Stories
+					14 button Fechar
+						15 image Fechar
+					16 button (disabled) Avançar
+
+The focused UI element is 12 heading Stories, Value: 2

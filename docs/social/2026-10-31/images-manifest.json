@@ -1,0 +1,82 @@
+[
+  {
+    "id": "advanced-amino-formula",
+    "file": "images/01-advanced-amino-formula-gemini.jpg",
+    "bytes": 637300,
+    "sha256": "cf1c84664c416b2cf5d02fc586d673b59492da8c0030855db23024bb7261408b",
+    "generator": "Gemini",
+    "reviewed": true,
+    "width": 928,
+    "height": 1152
+  },
+  {
+    "id": "advanced-memory-formula",
+    "file": "images/02-advanced-memory-formula-gemini.jpg",
+    "bytes": 641195,
+    "sha256": "513a9ac32ffb583ece5384e70c2fa0aa08e9ccab840eaa80ed55f85bf41e60ab",
+    "generator": "Gemini",
+    "reviewed": true,
+    "width": 928,
+    "height": 1152
+  },
+  {
+    "id": "advanced-muscle-plus",
+    "file": "images/03-advanced-muscle-plus-gemini-v2.jpg",
+    "bytes": 665022,
+    "sha256": "3903e6104bbe0681b5b71ee0b0afbac4879bc199cbfb8db55205a2fb3203375e",
+    "generator": "Gemini",
+    "reviewed": true,
+    "width": 928,
+    "height": 1152
+  },
+  {
+    "id": "advanced-mitochondrial-formula",
+    "file": "images/04-advanced-mitochondrial-formula-gemini.jpg",
+    "bytes": 731730,
+    "sha256": "72a879ce2fe6e8a7f579749d072aa8c12b5ba888beaa25b3a14fd732e1dfe489",
+    "generator": "Gemini",
+    "reviewed": true,
+    "width": 928,
+    "height": 1152
+  },
+  {
+    "id": "integrative-digestive-formula",
+    "file": "images/05-integrative-digestive-formula-gemini.jpg",
+    "bytes": 669011,
+    "sha256": "fd256b577e94caaf009fd221aea2c072615d2973795105e00d80fe471197b146",
+    "generator": "Gemini",
+    "reviewed": true,
+    "width": 928,
+    "height": 1152
+  },
+  {
+    "id": "eznaturals-moringa",
+    "file": "images/06-eznaturals-moringa-gemini.jpg",
+    "bytes": 657531,
+    "sha256": "ec08a2da4d668a32cdc2a2a2b02bad3d635b8139b1386fa0b5944c79980cddef",
+    "generator": "Gemini",
+    "reviewed": true,
+    "width": 928,
+    "height": 1152
+  },
+  {
+    "id": "pep-tonic",
+    "file": "images/07-pep-tonic-gemini.jpg",
+    "bytes": 660292,
+    "sha256": "d5bf9c0676819c6fcaddd1909c52574d09b9b014aace40a88fcb582a5f6a7d40",
+    "generator": "Gemini",
+    "reviewed": true,
+    "width": 928,
+    "height": 1152
+  },
+  {
+    "id": "curcumitol-q",
+    "file": "images/08-curcumitol-q-gemini.jpg",
+    "bytes": 656416,
+    "sha256": "344b5965921f05821e09f60e46aec79b446e7c4758cf1a7198f8e02bb9ccd21e",
+    "generator": "Gemini",
+    "reviewed": true,
+    "width": 928,
+    "height": 1152
+  }
+]

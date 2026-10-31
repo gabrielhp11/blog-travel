@@ -1,0 +1,1229 @@
+Browser tab: 540249047, Title: "Meta Business Suite", URL: "https://business.facebook.com/latest/posts/published_posts/?business_id=1797870504751927&asset_id=1441439982376766".
+0 AXWebArea Meta Business Suite, URL: business.facebook.com/latest/posts/published_posts/?business_id=1797870504751927&asset_id=1441439982376766
+	1 container
+		2 container mount_0_0_dt
+			3 container
+				4 container
+					5 heading Conteúdo, Value: 1
+						6 text Conteúdo
+					7 text Programe, publique e gerencie posts, reels e stories e muito mais.
+					8 toolbar
+						9 container
+							10 button Exportar dados
+								11 image
+								12 text Exportar dados
+							13 pop up button (collapsed) Abrir opções de exportação ​, Secondary Actions: Expand
+								14 text Abrir opções de exportação
+								15 image
+						16 button Criar reel
+							17 image
+							18 text Criar reel
+						19 container
+							20 button Criar post
+								21 image
+								22 text Criar post
+							23 pop up button (collapsed) Criar post ​, Secondary Actions: Expand
+								24 text Criar post
+								25 image
+						26 button Tarefas
+							27 image
+							28 text Tarefas
+						29 button Facebook
+							30 container
+								31 image Facebook
+					32 container
+						33 container
+							34 container Conteúdo
+								35 container
+									36 image
+									37 text Conteúdo
+								38 content list
+									39 container
+										40 link Description: Posts e reels, Value: business.facebook.com/latest/posts/published_posts?business_id=1797870504751927&asset_id=1441439982376766
+										41 text Posts e reels
+									42 container
+										43 link Description: Stories, Value: business.facebook.com/latest/posts/active_stories?business_id=1797870504751927&asset_id=1441439982376766
+										44 text Stories
+									45 container
+										46 link Description: Testes A/B, Value: business.facebook.com/latest/posts/ab_testing?business_id=1797870504751927&asset_id=1441439982376766
+										47 text Testes A/B
+									48 container
+										49 link Description: Feed e grade, Value: business.facebook.com/latest/posts/feed_and_grid?business_id=1797870504751927&asset_id=1441439982376766
+										50 text Feed e grade
+									51 container
+										52 link Description: Menções e marcações, Value: business.facebook.com/latest/posts/tagged_content?business_id=1797870504751927&asset_id=1441439982376766
+										53 text Menções e marcações
+									54 container
+										55 link Description: Clipes, Value: business.facebook.com/latest/posts/all_clips?business_id=1797870504751927&asset_id=1441439982376766
+										56 text Clipes
+							57 container Coleções
+								58 container
+									59 image
+									60 text Coleções
+								61 content list
+									62 container
+										63 link Description: Playlists, Value: business.facebook.com/latest/posts/all_playlists?business_id=1797870504751927&asset_id=1441439982376766
+										64 text Playlists
+							65 container Peças publicitárias
+								66 container
+									67 image
+									68 text Peças publicitárias
+								69 content list
+									70 container
+										71 link Description: Vídeos para post cruzado, Value: business.facebook.com/latest/posts/videos_you_can_crosspost?business_id=1797870504751927&asset_id=1441439982376766
+										72 text Vídeos para post cruzado
+						73 button Expandir ​
+							74 text Expandir
+							75 image
+					76 image
+					77 heading O alcance do Facebook não estará mais disponível a partir de 31 de outubro de 2026, Value: 4
+						78 text O alcance do Facebook não estará mais disponível a partir de 31 de outubro de 2026
+					79 button Fechar ​
+						80 text Fechar
+						81 image
+					82 text "Visualizadores" é a métrica principal para entender quantas contas visualizaram seu conteúdo do Facebook.
+					83 container
+						84 tab group
+							85 tab (selected, settable, boolean) Description: Publicados, Value: 1
+							86 tab (selectable, settable, boolean) Description: Programados, Value: 0
+							87 tab (selectable, settable, boolean) Description: Rascunhos, Value: 0
+							88 tab (selectable, settable, boolean) Description: Quase expirando, Value: 0
+							89 pop up button Mais
+								90 image
+						91 text Filtrar
+						92 combo box (collapsed) Filtrar Filtrar, Value: Filtrar ​, ID: js_4u, Secondary Actions: Expand
+							93 container
+								94 text Filtrar
+								95 image
+						96 container js_1e
+							97 text Pesquisar por ID ou legenda
+						98 container
+							99 text field (settable) Pesquisar por ID ou legenda, ID: js_1d
+						100 image
+						101 button Últimos 90 dias
+							102 image
+							103 text Últimos 90 dias
+							104 image
+						105 button Colunas ​
+							106 text Colunas
+							107 image
+						108 table Posts publicados
+							109 row Selecionar tudo Título Data da publicação Status Alcance ​ Visualizações ​
+								110 cell
+									111 container
+										112 checkbox (settable, integer) Description: Selecionar tudo, Value: 0
+										113 image
+								114 cell
+									115 heading Título, Value: 4
+										116 text Título
+								117 cell
+									118 button Data da publicação
+										119 heading Data da publicação, Value: 4
+											120 text Data da publicação
+								121 cell
+									122 button Status
+										123 heading Status, Value: 4
+											124 text Status
+								125 cell
+									126 button Alcance ​
+										127 heading Alcance ​, Value: 4
+											128 text Alcance
+											129 image
+								130 cell
+									131 button Visualizações ​
+										132 heading Visualizações ​, Value: 4
+											133 text Visualizações
+											134 image
+								135 cell
+									136 button Visualizadores ​
+										137 heading Visualizadores ​, Value: 4
+											138 text Visualizadores
+											139 image
+								140 cell
+									141 button Seguidores ​
+										142 heading Seguidores ​, Value: 4
+											143 text Seguidores
+											144 image
+								145 cell
+									146 button Interações líquidas ​
+										147 heading Interações líquidas ​, Value: 4
+											148 text Interações líquidas
+											149 image
+								150 cell
+									151 button Curtidas e reações ​
+										152 heading Curtidas e reações ​, Value: 4
+											153 text Curtidas e reações
+											154 image
+								155 cell
+									156 button Comentários ​
+										157 heading Comentários ​, Value: 4
+											158 text Comentários
+											159 image
+								160 cell
+									161 button Compartilhamentos ​
+										162 heading Compartilhamentos ​, Value: 4
+											163 text Compartilhamentos
+											164 image
+								165 cell
+									166 button Salvamentos ​
+										167 heading Salvamentos ​, Value: 4
+											168 text Salvamentos
+											169 image
+								170 cell
+									171 button Cliques no link ​
+										172 heading Cliques no link ​, Value: 4
+											173 text Cliques no link
+											174 image
+								175 cell
+									176 button Tempo de visualização ​
+										177 heading Tempo de visualização ​, Value: 4
+											178 text Tempo de visualização
+											179 image
+								180 cell
+									181 button Tempo médio de reprodução do vídeo ​
+										182 heading Tempo médio de reprodução do vídeo ​, Value: 4
+											183 text Tempo médio de reprodução do vídeo
+											184 image
+								185 cell
+									186 button Visualizações de 3 segundos ​
+										187 heading Visualizações de 3 segundos ​, Value: 4
+											188 text Visualizações de 3 segundos
+											189 image
+								190 cell
+									191 button Ganhos aproximados com anúncios in-stream ​
+										192 heading Ganhos aproximados com anúncios in-stream ​, Value: 4
+											193 text Ganhos aproximados com anúncios in-stream
+											194 image
+							195 container
+								196 row Selecionar item com identificação 122099149125532355 Instagram Facebook Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. For a collagen powder, source information belongs near the top of the checklist. The seller describes Advanced Collagen Plus as a multi-source formula. Our guide helps you check: • The source species listed for the product. • The complete allergen and ingredient statements. • The serving information and current purchase terms. A mixing demonstration cannot establish purity or effectiveness. Read the guide, and confirm any dietary restrictions or allergy questions before ordering. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=collagen AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Sexta, 30 de outubro 10:53 Não turbinado no momento
+									197 cell
+										198 container
+											199 checkbox (settable, integer) Description: Selecionar item com identificação 122099149125532355, Value: 0
+											200 image
+									201 cell
+										202 container
+											203 container
+												204 image Instagram
+												205 image Facebook
+											206 text Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. For a collagen powder, source information belongs near the top of the checklist. The seller describes Advanced Collagen Plus as a multi-source formula. Our guide helps you check: • The source species listed for the product. • The complete allergen and ingredient statements. • The serving information and current purchase terms. A mixing demonstration cannot establish purity or effectiveness. Read the guide, and confirm any dietary restrictions or allergy questions before ordering. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=collagen AI editorial illustration; not product photography.
+											207 image
+											208 text Foto
+											209 image
+											210 text Post cruzado
+											211 image
+											212 text PokiSky Supplement Guides, pokisky.guides
+											213 button Turbinar
+												214 text Turbinar
+											215 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												216 text Abrir menu suspenso
+												217 image
+											218 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												219 text Abrir menu suspenso
+												220 image
+									221 cell
+										222 checkbox Sexta, 30 de outubro 10:53, Value: 0
+									223 cell
+										224 checkbox Não turbinado no momento, Value: 0
+											225 container Não turbinado no momento
+									226 cell
+										227 checkbox 0
+									228 cell
+										229 checkbox 0
+									230 cell
+										231 checkbox 0
+									232 cell
+										233 checkbox 0
+									234 cell
+										235 checkbox 0
+									236 cell
+										237 checkbox 0
+									238 cell
+										239 checkbox 0
+									240 cell
+										241 checkbox 0
+									242 cell
+										243 checkbox 0
+									244 cell
+										245 checkbox 0
+									246 cell
+										247 checkbox ‑‑, Value: 0
+									248 cell
+										249 checkbox ‑‑, Value: 0
+									250 cell
+										251 checkbox 0
+									252 cell
+										253 checkbox ‑‑, Value: 0
+								254 row Selecionar item com identificação 122099148123532355 Instagram Facebook Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. Before comparing a label amount, check what one serving means. Our Advanced Vision Formula guide explains the supplier's serving definition and complete formula. Keep these questions beside the label: • Is an amount per tablet or per label serving? • Which other ingredients and excipients are included? • What overlap with other supplements needs discussion with a qualified professional? The product does not replace prescribed eye care. Read the current label and order details before deciding. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-vision-formula AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Sexta, 30 de outubro 10:51 Não turbinado no momento
+									255 cell
+										256 container
+											257 checkbox (settable, integer) Description: Selecionar item com identificação 122099148123532355, Value: 0
+											258 image
+									259 cell
+										260 container
+											261 container
+												262 image Instagram
+												263 image Facebook
+											264 text Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. Before comparing a label amount, check what one serving means. Our Advanced Vision Formula guide explains the supplier's serving definition and complete formula. Keep these questions beside the label: • Is an amount per tablet or per label serving? • Which other ingredients and excipients are included? • What overlap with other supplements needs discussion with a qualified professional? The product does not replace prescribed eye care. Read the current label and order details before deciding. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=advanced-vision-formula AI editorial illustration; not product photography.
+											265 image
+											266 text Foto
+											267 image
+											268 text Post cruzado
+											269 image
+											270 text PokiSky Supplement Guides, pokisky.guides
+											271 button Turbinar
+												272 text Turbinar
+											273 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												274 text Abrir menu suspenso
+												275 image
+											276 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												277 text Abrir menu suspenso
+												278 image
+									279 cell
+										280 checkbox Sexta, 30 de outubro 10:51, Value: 0
+									281 cell
+										282 checkbox Não turbinado no momento, Value: 0
+											283 container Não turbinado no momento
+									284 cell
+										285 checkbox 0
+									286 cell
+										287 checkbox 0
+									288 cell
+										289 checkbox 0
+									290 cell
+										291 checkbox 0
+									292 cell
+										293 checkbox 0
+									294 cell
+										295 checkbox 0
+									296 cell
+										297 checkbox 0
+									298 cell
+										299 checkbox 0
+									300 cell
+										301 checkbox 0
+									302 cell
+										303 checkbox 0
+									304 cell
+										305 checkbox ‑‑, Value: 0
+									306 cell
+										307 checkbox ‑‑, Value: 0
+									308 cell
+										309 checkbox 0
+									310 cell
+										311 checkbox ‑‑, Value: 0
+								312 row Selecionar item com identificação 122099147625532355 Instagram Facebook Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. One combined blend total leaves a useful follow-up question: how much of each ingredient is disclosed? The CircO2 guide distinguishes the nutrients listed separately from ingredients grouped in a proprietary blend. Check: • The complete formula and other ingredients. • Which amounts are individual and which are combined. • The current delivery and return terms for your address. The blend name alone does not establish a circulation benefit. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=circo2 AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Sexta, 30 de outubro 10:51 Não turbinado no momento
+									313 cell
+										314 container
+											315 checkbox (settable, integer) Description: Selecionar item com identificação 122099147625532355, Value: 0
+											316 image
+									317 cell
+										318 container
+											319 container
+												320 image Instagram
+												321 image Facebook
+											322 text Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. One combined blend total leaves a useful follow-up question: how much of each ingredient is disclosed? The CircO2 guide distinguishes the nutrients listed separately from ingredients grouped in a proprietary blend. Check: • The complete formula and other ingredients. • Which amounts are individual and which are combined. • The current delivery and return terms for your address. The blend name alone does not establish a circulation benefit. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=circo2 AI editorial illustration; not product photography.
+											323 image
+											324 text Foto
+											325 image
+											326 text Post cruzado
+											327 image
+											328 text PokiSky Supplement Guides, pokisky.guides
+											329 button Turbinar
+												330 text Turbinar
+											331 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												332 text Abrir menu suspenso
+												333 image
+											334 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												335 text Abrir menu suspenso
+												336 image
+									337 cell
+										338 checkbox Sexta, 30 de outubro 10:51, Value: 0
+									339 cell
+										340 checkbox Não turbinado no momento, Value: 0
+											341 container Não turbinado no momento
+									342 cell
+										343 checkbox 0
+									344 cell
+										345 checkbox 0
+									346 cell
+										347 checkbox 0
+									348 cell
+										349 checkbox 0
+									350 cell
+										351 checkbox 0
+									352 cell
+										353 checkbox 0
+									354 cell
+										355 checkbox 0
+									356 cell
+										357 checkbox 0
+									358 cell
+										359 checkbox 0
+									360 cell
+										361 checkbox 0
+									362 cell
+										363 checkbox ‑‑, Value: 0
+									364 cell
+										365 checkbox ‑‑, Value: 0
+									366 cell
+										367 checkbox 0
+									368 cell
+										369 checkbox ‑‑, Value: 0
+								370 row Selecionar item com identificação 122099145855532355 Instagram Facebook Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. A familiar botanical name is only the start. The PokiSky AdaptoGen 4.0 guide walks through the supplier's declared formula and the questions behind a purchase: • Which ingredients and amounts are listed? • What warnings and possible allergens need attention? • Which conditions apply to the advertised refund? Read the complete current label and policy before choosing a pack. The guide does not establish results for the finished formula. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=adaptogen-4 AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Sexta, 30 de outubro 10:49 Não turbinado no momento
+									371 cell
+										372 container
+											373 checkbox (settable, integer) Description: Selecionar item com identificação 122099145855532355, Value: 0
+											374 image
+									375 cell
+										376 container
+											377 container
+												378 image Instagram
+												379 image Facebook
+											380 text Ad / affiliate disclosure: the linked PokiSky guide contains affiliate links. A familiar botanical name is only the start. The PokiSky AdaptoGen 4.0 guide walks through the supplier's declared formula and the questions behind a purchase: • Which ingredients and amounts are listed? • What warnings and possible allergens need attention? • Which conditions apply to the advertised refund? Read the complete current label and policy before choosing a pack. The guide does not establish results for the finished formula. Read the guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_checks_20261030&utm_content=adaptogen-4 AI editorial illustration; not product photography.
+											381 image
+											382 text Foto
+											383 image
+											384 text Post cruzado
+											385 image
+											386 text PokiSky Supplement Guides, pokisky.guides
+											387 button Turbinar
+												388 text Turbinar
+											389 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												390 text Abrir menu suspenso
+												391 image
+											392 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												393 text Abrir menu suspenso
+												394 image
+									395 cell
+										396 checkbox Sexta, 30 de outubro 10:49, Value: 0
+									397 cell
+										398 checkbox Não turbinado no momento, Value: 0
+											399 container Não turbinado no momento
+									400 cell
+										401 checkbox 0
+									402 cell
+										403 checkbox 0
+									404 cell
+										405 checkbox 0
+									406 cell
+										407 checkbox 0
+									408 cell
+										409 checkbox 0
+									410 cell
+										411 checkbox 0
+									412 cell
+										413 checkbox 0
+									414 cell
+										415 checkbox 0
+									416 cell
+										417 checkbox 0
+									418 cell
+										419 checkbox 0
+									420 cell
+										421 checkbox ‑‑, Value: 0
+									422 cell
+										423 checkbox ‑‑, Value: 0
+									424 cell
+										425 checkbox 0
+									426 cell
+										427 checkbox ‑‑, Value: 0
+								428 row Selecionar item com identificação 17965035486229416 Instagram Este post não tem texto Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:11 Não turbinado no momento 1 1 1 0 0
+									429 cell
+										430 container
+											431 checkbox (settable, integer) Description: Selecionar item com identificação 17965035486229416, Value: 0
+											432 image
+									433 cell
+										434 container
+											435 container
+												436 image Instagram
+											437 text Este post não tem texto
+											438 image
+											439 text Foto
+											440 image
+											441 text pokisky.guides
+											442 button Turbinar
+												443 text Turbinar
+											444 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												445 text Abrir menu suspenso
+												446 image
+									447 cell
+										448 checkbox Quinta, 29 de outubro 10:11, Value: 0
+									449 cell
+										450 checkbox Não turbinado no momento, Value: 0
+											451 container Não turbinado no momento
+									452 cell
+										453 checkbox 1, Value: 0
+									454 cell
+										455 checkbox 1, Value: 0
+									456 cell
+										457 checkbox 1, Value: 0
+									458 cell
+										459 checkbox 0
+									460 cell
+										461 checkbox 0
+									462 cell
+										463 checkbox 0
+									464 cell
+										465 checkbox 0
+									466 cell
+										467 checkbox 0
+									468 cell
+										469 checkbox 0
+									470 cell
+										471 checkbox ‑‑, Value: 0
+									472 cell
+										473 checkbox ‑‑, Value: 0
+									474 cell
+										475 checkbox ‑‑, Value: 0
+									476 cell
+										477 checkbox ‑‑, Value: 0
+									478 cell
+										479 checkbox ‑‑, Value: 0
+								480 row Selecionar item com identificação 18086725283706033 Instagram Este post não tem texto Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:10 Não turbinado no momento 1 1 1 0 0
+									481 cell
+										482 container
+											483 checkbox (settable, integer) Description: Selecionar item com identificação 18086725283706033, Value: 0
+											484 image
+									485 cell
+										486 container
+											487 container
+												488 image Instagram
+											489 text Este post não tem texto
+											490 image
+											491 text Foto
+											492 image
+											493 text pokisky.guides
+											494 button Turbinar
+												495 text Turbinar
+											496 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												497 text Abrir menu suspenso
+												498 image
+									499 cell
+										500 checkbox Quinta, 29 de outubro 10:10, Value: 0
+									501 cell
+										502 checkbox Não turbinado no momento, Value: 0
+											503 container Não turbinado no momento
+									504 cell
+										505 checkbox 1, Value: 0
+									506 cell
+										507 checkbox 1, Value: 0
+									508 cell
+										509 checkbox 1, Value: 0
+									510 cell
+										511 checkbox 0
+									512 cell
+										513 checkbox 0
+									514 cell
+										515 checkbox 0
+									516 cell
+										517 checkbox 0
+									518 cell
+										519 checkbox 0
+									520 cell
+										521 checkbox 0
+									522 cell
+										523 checkbox ‑‑, Value: 0
+									524 cell
+										525 checkbox ‑‑, Value: 0
+									526 cell
+										527 checkbox ‑‑, Value: 0
+									528 cell
+										529 checkbox ‑‑, Value: 0
+									530 cell
+										531 checkbox ‑‑, Value: 0
+								532 row Selecionar item com identificação 18099131489447017 Instagram Este post não tem texto Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:09 Não turbinado no momento ‑‑ 0 ‑‑ 0 0
+									533 cell
+										534 container
+											535 checkbox (settable, integer) Description: Selecionar item com identificação 18099131489447017, Value: 0
+											536 image
+									537 cell
+										538 container
+											539 container
+												540 image Instagram
+											541 text Este post não tem texto
+											542 image
+											543 text Foto
+											544 image
+											545 text pokisky.guides
+											546 button Turbinar
+												547 text Turbinar
+											548 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												549 text Abrir menu suspenso
+												550 image
+									551 cell
+										552 checkbox Quinta, 29 de outubro 10:09, Value: 0
+									553 cell
+										554 checkbox Não turbinado no momento, Value: 0
+											555 container Não turbinado no momento
+									556 cell
+										557 checkbox ‑‑, Value: 0
+									558 cell
+										559 checkbox 0
+									560 cell
+										561 checkbox ‑‑, Value: 0
+									562 cell
+										563 checkbox 0
+									564 cell
+										565 checkbox 0
+									566 cell
+										567 checkbox 0
+									568 cell
+										569 checkbox 0
+									570 cell
+										571 checkbox 0
+									572 cell
+										573 checkbox 0
+									574 cell
+										575 checkbox ‑‑, Value: 0
+									576 cell
+										577 checkbox ‑‑, Value: 0
+									578 cell
+										579 checkbox ‑‑, Value: 0
+									580 cell
+										581 checkbox ‑‑, Value: 0
+									582 cell
+										583 checkbox ‑‑, Value: 0
+								584 row Selecionar item com identificação 18125818426886866 Instagram SenFlo vs Integrative Digestive Formula: Different Digestive Proposals SenFlo Gummies and Integrative Digestive Formula use digestive marketing but have different ingredient types and missing-information limits. Compare purpose, serving evidence and delivery markets. Ad / affiliate links in the guide. AI editorial illustration. No personal product testing. Guide: https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=senflo-vs-integrative-digestive-formula Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:08 Não turbinado no momento ‑‑ 0 ‑‑ 0 0
+									585 cell
+										586 container
+											587 checkbox (settable, integer) Description: Selecionar item com identificação 18125818426886866, Value: 0
+											588 image
+									589 cell
+										590 container
+											591 container
+												592 image Instagram
+											593 text SenFlo vs Integrative Digestive Formula: Different Digestive Proposals SenFlo Gummies and Integrative Digestive Formula use digestive marketing but have different ingredient types and missing-information limits. Compare purpose, serving evidence and delivery markets. Ad / affiliate links in the guide. AI editorial illustration. No personal product testing. Guide: https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=senflo-vs-integrative-digestive-formula
+											594 image
+											595 text Foto
+											596 image
+											597 text pokisky.guides
+											598 button Turbinar
+												599 text Turbinar
+											600 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												601 text Abrir menu suspenso
+												602 image
+									603 cell
+										604 checkbox Quinta, 29 de outubro 10:08, Value: 0
+									605 cell
+										606 checkbox Não turbinado no momento, Value: 0
+											607 container Não turbinado no momento
+									608 cell
+										609 checkbox ‑‑, Value: 0
+									610 cell
+										611 checkbox 0
+									612 cell
+										613 checkbox ‑‑, Value: 0
+									614 cell
+										615 checkbox 0
+									616 cell
+										617 checkbox 0
+									618 cell
+										619 checkbox 0
+									620 cell
+										621 checkbox 0
+									622 cell
+										623 checkbox 0
+									624 cell
+										625 checkbox 0
+									626 cell
+										627 checkbox ‑‑, Value: 0
+									628 cell
+										629 checkbox ‑‑, Value: 0
+									630 cell
+										631 checkbox ‑‑, Value: 0
+									632 cell
+										633 checkbox ‑‑, Value: 0
+									634 cell
+										635 checkbox ‑‑, Value: 0
+								636 row Selecionar item com identificação 17881816086545849 Instagram BrainAMP vs Advanced Memory Formula: Ingredient & Serving Comparison Compare paraxanthine, Alpha-GPC form, named ingredients and disclosure limits. A cognition-themed product name does not prove a memory outcome. Ad / affiliate links in the guide. AI editorial illustration. No personal product testing. Guide: https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=brainamp-vs-advanced-memory-formula Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:07 Não turbinado no momento ‑‑ 0 ‑‑ 0 0
+									637 cell
+										638 container
+											639 checkbox (settable, integer) Description: Selecionar item com identificação 17881816086545849, Value: 0
+											640 image
+									641 cell
+										642 container
+											643 container
+												644 image Instagram
+											645 text BrainAMP vs Advanced Memory Formula: Ingredient & Serving Comparison Compare paraxanthine, Alpha-GPC form, named ingredients and disclosure limits. A cognition-themed product name does not prove a memory outcome. Ad / affiliate links in the guide. AI editorial illustration. No personal product testing. Guide: https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=brainamp-vs-advanced-memory-formula
+											646 image
+											647 text Foto
+											648 image
+											649 text pokisky.guides
+											650 button Turbinar
+												651 text Turbinar
+											652 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												653 text Abrir menu suspenso
+												654 image
+									655 cell
+										656 checkbox Quinta, 29 de outubro 10:07, Value: 0
+									657 cell
+										658 checkbox Não turbinado no momento, Value: 0
+											659 container Não turbinado no momento
+									660 cell
+										661 checkbox ‑‑, Value: 0
+									662 cell
+										663 checkbox 0
+									664 cell
+										665 checkbox ‑‑, Value: 0
+									666 cell
+										667 checkbox 0
+									668 cell
+										669 checkbox 0
+									670 cell
+										671 checkbox 0
+									672 cell
+										673 checkbox 0
+									674 cell
+										675 checkbox 0
+									676 cell
+										677 checkbox 0
+									678 cell
+										679 checkbox ‑‑, Value: 0
+									680 cell
+										681 checkbox ‑‑, Value: 0
+									682 cell
+										683 checkbox ‑‑, Value: 0
+									684 cell
+										685 checkbox ‑‑, Value: 0
+									686 cell
+										687 checkbox ‑‑, Value: 0
+								688 row Selecionar item com identificação 18636652468033122 Instagram Advanced Muscle Plus vs Advanced Amino Formula: Label Differences Advanced Muscle Plus and Advanced Amino Formula share muscle-support marketing but differ in vitamin D, HMB and amino-acid disclosure. Compare the labels before package prices. Ad / affiliate links in the guide. AI editorial illustration. No personal product testing. Guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=advanced-muscle-plus-vs-advanced-amino-formula Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:06 Não turbinado no momento ‑‑ 0 ‑‑ 0 0
+									689 cell
+										690 container
+											691 checkbox (settable, integer) Description: Selecionar item com identificação 18636652468033122, Value: 0
+											692 image
+									693 cell
+										694 container
+											695 container
+												696 image Instagram
+											697 text Advanced Muscle Plus vs Advanced Amino Formula: Label Differences Advanced Muscle Plus and Advanced Amino Formula share muscle-support marketing but differ in vitamin D, HMB and amino-acid disclosure. Compare the labels before package prices. Ad / affiliate links in the guide. AI editorial illustration. No personal product testing. Guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=advanced-muscle-plus-vs-advanced-amino-formula
+											698 image
+											699 text Foto
+											700 image
+											701 text pokisky.guides
+											702 button Turbinar
+												703 text Turbinar
+											704 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												705 text Abrir menu suspenso
+												706 image
+									707 cell
+										708 checkbox Quinta, 29 de outubro 10:06, Value: 0
+									709 cell
+										710 checkbox Não turbinado no momento, Value: 0
+											711 container Não turbinado no momento
+									712 cell
+										713 checkbox ‑‑, Value: 0
+									714 cell
+										715 checkbox 0
+									716 cell
+										717 checkbox ‑‑, Value: 0
+									718 cell
+										719 checkbox 0
+									720 cell
+										721 checkbox 0
+									722 cell
+										723 checkbox 0
+									724 cell
+										725 checkbox 0
+									726 cell
+										727 checkbox 0
+									728 cell
+										729 checkbox 0
+									730 cell
+										731 checkbox ‑‑, Value: 0
+									732 cell
+										733 checkbox ‑‑, Value: 0
+									734 cell
+										735 checkbox ‑‑, Value: 0
+									736 cell
+										737 checkbox ‑‑, Value: 0
+									738 cell
+										739 checkbox ‑‑, Value: 0
+								740 row Selecionar item com identificação 18160569793502828 Instagram MetaboSana vs. GlucoSana: Mengen und Warnhinweise MetaboSana und GlucoSana: gleiche Kapselzahl, unterschiedliche Nährstoffe und Warnhinweise. Vergleichen Sie Mengen, Grüntee-Angaben, Kurkuma und Bestellbedingungen. Werbung / Affiliate-Links in den Produktratgebern. KI-Illustration. Kein Produkttest. Guide: https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana-vs-glucosana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=metabosana-vs-glucosana Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:05 Não turbinado no momento ‑‑ 0 ‑‑ 0 0
+									741 cell
+										742 container
+											743 checkbox (settable, integer) Description: Selecionar item com identificação 18160569793502828, Value: 0
+											744 image
+									745 cell
+										746 container
+											747 container
+												748 image Instagram
+											749 text MetaboSana vs. GlucoSana: Mengen und Warnhinweise MetaboSana und GlucoSana: gleiche Kapselzahl, unterschiedliche Nährstoffe und Warnhinweise. Vergleichen Sie Mengen, Grüntee-Angaben, Kurkuma und Bestellbedingungen. Werbung / Affiliate-Links in den Produktratgebern. KI-Illustration. Kein Produkttest. Guide: https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana-vs-glucosana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=metabosana-vs-glucosana
+											750 image
+											751 text Foto
+											752 image
+											753 text pokisky.guides
+											754 button Turbinar
+												755 text Turbinar
+											756 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												757 text Abrir menu suspenso
+												758 image
+									759 cell
+										760 checkbox Quinta, 29 de outubro 10:05, Value: 0
+									761 cell
+										762 checkbox Não turbinado no momento, Value: 0
+											763 container Não turbinado no momento
+									764 cell
+										765 checkbox ‑‑, Value: 0
+									766 cell
+										767 checkbox 0
+									768 cell
+										769 checkbox ‑‑, Value: 0
+									770 cell
+										771 checkbox 0
+									772 cell
+										773 checkbox 0
+									774 cell
+										775 checkbox 0
+									776 cell
+										777 checkbox 0
+									778 cell
+										779 checkbox 0
+									780 cell
+										781 checkbox 0
+									782 cell
+										783 checkbox ‑‑, Value: 0
+									784 cell
+										785 checkbox ‑‑, Value: 0
+									786 cell
+										787 checkbox ‑‑, Value: 0
+									788 cell
+										789 checkbox ‑‑, Value: 0
+									790 cell
+										791 checkbox ‑‑, Value: 0
+								792 row Selecionar item com identificação 18152843767519797 Instagram SlimSana vs. KetoSana: Kapseln, Tropfen und Etiketten SlimSana und KetoSana im Vergleich: Kapseln oder Tropfen, deklarierte Mengen, offene Etikettenfragen und Gesamtkosten. Keine Empfehlung zum Abnehmen oder zur Kombination. Werbung / Affiliate-Links in den Produktratgebern. KI-Illustration. Kein Produkttest. Ratgeber-URL (im Browser öffnen): https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana-vs-ketosana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=slimsana-vs-ketosana Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:03 Não turbinado no momento ‑‑ 0 ‑‑ 0 0
+									793 cell
+										794 container
+											795 checkbox (settable, integer) Description: Selecionar item com identificação 18152843767519797, Value: 0
+											796 image
+									797 cell
+										798 container
+											799 container
+												800 image Instagram
+											801 text SlimSana vs. KetoSana: Kapseln, Tropfen und Etiketten SlimSana und KetoSana im Vergleich: Kapseln oder Tropfen, deklarierte Mengen, offene Etikettenfragen und Gesamtkosten. Keine Empfehlung zum Abnehmen oder zur Kombination. Werbung / Affiliate-Links in den Produktratgebern. KI-Illustration. Kein Produkttest. Ratgeber-URL (im Browser öffnen): https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana-vs-ketosana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=slimsana-vs-ketosana
+											802 image
+											803 text Foto
+											804 image
+											805 text pokisky.guides
+											806 button Turbinar
+												807 text Turbinar
+											808 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												809 text Abrir menu suspenso
+												810 image
+									811 cell
+										812 checkbox Quinta, 29 de outubro 10:03, Value: 0
+									813 cell
+										814 checkbox Não turbinado no momento, Value: 0
+											815 container Não turbinado no momento
+									816 cell
+										817 checkbox ‑‑, Value: 0
+									818 cell
+										819 checkbox 0
+									820 cell
+										821 checkbox ‑‑, Value: 0
+									822 cell
+										823 checkbox 0
+									824 cell
+										825 checkbox 0
+									826 cell
+										827 checkbox 0
+									828 cell
+										829 checkbox 0
+									830 cell
+										831 checkbox 0
+									832 cell
+										833 checkbox 0
+									834 cell
+										835 checkbox ‑‑, Value: 0
+									836 cell
+										837 checkbox ‑‑, Value: 0
+									838 cell
+										839 checkbox ‑‑, Value: 0
+									840 cell
+										841 checkbox ‑‑, Value: 0
+									842 cell
+										843 checkbox ‑‑, Value: 0
+								844 row Selecionar item com identificação 17992583709054816 Instagram Gluconite vs Elixolve Sleep Strips: Nighttime Label Comparison Gluconite and Elixolve Sleep Strips both use nighttime support marketing. Compare the available label, serving format, pack quantity and return conditions without assuming equivalent formulas. Ad / affiliate links in the product guides. AI editorial illustration. No personal product testing. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=gluconite-vs-elixolve-sleep-strips Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:01 Não turbinado no momento 1 1 1 0 0
+									845 cell
+										846 container
+											847 checkbox (settable, integer) Description: Selecionar item com identificação 17992583709054816, Value: 0
+											848 image
+									849 cell
+										850 container
+											851 container
+												852 image Instagram
+											853 text Gluconite vs Elixolve Sleep Strips: Nighttime Label Comparison Gluconite and Elixolve Sleep Strips both use nighttime support marketing. Compare the available label, serving format, pack quantity and return conditions without assuming equivalent formulas. Ad / affiliate links in the product guides. AI editorial illustration. No personal product testing. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=gluconite-vs-elixolve-sleep-strips
+											854 image
+											855 text Foto
+											856 image
+											857 text pokisky.guides
+											858 button Turbinar
+												859 text Turbinar
+											860 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												861 text Abrir menu suspenso
+												862 image
+									863 cell
+										864 checkbox Quinta, 29 de outubro 10:01, Value: 0
+									865 cell
+										866 checkbox Não turbinado no momento, Value: 0
+											867 container Não turbinado no momento
+									868 cell
+										869 checkbox 1, Value: 0
+									870 cell
+										871 checkbox 1, Value: 0
+									872 cell
+										873 checkbox 1, Value: 0
+									874 cell
+										875 checkbox 0
+									876 cell
+										877 checkbox 0
+									878 cell
+										879 checkbox 0
+									880 cell
+										881 checkbox 0
+									882 cell
+										883 checkbox 0
+									884 cell
+										885 checkbox 0
+									886 cell
+										887 checkbox ‑‑, Value: 0
+									888 cell
+										889 checkbox ‑‑, Value: 0
+									890 cell
+										891 checkbox ‑‑, Value: 0
+									892 cell
+										893 checkbox ‑‑, Value: 0
+									894 cell
+										895 checkbox ‑‑, Value: 0
+								896 row Selecionar item com identificação 18433134934196868 Instagram SLIN vs Insulin Herb Berberine: Serving & Formula Checks Compare SLIN and Insulin Herb Berberine by serving size, disclosed formula and US order commitment. See why a shared berberine name does not establish equivalent products. Ad / affiliate links in the product guides. AI editorial illustration. No personal product testing. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=slin-vs-insulin-herb-berberine Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 10:00 Não turbinado no momento ‑‑ 0 ‑‑ 0 0
+									897 cell
+										898 container
+											899 checkbox (settable, integer) Description: Selecionar item com identificação 18433134934196868, Value: 0
+											900 image
+									901 cell
+										902 container
+											903 container
+												904 image Instagram
+											905 text SLIN vs Insulin Herb Berberine: Serving & Formula Checks Compare SLIN and Insulin Herb Berberine by serving size, disclosed formula and US order commitment. See why a shared berberine name does not establish equivalent products. Ad / affiliate links in the product guides. AI editorial illustration. No personal product testing. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_comparisons_20261027&utm_content=slin-vs-insulin-herb-berberine
+											906 image
+											907 text Foto
+											908 image
+											909 text pokisky.guides
+											910 button Turbinar
+												911 text Turbinar
+											912 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												913 text Abrir menu suspenso
+												914 image
+									915 cell
+										916 checkbox Quinta, 29 de outubro 10:00, Value: 0
+									917 cell
+										918 checkbox Não turbinado no momento, Value: 0
+											919 container Não turbinado no momento
+									920 cell
+										921 checkbox ‑‑, Value: 0
+									922 cell
+										923 checkbox 0
+									924 cell
+										925 checkbox ‑‑, Value: 0
+									926 cell
+										927 checkbox 0
+									928 cell
+										929 checkbox 0
+									930 cell
+										931 checkbox 0
+									932 cell
+										933 checkbox 0
+									934 cell
+										935 checkbox 0
+									936 cell
+										937 checkbox 0
+									938 cell
+										939 checkbox ‑‑, Value: 0
+									940 cell
+										941 checkbox ‑‑, Value: 0
+									942 cell
+										943 checkbox ‑‑, Value: 0
+									944 cell
+										945 checkbox ‑‑, Value: 0
+									946 cell
+										947 checkbox ‑‑, Value: 0
+								948 row Selecionar item com identificação 17965092603207689 Instagram AdaptoGen 4.0: 60 Capsules, 30 or 60 Days? The AdaptoGen 4.0 label lists 60 capsules and a one-capsule serving. Compare the nine declared botanicals, pack-count arithmetic and conditions behind the refund guarantee. Quantity arithmetic is not dosage advice. Ad / affiliate links in the guide. AI editorial illustration. No health outcomes promised. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_guides_20261026&utm_content=adaptogen-4 Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 09:59 Não turbinado no momento ‑‑ 0 ‑‑ 0 0
+									949 cell
+										950 container
+											951 checkbox (settable, integer) Description: Selecionar item com identificação 17965092603207689, Value: 0
+											952 image
+									953 cell
+										954 container
+											955 container
+												956 image Instagram
+											957 text AdaptoGen 4.0: 60 Capsules, 30 or 60 Days? The AdaptoGen 4.0 label lists 60 capsules and a one-capsule serving. Compare the nine declared botanicals, pack-count arithmetic and conditions behind the refund guarantee. Quantity arithmetic is not dosage advice. Ad / affiliate links in the guide. AI editorial illustration. No health outcomes promised. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_guides_20261026&utm_content=adaptogen-4
+											958 image
+											959 text Foto
+											960 image
+											961 text pokisky.guides
+											962 button Turbinar
+												963 text Turbinar
+											964 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												965 text Abrir menu suspenso
+												966 image
+									967 cell
+										968 checkbox Quinta, 29 de outubro 09:59, Value: 0
+									969 cell
+										970 checkbox Não turbinado no momento, Value: 0
+											971 container Não turbinado no momento
+									972 cell
+										973 checkbox ‑‑, Value: 0
+									974 cell
+										975 checkbox 0
+									976 cell
+										977 checkbox ‑‑, Value: 0
+									978 cell
+										979 checkbox 0
+									980 cell
+										981 checkbox 0
+									982 cell
+										983 checkbox 0
+									984 cell
+										985 checkbox 0
+									986 cell
+										987 checkbox 0
+									988 cell
+										989 checkbox 0
+									990 cell
+										991 checkbox ‑‑, Value: 0
+									992 cell
+										993 checkbox ‑‑, Value: 0
+									994 cell
+										995 checkbox ‑‑, Value: 0
+									996 cell
+										997 checkbox ‑‑, Value: 0
+									998 cell
+										999 checkbox ‑‑, Value: 0
+								1000 row Selecionar item com identificação 17932196640165604 Instagram SenFlo Gummies: Read the Senna Warnings First A bottle count is not a senna-use recommendation. Our SenFlo guide explains the missing quantitative label, occasional-use questions and the shipping charge observed at checkout. Ask for the full current panel before buying. Ad / affiliate links in the guide. AI editorial illustration. No health outcomes promised. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_guides_20261026&utm_content=senflo-gummies Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 09:58 Não turbinado no momento 1 1 1 0 0
+									1001 cell
+										1002 container
+											1003 checkbox (settable, integer) Description: Selecionar item com identificação 17932196640165604, Value: 0
+											1004 image
+									1005 cell
+										1006 container
+											1007 container
+												1008 image Instagram
+											1009 text SenFlo Gummies: Read the Senna Warnings First A bottle count is not a senna-use recommendation. Our SenFlo guide explains the missing quantitative label, occasional-use questions and the shipping charge observed at checkout. Ask for the full current panel before buying. Ad / affiliate links in the guide. AI editorial illustration. No health outcomes promised. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_guides_20261026&utm_content=senflo-gummies
+											1010 image
+											1011 text Foto
+											1012 image
+											1013 text pokisky.guides
+											1014 button Turbinar
+												1015 text Turbinar
+											1016 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												1017 text Abrir menu suspenso
+												1018 image
+									1019 cell
+										1020 checkbox Quinta, 29 de outubro 09:58, Value: 0
+									1021 cell
+										1022 checkbox Não turbinado no momento, Value: 0
+											1023 container Não turbinado no momento
+									1024 cell
+										1025 checkbox 1, Value: 0
+									1026 cell
+										1027 checkbox 1, Value: 0
+									1028 cell
+										1029 checkbox 1, Value: 0
+									1030 cell
+										1031 checkbox 0
+									1032 cell
+										1033 checkbox 0
+									1034 cell
+										1035 checkbox 0
+									1036 cell
+										1037 checkbox 0
+									1038 cell
+										1039 checkbox 0
+									1040 cell
+										1041 checkbox 0
+									1042 cell
+										1043 checkbox ‑‑, Value: 0
+									1044 cell
+										1045 checkbox ‑‑, Value: 0
+									1046 cell
+										1047 checkbox ‑‑, Value: 0
+									1048 cell
+										1049 checkbox ‑‑, Value: 0
+									1050 cell
+										1051 checkbox ‑‑, Value: 0
+								1052 row Selecionar item com identificação 18123566137938149 Instagram Yara Hair Vitamins: Check the Monthly Billing Cycle The Yara affiliate checkout reviewed opens a US$37 monthly subscription. Read the nutrient label, 409 mg combined proprietary blend and conflicting return instructions before deciding. The guide explains what to confirm about recurring billing. Ad / affiliate links in the guide. AI editorial illustration. No health outcomes promised. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_guides_20261026&utm_content=yara-hair-vitamins Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 09:57 Não turbinado no momento ‑‑ 0 ‑‑ 0 0
+									1053 cell
+										1054 container
+											1055 checkbox (settable, integer) Description: Selecionar item com identificação 18123566137938149, Value: 0
+											1056 image
+									1057 cell
+										1058 container
+											1059 container
+												1060 image Instagram
+											1061 text Yara Hair Vitamins: Check the Monthly Billing Cycle The Yara affiliate checkout reviewed opens a US$37 monthly subscription. Read the nutrient label, 409 mg combined proprietary blend and conflicting return instructions before deciding. The guide explains what to confirm about recurring billing. Ad / affiliate links in the guide. AI editorial illustration. No health outcomes promised. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_guides_20261026&utm_content=yara-hair-vitamins
+											1062 image
+											1063 text Foto
+											1064 image
+											1065 text pokisky.guides
+											1066 button Turbinar
+												1067 text Turbinar
+											1068 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												1069 text Abrir menu suspenso
+												1070 image
+									1071 cell
+										1072 checkbox Quinta, 29 de outubro 09:57, Value: 0
+									1073 cell
+										1074 checkbox Não turbinado no momento, Value: 0
+											1075 container Não turbinado no momento
+									1076 cell
+										1077 checkbox ‑‑, Value: 0
+									1078 cell
+										1079 checkbox 0
+									1080 cell
+										1081 checkbox ‑‑, Value: 0
+									1082 cell
+										1083 checkbox 0
+									1084 cell
+										1085 checkbox 0
+									1086 cell
+										1087 checkbox 0
+									1088 cell
+										1089 checkbox 0
+									1090 cell
+										1091 checkbox 0
+									1092 cell
+										1093 checkbox 0
+									1094 cell
+										1095 checkbox ‑‑, Value: 0
+									1096 cell
+										1097 checkbox ‑‑, Value: 0
+									1098 cell
+										1099 checkbox ‑‑, Value: 0
+									1100 cell
+										1101 checkbox ‑‑, Value: 0
+									1102 cell
+										1103 checkbox ‑‑, Value: 0
+								1104 row Selecionar item com identificação 18143971018579262 Instagram SLIN: Compare the Label and the Six-Bottle Order The current SLIN manufacturer formula and six-bottle affiliate checkout describe ingredients differently. Compare the exact label, four-capsule serving and full order cost in the PokiSky US buying guide. Ad / affiliate links in the guide. AI editorial illustration. No health outcomes promised. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_guides_20261026&utm_content=slin Foto pokisky.guides Turbinar Abrir menu suspenso ​ Quinta, 29 de outubro 09:56 Não turbinado no momento 1 1 1 0 0
+									1105 cell
+										1106 container
+											1107 checkbox (settable, integer) Description: Selecionar item com identificação 18143971018579262, Value: 0
+											1108 image
+									1109 cell
+										1110 container
+											1111 container
+												1112 image Instagram
+											1113 text SLIN: Compare the Label and the Six-Bottle Order The current SLIN manufacturer formula and six-bottle affiliate checkout describe ingredients differently. Compare the exact label, four-capsule serving and full order cost in the PokiSky US buying guide. Ad / affiliate links in the guide. AI editorial illustration. No health outcomes promised. Guide URL (copy into your browser): https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_guides_20261026&utm_content=slin
+											1114 image
+											1115 text Foto
+											1116 image
+											1117 text pokisky.guides
+											1118 button Turbinar
+												1119 text Turbinar
+											1120 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												1121 text Abrir menu suspenso
+												1122 image
+									1123 cell
+										1124 checkbox Quinta, 29 de outubro 09:56, Value: 0
+									1125 cell
+										1126 checkbox Não turbinado no momento, Value: 0
+											1127 container Não turbinado no momento
+									1128 cell
+										1129 checkbox 1, Value: 0
+									1130 cell
+										1131 checkbox 1, Value: 0
+									1132 cell
+										1133 checkbox 1, Value: 0
+									1134 cell
+										1135 checkbox 0
+									1136 cell
+										1137 checkbox 0
+									1138 cell
+										1139 checkbox 0
+									1140 cell
+										1141 checkbox 0
+									1142 cell
+										1143 checkbox 0
+									1144 cell
+										1145 checkbox 0
+									1146 cell
+										1147 checkbox ‑‑, Value: 0
+									1148 cell
+										1149 checkbox ‑‑, Value: 0
+									1150 cell
+										1151 checkbox ‑‑, Value: 0
+									1152 cell
+										1153 checkbox ‑‑, Value: 0
+									1154 cell
+										1155 checkbox ‑‑, Value: 0
+				1156 button Assistente da Meta AI para empresas
+				1157 container
+					1158 button Meta Business Suite
+						1159 text Meta Business Suite
+					1160 button Pressable
+						1161 container
+							1162 image Instagram
+							1163 image Facebook
+					1164 container Links
+						1165 text Links
+						1166 content list
+							1167 container
+								1168 link Description: Página inicial, Value: business.facebook.com/latest/home?business_id=1797870504751927&asset_id=1441439982376766
+								1169 text Página inicial
+							1170 container
+								1171 link Notificações
+									1172 text Notificações
+								1173 text Notificações
+							1174 container
+								1175 link Gerenciador de Anúncios
+									1176 text Gerenciador de Anúncios
+								1177 text Gerenciador de Anúncios
+							1178 container
+								1179 link Description: Caixa de Entrada, Value: business.facebook.com/latest/inbox?business_id=1797870504751927&asset_id=1441439982376766
+								1180 text Caixa de Entrada
+							1181 container
+								1182 link Description: Conteúdo, Value: business.facebook.com/latest/posts?business_id=1797870504751927&asset_id=1441439982376766
+								1183 text Conteúdo
+							1184 container Links
+								1185 text Links
+								1186 content list
+									1187 container
+										1188 container
+											1189 link Description: Central de Leads, Value: business.facebook.com/latest/leads_center?business_id=1797870504751927&asset_id=1441439982376766
+											1190 text Central de Leads
+										1191 container
+											1192 link Description: Planner, Value: business.facebook.com/latest/content_calendar?business_id=1797870504751927&asset_id=1441439982376766
+											1193 text Planner
+										1194 container
+											1195 link Description: Anúncios, Value: business.facebook.com/latest/ad_center/ads_summary?business_id=1797870504751927&asset_id=1441439982376766
+											1196 text Anúncios
+							1197 container
+								1198 link Description: Cobrança e pagamentos, Value: business.facebook.com/billing_hub/?business_id=1797870504751927&placement=mbs_all_tools_menu
+								1199 text Cobrança e pagamentos
+							1200 container
+								1201 link Description: Públicos, Value: business.facebook.com/ads/manager/audiences/?business_id=1797870504751927&nav_source=business_manager
+								1202 text Públicos
+							1203 container
+								1204 link Description: Gerenciador de Eventos, Value: business.facebook.com/events_manager2/?business_id=1797870504751927&global_scope_id=1797870504751927&nav_source=biz_nav
+								1205 text Gerenciador de Eventos
+							1206 container
+								1207 link Todas as ferramentas
+									1208 text Todas as ferramentas
+								1209 text Todas as ferramentas
+					1210 container
+						1211 link Pesquisar
+							1212 text Pesquisar
+						1213 text Pesquisar
+						1214 image
+					1215 container Links
+						1216 text Links
+						1217 content list
+							1218 container
+								1219 link Description: Configurações, Value: business.facebook.com/latest/settings/business_overview?business_id=1797870504751927&asset_id=1441439982376766
+								1220 text Configurações
+					1221 container
+						1222 link Ajuda
+							1223 text Ajuda
+						1224 text Ajuda
+						1225 image
+
+The focused UI element is 0 AXWebArea Meta Business Suite, URL: business.facebook.com/latest/posts/published_posts/?business_id=1797870504751927&asset_id=1441439982376766

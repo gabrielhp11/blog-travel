@@ -15,7 +15,7 @@ Atualizado em 30/10/2026 a pedido do usuário para servir de memória das próxi
 ## Preparar a campanha
 
 1. Ler `AGENTS.md`, este fluxo, o último `posts.json` e os guias do blog. Checar os posts já publicados para evitar duplicação de arte, título e enfoque.
-2. Selecionar cinco itens ou cinco novos enfoques sobre suplementos. Cada um precisa de uma pergunta concreta e um guia existente, sem inventar teste pessoal, preço atual, resultado de saúde ou benefício clínico.
+2. Selecionar a quantidade de itens ou novos enfoques solicitada pelo usuário. Cada um precisa de uma pergunta concreta e um guia existente, sem inventar teste pessoal, preço atual, resultado de saúde ou benefício clínico.
 3. Criar `docs/social/AAAA-MM-DD/` com `posts.json`, `POSTS.md`, três CSVs, prompts, `images/`, manifesto e evidências quando houver publicação. Não sobrescrever campanhas anteriores.
 4. Preparar legendas específicas para Pinterest, Facebook e Instagram. Incluir divulgação de afiliados no início e identificação de ilustração editorial por IA. Direcionar ao guia do blog, não diretamente ao checkout.
 5. Usar URLs públicas sem `.html` com `utm_source` de cada rede, `utm_medium=organic_social`, campanha e identificador do post. Não atribuir a hoje uma revisão de fornecedor que não foi feita.
@@ -60,3 +60,34 @@ Atualizado em 30/10/2026 a pedido do usuário para servir de memória das próxi
 - Preservar a sessão do usuário e abas pessoais. Não salvar senhas, códigos ou dados de autenticação nos documentos.
 - Validar os arquivos afetados, criar commit e fazer push normal para `origin`, conforme a autorização permanente do projeto. Não usar force-push.
 - Ao retomar uma campanha, ler seu `DELIVERY.md` e `posts.json` para continuar do ponto exato.
+
+## Retomada da campanha de 30/10/2026
+
+Os cinco posts de 30/10 foram publicados nas três redes e seus cinco destaques foram criados. O usuário posteriormente reautorizou envio ao GitHub ao final do trabalho. Consultar `2026-10-30/posts.json` e as evidências para os links e IDs; o texto histórico inicial de `DELIVERY.md` contém etapas anteriores e não representa o estado final. O trabalho adicional com 33 posts existentes tem controle separado em `2026-10-30/other-posts/plan.json` e `story-group-receipts.json`; não tratá-lo como concluído quando ainda houver itens preparados ou apenas submetidos.
+
+## Stories e destaques pela Meta — fluxo verificado
+
+1. No Instagram, a opção **Salvar story em Itens Arquivados** estava desligada e foi ativada em 30/10. Conferir seu estado antes de novas campanhas; o arquivamento permite preservar os Stories.
+2. Na Meta Business Suite da PokiSky, abrir Conteúdo → Stories → Criar story. A conta usa `business_id=1797870504751927` e `asset_id=1441439982376766`; confirmar a identidade na interface.
+3. Para pedidos de Stories do Instagram, desmarcar Facebook em Compartilhar em e manter somente `pokisky.guides`. Enviar até dez imagens por lote. A prévia acomoda a arte completa com fundo no formato do Story; conferir que os textos não foram cortados.
+4. A ordem de finalização do upload pode diferir da ordem dos arquivos. Não associar IDs a imagens apenas pela posição de upload. Publicar em grupos por assunto ou identificar as miniaturas na seleção de destaques.
+5. Esperar **Seu story foi publicado** e conferir a lista de Stories ativos. `Adicionar link` ficou indisponível para Instagram nesta interface; não afirmar que há um link clicável no Story.
+6. Na mesma página, a seção **Destaques do Instagram** oferece **Novo** e os destaques existentes. Essa ferramenta permite selecionar Stories ativos, mesmo quando o seletor de destaques do Instagram web aparece vazio.
+7. Localizar o botão cujo conteúdo é **Novo**, em vez de usar o primeiro botão com nome genérico **Abrir a célula de destaques do Instagram**. Os índices e a ordem podem mudar após carregar ou salvar.
+8. Criar ou editar o destaque, selecionar as miniaturas corretas e conferir a contagem de Stories selecionados. Usar títulos curtos, em inglês, com até 16 caracteres, e preservar os Stories já selecionados ao acrescentar outros.
+9. Conferir a criação/edição na Meta e os links dos destaques no perfil público. Registrar IDs de Stories, nome, URL do destaque e evidência. Não repetir lotes já publicados para contornar uma demora de carregamento.
+
+## Campanha de 31/10/2026
+
+O usuário solicitou oito novos posts de suplementos nas três redes, com imagens geradas no Gemini, publicação nos Stories e salvamento nos destaques. O controle é `2026-10-31/posts.json`. Gerar e revisar as oito imagens antes de publicar. Manter o fluxo normal de validação e envio ao GitHub ao concluir.
+
+
+Status verificado em 31/10: campanha dos oito suplementos concluída nas três redes, Stories e cinco destaques de assunto. Links, IDs e evidências em `2026-10-31/DELIVERY.md` e `posts.json`. O destaque Nutrition foi criado com cinco Stories antigos e recebeu os quatro novos (total 9). Brain e Digestion foram criados; Joints e Longevity preservaram os anteriores.
+
+Se o aviso “Seu story foi publicado” desaparecer, conferir os novos IDs na biblioteca de destaques antes de reenviar. Lotes com várias imagens podem continuar processando uma imagem após as demais; exigir que a diferença de IDs corresponda à quantidade do lote.
+
+
+Organização de destaques: Nutrition (aminoácidos, moringa e Pep Tonic), Brain, Digestion, Longevity, Joints, Metabolic, Sleep, Hair, Mens Health e Collagen. Preservar também os destaques Labels, Formulas e Vision. A tarefa dos posts antigos usa as artes originais do próprio feed; a preferência Gemini se aplica às novas artes solicitadas.
+
+
+Conclusão em 31/10: os 33 posts existentes também foram publicados como Stories e salvos nos destaques por tema. A fila de `2026-10-30/other-posts/plan.json` está integralmente `published_and_in_highlight`; consultar os recibos antes de repetir qualquer publicação. Somando os 5 posts de 30/10, os 33 anteriores e os 8 novos, os destaques reúnem 46 artes.

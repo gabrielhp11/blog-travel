@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Labels",
+    "postId": "adaptogen-4",
+    "storyId": "4019400352671436579",
+    "status": "created_meta_verified"
+  },
+  {
+    "name": "Formulas",
+    "postId": "circo2",
+    "storyId": "4019400431767454208",
+    "status": "created_meta_verified"
+  },
+  {
+    "name": "Vision",
+    "postId": "advanced-vision-formula",
+    "storyId": "4019400290923273671",
+    "status": "created_meta_verified"
+  },
+  {
+    "name": "Collagen",
+    "postId": "collagen",
+    "storyId": "4019400158685535670",
+    "status": "created_meta_verified"
+  },
+  {
+    "name": "Joints",
+    "postId": "advanced-joint-support",
+    "storyId": "4019400235079793329",
+    "status": "created_meta_verified"
+  }
+]

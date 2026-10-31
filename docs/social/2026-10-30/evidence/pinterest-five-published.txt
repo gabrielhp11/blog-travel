@@ -1,0 +1,560 @@
+Browser tab: 540249052, Title: "Pinterest", URL: "https://br.pinterest.com/gabrielhenriquep123/".
+1 AXWebArea Pinterest, URL: br.pinterest.com/gabrielhenriquep123/
+	2 container
+		3 container
+			4 link Description: Pular para o conteúdo, Value: br.pinterest.com/gabrielhenriquep123/
+			5 container HeaderContent
+				6 container Cabeçalho de navegação principal
+					7 button Pinterest Pinterest Botão do menu suspenso de selos dinâmicos
+						8 image Pinterest
+						9 heading Pinterest, Value: 1
+							10 text Pinterest
+						11 image Botão do menu suspenso de selos dinâmicos
+					12 button PokiSky | Supplement Guides PokiSky | Supplement Guides Ícone de seta do Seletor de Conta
+						13 text PokiSky | Supplement Guides
+						14 text PokiSky | Supplement Guides
+						15 image Ícone de seta do Seletor de Conta
+					16 button Ícone de pesquisa
+					17 link Description: Notificações, Value: br.pinterest.com/gabrielhenriquep123/
+					18 link Description: Mensagens, Value: br.pinterest.com/gabrielhenriquep123/
+					19 link Description: Gerencie os comentários e a atividade nas redes sociais, Value: br.pinterest.com/engagement/
+					20 link Description: Seu perfil, Value: br.pinterest.com/gabrielhenriquep123/
+					21 pop up button (collapsed) Description: Contas e mais opções, Secondary Actions: Expand
+		22 container Botões flutuantes do rodapé
+			23 container Mais
+				24 pop up button Mais
+		25 container
+			26 button gabrielhenriquep123
+				45 container
+					46 image gabrielhenriquep123
+			27 button PokiSky | Supplement Guides
+				47 text PokiSky | Supplement Guides
+			28 button Compartilhar perfil
+			29 pop up button Editar a capa do perfil
+			30 container
+				31 button Clique para abrir o pincode e compartilhar o perfil
+					48 container
+						49 image PokiSky | Supplement Guides
+				32 heading PokiSky | Supplement Guides, Value: 1
+					50 text PokiSky | Supplement Guides
+				51 text gabrielhenriquep123
+				52 button 0 seguidor
+					53 text 0
+					54 text  seguidor
+				55 text ·
+				56 button Seguindo 0
+					57 text Seguindo 
+					58 text 0
+				59 text · 70 visualizações mensais
+				33 button Expandir seção "Sobre"
+					60 text Sobre esta conta...
+					61 text mais
+				34 link Description: http://blog-travel-eight.vercel.app blog-travel-eight.vercel.app ; Abre uma nova aba, Value: blog-travel-eight.vercel.app/
+				35 button Editar perfil
+					62 text Editar perfil
+				36 container
+					37 button Compartilhar perfil
+					38 pop up button Editar a capa do perfil
+			39 tab group
+				40 tab (selected, settable, boolean) Criados, Value: 1
+Criados
+				41 tab (selectable, settable, boolean) Salvos, Value: 0
+Salvos
+			42 pop up button (collapsed) Description: Criar um Pin ou uma pasta, Secondary Actions: Expand
+				43 text Criar
+			63 content list
+				64 container Cartão de Pin
+					65 container
+						66 link Description: Página do Pin Advanced Joint Support: confirm the bottle version before comparing, Value: br.pinterest.com/pin/765471267964104017/
+						67 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964104017…
+					68 image Impressões
+					69 text 0
+					70 image Pins salvos
+					71 text 0
+					72 image Cliques no Pin
+					73 text 0
+					74 heading Advanced Joint Support: confirm the bottle version before comparing, Value: 2
+						75 link Description: Advanced Joint Support: confirm the bottle version before comparing, Value: br.pinterest.com/pin/765471267964104017/
+				76 container Cartão de Pin
+					77 container
+						78 link Description: Página do Pin Advanced Collagen Plus: check sources and allergy information, Value: br.pinterest.com/pin/765471267964104003/
+						79 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964104003…
+					80 image Impressões
+					81 text 1
+					82 image Pins salvos
+					83 text 0
+					84 image Cliques no Pin
+					85 text 0
+					86 heading Advanced Collagen Plus: check sources and allergy information, Value: 2
+						87 link Description: Advanced Collagen Plus: check sources and allergy information, Value: br.pinterest.com/pin/765471267964104003/
+				88 container Cartão de Pin
+					89 container
+						90 link Description: Página do Pin Advanced Vision Formula: check the serving unit first, Value: br.pinterest.com/pin/765471267964103989/
+						91 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964103989…
+					92 image Impressões
+					93 text 0
+					94 image Pins salvos
+					95 text 0
+					96 image Cliques no Pin
+					97 text 0
+					98 heading Advanced Vision Formula: check the serving unit first, Value: 2
+						99 link Description: Advanced Vision Formula: check the serving unit first, Value: br.pinterest.com/pin/765471267964103989/
+				100 container Cartão de Pin
+					101 container
+						102 link Description: Página do Pin CircO2: a blend total is not an ingredient breakdown, Value: br.pinterest.com/pin/765471267964103976/
+						103 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964103976…
+					104 image Impressões
+					105 text 1
+					106 image Pins salvos
+					107 text 0
+					108 image Cliques no Pin
+					109 text 0
+					110 heading CircO2: a blend total is not an ingredient breakdown, Value: 2
+						111 link Description: CircO2: a blend total is not an ingredient breakdown, Value: br.pinterest.com/pin/765471267964103976/
+				112 container Cartão de Pin
+					113 container
+						114 link Description: Página do Pin AdaptoGen 4.0: read beyond the botanical name, Value: br.pinterest.com/pin/765471267964103960/
+						115 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964103960…
+					116 image Impressões
+					117 text 1
+					118 image Pins salvos
+					119 text 0
+					120 image Cliques no Pin
+					121 text 0
+					122 heading AdaptoGen 4.0: read beyond the botanical name, Value: 2
+						123 link Description: AdaptoGen 4.0: read beyond the botanical name, Value: br.pinterest.com/pin/765471267964103960/
+				124 container Cartão de Pin
+					125 container
+						126 link Description: Página do Pin SelfPlus AGE+ vs Advanced Mitochondrial Formula: check the buying route, Value: br.pinterest.com/pin/765471267964072407/
+						127 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964072407…
+					128 image Impressões
+					129 text 4
+					130 image Pins salvos
+					131 text 0
+					132 image Cliques no Pin
+					133 text 0
+					134 heading SelfPlus AGE+ vs Advanced Mitochondrial Formula: check the buying route, Value: 2
+						135 link Description: SelfPlus AGE+ vs Advanced Mitochondrial Formula: check the buying route, Value: br.pinterest.com/pin/765471267964072407/
+				136 container Cartão de Pin
+					137 container
+						138 link Description: Página do Pin Advanced Muscle Plus vs Advanced Amino Formula: label before price, Value: br.pinterest.com/pin/765471267964072371/
+						139 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964072371…
+					140 image Impressões
+					141 text 4
+					142 image Pins salvos
+					143 text 0
+					144 image Cliques no Pin
+					145 text 0
+					146 heading Advanced Muscle Plus vs Advanced Amino Formula: label before price, Value: 2
+						147 link Description: Advanced Muscle Plus vs Advanced Amino Formula: label before price, Value: br.pinterest.com/pin/765471267964072371/
+				148 container Cartão de Pin
+					149 container
+						150 link Description: Página do Pin BrainAMP vs Advanced Memory Formula: compare ingredient forms, Value: br.pinterest.com/pin/765471267964072359/
+						151 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964072359…
+					152 image Impressões
+					153 text 4
+					154 image Pins salvos
+					155 text 0
+					156 image Cliques no Pin
+					157 text 0
+					158 heading BrainAMP vs Advanced Memory Formula: compare ingredient forms, Value: 2
+						159 link Description: BrainAMP vs Advanced Memory Formula: compare ingredient forms, Value: br.pinterest.com/pin/765471267964072359/
+				160 container Cartão de Pin
+					161 container
+						162 link Description: Página do Pin Gluconite vs Elixolve Sleep Strips: look beyond the format, Value: br.pinterest.com/pin/765471267964072342/
+						163 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964072342…
+					164 image Impressões
+					165 text 3
+					166 image Pins salvos
+					167 text 0
+					168 image Cliques no Pin
+					169 text 0
+					170 heading Gluconite vs Elixolve Sleep Strips: look beyond the format, Value: 2
+						171 link Description: Gluconite vs Elixolve Sleep Strips: look beyond the format, Value: br.pinterest.com/pin/765471267964072342/
+				172 container Cartão de Pin
+					173 container
+						174 link Description: Página do Pin SLIN vs Insulin Herb Berberine: compare the serving first, Value: br.pinterest.com/pin/765471267964072338/
+						175 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964072338…
+					176 image Impressões
+					177 text 3
+					178 image Pins salvos
+					179 text 0
+					180 image Cliques no Pin
+					181 text 0
+					182 heading SLIN vs Insulin Herb Berberine: compare the serving first, Value: 2
+						183 link Description: SLIN vs Insulin Herb Berberine: compare the serving first, Value: br.pinterest.com/pin/765471267964072338/
+				184 container Cartão de Pin
+					185 container
+						186 link Description: Página do Pin SelfPlus AGE+ vs Advanced Mitochondrial Formula: Label Scope, Value: br.pinterest.com/pin/765471267964054323/
+						187 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964054323…
+					188 image Impressões
+					189 text 8
+					190 image Pins salvos
+					191 text 0
+					192 image Cliques no Pin
+					193 text 0
+					194 heading SelfPlus AGE+ vs Advanced Mitochondrial Formula: Label Scope, Value: 2
+						195 link Description: SelfPlus AGE+ vs Advanced Mitochondrial Formula: Label Scope, Value: br.pinterest.com/pin/765471267964054323/
+				196 container Cartão de Pin
+					197 container
+						198 link Description: Página do Pin EZNaturals Moringa vs Pep Tonic: Capsule & Powder Comparison, Value: br.pinterest.com/pin/765471267964054312/
+						199 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964054312…
+					200 image Impressões
+					201 text 8
+					202 image Pins salvos
+					203 text 0
+					204 image Cliques no Pin
+					205 text 0
+					206 heading EZNaturals Moringa vs Pep Tonic: Capsule & Powder Comparison, Value: 2
+						207 link Description: EZNaturals Moringa vs Pep Tonic: Capsule & Powder Comparison, Value: br.pinterest.com/pin/765471267964054312/
+				208 container Cartão de Pin
+					209 container
+						210 link Description: Página do Pin SenFlo vs Integrative Digestive Formula: Different Digestive Proposals, Value: br.pinterest.com/pin/765471267964054300/
+						211 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964054300…
+					212 image Impressões
+					213 text 7
+					214 image Pins salvos
+					215 text 0
+					216 image Cliques no Pin
+					217 text 0
+					218 heading SenFlo vs Integrative Digestive Formula: Different Digestive Proposals, Value: 2
+						219 link Description: SenFlo vs Integrative Digestive Formula: Different Digestive Proposals, Value: br.pinterest.com/pin/765471267964054300/
+				220 container Cartão de Pin
+					221 container
+						222 link Description: Página do Pin BrainAMP vs Advanced Memory Formula: Ingredient & Serving Comparison, Value: br.pinterest.com/pin/765471267964054297/
+						223 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964054297…
+					224 image Impressões
+					225 text 4
+					226 image Pins salvos
+					227 text 0
+					228 image Cliques no Pin
+					229 text 0
+					230 heading BrainAMP vs Advanced Memory Formula: Ingredient & Serving Comparison, Value: 2
+						231 link Description: BrainAMP vs Advanced Memory Formula: Ingredient & Serving Comparison, Value: br.pinterest.com/pin/765471267964054297/
+				232 container Cartão de Pin
+					233 container
+						234 link Description: Página do Pin Advanced Muscle Plus vs Advanced Amino Formula: Label Differences, Value: br.pinterest.com/pin/765471267964054274/
+						235 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964054274…
+					236 image Impressões
+					237 text 4
+					238 image Pins salvos
+					239 text 0
+					240 image Cliques no Pin
+					241 text 0
+					242 heading Advanced Muscle Plus vs Advanced Amino Formula: Label Differences, Value: 2
+						243 link Description: Advanced Muscle Plus vs Advanced Amino Formula: Label Differences, Value: br.pinterest.com/pin/765471267964054274/
+				244 container Cartão de Pin
+					245 container
+						246 link Description: Página do Pin Curcumitol-Q vs Advanced Joint Support: Formula & Allergen Checks, Value: br.pinterest.com/pin/765471267964054269/
+						247 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964054269…
+					248 image Impressões
+					249 text 4
+					250 image Pins salvos
+					251 text 0
+					252 image Cliques no Pin
+					253 text 0
+					254 heading Curcumitol-Q vs Advanced Joint Support: Formula & Allergen Checks, Value: 2
+						255 link Description: Curcumitol-Q vs Advanced Joint Support: Formula & Allergen Checks, Value: br.pinterest.com/pin/765471267964054269/
+				256 container Cartão de Pin
+					257 container
+						258 link Description: Página do Pin MetaboSana vs. GlucoSana: Mengen und Warnhinweise, Value: br.pinterest.com/pin/765471267964054259/
+						259 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964054259…
+					260 image Impressões
+					261 text 4
+					262 image Pins salvos
+					263 text 0
+					264 image Cliques no Pin
+					265 text 0
+					266 heading MetaboSana vs. GlucoSana: Mengen und Warnhinweise, Value: 2
+						267 link Description: MetaboSana vs. GlucoSana: Mengen und Warnhinweise, Value: br.pinterest.com/pin/765471267964054259/
+				268 container Cartão de Pin
+					269 container
+						270 link Description: Página do Pin SlimSana vs. KetoSana: Kapseln, Tropfen und Etiketten, Value: br.pinterest.com/pin/765471267964054255/
+						271 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964054255…
+					272 image Impressões
+					273 text 4
+					274 image Pins salvos
+					275 text 0
+					276 image Cliques no Pin
+					277 text 0
+					278 heading SlimSana vs. KetoSana: Kapseln, Tropfen und Etiketten, Value: 2
+						279 link Description: SlimSana vs. KetoSana: Kapseln, Tropfen und Etiketten, Value: br.pinterest.com/pin/765471267964054255/
+				280 container Cartão de Pin
+					281 container
+						282 link Description: Página do Pin Gluconite vs Elixolve Sleep Strips: Nighttime Label Comparison, Value: br.pinterest.com/pin/765471267964054244/
+						283 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964054244…
+					284 image Impressões
+					285 text 4
+					286 image Pins salvos
+					287 text 0
+					288 image Cliques no Pin
+					289 text 0
+					290 heading Gluconite vs Elixolve Sleep Strips: Nighttime Label Comparison, Value: 2
+						291 link Description: Gluconite vs Elixolve Sleep Strips: Nighttime Label Comparison, Value: br.pinterest.com/pin/765471267964054244/
+				292 container Cartão de Pin
+					293 container
+						294 link Description: Página do Pin SLIN vs Insulin Herb Berberine: Serving & Formula Checks, Value: br.pinterest.com/pin/765471267964054230/
+						295 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964054230…
+					296 image Impressões
+					297 text 4
+					298 image Pins salvos
+					299 text 0
+					300 image Cliques no Pin
+					301 text 0
+					302 heading SLIN vs Insulin Herb Berberine: Serving & Formula Checks, Value: 2
+						303 link Description: SLIN vs Insulin Herb Berberine: Serving & Formula Checks, Value: br.pinterest.com/pin/765471267964054230/
+				304 container Cartão de Pin
+					305 container
+						306 link Description: Página do Pin AdaptoGen 4.0: 60 Capsules, 30 or 60 Days?, Value: br.pinterest.com/pin/765471267964053548/
+						307 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964053548…
+					308 image Impressões
+					309 text 5
+					310 image Pins salvos
+					311 text 0
+					312 image Cliques no Pin
+					313 text 0
+					314 heading AdaptoGen 4.0: 60 Capsules, 30 or 60 Days?, Value: 2
+						315 link Description: AdaptoGen 4.0: 60 Capsules, 30 or 60 Days?, Value: br.pinterest.com/pin/765471267964053548/
+				316 container Cartão de Pin
+					317 container
+						318 link Description: Página do Pin SenFlo Gummies: Read the Senna Warnings First, Value: br.pinterest.com/pin/765471267964053538/
+						319 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964053538…
+					320 image Impressões
+					321 text 5
+					322 image Pins salvos
+					323 text 0
+					324 image Cliques no Pin
+					325 text 0
+					326 heading SenFlo Gummies: Read the Senna Warnings First, Value: 2
+						327 link Description: SenFlo Gummies: Read the Senna Warnings First, Value: br.pinterest.com/pin/765471267964053538/
+				328 container Cartão de Pin
+					329 container
+						330 link Description: Página do Pin Yara Hair Vitamins: Check the Monthly Billing Cycle, Value: br.pinterest.com/pin/765471267964053532/
+						331 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964053532…
+					332 image Impressões
+					333 text 5
+					334 image Pins salvos
+					335 text 0
+					336 image Cliques no Pin
+					337 text 0
+					338 heading Yara Hair Vitamins: Check the Monthly Billing Cycle, Value: 2
+						339 link Description: Yara Hair Vitamins: Check the Monthly Billing Cycle, Value: br.pinterest.com/pin/765471267964053532/
+				340 container Cartão de Pin
+					341 container
+						342 link Description: Página do Pin SLIN: Compare the Label and the Six-Bottle Order, Value: br.pinterest.com/pin/765471267964053528/
+						343 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964053528…
+					344 image Impressões
+					345 text 5
+					346 image Pins salvos
+					347 text 0
+					348 image Cliques no Pin
+					349 text 0
+					350 heading SLIN: Compare the Label and the Six-Bottle Order, Value: 2
+						351 link Description: SLIN: Compare the Label and the Six-Bottle Order, Value: br.pinterest.com/pin/765471267964053528/
+				352 container Cartão de Pin
+					353 container
+						354 link Description: Página do Pin FloraVitaSana : étiquette, prix et livraison en Europe, Value: br.pinterest.com/pin/765471267964053509/
+						355 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964053509…
+					356 image Impressões
+					357 text 6
+					358 image Pins salvos
+					359 text 0
+					360 image Cliques no Pin
+					361 text 0
+					362 heading FloraVitaSana : étiquette, prix et livraison en Europe, Value: 2
+						363 link Description: FloraVitaSana : étiquette, prix et livraison en Europe, Value: br.pinterest.com/pin/765471267964053509/
+				364 container Cartão de Pin
+					365 container
+						366 link Description: Página do Pin Alpha Dualis: Compare the AM and PM Formula Labels, Value: br.pinterest.com/pin/765471267964018394/
+						367 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964018394…
+					368 image Impressões
+					369 text 8
+					370 image Pins salvos
+					371 text 0
+					372 image Cliques no Pin
+					373 text 0
+					374 heading Alpha Dualis: Compare the AM and PM Formula Labels, Value: 2
+						375 link Description: Alpha Dualis: Compare the AM and PM Formula Labels, Value: br.pinterest.com/pin/765471267964018394/
+				376 container Cartão de Pin
+					377 container
+						378 link Description: Página do Pin SelfPlus AGE+: 125 mg Trans-Resveratrol Label Explained, Value: br.pinterest.com/pin/765471267964018393/
+						379 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964018393…
+					380 image Impressões
+					381 text 6
+					382 image Pins salvos
+					383 text 0
+					384 image Cliques no Pin
+					385 text 0
+					386 heading SelfPlus AGE+: 125 mg Trans-Resveratrol Label Explained, Value: 2
+						387 link Description: SelfPlus AGE+: 125 mg Trans-Resveratrol Label Explained, Value: br.pinterest.com/pin/765471267964018393/
+				388 container Cartão de Pin
+					389 container
+						390 link Description: Página do Pin Insulin Herb Berberine: Capsule Count & Buying Checks, Value: br.pinterest.com/pin/765471267964018391/
+						391 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964018391…
+					392 image Impressões
+					393 text 6
+					394 image Pins salvos
+					395 text 0
+					396 image Cliques no Pin
+					397 text 0
+					398 heading Insulin Herb Berberine: Capsule Count & Buying Checks, Value: 2
+						399 link Description: Insulin Herb Berberine: Capsule Count & Buying Checks, Value: br.pinterest.com/pin/765471267964018391/
+				400 container Cartão de Pin
+					401 container
+						402 link Description: Página do Pin Gluconite: Package Costs, Returns & Full-Label Questions, Value: br.pinterest.com/pin/765471267964018377/
+						403 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964018377…
+					404 image Impressões
+					405 text 6
+					406 image Pins salvos
+					407 text 0
+					408 image Cliques no Pin
+					409 text 1
+					410 heading Gluconite: Package Costs, Returns & Full-Label Questions, Value: 2
+						411 link Description: Gluconite: Package Costs, Returns & Full-Label Questions, Value: br.pinterest.com/pin/765471267964018377/
+				412 container Cartão de Pin
+					413 container
+						414 link Description: Página do Pin GlucoTrust auf Deutsch: Etikett, Kosten und Rückgabe, Value: br.pinterest.com/pin/765471267964018376/
+						415 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964018376…
+					416 image Impressões
+					417 text 4
+					418 image Pins salvos
+					419 text 0
+					420 image Cliques no Pin
+					421 text 0
+					422 heading GlucoTrust auf Deutsch: Etikett, Kosten und Rückgabe, Value: 2
+						423 link Description: GlucoTrust auf Deutsch: Etikett, Kosten und Rückgabe, Value: br.pinterest.com/pin/765471267964018376/
+				424 container Cartão de Pin
+					425 container
+						426 link Description: Página do Pin HeroSana Caliber: Gummies, Vorrat und Abo prüfen, Value: br.pinterest.com/pin/765471267964018373/
+						427 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: br.pinterest.com/pin/765471267964018373…
+					428 image Impressões
+					429 text 4
+					430 image Pins salvos
+					431 text 0
+					432 image Cliques no Pin
+					433 text 0
+					434 heading HeroSana Caliber: Gummies, Vorrat und Abo prüfen, Value: 2
+						435 link Description: HeroSana Caliber: Gummies, Vorrat und Abo prüfen, Value: br.pinterest.com/pin/765471267964018373/
+				436 container Cartão de Pin
+					437 container
+						438 link Description: Página do Pin GlucoSana: Chrom-Etikett und Kaufbedingungen vergleichen, Value: br.pinterest.com/pin/765471267964018370/
+						439 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: …
+					440 image Impressões
+					441 text 4
+					442 image Pins salvos
+					443 text 0
+					444 image Cliques no Pin
+					445 text 0
+					446 heading GlucoSana: Chrom-Etikett und Kaufbedingungen vergleichen, Value: 2
+						447 link Description: GlucoSana: Chrom-Etikett und Kaufbedingungen vergleichen, Value: …
+				448 container Cartão de Pin
+					449 container
+						450 link Description: Página do Pin MetaboSana: Etikett und Grüntee-Warnhinweise lesen, Value: …
+						451 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: …
+					452 image Impressões
+					453 text 4
+					454 image Pins salvos
+					455 text 0
+					456 image Cliques no Pin
+					457 text 0
+					458 heading MetaboSana: Etikett und Grüntee-Warnhinweise lesen, Value: 2
+						459 link Description: MetaboSana: Etikett und Grüntee-Warnhinweise lesen, Value: …
+				460 container Cartão de Pin
+					461 container
+						462 link Description: Página do Pin SlimSana: Inhaltsstoffe, Versand und Rückgabe prüfen, Value: …
+						463 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: …
+					464 image Impressões
+					465 text 4
+					466 image Pins salvos
+					467 text 0
+					468 image Cliques no Pin
+					469 text 0
+					470 heading SlimSana: Inhaltsstoffe, Versand und Rückgabe prüfen, Value: 2
+						471 link Description: SlimSana: Inhaltsstoffe, Versand und Rückgabe prüfen, Value: …
+				472 container Cartão de Pin
+					473 container
+						474 link Description: Página do Pin Elixolve Sleep Strips: 1 mg Melatonin Label & Buying Guide, Value: …
+						475 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: …
+					476 image Impressões
+					477 text 4
+					478 image Pins salvos
+					479 text 0
+					480 image Cliques no Pin
+					481 text 0
+					482 heading Elixolve Sleep Strips: 1 mg Melatonin Label & Buying Guide, Value: 2
+						483 link Description: Elixolve Sleep Strips: 1 mg Melatonin Label & Buying Guide, Value: …
+				484 container Cartão de Pin
+					485 container
+						486 link Description: Página do Pin Buying Curcumitol-Q in the UK? Compare the Total Cost, Value: …
+						487 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: …
+					488 image Impressões
+					489 text 6
+					490 image Pins salvos
+					491 text 0
+					492 image Cliques no Pin
+					493 text 0
+					494 heading Buying Curcumitol-Q in the UK? Compare the Total Cost, Value: 2
+						495 link Description: Buying Curcumitol-Q in the UK? Compare the Total Cost, Value: …
+				496 container Cartão de Pin
+					497 container
+						498 link Description: Página do Pin Collagen Powder Animal Sources: What to Check Before Buying, Value: …
+						499 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: …
+					500 image Impressões
+					501 text 6
+					502 image Pins salvos
+					503 text 0
+					504 image Cliques no Pin
+					505 text 0
+					506 heading Collagen Powder Animal Sources: What to Check Before Buying, Value: 2
+						507 link Description: Collagen Powder Animal Sources: What to Check Before Buying, Value: …
+				508 container Cartão de Pin
+					509 container
+						510 link Description: Página do Pin 60 Moringa Capsules: Servings vs. Bottle Duration | EZNaturals, Value: …
+						511 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: …
+					512 image Impressões
+					513 text 6
+					514 image Pins salvos
+					515 text 0
+					516 image Cliques no Pin
+					517 text 0
+					518 heading 60 Moringa Capsules: Servings vs. Bottle Duration | EZNaturals, Value: 2
+						519 link Description: 60 Moringa Capsules: Servings vs. Bottle Duration | EZNaturals, Value: …
+				520 container Cartão de Pin
+					521 container
+						522 link Description: Página do Pin Turmeric & Quercetin Supplements: Label Checklist | Curcumitol-Q, Value: …
+						523 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: …
+					524 image Impressões
+					525 text 10
+					526 image Pins salvos
+					527 text 0
+					528 image Cliques no Pin
+					529 text 0
+					530 heading Turmeric & Quercetin Supplements: Label Checklist | Curcumitol-Q, Value: 2
+						531 link Description: Turmeric & Quercetin Supplements: Label Checklist | Curcumitol-Q, Value: …
+				532 container Cartão de Pin
+					533 container
+						534 link Description: Página do Pin Choosing Collagen Powder? Sources & Allergens | Advanced Collagen Plus, Value: …
+						535 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: …
+					536 image Impressões
+					537 text 9
+					538 image Pins salvos
+					539 text 0
+					540 image Cliques no Pin
+					541 text 0
+					542 heading Choosing Collagen Powder? Sources & Allergens | Advanced Collagen Plus, Value: 2
+						543 link Description: Choosing Collagen Powder? Sources & Allergens | Advanced Collagen Plus, Value: …
+				544 container Cartão de Pin
+					545 container
+						546 link Description: Página do Pin Moringa Capsules: 3 Checks Before You Buy | EZNaturals Guide, Value: …
+						547 link Description: Ir para a página de detalhes de estatísticas do Pin, Value: …
+					548 image Impressões
+					549 text 9
+					550 image Pins salvos
+					551 text 0
+					552 image Cliques no Pin
+					553 text 1
+					554 heading Moringa Capsules: 3 Checks Before You Buy | EZNaturals Guide, Value: 2
+						555 link Description: Moringa Capsules: 3 Checks Before You Buy | EZNaturals Guide, Value: …
+		44 container Rodapé
+
+The focused UI element is 1 AXWebArea Pinterest, URL: br.pinterest.com/gabrielhenriquep123/
