@@ -1,0 +1,24 @@
+.digistore-guide{--ink:#233139;--muted:#5f6a70;--line:rgba(36,53,61,.16)}
+.digistore-guide .topbar{background:var(--bg)}.digistore-guide h1{max-width:23ch;font-size:clamp(2rem,4vw,3.25rem)}
+.digistore-guide .hero-grid>*{min-width:0}.digistore-guide .product-card{background:#fff;border-radius:18px;overflow:hidden;margin:0}
+.digistore-guide .product-card img{display:block;width:100%;height:300px;object-fit:contain;padding:16px}
+.digistore-guide figcaption{padding:16px;font-size:.82rem;line-height:1.55;color:var(--muted)}
+.digistore-guide .compatibility{padding:18px 22px;margin:24px 0;background:var(--accent-soft);border-left:3px solid var(--accent)}.digistore-guide .compatibility p{margin:0}
+.digistore-guide table{width:100%;border-collapse:collapse}.digistore-guide th,.digistore-guide td{padding:14px 12px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line);overflow-wrap:anywhere}
+.digistore-guide .comparison-scroll{width:100%;overflow-x:auto;margin:24px 0}.digistore-guide section>.container>p{max-width:80ch}
+.digistore-guide .source-figure{margin:32px 0 0;background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden;max-width:100%}
+.digistore-guide .source-figure img{display:block;width:100%;max-height:520px;object-fit:contain;height:auto;padding:12px}
+.digistore-guide .reading{max-width:1000px}.digistore-guide .reading>p{max-width:78ch}.digistore-guide .reading h3{margin-top:28px}
+.digistore-guide .editorial-disclosure{font-size:.85rem;line-height:1.65}.digistore-guide .editorial-disclosure a,.digistore-guide #sources a{text-decoration:underline}
+.digistore-guide .source-note{padding:18px 22px;background:var(--accent-soft);border-radius:8px}.digistore-guide #sources li{margin:10px 0;overflow-wrap:anywhere}
+@media(max-width:760px){.digistore-guide .nav{flex-wrap:wrap;gap:12px;padding-block:12px}.digistore-guide .nav-links{gap:14px;font-size:.8rem}.digistore-guide .product-card img{height:240px}.digistore-guide th,.digistore-guide td{padding:11px 8px;font-size:.9rem}.digistore-guide .cta-row{gap:10px}}
+.page-qbx-chlorella{--accent:#355d44;--gold:#355d44;--bg:#f5f6ee;--accent-soft:#e3ebda}
+.page-qbx-kraeuteressenz{--accent:#5b6232;--gold:#5b6232;--bg:#fbf8ee;--accent-soft:#ede9cd}
+.page-digestistart{--accent:#344b27;--gold:#344b27;--bg:#fbfaf0;--accent-soft:#e8edcf}
+.page-primebiome{--accent:#335f6a;--gold:#335f6a;--bg:#f8fbfb;--accent-soft:#e3f0f2}
+.page-femicore{--accent:#47616f;--gold:#47616f;--bg:#f8fafb;--accent-soft:#e3edf1}
+.page-menovelle{--accent:#496059;--gold:#496059;--bg:#fcf8f5;--accent-soft:#f1e4e6}
+.page-mindsilence{--accent:#235f7a;--gold:#235f7a;--bg:#f6fafc;--accent-soft:#e1eff5}
+.page-rhythmone{--accent:#765322;--gold:#765322;--bg:#fcf8f0;--accent-soft:#f0e5cd}
+.page-focus-iq{--accent:#344a69;--gold:#344a69;--bg:#f7f9fc;--accent-soft:#e4eaf4}
+.page-tonicgreens-review{--accent:#476b24;--gold:#476b24;--bg:#f8fbf2;--accent-soft:#e7efd7}

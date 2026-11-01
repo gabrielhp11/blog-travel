@@ -1,5 +1,9 @@
 # Guias públicos da PokiSky
 
+## Dez suplementos da Digistore24 — entrega de 01/11/2026
+
+Novos guias de QBX Chlorella, QBX Kräuteressenz, DigestiStart, PrimeBiome, FemiCore, Menovelle, MindSilence, RhythmONE, Primal Force Focus IQ e TonicGreens. Fontes e rótulos consultados em 31/10; oito páginas em inglês e duas em alemão, trinta imagens oficiais, catálogo e sitemap atualizados. Links oficiais sem rastreamento; nenhuma nova afiliação ou comissão foi confirmada. Divergências de rótulo, assinatura, frete e devolução estão explicitadas por produto. Lista, URLs e IDs: [registro do lote](digistore-2026-10-31/DELIVERY.md).
+
 ## Novas parcerias Digistore24 — revisão de 24/10/2026
 
 - **SelfPlus AGE+**: [guia em inglês para os EUA](https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus). Marketplace 59395, vendedor selfplus, parceria aceita e 60% exibidos. Link gerado pela conta: <https://selfplus-care.com/#aff=gabrielhenriquep123f97e>; identificador preservado no checkout 728645. Duas imagens oficiais e um diagrama editorial de leitura do rótulo. O extrato de 250 mg padronizado a 50% fornece 125 mg de trans-resveratrol; não somar os dois valores. Política de entrega somente US, frete $9.99 nos pacotes de 1/3 e grátis em 6; checkout inicial mostrou $0, divergência explicitada. Retorno em 60 dias, com frete de devolução do cliente e frete original geralmente não reembolsável. Sem compra ou resultado clínico observado.

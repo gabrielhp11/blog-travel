@@ -99,3 +99,7 @@ The October 18 affiliate review adds a Portuguese GearUP PC connection guide and
 ## Supplement comparisons — 27 October 2026
 
 Ten source-based comparisons are maintained in `content/supplement-comparisons.json`, rendered by `scripts/generate-supplement-comparisons.js`, and checked by `scripts/validate-supplement-comparisons.js`. The `/guides/supplement-comparisons` directory exposes all ten. Each comparison has one separately generated Gemini editorial illustration and two existing product assets, a side-by-side table, uncertainties, dated prices and internal links to both product guides. These are editorial label and buying comparisons, not product trials or efficacy rankings.
+
+## Digistore24 supplement expansion — 1 November 2026
+
+Ten additional source-based guides are maintained in `content/digistore-supplements-20261031.json` and rendered by `scripts/generate-digistore-supplement-guides.js` as part of `seo:build`. Preserve the actual 31 October source-review date and the untracked official destinations until affiliate approval and a generated tracked link are independently confirmed. The batch has thirty pinned supplier images and explicit label, subscription, shipping and return uncertainties. See `docs/digistore-2026-10-31/DELIVERY.md` for the product list and validation.

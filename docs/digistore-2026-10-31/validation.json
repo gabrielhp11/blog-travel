@@ -1,0 +1,12 @@
+{
+  "deliveryDate": "2026-11-01",
+  "sourceReviewDate": "2026-10-31",
+  "newGuides": 10,
+  "newSupplierImages": 30,
+  "languages": {"en-US": 8, "de-DE": 2},
+  "fullCheck": {"command": "node scripts/run-task.js seo:build check", "result": "passed", "indexablePages": 127, "publicGuides": 115, "infrastructureTestsPassed": 7, "editorialTestsPassed": 3},
+  "finalContentCheck": {"command": "node scripts/run-task.js seo:build seo:check", "result": "passed"},
+  "responsiveCheck": {"pages": 10, "viewports": ["320x568", "360x640", "1366x768"], "observations": 30, "horizontalOverflowFailures": 0, "primaryImageFailures": 0, "mobileImageOrderFailures": 0, "report": "evidence/responsive-checks.json"},
+  "links": "Untracked official seller destinations; no newly approved affiliate partnership claimed.",
+  "publication": "Awaiting normal Git push and production availability verification."
+}

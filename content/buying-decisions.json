@@ -511,5 +511,275 @@
       ]
     ],
     "next": "Confirm the exact label, full cost and order-specific conditions."
+  },
+  "topics/wellness/nutrition/qbx-chlorella.html": {
+    "heading": "Drei Fragen vor der Entscheidung",
+    "intro": "Redaktionelle Vergleichsfragen, keine persönliche Einnahmeempfehlung.",
+    "columns": [
+      "Ihre Frage",
+      "Was vergleichen?",
+      "Wann zunächst klären?"
+    ],
+    "rows": [
+      [
+        "Mengen vergleichen",
+        "500 mg je Tablette und 2.000 mg je Tagesportion auseinanderhalten.",
+        "Wenn eine Vergleichsseite andere Portionsgrößen verwendet."
+      ],
+      [
+        "Bestellung wählen",
+        "125 rechnerische Portionen gegen das monatliche Lieferintervall halten.",
+        "Wenn der Mindestgesamtpreis des Abos unklar ist."
+      ],
+      [
+        "Verträglichkeit prüfen",
+        "Sulfite, vollständiges Etikett und vorhandene Präparate prüfen.",
+        "Wenn ein Allergie- oder Eignungspunkt offenbleibt."
+      ]
+    ],
+    "next": "Prüfen Sie aktuelle Zusammensetzung, Eignung und den vollständigen Bestellbetrag."
+  },
+  "topics/wellness/gut-health/qbx-kraeuteressenz.html": {
+    "heading": "Drei Fragen vor der Entscheidung",
+    "intro": "Redaktionelle Vergleichsfragen, keine persönliche Einnahmeempfehlung.",
+    "columns": [
+      "Ihre Frage",
+      "Was vergleichen?",
+      "Wann zunächst klären?"
+    ],
+    "rows": [
+      [
+        "Version erkennen",
+        "Alkoholfreies Kombiprodukt und aktuelles Etikett vergleichen.",
+        "Wenn nur eine ältere Flaschenabbildung vorliegt."
+      ],
+      [
+        "Prozente verstehen",
+        "Auszugskomponente und gesamte Tagesportion getrennt lesen.",
+        "Wenn Einzelmengen aus 8,33 % errechnet werden sollen."
+      ],
+      [
+        "Lieferplan wählen",
+        "50-ml-Inhalt, monatliche Lieferung und Mindestlaufzeit vergleichen.",
+        "Wenn Abbuchung oder Kündigung unklar bleiben."
+      ]
+    ],
+    "next": "Prüfen Sie aktuelle Zusammensetzung, Eignung und den vollständigen Bestellbetrag."
+  },
+  "topics/wellness/gut-health/digestistart.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial comparison questions, not individual use or dosing recommendations.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Compare the formula",
+        "Read the combined 500 mg beside the eleven names.",
+        "If a comparison assigns 500 mg to each ingredient."
+      ],
+      [
+        "Check capsule preferences",
+        "The actual wrapper lists gelatin.",
+        "If you need a confirmed vegetarian product."
+      ],
+      [
+        "Compare order totals",
+        "Resolve the two-bottle shipping charge and refund deadline.",
+        "If the final amount or return instructions remain unclear."
+      ]
+    ],
+    "next": "Check the current formula, suitability and complete order commitment."
+  },
+  "topics/wellness/gut-health/primebiome.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial comparison questions, not individual use or dosing recommendations.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Compare probiotics",
+        "Request strain identity and CFU guarantee timing.",
+        "If only the species name is available."
+      ],
+      [
+        "Compare gummies",
+        "Read sugars, excipients and all botanical ingredients.",
+        "If format is being used as evidence of suitability."
+      ],
+      [
+        "Choose a bundle",
+        "Compare full $158, $207 or $294 commitment and postage.",
+        "If the per-bottle headline hides the total."
+      ]
+    ],
+    "next": "Check the current formula, suitability and complete order commitment."
+  },
+  "topics/wellness/nutrition/femicore.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial comparison questions, not individual use or dosing recommendations.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Compare probiotic potency",
+        "Ask for CFU count and guarantee date, not only 50 mg.",
+        "If a mass amount is described as a viable-cell count."
+      ],
+      [
+        "Review botanicals",
+        "Keep bearberry, berberine and the other ingredients visible.",
+        "If suitability with medicines has not been considered."
+      ],
+      [
+        "Check refund timing",
+        "Resolve order-date versus delivery-date wording.",
+        "If the seller cannot give an order-specific deadline."
+      ]
+    ],
+    "next": "Check the current formula, suitability and complete order commitment."
+  },
+  "topics/wellness/nutrition/menovelle.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial comparison questions, not individual use or dosing recommendations.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Count servings",
+        "Two capsules define one serving; sixty capsules give thirty servings.",
+        "If capsule count is being equated with sixty servings."
+      ],
+      [
+        "Compare mushroom quantities",
+        "Four individual 266 mg entries differ from the shared 266 mg blend.",
+        "If each of all ten mushrooms is assigned 266 mg."
+      ],
+      [
+        "Read the return window",
+        "Compare sixty days from delivery with the three-month suggestion.",
+        "If the refund deadline has not been resolved."
+      ]
+    ],
+    "next": "Check the current formula, suitability and complete order commitment."
+  },
+  "topics/wellness/brain-health/mindsilence.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial comparison questions, not individual use or dosing recommendations.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Compare probiotic counts",
+        "Resolve fifteen versus thirty billion CFU and the guarantee date.",
+        "If the seller cannot identify the correct current panel."
+      ],
+      [
+        "Compare total costs",
+        "Add smaller-pack postage and check tax.",
+        "If shipping-included policy text is used instead of the final quote."
+      ],
+      [
+        "Review the guarantee",
+        "Obtain return requirements despite keep-your-supply copy.",
+        "If the order-specific conditions are missing."
+      ]
+    ],
+    "next": "Check the current formula, suitability and complete order commitment."
+  },
+  "topics/wellness/longevity/rhythmone.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial comparison questions, not individual use or dosing recommendations.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Check suitability first",
+        "Show a professional the exact label and its safety statement.",
+        "While that statement remains unresolved."
+      ],
+      [
+        "Count actual servings",
+        "A second 2-ml serving halves the arithmetic bottle duration.",
+        "If a thirty-day claim assumes a different daily amount."
+      ],
+      [
+        "Check the guarantee",
+        "Request written terms beyond the 365-day headline.",
+        "If the linked policy omits the claim procedure."
+      ]
+    ],
+    "next": "Check the current formula, suitability and complete order commitment."
+  },
+  "topics/wellness/brain-health/focus-iq.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial comparison questions, not individual use or dosing recommendations.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Confirm product identity",
+        "Primal Force label, two-capsule serving and actual bottle.",
+        "If a similarly named product has a different manufacturer."
+      ],
+      [
+        "Review fish allergy",
+        "Read the fish statement as well as capsule material.",
+        "If vegetable capsule is being equated with fish-free."
+      ],
+      [
+        "Choose billing",
+        "Distinguish $161.88 once from $143.88 per scheduled shipment.",
+        "If the renewal interval or cancellation method is unclear."
+      ]
+    ],
+    "next": "Check the current formula, suitability and complete order commitment."
+  },
+  "topics/wellness/nutrition/tonicgreens-review.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial comparison questions, not individual use or dosing recommendations.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Read the serving panel",
+        "Compare 4.4 g scoop weight with the macronutrient entries.",
+        "Until the supplier explains the inconsistency."
+      ],
+      [
+        "Compare blends",
+        "Keep the separate 2.6 g, 1.2 g, 406 mg and probiotic totals distinct.",
+        "If ingredient names are presented as individual disclosed doses."
+      ],
+      [
+        "Read refund timing",
+        "Sixty days begin at shipment according to the detailed policy.",
+        "If a delivery-date assumption would miss the deadline."
+      ]
+    ],
+    "next": "Check the current formula, suitability and complete order commitment."
   }
 }

@@ -1,0 +1,812 @@
+[
+  {
+    "cta": {
+      "bottom": 999.046875,
+      "height": 106,
+      "left": 16,
+      "right": 289,
+      "top": 893.046875,
+      "width": 273
+    },
+    "height": 568,
+    "images": 3,
+    "primary": {
+      "bottom": 661.796875,
+      "height": 200,
+      "left": 17,
+      "right": 288,
+      "top": 461.796875,
+      "width": 271
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 305,
+    "title": "QBX Chlorella: 500 mg, Sulfite und Bestellkosten",
+    "url": "/topics/wellness/nutrition/qbx-chlorella",
+    "width": 320,
+    "product": "QBX Chlorella 500 mg",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1002.484375,
+      "height": 106,
+      "left": 16,
+      "right": 289,
+      "top": 896.484375,
+      "width": 273
+    },
+    "height": 568,
+    "images": 3,
+    "primary": {
+      "bottom": 665.234375,
+      "height": 200,
+      "left": 17,
+      "right": 288,
+      "top": 465.234375,
+      "width": 271
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 305,
+    "title": "QBX Kräuteressenz: 30 Tropfen, Rezeptur und Kosten",
+    "url": "/topics/wellness/gut-health/qbx-kraeuteressenz",
+    "width": 320,
+    "product": "QBX 2-in-1 Kräuteressenz",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1028.078125,
+      "height": 106,
+      "left": 16,
+      "right": 289,
+      "top": 922.078125,
+      "width": 273
+    },
+    "height": 568,
+    "images": 3,
+    "primary": {
+      "bottom": 665.234375,
+      "height": 200,
+      "left": 17,
+      "right": 288,
+      "top": 465.234375,
+      "width": 271
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 305,
+    "title": "DigestiStart: 500 mg Blend, Capsule Label and Costs",
+    "url": "/topics/wellness/gut-health/digestistart",
+    "width": 320,
+    "product": "DigestiStart",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1094.546875,
+      "height": 108.625,
+      "left": 16,
+      "right": 289,
+      "top": 985.921875,
+      "width": 273
+    },
+    "height": 568,
+    "images": 3,
+    "primary": {
+      "bottom": 703.484375,
+      "height": 200,
+      "left": 17,
+      "right": 288,
+      "top": 503.484375,
+      "width": 271
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 305,
+    "title": "PrimeBiome: Rótulo em Goma, UFC e Custos de Pacotes",
+    "url": "/topics/wellness/gut-health/primebiome",
+    "width": 320,
+    "product": "PrimeBiome",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1086.578125,
+      "height": 108.625,
+      "left": 16,
+      "right": 289,
+      "top": 977.953125,
+      "width": 273
+    },
+    "height": 568,
+    "images": 3,
+    "primary": {
+      "bottom": 746.703125,
+      "height": 200,
+      "left": 17,
+      "right": 288,
+      "top": 546.703125,
+      "width": 271
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 305,
+    "title": "FemiCore: Duas Misturas, Unidades Probióticas e Custos",
+    "url": "/topics/wellness/nutrition/femicore",
+    "width": 320,
+    "product": "FemiCore",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1028.078125,
+      "height": 106,
+      "left": 16,
+      "right": 289,
+      "top": 922.078125,
+      "width": 273
+    },
+    "height": 568,
+    "images": 3,
+    "primary": {
+      "bottom": 665.234375,
+      "height": 200,
+      "left": 17,
+      "right": 288,
+      "top": 465.234375,
+      "width": 271
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 305,
+    "title": "Menovelle: Mushroom Label, Serving and Pack Costs",
+    "url": "/topics/wellness/nutrition/menovelle",
+    "width": 320,
+    "product": "Menovelle",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1028.078125,
+      "height": 106,
+      "left": 16,
+      "right": 289,
+      "top": 922.078125,
+      "width": 273
+    },
+    "height": 568,
+    "images": 3,
+    "primary": {
+      "bottom": 665.234375,
+      "height": 200,
+      "left": 17,
+      "right": 288,
+      "top": 465.234375,
+      "width": 271
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 305,
+    "title": "MindSilence: CFU Discrepancy, Label and Order Costs",
+    "url": "/topics/wellness/brain-health/mindsilence",
+    "width": 320,
+    "product": "MindSilence",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1112.171875,
+      "height": 108.625,
+      "left": 16,
+      "right": 289,
+      "top": 1003.546875,
+      "width": 273
+    },
+    "height": 568,
+    "images": 3,
+    "primary": {
+      "bottom": 746.703125,
+      "height": 200,
+      "left": 17,
+      "right": 288,
+      "top": 546.703125,
+      "width": 271
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 305,
+    "title": "RhythmONE: Mistura de 2 ml, Avisos no Rótulo e Custos",
+    "url": "/topics/wellness/longevity/rhythmone",
+    "width": 320,
+    "product": "RhythmONE",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1090.5625,
+      "height": 108.625,
+      "left": 16,
+      "right": 289,
+      "top": 981.9375,
+      "width": 273
+    },
+    "height": 568,
+    "images": 3,
+    "primary": {
+      "bottom": 725.09375,
+      "height": 200,
+      "left": 17,
+      "right": 288,
+      "top": 525.09375,
+      "width": 271
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 305,
+    "title": "Focus IQ: Painel Atual, Alergia a Peixe e Envio Automático",
+    "url": "/topics/wellness/brain-health/focus-iq",
+    "width": 320,
+    "product": "Primal Force Focus IQ",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1028.078125,
+      "height": 106,
+      "left": 16,
+      "right": 289,
+      "top": 922.078125,
+      "width": 273
+    },
+    "height": 568,
+    "images": 3,
+    "primary": {
+      "bottom": 665.234375,
+      "height": 200,
+      "left": 17,
+      "right": 288,
+      "top": 465.234375,
+      "width": 271
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 305,
+    "title": "TonicGreens Review: Scoop Label, Blends and Costs",
+    "url": "/topics/wellness/nutrition/tonicgreens-review",
+    "width": 320,
+    "product": "TonicGreens",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 977.4375,
+      "height": 106,
+      "left": 16,
+      "right": 329,
+      "top": 871.4375,
+      "width": 313
+    },
+    "height": 640,
+    "images": 3,
+    "primary": {
+      "bottom": 640.1875,
+      "height": 200,
+      "left": 17,
+      "right": 328,
+      "top": 440.1875,
+      "width": 311
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 345,
+    "title": "QBX Chlorella: 500 mg, Sulfite und Bestellkosten",
+    "url": "/topics/wellness/nutrition/qbx-chlorella",
+    "width": 360,
+    "product": "QBX Chlorella 500 mg",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 955.828125,
+      "height": 106,
+      "left": 16,
+      "right": 329,
+      "top": 849.828125,
+      "width": 313
+    },
+    "height": 640,
+    "images": 3,
+    "primary": {
+      "bottom": 618.578125,
+      "height": 200,
+      "left": 17,
+      "right": 328,
+      "top": 418.578125,
+      "width": 311
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 345,
+    "title": "QBX Kräuteressenz: 30 Tropfen, Rezeptur und Kosten",
+    "url": "/topics/wellness/gut-health/qbx-kraeuteressenz",
+    "width": 360,
+    "product": "QBX 2-in-1 Kräuteressenz",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1019.125,
+      "height": 106,
+      "left": 16,
+      "right": 329,
+      "top": 913.125,
+      "width": 313
+    },
+    "height": 640,
+    "images": 3,
+    "primary": {
+      "bottom": 681.875,
+      "height": 200,
+      "left": 17,
+      "right": 328,
+      "top": 481.875,
+      "width": 311
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 345,
+    "title": "DigestiStart: Mistura de 500 mg, Rótulo da Cápsula e Custos",
+    "url": "/topics/wellness/gut-health/digestistart",
+    "width": 360,
+    "product": "DigestiStart",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1019.671875,
+      "height": 106,
+      "left": 16,
+      "right": 329,
+      "top": 913.671875,
+      "width": 313
+    },
+    "height": 640,
+    "images": 3,
+    "primary": {
+      "bottom": 656.828125,
+      "height": 200,
+      "left": 17,
+      "right": 328,
+      "top": 456.828125,
+      "width": 311
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 345,
+    "title": "PrimeBiome: Rótulo em Goma, UFC e Custos de Pacotes",
+    "url": "/topics/wellness/gut-health/primebiome",
+    "width": 360,
+    "product": "PrimeBiome",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1015.6875,
+      "height": 106,
+      "left": 16,
+      "right": 329,
+      "top": 909.6875,
+      "width": 313
+    },
+    "height": 640,
+    "images": 3,
+    "primary": {
+      "bottom": 678.4375,
+      "height": 200,
+      "left": 17,
+      "right": 328,
+      "top": 478.4375,
+      "width": 311
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 345,
+    "title": "FemiCore: Duas Misturas, Unidades Probióticas e Custos",
+    "url": "/topics/wellness/nutrition/femicore",
+    "width": 360,
+    "product": "FemiCore",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1044.71875,
+      "height": 106,
+      "left": 16,
+      "right": 329,
+      "top": 938.71875,
+      "width": 313
+    },
+    "height": 640,
+    "images": 3,
+    "primary": {
+      "bottom": 681.875,
+      "height": 200,
+      "left": 17,
+      "right": 328,
+      "top": 481.875,
+      "width": 311
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 345,
+    "title": "Menovelle: Rótulo do cogumelo, porções e custos da embalagem",
+    "url": "/topics/wellness/nutrition/menovelle",
+    "width": 360,
+    "product": "Menovelle",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1087.9375,
+      "height": 106,
+      "left": 16,
+      "right": 329,
+      "top": 981.9375,
+      "width": 313
+    },
+    "height": 640,
+    "images": 3,
+    "primary": {
+      "bottom": 725.09375,
+      "height": 200,
+      "left": 17,
+      "right": 328,
+      "top": 525.09375,
+      "width": 311
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 345,
+    "title": "MindSilence: Discrepância de CFU, custos de rotulagem e de pedidos",
+    "url": "/topics/wellness/brain-health/mindsilence",
+    "width": 360,
+    "product": "MindSilence",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1041.28125,
+      "height": 106,
+      "left": 16,
+      "right": 329,
+      "top": 935.28125,
+      "width": 313
+    },
+    "height": 640,
+    "images": 3,
+    "primary": {
+      "bottom": 678.4375,
+      "height": 200,
+      "left": 17,
+      "right": 328,
+      "top": 478.4375,
+      "width": 311
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 345,
+    "title": "RhythmONE: Mistura de 2 ml, Avisos no Rótulo e Custos",
+    "url": "/topics/wellness/longevity/rhythmone",
+    "width": 360,
+    "product": "RhythmONE",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1015.6875,
+      "height": 106,
+      "left": 16,
+      "right": 329,
+      "top": 909.6875,
+      "width": 313
+    },
+    "height": 640,
+    "images": 3,
+    "primary": {
+      "bottom": 678.4375,
+      "height": 200,
+      "left": 17,
+      "right": 328,
+      "top": 478.4375,
+      "width": 311
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 345,
+    "title": "Focus IQ: Painel Atual, Alergia a Peixe e Envio Automático",
+    "url": "/topics/wellness/brain-health/focus-iq",
+    "width": 360,
+    "product": "Primal Force Focus IQ",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 1062.890625,
+      "height": 106,
+      "left": 16,
+      "right": 329,
+      "top": 956.890625,
+      "width": 313
+    },
+    "height": 640,
+    "images": 3,
+    "primary": {
+      "bottom": 700.046875,
+      "height": 200,
+      "left": 17,
+      "right": 328,
+      "top": 500.046875,
+      "width": 311
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 345,
+    "title": "Análise do TonicGreens: Rótulo, Misturas e Custos",
+    "url": "/topics/wellness/nutrition/tonicgreens-review",
+    "width": 360,
+    "product": "TonicGreens",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 592.109375,
+      "height": 48,
+      "left": 115.5,
+      "right": 741.09375,
+      "top": 544.109375,
+      "width": 625.59375
+    },
+    "height": 768,
+    "images": 3,
+    "primary": {
+      "bottom": 421,
+      "height": 280,
+      "left": 774.09375,
+      "right": 1234.5,
+      "top": 141,
+      "width": 460.40625
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 1351,
+    "title": "QBX Chlorella: 500 mg, Sulfite und Bestellkosten",
+    "url": "/topics/wellness/nutrition/qbx-chlorella",
+    "width": 1366,
+    "product": "QBX Chlorella 500 mg",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 566.515625,
+      "height": 48,
+      "left": 115.5,
+      "right": 741.09375,
+      "top": 518.515625,
+      "width": 625.59375
+    },
+    "height": 768,
+    "images": 3,
+    "primary": {
+      "bottom": 421,
+      "height": 280,
+      "left": 774.09375,
+      "right": 1234.5,
+      "top": 141,
+      "width": 460.40625
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 1351,
+    "title": "QBX Kräuteressenz: 30 Tropfen, Rezeptur und Kosten",
+    "url": "/topics/wellness/gut-health/qbx-kraeuteressenz",
+    "width": 1366,
+    "product": "QBX 2-in-1 Kräuteressenz",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 668.765625,
+      "height": 48,
+      "left": 115.5,
+      "right": 741.09375,
+      "top": 620.765625,
+      "width": 625.59375
+    },
+    "height": 768,
+    "images": 3,
+    "primary": {
+      "bottom": 421,
+      "height": 280,
+      "left": 774.09375,
+      "right": 1234.5,
+      "top": 141,
+      "width": 460.40625
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 1351,
+    "title": "DigestiStart: Mistura de 500 mg, Rótulo da Cápsula e Custos",
+    "url": "/topics/wellness/gut-health/digestistart",
+    "width": 1366,
+    "product": "DigestiStart",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 668.765625,
+      "height": 48,
+      "left": 115.5,
+      "right": 741.09375,
+      "top": 620.765625,
+      "width": 625.59375
+    },
+    "height": 768,
+    "images": 3,
+    "primary": {
+      "bottom": 421,
+      "height": 280,
+      "left": 774.09375,
+      "right": 1234.5,
+      "top": 141,
+      "width": 460.40625
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 1351,
+    "title": "PrimeBiome: Rótulo em Goma, UFC e Custos de Pacotes",
+    "url": "/topics/wellness/gut-health/primebiome",
+    "width": 1366,
+    "product": "PrimeBiome",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 694.359375,
+      "height": 48,
+      "left": 115.5,
+      "right": 741.09375,
+      "top": 646.359375,
+      "width": 625.59375
+    },
+    "height": 768,
+    "images": 3,
+    "primary": {
+      "bottom": 421,
+      "height": 280,
+      "left": 774.09375,
+      "right": 1234.5,
+      "top": 141,
+      "width": 460.40625
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 1351,
+    "title": "FemiCore: Duas Misturas, Unidades Probióticas e Custos",
+    "url": "/topics/wellness/nutrition/femicore",
+    "width": 1366,
+    "product": "FemiCore",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 668.765625,
+      "height": 48,
+      "left": 115.5,
+      "right": 741.09375,
+      "top": 620.765625,
+      "width": 625.59375
+    },
+    "height": 768,
+    "images": 3,
+    "primary": {
+      "bottom": 421,
+      "height": 280,
+      "left": 774.09375,
+      "right": 1234.5,
+      "top": 141,
+      "width": 460.40625
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 1351,
+    "title": "Menovelle: Rótulo do cogumelo, porções e custos da embalagem",
+    "url": "/topics/wellness/nutrition/menovelle",
+    "width": 1366,
+    "product": "Menovelle",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 694.359375,
+      "height": 48,
+      "left": 115.5,
+      "right": 741.09375,
+      "top": 646.359375,
+      "width": 625.59375
+    },
+    "height": 768,
+    "images": 3,
+    "primary": {
+      "bottom": 421,
+      "height": 280,
+      "left": 774.09375,
+      "right": 1234.5,
+      "top": 141,
+      "width": 460.40625
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 1351,
+    "title": "MindSilence: Discrepância de CFU, custos de rotulagem e de pedidos",
+    "url": "/topics/wellness/brain-health/mindsilence",
+    "width": 1366,
+    "product": "MindSilence",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 617.703125,
+      "height": 48,
+      "left": 115.5,
+      "right": 741.09375,
+      "top": 569.703125,
+      "width": 625.59375
+    },
+    "height": 768,
+    "images": 3,
+    "primary": {
+      "bottom": 421,
+      "height": 280,
+      "left": 774.09375,
+      "right": 1234.5,
+      "top": 141,
+      "width": 460.40625
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 1351,
+    "title": "RhythmONE: Mistura de 2 ml, Avisos no Rótulo e Custos",
+    "url": "/topics/wellness/longevity/rhythmone",
+    "width": 1366,
+    "product": "RhythmONE",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 643.296875,
+      "height": 48,
+      "left": 115.5,
+      "right": 741.09375,
+      "top": 595.296875,
+      "width": 625.59375
+    },
+    "height": 768,
+    "images": 3,
+    "primary": {
+      "bottom": 421,
+      "height": 280,
+      "left": 774.09375,
+      "right": 1234.5,
+      "top": 141,
+      "width": 460.40625
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 1351,
+    "title": "Focus IQ: Painel Atual, Alergia a Peixe e Envio Automático",
+    "url": "/topics/wellness/brain-health/focus-iq",
+    "width": 1366,
+    "product": "Primal Force Focus IQ",
+    "mobileImageBeforeButtons": true
+  },
+  {
+    "cta": {
+      "bottom": 643.296875,
+      "height": 48,
+      "left": 115.5,
+      "right": 741.09375,
+      "top": 595.296875,
+      "width": 625.59375
+    },
+    "height": 768,
+    "images": 3,
+    "primary": {
+      "bottom": 421,
+      "height": 280,
+      "left": 774.09375,
+      "right": 1234.5,
+      "top": 141,
+      "width": 460.40625
+    },
+    "primaryLoaded": true,
+    "scrollWidth": 1351,
+    "title": "Análise do TonicGreens: Rótulo, Misturas e Custos",
+    "url": "/topics/wellness/nutrition/tonicgreens-review",
+    "width": 1366,
+    "product": "TonicGreens",
+    "mobileImageBeforeButtons": true
+  }
+]
