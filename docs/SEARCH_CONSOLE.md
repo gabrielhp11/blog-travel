@@ -1,5 +1,9 @@
 # Search Engine Setup
 
+## Latest verification — 1 November 2026
+
+The updated sitemap was submitted once and Google processed **127 URLs**, with submission and last-read dates of 1 November. All 127 production URLs passed the live technical checks. Google's live test of `/guides/europa-esim` also confirmed that the page is available and eligible for indexing; a manual indexing request was refused because the daily quota was already exceeded. The aggregate report still uses 22 October data and existing issue validations remain pending. See [the current audit](INDEXING_AUDIT_2026-11-01.md) for evidence and limits; sitemap discovery is not index inclusion.
+
 ## Google Search Console
 
 The homepage already contains the Google site verification meta tag, and the matching verification HTML file is kept at the site root. These prove site ownership when added to the matching Search Console property; they do not submit the sitemap automatically.
