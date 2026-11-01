@@ -8,5 +8,7 @@
   "finalContentCheck": {"command": "node scripts/run-task.js seo:build seo:check", "result": "passed"},
   "responsiveCheck": {"pages": 10, "viewports": ["320x568", "360x640", "1366x768"], "observations": 30, "horizontalOverflowFailures": 0, "primaryImageFailures": 0, "mobileImageOrderFailures": 0, "report": "evidence/responsive-checks.json"},
   "links": "Untracked official seller destinations; no newly approved affiliate partnership claimed.",
-  "publication": "Awaiting normal Git push and production availability verification."
+  "generationStability": "seo:build after the content commit left git diff empty.",
+  "publishedImages": {"checked": 30, "passed": 30, "report": "live-images.json", "scope": "HTTP 200 and image MIME type; original assets separately decoded and visually reviewed."},
+  "publication": {"status": "published_and_verified", "contentCommit": "893c485", "branch": "origin/main", "productionPagesChecked": 127, "productionPagesPassed": 127, "report": "live-validation.json", "scope": "HTTP and HTML technical eligibility; not Google index status"}
 }

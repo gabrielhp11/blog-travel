@@ -1,0 +1,187 @@
+{
+  "checkedAt": "2026-11-01T12:52:06.630Z",
+  "checked": 30,
+  "passed": 30,
+  "results": [
+    {
+      "path": "/assets/images/sources/digistore-20261031/chlorella-1.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/chlorella-2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/chlorella-3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/digestistart-1.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/digestistart-2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/digestistart-3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/femicore-1.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/femicore-2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/femicore-3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/focus-iq-1.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/focus-iq-2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/focus-iq-3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/kraeuteressenz-1.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/kraeuteressenz-2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/kraeuteressenz-3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/menovelle-1.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/menovelle-2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/menovelle-3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/mindsilence-1.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/mindsilence-2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/mindsilence-3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/primebiome-1.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/primebiome-2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/primebiome-3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/rhythmone-1.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/rhythmone-2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/rhythmone-3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/tonicgreens-1.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/tonicgreens-2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    },
+    {
+      "path": "/assets/images/sources/digistore-20261031/tonicgreens-3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "passed": true
+    }
+  ]
+}
