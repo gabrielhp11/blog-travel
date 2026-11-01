@@ -1,0 +1,452 @@
+Browser tab: 540249778, Title: "Meta Business Suite", URL: "https://business.facebook.com/latest/posts/active_stories?business_id=1797870504751927&asset_id=1441439982376766".
+1 AXWebArea Meta Business Suite, URL: business.facebook.com/latest/posts/active_stories?business_id=1797870504751927&asset_id=1441439982376766
+	2 container
+		3 container mount_0_0_mI
+			4 container
+				5 container
+					6 heading Conteúdo, Value: 1
+						7 text Conteúdo
+					8 text Programe, publique e gerencie posts, reels e stories e muito mais.
+					9 toolbar
+						10 container
+							11 button Exportar dados
+								12 image
+								13 text Exportar dados
+							14 pop up button (collapsed) Abrir opções de exportação ​, Secondary Actions: Expand
+								15 text Abrir opções de exportação
+								16 image
+						17 button Criar reel
+							18 image
+							19 text Criar reel
+						20 container
+							21 button Criar post
+								22 image
+								23 text Criar post
+							24 pop up button (collapsed) Criar post ​, Secondary Actions: Expand
+								25 text Criar post
+								26 image
+						27 button Tarefas
+							28 image
+							29 text Tarefas
+						30 button Facebook
+							31 container
+								32 image Facebook
+					33 container
+						34 container
+							35 container Conteúdo
+								36 container
+									37 image
+									38 text Conteúdo
+								39 content list
+									40 container
+										41 link Description: Posts e reels, Value: business.facebook.com/latest/posts/published_posts?business_id=1797870504751927&asset_id=1441439982376766
+										42 text Posts e reels
+									43 container
+										44 link Description: Stories, Value: business.facebook.com/latest/posts/active_stories?business_id=1797870504751927&asset_id=1441439982376766
+										45 text Stories
+									46 container
+										47 link Description: Testes A/B, Value: business.facebook.com/latest/posts/ab_testing?business_id=1797870504751927&asset_id=1441439982376766
+										48 text Testes A/B
+									49 container
+										50 link Description: Feed e grade, Value: business.facebook.com/latest/posts/feed_and_grid?business_id=1797870504751927&asset_id=1441439982376766
+										51 text Feed e grade
+									52 container
+										53 link Description: Menções e marcações, Value: business.facebook.com/latest/posts/tagged_content?business_id=1797870504751927&asset_id=1441439982376766
+										54 text Menções e marcações
+									55 container
+										56 link Description: Clipes, Value: business.facebook.com/latest/posts/all_clips?business_id=1797870504751927&asset_id=1441439982376766
+										57 text Clipes
+							58 container Coleções
+								59 container
+									60 image
+									61 text Coleções
+								62 content list
+									63 container
+										64 link Description: Playlists, Value: business.facebook.com/latest/posts/all_playlists?business_id=1797870504751927&asset_id=1441439982376766
+										65 text Playlists
+							66 container Peças publicitárias
+								67 container
+									68 image
+									69 text Peças publicitárias
+								70 content list
+									71 container
+										72 link Description: Vídeos para post cruzado, Value: business.facebook.com/latest/posts/videos_you_can_crosspost?business_id=1797870504751927&asset_id=1441439982376766
+										73 text Vídeos para post cruzado
+						74 button Expandir ​
+							75 text Expandir
+							76 image
+					77 image
+					78 heading Ativar os insights de stories do Facebook, Value: 4
+						79 text Ativar os insights de stories do Facebook
+					80 button Fechar ​
+						81 text Fechar
+						82 image
+					83 button Ver mais
+					84 container
+						85 image Instagram
+						86 heading Destaques do Instagram, Value: 3
+							87 text Destaques do Instagram
+						88 button collapse IG highlight section ​
+							89 text collapse IG highlight section
+							90 image
+						91 container
+							92 button Abrir a célula de destaques do Instagram
+								93 image
+								94 text Novo
+							95 button Abrir a célula de destaques do Instagram
+								96 text Collagen
+							97 button Abrir a célula de destaques do Instagram
+								98 text Mens Health
+							99 button Abrir a célula de destaques do Instagram
+								100 text Hair
+							101 button Abrir a célula de destaques do Instagram
+								102 text Sleep
+							103 button Abrir a célula de destaques do Instagram
+								104 text Metabolic
+							105 button Abrir a célula de destaques do Instagram
+								106 text Brain
+							107 button Abrir a célula de destaques do Instagram
+								108 text Digestion
+							109 button Abrir a célula de destaques do Instagram
+								110 text Joints
+							111 button Abrir a célula de destaques do Instagram
+								112 text Longevity
+							113 button Abrir a célula de destaques do Instagram
+								114 text Nutrition
+							115 button Abrir a célula de destaques do Instagram
+								116 text Vision
+							117 button Abrir a célula de destaques do Instagram
+								118 text Formulas
+							119 button Abrir a célula de destaques do Instagram
+								120 text Labels
+						121 tab group
+							122 tab (selected, settable, boolean) Description: Ativo, Value: 1
+							123 tab (selectable, settable, boolean) Description: Programado, Value: 0
+							124 tab (selectable, settable, boolean) Description: Itens Arquivados, Value: 0
+						125 container
+							126 text Posicionamento
+							127 combo box (collapsed) Posicionamento Posicionamento, Value: Posicionamento ​, ID: js_2k, Secondary Actions: Expand
+								128 container
+									129 text Posicionamento
+									130 image
+							131 text Filtrar
+							132 combo box (collapsed) Filtrar Filtrar, Value: Filtrar ​, ID: js_2q, Secondary Actions: Expand
+								133 container
+									134 text Filtrar
+									135 image
+							136 link Description: Limpar, Value: business.facebook.com/latest/posts/active_stories?business_id=1797870504751927&asset_id=1441439982376766#
+							137 button Últimos 90 dias: 3 de ago de 2026 a 31 de out de 2026
+								138 image
+								139 container
+									140 text Últimos 90 dias :  3 de ago de 2026 a 31 de out de 2026
+								141 image
+							279 table Uma tabela que mostra insights sobre o conteúdo criado para a Página ou perfil do Facebook e/ou o perfil do Instagram selecionado, incluindo anúncios, posts e stories.
+								280 row Story ​ Visualizadores Data da publicação Status
+									281 cell
+									282 cell
+										283 heading Story, Value: 4
+											284 text Story
+										285 image
+									286 cell
+										287 heading Visualizadores, Value: 4
+											288 text Visualizadores
+									289 cell
+										290 button Data da publicação
+											291 heading Data da publicação, Value: 4
+												292 text Data da publicação
+									293 cell
+										294 heading Status, Value: 4
+											295 text Status
+								296 container
+									297 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Domingo, 1 de novembro 10:19
+										298 cell
+											299 checkbox Selecionar item com a legenda "", Value: 0
+												300 container Selecionar item com a legenda ""
+										301 cell
+											302 container
+												303 image Instagram
+											304 heading Foto · 5 segundos, Value: 4
+												305 text Foto · 5 segundos
+											306 text 23 horas restantes
+											307 button Turbinar
+												308 text Turbinar
+										309 cell
+										310 cell
+											311 text Domingo, 1 de novembro 10:19
+										312 cell
+									313 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Domingo, 1 de novembro 10:19
+										314 cell
+											315 checkbox Selecionar item com a legenda "", Value: 0
+												316 container Selecionar item com a legenda ""
+										317 cell
+											318 container
+												319 image Instagram
+											320 heading Foto · 5 segundos, Value: 4
+												321 text Foto · 5 segundos
+											322 text 23 horas restantes
+											323 button Turbinar
+												324 text Turbinar
+										325 cell
+										326 cell
+											327 text Domingo, 1 de novembro 10:19
+										328 cell
+									329 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Domingo, 1 de novembro 10:18
+										330 cell
+											331 checkbox Selecionar item com a legenda "", Value: 0
+												332 container Selecionar item com a legenda ""
+										333 cell
+											334 container
+												335 image Instagram
+											336 heading Foto · 5 segundos, Value: 4
+												337 text Foto · 5 segundos
+											338 text 23 horas restantes
+											339 button Turbinar
+												340 text Turbinar
+										341 cell
+										342 cell
+											343 text Domingo, 1 de novembro 10:18
+										344 cell
+									345 row Selecionar item com a legenda "" Instagram Foto · 5 segundos 23 horas restantes Turbinar Domingo, 1 de novembro 10:18
+										346 cell
+											347 checkbox Selecionar item com a legenda "", Value: 0
+												348 container Selecionar item com a legenda ""
+										349 cell
+											350 container
+												351 image Instagram
+											352 heading Foto · 5 segundos, Value: 4
+												353 text Foto · 5 segundos
+											354 text 23 horas restantes
+											355 button Turbinar
+												356 text Turbinar
+										357 cell
+										358 cell
+											359 text Domingo, 1 de novembro 10:18
+										360 cell
+				209 button Assistente da Meta AI para empresas
+				210 container
+					211 button Meta Business Suite
+						212 text Meta Business Suite
+					213 button Pressable
+						214 container
+							215 image Instagram
+							216 image Facebook
+					217 container Links
+						218 text Links
+						219 content list
+							220 container
+								221 link Description: Página inicial, Value: business.facebook.com/latest/home?business_id=1797870504751927&asset_id=1441439982376766
+								222 text Página inicial
+							223 container
+								224 link Notificações
+									225 text Notificações
+								226 text Notificações
+							227 container
+								228 link Gerenciador de Anúncios
+									229 text Gerenciador de Anúncios
+								230 text Gerenciador de Anúncios
+							231 container
+								232 link Description: Caixa de Entrada, Value: business.facebook.com/latest/inbox?business_id=1797870504751927&asset_id=1441439982376766
+								233 text Caixa de Entrada
+							234 container
+								235 link Description: Conteúdo, Value: business.facebook.com/latest/posts?business_id=1797870504751927&asset_id=1441439982376766
+								236 text Conteúdo
+							237 container Links
+								238 text Links
+								239 content list
+									240 container
+										241 container
+											242 link Description: Central de Leads, Value: business.facebook.com/latest/leads_center?business_id=1797870504751927&asset_id=1441439982376766
+											243 text Central de Leads
+										244 container
+											245 link Description: Planner, Value: business.facebook.com/latest/content_calendar?business_id=1797870504751927&asset_id=1441439982376766
+											246 text Planner
+										247 container
+											248 link Description: Anúncios, Value: business.facebook.com/latest/ad_center/ads_summary?business_id=1797870504751927&asset_id=1441439982376766
+											249 text Anúncios
+							250 container
+								251 link Description: Cobrança e pagamentos, Value: business.facebook.com/billing_hub/?business_id=1797870504751927&placement=mbs_all_tools_menu
+								252 text Cobrança e pagamentos
+							253 container
+								254 link Description: Públicos, Value: business.facebook.com/ads/manager/audiences/?business_id=1797870504751927&nav_source=business_manager
+								255 text Públicos
+							256 container
+								257 link Description: Gerenciador de Eventos, Value: business.facebook.com/events_manager2/?business_id=1797870504751927&global_scope_id=1797870504751927&nav_source=biz_nav
+								258 text Gerenciador de Eventos
+							259 container
+								260 link Todas as ferramentas
+									261 text Todas as ferramentas
+								262 text Todas as ferramentas
+					263 container
+						264 link Pesquisar
+							265 text Pesquisar
+						266 text Pesquisar
+						267 image
+					268 container Links
+						269 text Links
+						270 content list
+							271 container
+								272 link Description: Configurações, Value: business.facebook.com/latest/settings/business_overview?business_id=1797870504751927&asset_id=1441439982376766
+								273 text Configurações
+					274 container
+						275 link Ajuda
+							276 text Ajuda
+						277 text Ajuda
+						278 image
+		361 container Editar destaque
+			362 container Editar destaque
+				363 heading Editar destaque, Value: 3, ID: js_3z
+					364 text Editar destaque
+				365 button Fechar ​
+					366 text Fechar
+					367 image
+				368 container
+					369 heading Stories selecionados (13), Value: 3
+						370 text Stories selecionados (13)
+					371 container
+						372 button
+							373 container
+								374 text 30 de out
+							375 heading 4019411718774216547, Value: 4, ID: js_41
+								376 text 4019411718774216547
+					377 container
+						378 button
+							379 container
+								380 text 30 de out
+							381 heading 4019411777469336156, Value: 4, ID: js_43
+								382 text 4019411777469336156
+					383 container
+						384 button
+							385 container
+								386 text 30 de out
+							387 heading 4019411832439850415, Value: 4, ID: js_45
+								388 text 4019411832439850415
+					389 container
+						390 button
+							391 container
+								392 text 30 de out
+							393 heading 4019411871790848055, Value: 4, ID: js_47
+								394 text 4019411871790848055
+					395 container
+						396 button
+							397 container
+								398 text 30 de out
+							399 heading 4019411910680411736, Value: 4, ID: js_49
+								400 text 4019411910680411736
+					401 container
+						402 button
+							403 container
+								404 text 31 de out
+							405 heading 4020052075646847054, Value: 4, ID: js_4b
+								406 text 4020052075646847054
+					407 container
+						408 button
+							409 container
+								410 text 31 de out
+							411 heading 4020052134132248946, Value: 4, ID: js_4d
+								412 text 4020052134132248946
+					413 container
+						414 button
+							415 container
+								416 text 31 de out
+							417 heading 4020052194479837163, Value: 4, ID: js_4f
+								418 text 4020052194479837163
+					419 container
+						420 button
+							421 container
+								422 text 31 de out
+							423 heading 4020052259499980172, Value: 4, ID: js_4h
+								424 text 4020052259499980172
+					425 heading Todos os stories, Value: 3
+						426 text Todos os stories
+					427 container
+						428 button
+							429 container
+								430 text 1 de nov
+							431 heading 4020820246689133877, Value: 4, ID: js_4p
+								432 text 4020820246689133877
+					433 container
+						434 button
+							435 container
+								436 text 1 de nov
+							437 heading 4020820187078983414, Value: 4, ID: js_4r
+								438 text 4020820187078983414
+					439 container
+						440 button
+							441 container
+								442 text 1 de nov
+							443 heading 4020820125825142766, Value: 4, ID: js_4t
+								444 text 4020820125825142766
+					445 container
+						446 button
+							447 container
+								448 text 1 de nov
+							449 heading 4020820039708927541, Value: 4, ID: js_4v
+								450 text 4020820039708927541
+					451 container
+						452 button
+							453 container
+								454 text 31 de out
+							455 heading 4020060775733069383, Value: 4, ID: js_4x
+								456 text 4020060775733069383
+					457 container
+						458 button
+							459 container
+								460 text 31 de out
+							461 heading 4020060322278472824, Value: 4, ID: js_4z
+								462 text 4020060322278472824
+					463 container
+						464 button
+							465 container
+								466 text 31 de out
+							467 heading 4020060271930613670, Value: 4, ID: js_51
+								468 text 4020060271930613670
+					469 container
+						470 button
+							471 container
+								472 text 31 de out
+							473 heading 4020059857213329822, Value: 4, ID: js_53
+								474 text 4020059857213329822
+					475 container
+						476 button
+							477 container
+								478 text 31 de out
+							479 heading 4020059150792383054, Value: 4, ID: js_55
+								480 text 4020059150792383054
+					481 container
+						482 button
+							483 container
+								484 text 31 de out
+							485 heading 4020059084606225796, Value: 4, ID: js_57
+								486 text 4020059084606225796
+					487 container
+						488 button
+							489 container
+								490 text 31 de out
+							491 heading 4020059020047483496, Value: 4, ID: js_59
+								492 text 4020059020047483496
+					493 container
+						494 button
+							495 container
+								496 text 31 de out
+							497 heading 4020058964766588230, Value: 4, ID: js_5b
+								498 text 4020058964766588230
+					499 heading Título, Value: 3
+						500 text Título
+					501 text Dê um nome ao destaque dos stories
+					502 container
+						503 text field (settable) Dê um nome ao destaque dos stories, Value: Nutrition, ID: js_4j
+						504 text 9 / 16
+					505 heading Capa, Value: 3
+						506 text Capa
+					507 button Editar capa
+						508 image
+						509 text Editar capa
+				510 button Excluir destaque
+					511 image
+					512 text Excluir destaque
+				513 button Cancelar
+					514 text Cancelar
+				515 button Salvar destaque
+					516 text Salvar destaque
+
+The focused UI element is 446 button

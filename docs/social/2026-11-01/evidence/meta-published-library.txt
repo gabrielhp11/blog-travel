@@ -1,0 +1,733 @@
+Browser tab: 540249769, Title: "Meta Business Suite", URL: "https://business.facebook.com/latest/posts/published_posts/?business_id=1797870504751927&asset_id=1441439982376766".
+1 AXWebArea Meta Business Suite, URL: business.facebook.com/latest/posts/published_posts/?business_id=1797870504751927&asset_id=1441439982376766
+	2 container
+		3 container mount_0_0_lZ
+			4 container
+				5 container
+					6 heading Conteúdo, Value: 1
+						7 text Conteúdo
+					8 text Programe, publique e gerencie posts, reels e stories e muito mais.
+					9 toolbar
+						10 container
+							11 button Exportar dados
+								12 image
+								13 text Exportar dados
+							14 pop up button (collapsed) Abrir opções de exportação ​, Secondary Actions: Expand
+								15 text Abrir opções de exportação
+								16 image
+						17 button Criar reel
+							18 image
+							19 text Criar reel
+						20 container
+							21 button Criar post
+								22 image
+								23 text Criar post
+							24 pop up button (collapsed) Criar post ​, Secondary Actions: Expand
+								25 text Criar post
+								26 image
+						27 button Tarefas
+							28 image
+							29 text Tarefas
+						30 button Facebook
+							31 container
+								32 image Facebook
+					33 container
+						34 container
+							35 container Conteúdo
+								36 container
+									37 image
+									38 text Conteúdo
+								39 content list
+									40 container
+										41 link Description: Posts e reels, Value: business.facebook.com/latest/posts/published_posts?business_id=1797870504751927&asset_id=1441439982376766
+										42 text Posts e reels
+									43 container
+										44 link Description: Stories, Value: business.facebook.com/latest/posts/active_stories?business_id=1797870504751927&asset_id=1441439982376766
+										45 text Stories
+									46 container
+										47 link Description: Testes A/B, Value: business.facebook.com/latest/posts/ab_testing?business_id=1797870504751927&asset_id=1441439982376766
+										48 text Testes A/B
+									49 container
+										50 link Description: Feed e grade, Value: business.facebook.com/latest/posts/feed_and_grid?business_id=1797870504751927&asset_id=1441439982376766
+										51 text Feed e grade
+									52 container
+										53 link Description: Menções e marcações, Value: business.facebook.com/latest/posts/tagged_content?business_id=1797870504751927&asset_id=1441439982376766
+										54 text Menções e marcações
+									55 container
+										56 link Description: Clipes, Value: business.facebook.com/latest/posts/all_clips?business_id=1797870504751927&asset_id=1441439982376766
+										57 text Clipes
+							58 container Coleções
+								59 container
+									60 image
+									61 text Coleções
+								62 content list
+									63 container
+										64 link Description: Playlists, Value: business.facebook.com/latest/posts/all_playlists?business_id=1797870504751927&asset_id=1441439982376766
+										65 text Playlists
+							66 container Peças publicitárias
+								67 container
+									68 image
+									69 text Peças publicitárias
+								70 content list
+									71 container
+										72 link Description: Vídeos para post cruzado, Value: business.facebook.com/latest/posts/videos_you_can_crosspost?business_id=1797870504751927&asset_id=1441439982376766
+										73 text Vídeos para post cruzado
+						74 button Expandir ​
+							75 text Expandir
+							76 image
+					77 image
+					78 heading O alcance do Facebook não estará mais disponível a partir de 31 de outubro de 2026, Value: 4
+						79 text O alcance do Facebook não estará mais disponível a partir de 31 de outubro de 2026
+					80 button Fechar ​
+						81 text Fechar
+						82 image
+					83 text "Visualizadores" é a métrica principal para entender quantas contas visualizaram seu conteúdo do Facebook.
+					84 container
+						85 tab group
+							86 tab (selected, settable, boolean) Description: Publicados, Value: 1
+							87 tab (selectable, settable, boolean) Description: Programados, Value: 0
+							88 tab (selectable, settable, boolean) Description: Rascunhos, Value: 0
+							89 tab (selectable, settable, boolean) Description: Quase expirando, Value: 0
+							90 pop up button Mais
+								91 image
+						92 text Filtrar
+						93 combo box (collapsed) Filtrar Filtrar, Value: Filtrar ​, ID: js_4t, Secondary Actions: Expand
+							94 container
+								95 text Filtrar
+								96 image
+						97 container js_35
+							98 text Pesquisar por ID ou legenda
+						99 container
+							100 text field (settable) Pesquisar por ID ou legenda, ID: js_34
+						101 image
+						102 button Últimos 90 dias
+							103 image
+							104 text Últimos 90 dias
+							105 image
+						106 button Colunas ​
+							107 text Colunas
+							108 image
+						109 table Posts publicados
+							110 row Selecionar tudo Título Data da publicação Status Alcance ​ Visualizações ​
+								111 cell
+									112 container
+										113 checkbox (settable, integer) Description: Selecionar tudo, Value: 0
+										114 image
+								115 cell
+									116 heading Título, Value: 4
+										117 text Título
+								118 cell
+									119 button Data da publicação
+										120 heading Data da publicação, Value: 4
+											121 text Data da publicação
+								122 cell
+									123 button Status
+										124 heading Status, Value: 4
+											125 text Status
+								126 cell
+									127 button Alcance ​
+										128 heading Alcance ​, Value: 4
+											129 text Alcance
+											130 image
+								131 cell
+									132 button Visualizações ​
+										133 heading Visualizações ​, Value: 4
+											134 text Visualizações
+											135 image
+								136 cell
+									137 button Visualizadores ​
+										138 heading Visualizadores ​, Value: 4
+											139 text Visualizadores
+											140 image
+								141 cell
+									142 button Seguidores ​
+										143 heading Seguidores ​, Value: 4
+											144 text Seguidores
+											145 image
+								146 cell
+									147 button Interações líquidas ​
+										148 heading Interações líquidas ​, Value: 4
+											149 text Interações líquidas
+											150 image
+								151 cell
+									152 button Curtidas e reações ​
+										153 heading Curtidas e reações ​, Value: 4
+											154 text Curtidas e reações
+											155 image
+								156 cell
+									157 button Comentários ​
+										158 heading Comentários ​, Value: 4
+											159 text Comentários
+											160 image
+								161 cell
+									162 button Compartilhamentos ​
+										163 heading Compartilhamentos ​, Value: 4
+											164 text Compartilhamentos
+											165 image
+								166 cell
+									167 button Salvamentos ​
+										168 heading Salvamentos ​, Value: 4
+											169 text Salvamentos
+											170 image
+								171 cell
+									172 button Cliques no link ​
+										173 heading Cliques no link ​, Value: 4
+											174 text Cliques no link
+											175 image
+								176 cell
+									177 button Tempo de visualização ​
+										178 heading Tempo de visualização ​, Value: 4
+											179 text Tempo de visualização
+											180 image
+								181 cell
+									182 button Tempo médio de reprodução do vídeo ​
+										183 heading Tempo médio de reprodução do vídeo ​, Value: 4
+											184 text Tempo médio de reprodução do vídeo
+											185 image
+								186 cell
+									187 button Visualizações de 3 segundos ​
+										188 heading Visualizações de 3 segundos ​, Value: 4
+											189 text Visualizações de 3 segundos
+											190 image
+								191 cell
+									192 button Ganhos aproximados com anúncios in-stream ​
+										193 heading Ganhos aproximados com anúncios in-stream ​, Value: 4
+											194 text Ganhos aproximados com anúncios in-stream
+											195 image
+							196 container
+								197 row Selecionar item com identificação 122100930873532355 Instagram Facebook Editorial disclosure: this guide uses untracked official links. PER TABLET OR PER DAY? The QBX Chlorella guide separates a tablet amount from the stated daily serving and keeps the sulfite warning visible. Compare the formula and the minimum commitment of recurring delivery. German-language guide; Germany buying context. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-chlorella AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Domingo, 1 de novembro 10:17 Não turbinado no momento
+									198 cell
+										199 container
+											200 checkbox (settable, integer) Description: Selecionar item com identificação 122100930873532355, Value: 0
+											201 image
+									202 cell
+										203 container
+											204 container
+												205 image Instagram
+												206 image Facebook
+											207 text Editorial disclosure: this guide uses untracked official links. PER TABLET OR PER DAY? The QBX Chlorella guide separates a tablet amount from the stated daily serving and keeps the sulfite warning visible. Compare the formula and the minimum commitment of recurring delivery. German-language guide; Germany buying context. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-chlorella AI editorial illustration; not product photography.
+											208 image
+											209 text Foto
+											210 image
+											211 text Post cruzado
+											212 image
+											213 text PokiSky Supplement Guides, pokisky.guides
+											214 button Turbinar
+												215 text Turbinar
+											216 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												217 text Abrir menu suspenso
+												218 image
+											219 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												220 text Abrir menu suspenso
+												221 image
+									222 cell
+										223 checkbox Domingo, 1 de novembro 10:17, Value: 0
+									224 cell
+										225 checkbox Não turbinado no momento, Value: 0
+											226 container Não turbinado no momento
+									227 cell
+										228 checkbox 0
+									229 cell
+										230 checkbox 0
+									231 cell
+										232 checkbox 0
+									233 cell
+										234 checkbox 0
+									235 cell
+										236 checkbox 0
+									237 cell
+										238 checkbox 0
+									239 cell
+										240 checkbox 0
+									241 cell
+										242 checkbox 0
+									243 cell
+										244 checkbox 0
+									245 cell
+										246 checkbox 0
+									247 cell
+										248 checkbox ‑‑, Value: 0
+									249 cell
+										250 checkbox ‑‑, Value: 0
+									251 cell
+										252 checkbox 0
+									253 cell
+										254 checkbox ‑‑, Value: 0
+								255 row Selecionar item com identificação 122100929559532355 Instagram Facebook Editorial disclosure: this guide uses untracked official links. DO THE LABEL NUMBERS ADD UP? The reviewed TonicGreens panel has serving-weight and nutrition entries that do not reconcile. Ask for a current corrected panel before using those values in a nutrition comparison. The guide reports the inconsistency without inventing a replacement. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=tonicgreens-review AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Domingo, 1 de novembro 10:16 Não turbinado no momento
+									256 cell
+										257 container
+											258 checkbox (settable, integer) Description: Selecionar item com identificação 122100929559532355, Value: 0
+											259 image
+									260 cell
+										261 container
+											262 container
+												263 image Instagram
+												264 image Facebook
+											265 text Editorial disclosure: this guide uses untracked official links. DO THE LABEL NUMBERS ADD UP? The reviewed TonicGreens panel has serving-weight and nutrition entries that do not reconcile. Ask for a current corrected panel before using those values in a nutrition comparison. The guide reports the inconsistency without inventing a replacement. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=tonicgreens-review AI editorial illustration; not product photography.
+											266 image
+											267 text Foto
+											268 image
+											269 text Post cruzado
+											270 image
+											271 text PokiSky Supplement Guides, pokisky.guides
+											272 button Turbinar
+												273 text Turbinar
+											274 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												275 text Abrir menu suspenso
+												276 image
+											277 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												278 text Abrir menu suspenso
+												279 image
+									280 cell
+										281 checkbox Domingo, 1 de novembro 10:16, Value: 0
+									282 cell
+										283 checkbox Não turbinado no momento, Value: 0
+											284 container Não turbinado no momento
+									285 cell
+										286 checkbox 0
+									287 cell
+										288 checkbox 0
+									289 cell
+										290 checkbox 0
+									291 cell
+										292 checkbox 0
+									293 cell
+										294 checkbox 0
+									295 cell
+										296 checkbox 0
+									297 cell
+										298 checkbox 0
+									299 cell
+										300 checkbox 0
+									301 cell
+										302 checkbox 0
+									303 cell
+										304 checkbox 0
+									305 cell
+										306 checkbox ‑‑, Value: 0
+									307 cell
+										308 checkbox ‑‑, Value: 0
+									309 cell
+										310 checkbox 0
+									311 cell
+										312 checkbox ‑‑, Value: 0
+								313 row Selecionar item com identificação 122100928407532355 Instagram Facebook Editorial disclosure: this guide uses untracked official links. CAPSULE MATERIAL IS NOT THE FORMULA The Primal Force Focus IQ store discloses fish even though the panel lists a vegetable capsule. Compare the whole formula, and distinguish one-time purchase from recurring autoship. Capsule material alone does not establish allergen suitability. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/brain-health/focus-iq?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=focus-iq AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Domingo, 1 de novembro 10:15 Não turbinado no momento
+									314 cell
+										315 container
+											316 checkbox (settable, integer) Description: Selecionar item com identificação 122100928407532355, Value: 0
+											317 image
+									318 cell
+										319 container
+											320 container
+												321 image Instagram
+												322 image Facebook
+											323 text Editorial disclosure: this guide uses untracked official links. CAPSULE MATERIAL IS NOT THE FORMULA The Primal Force Focus IQ store discloses fish even though the panel lists a vegetable capsule. Compare the whole formula, and distinguish one-time purchase from recurring autoship. Capsule material alone does not establish allergen suitability. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/brain-health/focus-iq?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=focus-iq AI editorial illustration; not product photography.
+											324 image
+											325 text Foto
+											326 image
+											327 text Post cruzado
+											328 image
+											329 text PokiSky Supplement Guides, pokisky.guides
+											330 button Turbinar
+												331 text Turbinar
+											332 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												333 text Abrir menu suspenso
+												334 image
+											335 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												336 text Abrir menu suspenso
+												337 image
+									338 cell
+										339 checkbox Domingo, 1 de novembro 10:15, Value: 0
+									340 cell
+										341 checkbox Não turbinado no momento, Value: 0
+											342 container Não turbinado no momento
+									343 cell
+										344 checkbox 0
+									345 cell
+										346 checkbox 0
+									347 cell
+										348 checkbox 0
+									349 cell
+										350 checkbox 0
+									351 cell
+										352 checkbox 0
+									353 cell
+										354 checkbox 0
+									355 cell
+										356 checkbox 0
+									357 cell
+										358 checkbox 0
+									359 cell
+										360 checkbox 0
+									361 cell
+										362 checkbox 0
+									363 cell
+										364 checkbox ‑‑, Value: 0
+									365 cell
+										366 checkbox ‑‑, Value: 0
+									367 cell
+										368 checkbox 0
+									369 cell
+										370 checkbox ‑‑, Value: 0
+								371 row Selecionar item com identificação 122100927345532355 Instagram Facebook Editorial disclosure: this guide uses untracked official links. READ THE CAUTION FIRST The reviewed RhythmONE wrapper says product safety has not been determined. Keep that caution visible and seek qualified review before considering suitability. The guide flags incomplete guarantee terms and does not recommend an extra serving. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/longevity/rhythmone?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=rhythmone AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Domingo, 1 de novembro 10:14 Não turbinado no momento
+									372 cell
+										373 container
+											374 checkbox (settable, integer) Description: Selecionar item com identificação 122100927345532355, Value: 0
+											375 image
+									376 cell
+										377 container
+											378 container
+												379 image Instagram
+												380 image Facebook
+											381 text Editorial disclosure: this guide uses untracked official links. READ THE CAUTION FIRST The reviewed RhythmONE wrapper says product safety has not been determined. Keep that caution visible and seek qualified review before considering suitability. The guide flags incomplete guarantee terms and does not recommend an extra serving. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/longevity/rhythmone?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=rhythmone AI editorial illustration; not product photography.
+											382 image
+											383 text Foto
+											384 image
+											385 text Post cruzado
+											386 image
+											387 text PokiSky Supplement Guides, pokisky.guides
+											388 button Turbinar
+												389 text Turbinar
+											390 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												391 text Abrir menu suspenso
+												392 image
+											393 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												394 text Abrir menu suspenso
+												395 image
+									396 cell
+										397 checkbox Domingo, 1 de novembro 10:14, Value: 0
+									398 cell
+										399 checkbox Não turbinado no momento, Value: 0
+											400 container Não turbinado no momento
+									401 cell
+										402 checkbox 0
+									403 cell
+										404 checkbox 0
+									405 cell
+										406 checkbox 0
+									407 cell
+										408 checkbox 0
+									409 cell
+										410 checkbox 0
+									411 cell
+										412 checkbox 0
+									413 cell
+										414 checkbox 0
+									415 cell
+										416 checkbox 0
+									417 cell
+										418 checkbox 0
+									419 cell
+										420 checkbox 0
+									421 cell
+										422 checkbox ‑‑, Value: 0
+									423 cell
+										424 checkbox ‑‑, Value: 0
+									425 cell
+										426 checkbox 0
+									427 cell
+										428 checkbox ‑‑, Value: 0
+								429 row Selecionar item com identificação 122100926343532355 Instagram Facebook Editorial disclosure: this guide uses untracked official links. WHEN TWO COUNTS DISAGREE The reviewed MindSilence panel contains conflicting probiotic counts. Request the current corrected label and the guarantee date rather than choosing a number. The guide does not establish that this supplement treats tinnitus. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/brain-health/mindsilence?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=mindsilence AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Domingo, 1 de novembro 10:13 Não turbinado no momento
+									430 cell
+										431 container
+											432 checkbox (settable, integer) Description: Selecionar item com identificação 122100926343532355, Value: 0
+											433 image
+									434 cell
+										435 container
+											436 container
+												437 image Instagram
+												438 image Facebook
+											439 text Editorial disclosure: this guide uses untracked official links. WHEN TWO COUNTS DISAGREE The reviewed MindSilence panel contains conflicting probiotic counts. Request the current corrected label and the guarantee date rather than choosing a number. The guide does not establish that this supplement treats tinnitus. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/brain-health/mindsilence?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=mindsilence AI editorial illustration; not product photography.
+											440 image
+											441 text Foto
+											442 image
+											443 text Post cruzado
+											444 image
+											445 text PokiSky Supplement Guides, pokisky.guides
+											446 button Turbinar
+												447 text Turbinar
+											448 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												449 text Abrir menu suspenso
+												450 image
+											451 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												452 text Abrir menu suspenso
+												453 image
+									454 cell
+										455 checkbox Domingo, 1 de novembro 10:13, Value: 0
+									456 cell
+										457 checkbox Não turbinado no momento, Value: 0
+											458 container Não turbinado no momento
+									459 cell
+										460 checkbox 0
+									461 cell
+										462 checkbox 0
+									463 cell
+										464 checkbox 0
+									465 cell
+										466 checkbox 0
+									467 cell
+										468 checkbox 0
+									469 cell
+										470 checkbox 0
+									471 cell
+										472 checkbox 0
+									473 cell
+										474 checkbox 0
+									475 cell
+										476 checkbox 0
+									477 cell
+										478 checkbox 0
+									479 cell
+										480 checkbox ‑‑, Value: 0
+									481 cell
+										482 checkbox ‑‑, Value: 0
+									483 cell
+										484 checkbox 0
+									485 cell
+										486 checkbox ‑‑, Value: 0
+								487 row Selecionar item com identificação 122100924729532355 Instagram Facebook Editorial disclosure: this guide uses untracked official links. CAPSULES ARE NOT SERVINGS Menovelle defines a serving differently from a capsule count. Four mushroom entries have individual amounts, while additional mushrooms share a blend total. Compare those quantities and the complete order without assuming hormonal effects. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=menovelle AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Domingo, 1 de novembro 10:12 Não turbinado no momento
+									488 cell
+										489 container
+											490 checkbox (settable, integer) Description: Selecionar item com identificação 122100924729532355, Value: 0
+											491 image
+									492 cell
+										493 container
+											494 container
+												495 image Instagram
+												496 image Facebook
+											497 text Editorial disclosure: this guide uses untracked official links. CAPSULES ARE NOT SERVINGS Menovelle defines a serving differently from a capsule count. Four mushroom entries have individual amounts, while additional mushrooms share a blend total. Compare those quantities and the complete order without assuming hormonal effects. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=menovelle AI editorial illustration; not product photography.
+											498 image
+											499 text Foto
+											500 image
+											501 text Post cruzado
+											502 image
+											503 text PokiSky Supplement Guides, pokisky.guides
+											504 button Turbinar
+												505 text Turbinar
+											506 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												507 text Abrir menu suspenso
+												508 image
+											509 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												510 text Abrir menu suspenso
+												511 image
+									512 cell
+										513 checkbox Domingo, 1 de novembro 10:12, Value: 0
+									514 cell
+										515 checkbox Não turbinado no momento, Value: 0
+											516 container Não turbinado no momento
+									517 cell
+										518 checkbox 0
+									519 cell
+										520 checkbox 0
+									521 cell
+										522 checkbox 0
+									523 cell
+										524 checkbox 0
+									525 cell
+										526 checkbox 0
+									527 cell
+										528 checkbox 0
+									529 cell
+										530 checkbox 0
+									531 cell
+										532 checkbox 0
+									533 cell
+										534 checkbox 0
+									535 cell
+										536 checkbox 0
+									537 cell
+										538 checkbox ‑‑, Value: 0
+									539 cell
+										540 checkbox ‑‑, Value: 0
+									541 cell
+										542 checkbox 0
+									543 cell
+										544 checkbox ‑‑, Value: 0
+								545 row Selecionar item com identificação 122100923691532355 Instagram Facebook Editorial disclosure: this guide uses untracked official links. MILLIGRAMS ARE NOT A CELL COUNT FemiCore lists separate herbal and probiotic blend masses. Milligrams do not establish a viable-organism count. Read the full formula and the conflicting refund wording; this is a label guide, not evidence of urinary treatment. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=femicore AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Domingo, 1 de novembro 10:11 Não turbinado no momento
+									546 cell
+										547 container
+											548 checkbox (settable, integer) Description: Selecionar item com identificação 122100923691532355, Value: 0
+											549 image
+									550 cell
+										551 container
+											552 container
+												553 image Instagram
+												554 image Facebook
+											555 text Editorial disclosure: this guide uses untracked official links. MILLIGRAMS ARE NOT A CELL COUNT FemiCore lists separate herbal and probiotic blend masses. Milligrams do not establish a viable-organism count. Read the full formula and the conflicting refund wording; this is a label guide, not evidence of urinary treatment. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=femicore AI editorial illustration; not product photography.
+											556 image
+											557 text Foto
+											558 image
+											559 text Post cruzado
+											560 image
+											561 text PokiSky Supplement Guides, pokisky.guides
+											562 button Turbinar
+												563 text Turbinar
+											564 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												565 text Abrir menu suspenso
+												566 image
+											567 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												568 text Abrir menu suspenso
+												569 image
+									570 cell
+										571 checkbox Domingo, 1 de novembro 10:11, Value: 0
+									572 cell
+										573 checkbox Não turbinado no momento, Value: 0
+											574 container Não turbinado no momento
+									575 cell
+										576 checkbox 0
+									577 cell
+										578 checkbox 0
+									579 cell
+										580 checkbox 0
+									581 cell
+										582 checkbox 0
+									583 cell
+										584 checkbox 0
+									585 cell
+										586 checkbox 0
+									587 cell
+										588 checkbox 0
+									589 cell
+										590 checkbox 0
+									591 cell
+										592 checkbox 0
+									593 cell
+										594 checkbox 0
+									595 cell
+										596 checkbox ‑‑, Value: 0
+									597 cell
+										598 checkbox ‑‑, Value: 0
+									599 cell
+										600 checkbox 0
+									601 cell
+										602 checkbox ‑‑, Value: 0
+								603 row Selecionar item com identificação 122100922815532355 Instagram Facebook Editorial disclosure: this guide uses untracked official links. COUNT AND MASS ARE DIFFERENT PrimeBiome lists its probiotic count separately from a botanical blend amount. Compare strain identification, CFU guarantee timing and the full gummy formula. The guide explains the difference without assuming a skin or gut outcome. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=primebiome AI editorial illustration; not product photography. Foto Post cruzado PokiSky Supplement Guides, pokisky.guides Abrir menu suspenso ​ Domingo, 1 de novembro 10:10 Não turbinado no momento
+									604 cell
+										605 container
+											606 checkbox (settable, integer) Description: Selecionar item com identificação 122100922815532355, Value: 0
+											607 image
+									608 cell
+										609 container
+											610 container
+												611 image Instagram
+												612 image Facebook
+											613 text Editorial disclosure: this guide uses untracked official links. COUNT AND MASS ARE DIFFERENT PrimeBiome lists its probiotic count separately from a botanical blend amount. Compare strain identification, CFU guarantee timing and the full gummy formula. The guide explains the difference without assuming a skin or gut outcome. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=primebiome AI editorial illustration; not product photography.
+											614 image
+											615 text Foto
+											616 image
+											617 text Post cruzado
+											618 image
+											619 text PokiSky Supplement Guides, pokisky.guides
+											620 button Turbinar
+												621 text Turbinar
+											622 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												623 text Abrir menu suspenso
+												624 image
+											625 pop up button (collapsed) Abrir menu suspenso ​, Secondary Actions: Expand
+												626 text Abrir menu suspenso
+												627 image
+									628 cell
+										629 checkbox Domingo, 1 de novembro 10:10, Value: 0
+									630 cell
+										631 checkbox Não turbinado no momento, Value: 0
+											632 container Não turbinado no momento
+									633 cell
+										634 checkbox 0
+									635 cell
+										636 checkbox 0
+									637 cell
+										638 checkbox 0
+									639 cell
+										640 checkbox 0
+									641 cell
+										642 checkbox 0
+									643 cell
+										644 checkbox 0
+									645 cell
+										646 checkbox 0
+									647 cell
+										648 checkbox 0
+									649 cell
+										650 checkbox 0
+									651 cell
+										652 checkbox 0
+									653 cell
+										654 checkbox ‑‑, Value: 0
+									655 cell
+										656 checkbox ‑‑, Value: 0
+									657 cell
+										658 checkbox 0
+									659 cell
+										660 checkbox ‑‑, Value: 0
+				661 button Assistente da Meta AI para empresas
+				662 container
+					663 button Meta Business Suite
+						664 text Meta Business Suite
+					665 button Pressable
+						666 container
+							667 image Instagram
+							668 image Facebook
+					669 container Links
+						670 text Links
+						671 content list
+							672 container
+								673 link Description: Página inicial, Value: business.facebook.com/latest/home?business_id=1797870504751927&asset_id=1441439982376766
+								674 text Página inicial
+							675 container
+								676 link Notificações
+									677 text Notificações
+								678 text Notificações
+							679 container
+								680 link Gerenciador de Anúncios
+									681 text Gerenciador de Anúncios
+								682 text Gerenciador de Anúncios
+							683 container
+								684 link Description: Caixa de Entrada, Value: business.facebook.com/latest/inbox?business_id=1797870504751927&asset_id=1441439982376766
+								685 text Caixa de Entrada
+							686 container
+								687 link Description: Conteúdo, Value: business.facebook.com/latest/posts?business_id=1797870504751927&asset_id=1441439982376766
+								688 text Conteúdo
+							689 container Links
+								690 text Links
+								691 content list
+									692 container
+										693 container
+											694 link Description: Central de Leads, Value: business.facebook.com/latest/leads_center?business_id=1797870504751927&asset_id=1441439982376766
+											695 text Central de Leads
+										696 container
+											697 link Description: Planner, Value: business.facebook.com/latest/content_calendar?business_id=1797870504751927&asset_id=1441439982376766
+											698 text Planner
+										699 container
+											700 link Description: Anúncios, Value: business.facebook.com/latest/ad_center/ads_summary?business_id=1797870504751927&asset_id=1441439982376766
+											701 text Anúncios
+							702 container
+								703 link Description: Cobrança e pagamentos, Value: business.facebook.com/billing_hub/?business_id=1797870504751927&placement=mbs_all_tools_menu
+								704 text Cobrança e pagamentos
+							705 container
+								706 link Description: Públicos, Value: business.facebook.com/ads/manager/audiences/?business_id=1797870504751927&nav_source=business_manager
+								707 text Públicos
+							708 container
+								709 link Description: Gerenciador de Eventos, Value: business.facebook.com/events_manager2/?business_id=1797870504751927&global_scope_id=1797870504751927&nav_source=biz_nav
+								710 text Gerenciador de Eventos
+							711 container
+								712 link Todas as ferramentas
+									713 text Todas as ferramentas
+								714 text Todas as ferramentas
+					715 container
+						716 link Pesquisar
+							717 text Pesquisar
+						718 text Pesquisar
+						719 image
+					720 container Links
+						721 text Links
+						722 content list
+							723 container
+								724 link Description: Configurações, Value: business.facebook.com/latest/settings/business_overview?business_id=1797870504751927&asset_id=1441439982376766
+								725 text Configurações
+					726 container
+						727 link Ajuda
+							728 text Ajuda
+						729 text Ajuda
+						730 image
+
+The focused UI element is 1 AXWebArea Meta Business Suite, URL: business.facebook.com/latest/posts/published_posts/?business_id=1797870504751927&asset_id=1441439982376766

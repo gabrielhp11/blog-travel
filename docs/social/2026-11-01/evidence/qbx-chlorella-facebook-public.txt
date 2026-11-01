@@ -1,0 +1,117 @@
+Browser tab: 540249769, Title: "Meta Business Suite", URL: "https://business.facebook.com/latest/insights/object_insights/?asset_id=1441439982376766&business_id=1797870504751927&ir_qe_exposed=1&content_id=122100930873532355&nav_ref=bizweb_published_posts_table".
+1 AXWebArea Meta Business Suite, URL: business.facebook.com/latest/insights/object_insights/?asset_id=1441439982376766&business_id=1797870504751927&ir_qe_exposed=1&content_id=122100930873532355&nav_ref=bizweb_published_posts_table
+	2 container
+		3 container mount_0_0_lZ
+			4 container
+				5 button Fechar
+				6 container
+					7 button Voltar ​
+						8 text Voltar
+						9 image
+					10 heading Value: 3, Editorial disclosure: this guide uses untracked official links. PER TABLET OR PER DAY? The QBX Chlorella guide separates a tablet amount from the stated daily serving and keeps the sulfite warning visible. Compare the formula and the minimum commitment of recurring delivery. German-language guide; Germany buying context. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-chlorella AI editorial illustration; not product photography.
+						11 text Editorial disclosure: this guide uses untracked official links. PER TABLET OR PER DAY? The QBX Chlorella guide separates a tablet amount from the stated daily serving and keeps the sulfite warning visible. Compare the formula and the minimum commitment of recurring delivery. German-language guide; Germany buying context. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-chlorella AI editorial illustration; not product photography.
+					12 image Facebook
+					13 image Instagram
+					14 text Post  · Publicado em: Domingo, 1 de novembro 10:17
+					15 toolbar
+						16 button Turbinar
+							17 text Turbinar
+					18 container
+						19 tab group
+							20 tab (selected, settable, boolean) Value: 1, Description: Desempenho total
+Facebook
+Instagram
+							21 tab (selectable, settable, boolean) Value: 0, Description: Facebook
+Facebook
+							22 tab (selectable, settable, boolean) Value: 0, Description: Instagram
+Instagram
+					23 container
+						24 heading Visão geral, Value: 2
+							25 text Visão geral
+						26 text Visualizações
+						27 image
+						28 text 0 Interações líquidas
+						29 image
+						30 text 0 Cliques no link
+						31 image
+						32 text 0 Seguidores
+						33 image
+						34 text 0
+					35 container
+						36 text Visualizações
+						37 image
+						38 text 0
+						39 image Facebook
+						40 text 0 do Facebook
+						41 image Instagram
+						42 text 0 do Instagram
+						43 tab group
+							44 tab (selected, settable, boolean) Description: Total, Value: 1
+							45 tab (selectable, settable, boolean) Description: Seguidores, Value: 0
+						46 heading Dados indisponíveis, Value: 3
+							47 text Dados indisponíveis
+						48 text Estes dados não estão disponíveis no momento.
+					49 container
+						50 text Interações líquidas
+						51 image
+						52 text 0
+						53 image Facebook
+						54 text 0 do Facebook
+						55 image Instagram
+						56 text 0 do Instagram Curtidas e reações
+						57 image
+						58 text 0 Comentários
+						59 image
+						60 text 0 Compartilhamentos
+						61 image
+						62 text 0 Salvamentos
+						63 image
+						64 text 0
+					65 container
+						66 heading Prévia do feed, Value: 3
+							67 text Prévia do feed
+						68 container
+							69 link Description: PokiSky Supplement Guides, Value: facebook.com/profile.php?id=61595970654481&__cft__%5B0%5D=AZidEukAbUTsHTSxgZrqC517l2YbEpx7UVY4vryRSmq1iYR9FVVv7O7RPj-M6OULioEy-BNMp9oCcHXV0CK8CrvI1FM50y-d9lKTvi7w6KWpJzS5S5zvKDSocaiulLPjC05An-Iit6II&__tn__=%253C%253C%252CP-R
+							70 heading PokiSky Supplement Guides, Value: 2
+								71 link Description: PokiSky Supplement Guides, Value: facebook.com/profile.php?id=61595970654481&__cft__%5B0%5D=AZidEukAbUTsHTSxgZrqC517l2YbEpx7UVY4vryRSmq1iYR9FVVv7O7RPj-M6OULioEy-BNMp9oCcHXV0CK8CrvI1FM50y-d9lKTvi7w6KWpJzS5S5zvKDSocaiulLPjC05An-Iit6II&__tn__=-UC%252CP-R
+							72 button Conteúdo de IA
+							73 link Description: há ± um minuto, Value: facebook.com/permalink.php?story_fbid=pfbid07SNx6Gpuh7WbWcWV8UuEY9ZoXDmv4yWgMZxpmKLT8bDCFGEdWoXZPXSWzZDVVvnZl&id=61595970654481&__cft__%5B0%5D=AZidEukAbUTsHTSxgZrqC517l2YbEpx7UVY4vryRSmq1iYR9FVVv7O7RPj-M6OULioEy-BNMp9oCcHXV0CK8CrvI1FM50y-d9lKTvi7w6KWpJzS5S5zvKDSocaiulLPjC05An-Iit6II&__tn__=%252CO%252CP-R
+							74 image Compartilhado com: Público
+							75 pop up button (collapsed) Description: Ações para este post de PokiSky Supplement Guides, Secondary Actions: Expand
+							76 text Editorial disclosure: this guide uses untracked official links. …
+							77 button Ver mais
+							78 link Description: PokiSky supplement buying guide for QBX Chlorella. Headline: PER TABLET OR PER DAY?. Checklist: Serving basis; Sulfite statement; Billing plan. Read the guide. AI editorial illustration; independent guide., Value: business.facebook.com/photo.php?fbid=122100930363532355&set=a.122094306885532355&type=3&__cft__%5B0%5D=AZidEukAbUTsHTSxgZrqC517l2YbEpx7UVY4vryRSmq1iYR9FVVv7O7RPj-M6OULioEy-BNMp9oCcHXV0CK8CrvI1FM50y-d9lKTvi7w6KWpJzS5S5zvKDSocaiulLPjC05An-Iit6II&__tn__=EH-R
+							79 button Turbinar
+								80 text Turbinar
+							81 container
+								82 button Reagir com Curtir ao post de PokiSky Supplement Guides
+								83 button Reagir ao post de PokiSky Supplement Guides
+							84 button Comentar no post de PokiSky Supplement Guides
+							85 button Compartilhar, para enviar para amigos ou postar no seu perfil.
+							86 container
+								87 button Trocar para outro perfil ou Página
+								88 text entry area (settable) Description: Comente como PokiSky Supplement Guides, Value:
+
+								89 content list
+									90 pop up button (collapsed) Description: Comente com uma figurinha de avatar, Secondary Actions: Expand
+									91 pop up button (collapsed) Description: Insira um emoji, Secondary Actions: Expand
+									92 button Anexe uma foto ou vídeo
+									93 pop up button (collapsed) Description: Comentar com um GIF, Secondary Actions: Expand
+									94 pop up button (collapsed) Description: Comente com uma figurinha, Secondary Actions: Expand
+						95 link Description: Ver post no Facebook, Value: facebook.com/permalink.php?story_fbid=pfbid07SNx6Gpuh7WbWcWV8UuEY9ZoXDmv4yWgMZxpmKLT8bDCFGEdWoXZPXSWzZDVVvnZl&id=61595970654481
+						96 container
+							97 image
+							98 text pokisky.guides
+							99 button Curtir
+							100 button Comentar
+							101 button Compartilhar
+							102 button Salvar
+							103 container caption
+								104 text pokisky.guides
+								105 text Editorial disclosure: this guide uses
+								106 text untracked official links. ...
+								107 button more
+				108 container
+					109 button Assistente da Meta AI para empresas
+
+The focused UI element is 10 heading Value: 3, Editorial disclosure: this guide uses untracked official links. PER TABLET OR PER DAY? The QBX Chlorella guide separates a tablet amount from the stated daily serving and keeps the sulfite warning visible. Compare the formula and the minimum commitment of recurring delivery. German-language guide; Germany buying context. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-chlorella AI editorial illustration; not product photography.

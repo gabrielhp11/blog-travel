@@ -1,0 +1,761 @@
+{
+  "campaign": "supplement_labels_20261101",
+  "brand": "PokiSky",
+  "language": "en",
+  "createdDate": "2026-11-01",
+  "status": "complete",
+  "notes": "Ten newly published supplement guides. Actual source review date retained. Two German-language guide destinations identified in English social copy. Current guides use untracked official links, so affiliate claims from older campaigns were not copied.",
+  "posts": [
+    {
+      "id": "qbx-chlorella",
+      "name": "QBX Chlorella",
+      "sourceFile": "topics/wellness/nutrition/qbx-chlorella.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceLanguage": "de-DE",
+      "socialLanguage": "en",
+      "headline": "PER TABLET OR PER DAY?",
+      "checks": [
+        "Serving basis",
+        "Sulfite statement",
+        "Billing plan"
+      ],
+      "highlight": "Nutrition",
+      "status": "published_all_networks_story_and_highlight",
+      "imageFile": "images/01-qbx-chlorella-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Crie UMA arte final de rede social vertical 4:5, premium, para PokiSky, no estilo editorial sofisticado das campanhas anteriores. Gere a imagem agora. Conceito visual: forest green and ivory, sculptural blank paper cards arranged at different heights beside one magnifying glass, restrained botanical texture. Use tipografia legível em celular, títulos grandes e margens seguras. Apenas estes textos exatos em inglês (o nome do produto deve ser preservado): 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'QBX Chlorella'; headline 'PER TABLET OR PER DAY?'; checklist 'Serving basis', 'Sulfite statement', 'Billing plan'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Independent guide'. Sem embalagens, frascos, cápsulas, rótulos simulados, logos oficiais, anatomia, gráficos, moléculas, alegações de eficácia, resultados, depoimentos, avaliações, preços, dosagens ou números adicionais. A ilustração é conceitual e não representa o produto real. Não acrescente palavras ou símbolos científicos inventados. Uma única imagem final, sem colagem de versões.",
+      "pinterestTitle": "QBX Chlorella: per tablet or per day",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The QBX Chlorella guide separates a tablet amount from the stated daily serving and keeps the sulfite warning visible. Compare the formula and the minimum commitment of recurring delivery. German-language guide; Germany buying context. Save the checklist and read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nPER TABLET OR PER DAY?\n\nThe QBX Chlorella guide separates a tablet amount from the stated daily serving and keeps the sulfite warning visible. Compare the formula and the minimum commitment of recurring delivery. German-language guide; Germany buying context.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-chlorella\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nPER TABLET OR PER DAY?\n\nThe QBX Chlorella guide separates a tablet amount from the stated daily serving and keeps the sulfite warning visible. Compare the formula and the minimum commitment of recurring delivery. German-language guide; Germany buying context.\n\nSave this checklist. Find “QBX Chlorella” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-chlorella\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for QBX Chlorella. Headline: PER TABLET OR PER DAY?. Checklist: Serving basis; Sulfite statement; Billing plan. Read the guide. AI editorial illustration; independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-chlorella",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-chlorella",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-chlorella"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964134116/",
+          "confirmedAt": "2026-11-01T13:17:45.596Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid07SNx6Gpuh7WbWcWV8UuEY9ZoXDmv4yWgMZxpmKLT8bDCFGEdWoXZPXSWzZDVVvnZl&id=61595970654481",
+          "metaPostId": "122100930873532355",
+          "confirmedAt": "2026-11-01T13:17:43.150Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfM0gFWDvJZ/",
+          "metaPostId": "122100930873532355",
+          "confirmedAt": "2026-11-01T13:17:43.150Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/17894119074616970/",
+          "highlight": "Nutrition",
+          "groupStoryIds": [
+            "4020820246689133877",
+            "4020820187078983414",
+            "4020820125825142766",
+            "4020820039708927541"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_jcqmkvjcqmkvjcqm.jpg",
+      "geminiRevisionPrompt": "Gere novamente a arte de QBX Chlorella em verde e marfim. Na primeira versão faltou o nome. O texto 'QBX Chlorella' deve aparecer grande e legível entre 'SUPPLEMENT BUYING GUIDE' e o título 'PER TABLET OR PER DAY?'. Mantenha marca PokiSky, checklist Serving basis / Sulfite statement / Billing plan, CTA Read the guide e rodapé AI editorial illustration · Independent guide. Formato vertical 4:5. Papel editorial e lupa; sem embalagens nem alegações de saúde. Uma única arte final completa.",
+      "geminiRevisionPrompt2": "Crie do zero uma nova arte vertical 4:5 verde-escuro e marfim, com composição editorial de cartões em papel e lupa. NÃO reutilize a diagramação da última imagem. Reserve três blocos separados no topo: linha 1 'PokiSky', linha 2 pequena 'SUPPLEMENT BUYING GUIDE', linha 3 média 'QBX Chlorella'. Em um bloco separado escreva o título COMPLETO em duas linhas 'PER TABLET' e 'OR PER DAY?'. Abaixo, checklist 'Serving basis', 'Sulfite statement', 'Billing plan'. Botão 'Read the guide'. Rodapé 'AI editorial illustration · Independent guide'. Todos os textos devem aparecer sem omissões, com margens seguras. Não troque o nome pelo título nem apague parte do título. Sem frascos ou alegações de saúde. Gere uma única imagem final."
+    },
+    {
+      "id": "qbx-kraeuteressenz",
+      "name": "QBX Kräuteressenz",
+      "sourceFile": "topics/wellness/gut-health/qbx-kraeuteressenz.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceLanguage": "de-DE",
+      "socialLanguage": "en",
+      "headline": "WHICH RECIPE IS IN THE BOTTLE?",
+      "checks": [
+        "Current formula",
+        "Extract proportions",
+        "Plan terms"
+      ],
+      "highlight": "Digestion",
+      "status": "published_all_networks_story_and_highlight",
+      "imageFile": "images/02-qbx-kraeuteressenz-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Crie UMA arte final de rede social vertical 4:5, premium, para PokiSky, no estilo editorial sofisticado das campanhas anteriores. Gere a imagem agora. Conceito visual: indigo and warm ochre, layered translucent blank paper sheets with a single stylized leaf shadow, quiet premium still life. Use tipografia legível em celular, títulos grandes e margens seguras. Apenas estes textos exatos em inglês (o nome do produto deve ser preservado): 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'QBX Kräuteressenz'; headline 'WHICH RECIPE IS IN THE BOTTLE?'; checklist 'Current formula', 'Extract proportions', 'Plan terms'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Independent guide'. Sem embalagens, frascos, cápsulas, rótulos simulados, logos oficiais, anatomia, gráficos, moléculas, alegações de eficácia, resultados, depoimentos, avaliações, preços, dosagens ou números adicionais. A ilustração é conceitual e não representa o produto real. Não acrescente palavras ou símbolos científicos inventados. Uma única imagem final, sem colagem de versões.",
+      "pinterestTitle": "QBX Kräuteressenz: which recipe is in the bottle",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The current QBX herbal essence is described as an alcohol-free combination. Extract proportions do not establish each ingredient amount in a daily serving. Compare the actual label and selected billing plan. German-language guide; Germany buying context. Save the checklist and read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nWHICH RECIPE IS IN THE BOTTLE?\n\nThe current QBX herbal essence is described as an alcohol-free combination. Extract proportions do not establish each ingredient amount in a daily serving. Compare the actual label and selected billing plan. German-language guide; Germany buying context.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-kraeuteressenz\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nWHICH RECIPE IS IN THE BOTTLE?\n\nThe current QBX herbal essence is described as an alcohol-free combination. Extract proportions do not establish each ingredient amount in a daily serving. Compare the actual label and selected billing plan. German-language guide; Germany buying context.\n\nSave this checklist. Find “QBX Kräuteressenz” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-kraeuteressenz\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for QBX Kräuteressenz. Headline: WHICH RECIPE IS IN THE BOTTLE?. Checklist: Current formula; Extract proportions; Plan terms. Read the guide. AI editorial illustration; independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-kraeuteressenz",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-kraeuteressenz",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=qbx-kraeuteressenz"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964133984/",
+          "confirmedAt": "2026-11-01T13:09:07.447Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0t5kWPXbKLTjonSRfQFgGhZibeyZ1jXMkreoeLZM6c5oBYw6A8JfZrc1BcJdQRhAAl&id=61595970654481",
+          "metaPostId": "122100920409532355",
+          "confirmedAt": "2026-11-01T13:08:11.836Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfMzaI1jmR9/",
+          "metaPostId": "122100920409532355",
+          "confirmedAt": "2026-11-01T13:08:11.862Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18106038518269274/",
+          "highlight": "Digestion",
+          "groupStoryIds": [
+            "4020821280609402651",
+            "4020821212099616690",
+            "4020821154545399873"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_kx1vyakx1vyakx1v.jpg"
+    },
+    {
+      "id": "digestistart",
+      "name": "DigestiStart",
+      "sourceFile": "topics/wellness/gut-health/digestistart.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceLanguage": "en-US",
+      "socialLanguage": "en",
+      "headline": "ONE TOTAL. MANY BOTANICALS.",
+      "checks": [
+        "Combined blend",
+        "Capsule material",
+        "Return deadline"
+      ],
+      "highlight": "Digestion",
+      "status": "published_all_networks_story_and_highlight",
+      "imageFile": "images/03-digestistart-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Crie UMA arte final de rede social vertical 4:5, premium, para PokiSky, no estilo editorial sofisticado das campanhas anteriores. Gere a imagem agora. Conceito visual: sage green and sandstone, a single blank accordion-folded paper sculpture opening beside an unmarked pencil, editorial typography. Use tipografia legível em celular, títulos grandes e margens seguras. Apenas estes textos exatos em inglês (o nome do produto deve ser preservado): 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'DigestiStart'; headline 'ONE TOTAL. MANY BOTANICALS.'; checklist 'Combined blend', 'Capsule material', 'Return deadline'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Independent guide'. Sem embalagens, frascos, cápsulas, rótulos simulados, logos oficiais, anatomia, gráficos, moléculas, alegações de eficácia, resultados, depoimentos, avaliações, preços, dosagens ou números adicionais. A ilustração é conceitual e não representa o produto real. Não acrescente palavras ou símbolos científicos inventados. Uma única imagem final, sem colagem de versões.",
+      "pinterestTitle": "DigestiStart: one total. many botanicals.",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. DigestiStart lists one combined amount for its botanical blend. The guide also checks gelatin in the capsule and a refund deadline that does not match the longer trial suggestion. A blend total does not establish treatment effectiveness. Save the checklist and read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nONE TOTAL. MANY BOTANICALS.\n\nDigestiStart lists one combined amount for its botanical blend. The guide also checks gelatin in the capsule and a refund deadline that does not match the longer trial suggestion. A blend total does not establish treatment effectiveness.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/digestistart?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=digestistart\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nONE TOTAL. MANY BOTANICALS.\n\nDigestiStart lists one combined amount for its botanical blend. The guide also checks gelatin in the capsule and a refund deadline that does not match the longer trial suggestion. A blend total does not establish treatment effectiveness.\n\nSave this checklist. Find “DigestiStart” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/digestistart?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=digestistart\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for DigestiStart. Headline: ONE TOTAL. MANY BOTANICALS.. Checklist: Combined blend; Capsule material; Return deadline. Read the guide. AI editorial illustration; independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/digestistart?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=digestistart",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/digestistart?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=digestistart",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/digestistart?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=digestistart"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964134013/",
+          "confirmedAt": "2026-11-01T13:10:07.114Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid03vGMdVE8a4WJ6VRBTYUTVMWjwhANaAHcuUtz8SbraRse472Sa6H3MinkBUY24gt7l&id=61595970654481",
+          "metaPostId": "122100921549532355",
+          "confirmedAt": "2026-11-01T13:09:56.287Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfMzmpvjqPq/",
+          "metaPostId": "122100921549532355",
+          "confirmedAt": "2026-11-01T13:09:56.287Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18106038518269274/",
+          "highlight": "Digestion",
+          "groupStoryIds": [
+            "4020821280609402651",
+            "4020821212099616690",
+            "4020821154545399873"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_v7aykqv7aykqv7ay.jpg"
+    },
+    {
+      "id": "primebiome",
+      "name": "PrimeBiome",
+      "sourceFile": "topics/wellness/gut-health/primebiome.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceLanguage": "en-US",
+      "socialLanguage": "en",
+      "headline": "COUNT AND MASS ARE DIFFERENT",
+      "checks": [
+        "CFU wording",
+        "Strain identity",
+        "Blend amount"
+      ],
+      "highlight": "Digestion",
+      "status": "published_all_networks_story_and_highlight",
+      "imageFile": "images/04-primebiome-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Crie UMA arte final de rede social vertical 4:5, premium, para PokiSky, no estilo editorial sofisticado das campanhas anteriores. Gere a imagem agora. Conceito visual: dusty rose and pale aqua, two blank notebook tabs and a polished clear glass bead on a matte geometric plinth, sophisticated editorial composition. Use tipografia legível em celular, títulos grandes e margens seguras. Apenas estes textos exatos em inglês (o nome do produto deve ser preservado): 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'PrimeBiome'; headline 'COUNT AND MASS ARE DIFFERENT'; checklist 'CFU wording', 'Strain identity', 'Blend amount'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Independent guide'. Sem embalagens, frascos, cápsulas, rótulos simulados, logos oficiais, anatomia, gráficos, moléculas, alegações de eficácia, resultados, depoimentos, avaliações, preços, dosagens ou números adicionais. A ilustração é conceitual e não representa o produto real. Não acrescente palavras ou símbolos científicos inventados. Uma única imagem final, sem colagem de versões.",
+      "pinterestTitle": "PrimeBiome: count and mass are different",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. PrimeBiome lists its probiotic count separately from a botanical blend amount. Compare strain identification, CFU guarantee timing and the full gummy formula. The guide explains the difference without assuming a skin or gut outcome. Save the checklist and read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nCOUNT AND MASS ARE DIFFERENT\n\nPrimeBiome lists its probiotic count separately from a botanical blend amount. Compare strain identification, CFU guarantee timing and the full gummy formula. The guide explains the difference without assuming a skin or gut outcome.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=primebiome\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nCOUNT AND MASS ARE DIFFERENT\n\nPrimeBiome lists its probiotic count separately from a botanical blend amount. Compare strain identification, CFU guarantee timing and the full gummy formula. The guide explains the difference without assuming a skin or gut outcome.\n\nSave this checklist. Find “PrimeBiome” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=primebiome\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for PrimeBiome. Headline: COUNT AND MASS ARE DIFFERENT. Checklist: CFU wording; Strain identity; Blend amount. Read the guide. AI editorial illustration; independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=primebiome",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=primebiome",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=primebiome"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964134030/",
+          "confirmedAt": "2026-11-01T13:11:02.431Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid023c2VERHc6krM4XFZbeQnfdY96wNdHQpwC1BHAEDvCNkit1jHWZo1o7ckdQKEcYWrl&id=61595970654481",
+          "metaPostId": "122100922815532355",
+          "confirmedAt": "2026-11-01T13:10:56.152Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfMzubgji65/",
+          "metaPostId": "122100922815532355",
+          "confirmedAt": "2026-11-01T13:10:56.152Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18106038518269274/",
+          "highlight": "Digestion",
+          "groupStoryIds": [
+            "4020821280609402651",
+            "4020821212099616690",
+            "4020821154545399873"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_uespqruespqruesp.jpg"
+    },
+    {
+      "id": "femicore",
+      "name": "FemiCore",
+      "sourceFile": "topics/wellness/nutrition/femicore.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceLanguage": "en-US",
+      "socialLanguage": "en",
+      "headline": "MILLIGRAMS ARE NOT A CELL COUNT",
+      "checks": [
+        "Separate blends",
+        "CFU disclosure",
+        "Full formula"
+      ],
+      "highlight": "Nutrition",
+      "status": "published_all_networks_story_and_highlight",
+      "imageFile": "images/05-femicore-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Crie UMA arte final de rede social vertical 4:5, premium, para PokiSky, no estilo editorial sofisticado das campanhas anteriores. Gere a imagem agora. Conceito visual: slate blue and muted copper, two plain unmarked paper folders separated by a narrow beam of light, strong mobile-readable typography. Use tipografia legível em celular, títulos grandes e margens seguras. Apenas estes textos exatos em inglês (o nome do produto deve ser preservado): 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'FemiCore'; headline 'MILLIGRAMS ARE NOT A CELL COUNT'; checklist 'Separate blends', 'CFU disclosure', 'Full formula'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Independent guide'. Sem embalagens, frascos, cápsulas, rótulos simulados, logos oficiais, anatomia, gráficos, moléculas, alegações de eficácia, resultados, depoimentos, avaliações, preços, dosagens ou números adicionais. A ilustração é conceitual e não representa o produto real. Não acrescente palavras ou símbolos científicos inventados. Uma única imagem final, sem colagem de versões.",
+      "pinterestTitle": "FemiCore: milligrams are not a cell count",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. FemiCore lists separate herbal and probiotic blend masses. Milligrams do not establish a viable-organism count. Read the full formula and the conflicting refund wording; this is a label guide, not evidence of urinary treatment. Save the checklist and read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nMILLIGRAMS ARE NOT A CELL COUNT\n\nFemiCore lists separate herbal and probiotic blend masses. Milligrams do not establish a viable-organism count. Read the full formula and the conflicting refund wording; this is a label guide, not evidence of urinary treatment.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=femicore\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nMILLIGRAMS ARE NOT A CELL COUNT\n\nFemiCore lists separate herbal and probiotic blend masses. Milligrams do not establish a viable-organism count. Read the full formula and the conflicting refund wording; this is a label guide, not evidence of urinary treatment.\n\nSave this checklist. Find “FemiCore” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=femicore\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for FemiCore. Headline: MILLIGRAMS ARE NOT A CELL COUNT. Checklist: Separate blends; CFU disclosure; Full formula. Read the guide. AI editorial illustration; independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=femicore",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=femicore",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=femicore"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964134041/",
+          "confirmedAt": "2026-11-01T13:12:09.616Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0GWE5jMWqddTMcRK8BEM5ptytCnYSTzRc216iGQo2SwvnVy8ntKkvDiWXWpi2JoSQl&id=61595970654481",
+          "metaPostId": "122100923691532355",
+          "confirmedAt": "2026-11-01T13:12:03.599Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfMz2oZjmFY/",
+          "metaPostId": "122100923691532355",
+          "confirmedAt": "2026-11-01T13:12:03.599Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/17894119074616970/",
+          "highlight": "Nutrition",
+          "groupStoryIds": [
+            "4020820246689133877",
+            "4020820187078983414",
+            "4020820125825142766",
+            "4020820039708927541"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_p0jbahp0jbahp0jb.jpg"
+    },
+    {
+      "id": "menovelle",
+      "name": "Menovelle",
+      "sourceFile": "topics/wellness/nutrition/menovelle.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceLanguage": "en-US",
+      "socialLanguage": "en",
+      "headline": "CAPSULES ARE NOT SERVINGS",
+      "checks": [
+        "Serving definition",
+        "Shared blend",
+        "Complete order"
+      ],
+      "highlight": "Nutrition",
+      "status": "published_all_networks_story_and_highlight",
+      "imageFile": "images/06-menovelle-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Crie UMA arte final de rede social vertical 4:5, premium, para PokiSky, no estilo editorial sofisticado das campanhas anteriores. Gere a imagem agora. Conceito visual: charcoal and cream with a restrained lilac accent, an elegant blank paper flipbook beside a single blank index card, refined studio shadows. Use tipografia legível em celular, títulos grandes e margens seguras. Apenas estes textos exatos em inglês (o nome do produto deve ser preservado): 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Menovelle'; headline 'CAPSULES ARE NOT SERVINGS'; checklist 'Serving definition', 'Shared blend', 'Complete order'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Independent guide'. Sem embalagens, frascos, cápsulas, rótulos simulados, logos oficiais, anatomia, gráficos, moléculas, alegações de eficácia, resultados, depoimentos, avaliações, preços, dosagens ou números adicionais. A ilustração é conceitual e não representa o produto real. Não acrescente palavras ou símbolos científicos inventados. Uma única imagem final, sem colagem de versões.",
+      "pinterestTitle": "Menovelle: capsules are not servings",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. Menovelle defines a serving differently from a capsule count. Four mushroom entries have individual amounts, while additional mushrooms share a blend total. Compare those quantities and the complete order without assuming hormonal effects. Save the checklist and read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nCAPSULES ARE NOT SERVINGS\n\nMenovelle defines a serving differently from a capsule count. Four mushroom entries have individual amounts, while additional mushrooms share a blend total. Compare those quantities and the complete order without assuming hormonal effects.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=menovelle\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nCAPSULES ARE NOT SERVINGS\n\nMenovelle defines a serving differently from a capsule count. Four mushroom entries have individual amounts, while additional mushrooms share a blend total. Compare those quantities and the complete order without assuming hormonal effects.\n\nSave this checklist. Find “Menovelle” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=menovelle\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Menovelle. Headline: CAPSULES ARE NOT SERVINGS. Checklist: Serving definition; Shared blend; Complete order. Read the guide. AI editorial illustration; independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=menovelle",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=menovelle",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=menovelle"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964134052/",
+          "confirmedAt": "2026-11-01T13:13:14.029Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0VVfdhZRzTMvUWA67wpVeiGwaLpJ49YRddCHxe8B8PAzxBMZ2gXr77gjNcjFjykn7l&id=61595970654481",
+          "metaPostId": "122100924729532355",
+          "confirmedAt": "2026-11-01T13:13:03.401Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfMz97cDk20/",
+          "metaPostId": "122100924729532355",
+          "confirmedAt": "2026-11-01T13:13:03.401Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/17894119074616970/",
+          "highlight": "Nutrition",
+          "groupStoryIds": [
+            "4020820246689133877",
+            "4020820187078983414",
+            "4020820125825142766",
+            "4020820039708927541"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_tawub3tawub3tawu.jpg"
+    },
+    {
+      "id": "mindsilence",
+      "name": "MindSilence",
+      "sourceFile": "topics/wellness/brain-health/mindsilence.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceLanguage": "en-US",
+      "socialLanguage": "en",
+      "headline": "WHEN TWO COUNTS DISAGREE",
+      "checks": [
+        "Current panel",
+        "Guarantee timing",
+        "Seller clarification"
+      ],
+      "highlight": "Brain",
+      "status": "published_all_networks_story_and_highlight",
+      "imageFile": "images/07-mindsilence-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Crie UMA arte final de rede social vertical 4:5, premium, para PokiSky, no estilo editorial sofisticado das campanhas anteriores. Gere a imagem agora. Conceito visual: cobalt blue and soft coral, two overlapping blank speech-shaped paper cards with generous whitespace and precise editorial typography, no quotation marks. Use tipografia legível em celular, títulos grandes e margens seguras. Apenas estes textos exatos em inglês (o nome do produto deve ser preservado): 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'MindSilence'; headline 'WHEN TWO COUNTS DISAGREE'; checklist 'Current panel', 'Guarantee timing', 'Seller clarification'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Independent guide'. Sem embalagens, frascos, cápsulas, rótulos simulados, logos oficiais, anatomia, gráficos, moléculas, alegações de eficácia, resultados, depoimentos, avaliações, preços, dosagens ou números adicionais. A ilustração é conceitual e não representa o produto real. Não acrescente palavras ou símbolos científicos inventados. Uma única imagem final, sem colagem de versões.",
+      "pinterestTitle": "MindSilence: when two counts disagree",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The reviewed MindSilence panel contains conflicting probiotic counts. Request the current corrected label and the guarantee date rather than choosing a number. The guide does not establish that this supplement treats tinnitus. Save the checklist and read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nWHEN TWO COUNTS DISAGREE\n\nThe reviewed MindSilence panel contains conflicting probiotic counts. Request the current corrected label and the guarantee date rather than choosing a number. The guide does not establish that this supplement treats tinnitus.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/mindsilence?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=mindsilence\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nWHEN TWO COUNTS DISAGREE\n\nThe reviewed MindSilence panel contains conflicting probiotic counts. Request the current corrected label and the guarantee date rather than choosing a number. The guide does not establish that this supplement treats tinnitus.\n\nSave this checklist. Find “MindSilence” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/mindsilence?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=mindsilence\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for MindSilence. Headline: WHEN TWO COUNTS DISAGREE. Checklist: Current panel; Guarantee timing; Seller clarification. Read the guide. AI editorial illustration; independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/mindsilence?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=mindsilence",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/mindsilence?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=mindsilence",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/mindsilence?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=mindsilence"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964134061/",
+          "confirmedAt": "2026-11-01T13:14:02.507Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0sctKeuZroAT7rh6YvJBmJMpFhEBBXaAdbEM7qK1GxV6ScaeLYjsht9c9PQizy2zal&id=61595970654481",
+          "metaPostId": "122100926343532355",
+          "confirmedAt": "2026-11-01T13:13:57.188Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfM0EimDqo0/",
+          "metaPostId": "122100926343532355",
+          "confirmedAt": "2026-11-01T13:13:57.188Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18135495877669528/",
+          "highlight": "Brain",
+          "groupStoryIds": [
+            "4020822590549182604",
+            "4020822494306685174"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_pqs1w2pqs1w2pqs1.jpg"
+    },
+    {
+      "id": "rhythmone",
+      "name": "RhythmONE",
+      "sourceFile": "topics/wellness/longevity/rhythmone.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceLanguage": "en-US",
+      "socialLanguage": "en",
+      "headline": "READ THE CAUTION FIRST",
+      "checks": [
+        "Exact safety wording",
+        "Complete formula",
+        "Qualified review"
+      ],
+      "highlight": "Longevity",
+      "status": "published_all_networks_story_and_highlight",
+      "imageFile": "images/08-rhythmone-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Crie UMA arte final de rede social vertical 4:5, premium, para PokiSky, no estilo editorial sofisticado das campanhas anteriores. Gere a imagem agora. Conceito visual: warm cocoa and amber, a blank reading card on a simple wooden stand under a narrow spotlight, sober editorial design with large clear type. Use tipografia legível em celular, títulos grandes e margens seguras. Apenas estes textos exatos em inglês (o nome do produto deve ser preservado): 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'RhythmONE'; headline 'READ THE CAUTION FIRST'; checklist 'Exact safety wording', 'Complete formula', 'Qualified review'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Independent guide'. Sem embalagens, frascos, cápsulas, rótulos simulados, logos oficiais, anatomia, gráficos, moléculas, alegações de eficácia, resultados, depoimentos, avaliações, preços, dosagens ou números adicionais. A ilustração é conceitual e não representa o produto real. Não acrescente palavras ou símbolos científicos inventados. Uma única imagem final, sem colagem de versões.",
+      "pinterestTitle": "RhythmONE: read the caution first",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The reviewed RhythmONE wrapper says product safety has not been determined. Keep that caution visible and seek qualified review before considering suitability. The guide flags incomplete guarantee terms and does not recommend an extra serving. Save the checklist and read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nREAD THE CAUTION FIRST\n\nThe reviewed RhythmONE wrapper says product safety has not been determined. Keep that caution visible and seek qualified review before considering suitability. The guide flags incomplete guarantee terms and does not recommend an extra serving.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/rhythmone?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=rhythmone\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nREAD THE CAUTION FIRST\n\nThe reviewed RhythmONE wrapper says product safety has not been determined. Keep that caution visible and seek qualified review before considering suitability. The guide flags incomplete guarantee terms and does not recommend an extra serving.\n\nSave this checklist. Find “RhythmONE” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/rhythmone?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=rhythmone\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for RhythmONE. Headline: READ THE CAUTION FIRST. Checklist: Exact safety wording; Complete formula; Qualified review. Read the guide. AI editorial illustration; independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/rhythmone?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=rhythmone",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/rhythmone?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=rhythmone",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/rhythmone?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=rhythmone"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964134071/",
+          "confirmedAt": "2026-11-01T13:15:10.941Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0uDPMTLBsHT7oLEvbanT3Cttv4X7iJ7hxPypstseM7RJ5ktgGjYjjM4yLZxZC52wkl&id=61595970654481",
+          "metaPostId": "122100927345532355",
+          "confirmedAt": "2026-11-01T13:14:54.432Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfM0LRpDiRJ/",
+          "metaPostId": "122100927345532355",
+          "confirmedAt": "2026-11-01T13:14:54.433Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18076840808743676/",
+          "highlight": "Longevity",
+          "groupStoryIds": [
+            "4020823494152982981"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_80l6x280l6x280l6 (1).jpg"
+    },
+    {
+      "id": "focus-iq",
+      "name": "Primal Force Focus IQ",
+      "sourceFile": "topics/wellness/brain-health/focus-iq.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceLanguage": "en-US",
+      "socialLanguage": "en",
+      "headline": "CAPSULE MATERIAL IS NOT THE FORMULA",
+      "checks": [
+        "Fish disclosure",
+        "Full ingredient list",
+        "Billing schedule"
+      ],
+      "highlight": "Brain",
+      "status": "published_all_networks_story_and_highlight",
+      "imageFile": "images/09-focus-iq-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Crie UMA arte final de rede social vertical 4:5, premium, para PokiSky, no estilo editorial sofisticado das campanhas anteriores. Gere a imagem agora. Conceito visual: deep navy and teal, one folded blank paper ribbon framing a clean cream reading card, architectural editorial still life, no product imagery. Use tipografia legível em celular, títulos grandes e margens seguras. Apenas estes textos exatos em inglês (o nome do produto deve ser preservado): 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Primal Force Focus IQ'; headline 'CAPSULE MATERIAL IS NOT THE FORMULA'; checklist 'Fish disclosure', 'Full ingredient list', 'Billing schedule'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Independent guide'. Sem embalagens, frascos, cápsulas, rótulos simulados, logos oficiais, anatomia, gráficos, moléculas, alegações de eficácia, resultados, depoimentos, avaliações, preços, dosagens ou números adicionais. A ilustração é conceitual e não representa o produto real. Não acrescente palavras ou símbolos científicos inventados. Uma única imagem final, sem colagem de versões.",
+      "pinterestTitle": "Primal Force Focus IQ: capsule material is not the formula",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The Primal Force Focus IQ store discloses fish even though the panel lists a vegetable capsule. Compare the whole formula, and distinguish one-time purchase from recurring autoship. Capsule material alone does not establish allergen suitability. Save the checklist and read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nCAPSULE MATERIAL IS NOT THE FORMULA\n\nThe Primal Force Focus IQ store discloses fish even though the panel lists a vegetable capsule. Compare the whole formula, and distinguish one-time purchase from recurring autoship. Capsule material alone does not establish allergen suitability.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/focus-iq?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=focus-iq\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nCAPSULE MATERIAL IS NOT THE FORMULA\n\nThe Primal Force Focus IQ store discloses fish even though the panel lists a vegetable capsule. Compare the whole formula, and distinguish one-time purchase from recurring autoship. Capsule material alone does not establish allergen suitability.\n\nSave this checklist. Find “Primal Force Focus IQ” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/focus-iq?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=focus-iq\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Primal Force Focus IQ. Headline: CAPSULE MATERIAL IS NOT THE FORMULA. Checklist: Fish disclosure; Full ingredient list; Billing schedule. Read the guide. AI editorial illustration; independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/focus-iq?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=focus-iq",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/focus-iq?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=focus-iq",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/focus-iq?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=focus-iq"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964134081/",
+          "confirmedAt": "2026-11-01T13:16:04.084Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0iSNnEECaPSeW5A2GaQhBGNDLtNwSqPxdQbAR1y7UJaDDeGUCM5Pz2WCTa5kBBBb2l&id=61595970654481",
+          "metaPostId": "122100928407532355",
+          "confirmedAt": "2026-11-01T13:15:59.159Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfM0TT8jkho/",
+          "metaPostId": "122100928407532355",
+          "confirmedAt": "2026-11-01T13:15:59.159Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18135495877669528/",
+          "highlight": "Brain",
+          "groupStoryIds": [
+            "4020822590549182604",
+            "4020822494306685174"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_fojhfwfojhfwfojh.jpg"
+    },
+    {
+      "id": "tonicgreens-review",
+      "name": "TonicGreens",
+      "sourceFile": "topics/wellness/nutrition/tonicgreens-review.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceLanguage": "en-US",
+      "socialLanguage": "en",
+      "headline": "DO THE LABEL NUMBERS ADD UP?",
+      "checks": [
+        "Serving weight",
+        "Nutrition entries",
+        "Corrected panel"
+      ],
+      "highlight": "Nutrition",
+      "status": "published_all_networks_story_and_highlight",
+      "imageFile": "images/10-tonicgreens-review-gemini.jpg",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "geminiPrompt": "Crie UMA arte final de rede social vertical 4:5, premium, para PokiSky, no estilo editorial sofisticado das campanhas anteriores. Gere a imagem agora. Conceito visual: lime green and graphite, precise folded paper planes beside a completely unmarked transparent ruler, clean modern editorial composition. Use tipografia legível em celular, títulos grandes e margens seguras. Apenas estes textos exatos em inglês (o nome do produto deve ser preservado): 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'TonicGreens'; headline 'DO THE LABEL NUMBERS ADD UP?'; checklist 'Serving weight', 'Nutrition entries', 'Corrected panel'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Independent guide'. Sem embalagens, frascos, cápsulas, rótulos simulados, logos oficiais, anatomia, gráficos, moléculas, alegações de eficácia, resultados, depoimentos, avaliações, preços, dosagens ou números adicionais. A ilustração é conceitual e não representa o produto real. Não acrescente palavras ou símbolos científicos inventados. Uma única imagem final, sem colagem de versões.",
+      "pinterestTitle": "TonicGreens: do the label numbers add up",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The reviewed TonicGreens panel has serving-weight and nutrition entries that do not reconcile. Ask for a current corrected panel before using those values in a nutrition comparison. The guide reports the inconsistency without inventing a replacement. Save the checklist and read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nDO THE LABEL NUMBERS ADD UP?\n\nThe reviewed TonicGreens panel has serving-weight and nutrition entries that do not reconcile. Ask for a current corrected panel before using those values in a nutrition comparison. The guide reports the inconsistency without inventing a replacement.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=tonicgreens-review\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nDO THE LABEL NUMBERS ADD UP?\n\nThe reviewed TonicGreens panel has serving-weight and nutrition entries that do not reconcile. Ask for a current corrected panel before using those values in a nutrition comparison. The guide reports the inconsistency without inventing a replacement.\n\nSave this checklist. Find “TonicGreens” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=tonicgreens-review\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for TonicGreens. Headline: DO THE LABEL NUMBERS ADD UP?. Checklist: Serving weight; Nutrition entries; Corrected panel. Read the guide. AI editorial illustration; independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=tonicgreens-review",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=tonicgreens-review",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_labels_20261101&utm_content=tonicgreens-review"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964134105/",
+          "confirmedAt": "2026-11-01T13:17:00.331Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0jVkcoN11yL2mgESvhN3YEBzr8XzKhFAcBqcoDNvkE4zMguPnyTiwCeum11s3wsfRl&id=61595970654481",
+          "metaPostId": "122100929559532355",
+          "confirmedAt": "2026-11-01T13:16:50.060Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfM0ZgUDjwp/",
+          "metaPostId": "122100929559532355",
+          "confirmedAt": "2026-11-01T13:16:50.060Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/17894119074616970/",
+          "highlight": "Nutrition",
+          "groupStoryIds": [
+            "4020820246689133877",
+            "4020820187078983414",
+            "4020820125825142766",
+            "4020820039708927541"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_mu4bs4mu4bs4mu4b.jpg"
+    }
+  ],
+  "geminiConversation": "https://gemini.google.com/app/62a502bbce3e450a",
+  "storyBaselineIds": [
+    "4020060775733069383",
+    "4020060322278472824",
+    "4020060271930613670",
+    "4020059857213329822",
+    "4020059150792383054",
+    "4020059084606225796",
+    "4020059020047483496",
+    "4020058964766588230",
+    "4020058214363591877",
+    "4020058093836079888",
+    "4020057958779486623",
+    "4020057836842677380",
+    "4019411718774216547",
+    "4019411777469336156",
+    "4019411832439850415",
+    "4019411871790848055",
+    "4019411910680411736",
+    "4020052075646847054",
+    "4020052134132248946",
+    "4020052194479837163",
+    "4020052259499980172",
+    "4020820246689133877",
+    "4020820187078983414",
+    "4020820125825142766",
+    "4020820039708927541",
+    "4020053420367221371",
+    "4020055539329110813",
+    "4020055590549955339",
+    "4020055640579628936",
+    "4020821280609402651",
+    "4020821212099616690",
+    "4020821154545399873",
+    "4020052798804372999",
+    "4020056515343586793",
+    "4020056565582974462",
+    "4020822590549182604",
+    "4020822494306685174",
+    "4019410729748183173",
+    "4019410858941120761",
+    "4019410989711101729",
+    "4020054205111758806",
+    "4020823494152982981"
+  ],
+  "storyArchiveVerifiedOn": "2026-11-01",
+  "instagramPostCount": {
+    "before": 46,
+    "after": 56
+  },
+  "storyGroups": [
+    {
+      "name": "Nutrition",
+      "indices": [
+        0,
+        4,
+        5,
+        9
+      ],
+      "postIds": [
+        "qbx-chlorella",
+        "femicore",
+        "menovelle",
+        "tonicgreens-review"
+      ],
+      "oldCount": 9,
+      "expectedCount": 13,
+      "status": "verified_in_highlight",
+      "submittedAt": "2026-11-01T13:18:37.128Z",
+      "storyIds": [
+        "4020820246689133877",
+        "4020820187078983414",
+        "4020820125825142766",
+        "4020820039708927541"
+      ],
+      "savedAt": "2026-11-01T13:20:11.390Z",
+      "verifiedCount": 13
+    },
+    {
+      "name": "Digestion",
+      "indices": [
+        1,
+        2,
+        3
+      ],
+      "postIds": [
+        "qbx-kraeuteressenz",
+        "digestistart",
+        "primebiome"
+      ],
+      "oldCount": 4,
+      "expectedCount": 7,
+      "status": "verified_in_highlight",
+      "submittedAt": "2026-11-01T13:20:49.631Z",
+      "storyIds": [
+        "4020821280609402651",
+        "4020821212099616690",
+        "4020821154545399873"
+      ],
+      "savedAt": "2026-11-01T13:23:02.229Z",
+      "verifiedCount": 7
+    },
+    {
+      "name": "Brain",
+      "indices": [
+        6,
+        8
+      ],
+      "postIds": [
+        "mindsilence",
+        "focus-iq"
+      ],
+      "oldCount": 3,
+      "expectedCount": 5,
+      "status": "verified_in_highlight",
+      "submittedAt": "2026-11-01T13:23:29.372Z",
+      "storyIds": [
+        "4020822590549182604",
+        "4020822494306685174"
+      ],
+      "savedAt": "2026-11-01T13:24:53.170Z",
+      "verifiedCount": 5
+    },
+    {
+      "name": "Longevity",
+      "indices": [
+        7
+      ],
+      "postIds": [
+        "rhythmone"
+      ],
+      "oldCount": 4,
+      "expectedCount": 5,
+      "status": "verified_in_highlight",
+      "submittedAt": "2026-11-01T13:25:28.011Z",
+      "storyIds": [
+        "4020823494152982981"
+      ],
+      "savedAt": "2026-11-01T13:26:40.368Z",
+      "verifiedCount": 5
+    }
+  ],
+  "highlightUrls": {
+    "Nutrition": "https://instagram.com/stories/highlights/17894119074616970/",
+    "Digestion": "https://instagram.com/stories/highlights/18106038518269274/",
+    "Brain": "https://instagram.com/stories/highlights/18135495877669528/",
+    "Longevity": "https://instagram.com/stories/highlights/18076840808743676/"
+  },
+  "completedAt": "2026-11-01T13:27:08.995Z"
+}

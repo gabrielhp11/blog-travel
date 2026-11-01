@@ -1,6 +1,6 @@
 # Fluxo de redes sociais da PokiSky
 
-Atualizado em 30/10/2026 a pedido do usuário para servir de memória das próximas campanhas.
+Atualizado em 01/11/2026 a pedido do usuário para servir de memória das próximas campanhas.
 
 ## Preferências e referências
 
@@ -17,7 +17,7 @@ Atualizado em 30/10/2026 a pedido do usuário para servir de memória das próxi
 1. Ler `AGENTS.md`, este fluxo, o último `posts.json` e os guias do blog. Checar os posts já publicados para evitar duplicação de arte, título e enfoque.
 2. Selecionar a quantidade de itens ou novos enfoques solicitada pelo usuário. Cada um precisa de uma pergunta concreta e um guia existente, sem inventar teste pessoal, preço atual, resultado de saúde ou benefício clínico.
 3. Criar `docs/social/AAAA-MM-DD/` com `posts.json`, `POSTS.md`, três CSVs, prompts, `images/`, manifesto e evidências quando houver publicação. Não sobrescrever campanhas anteriores.
-4. Preparar legendas específicas para Pinterest, Facebook e Instagram. Incluir divulgação de afiliados no início e identificação de ilustração editorial por IA. Direcionar ao guia do blog, não diretamente ao checkout.
+4. Preparar legendas específicas para Pinterest, Facebook e Instagram. Identificar ilustração editorial por IA e divulgar a relação comercial real do guia. Para guias com links de afiliado, informar isso no início. Para guias com links oficiais sem rastreamento, usar uma divulgação editorial fiel; não copiar a indicação de afiliados de outra campanha. Direcionar ao guia do blog, não diretamente ao checkout.
 5. Usar URLs públicas sem `.html` com `utm_source` de cada rede, `utm_medium=organic_social`, campanha e identificador do post. Não atribuir a hoje uma revisão de fornecedor que não foi feita.
 
 ## Gerar e salvar no Gemini
@@ -91,3 +91,16 @@ Organização de destaques: Nutrition (aminoácidos, moringa e Pep Tonic), Brain
 
 
 Conclusão em 31/10: os 33 posts existentes também foram publicados como Stories e salvos nos destaques por tema. A fila de `2026-10-30/other-posts/plan.json` está integralmente `published_and_in_highlight`; consultar os recibos antes de repetir qualquer publicação. Somando os 5 posts de 30/10, os 33 anteriores e os 8 novos, os destaques reúnem 46 artes.
+
+## Campanha de 01/11/2026
+
+Controle em `2026-11-01/posts.json`: dez posts baseados nos dez novos guias de suplementos. O usuário pediu seguir os padrões estabelecidos, incluindo Gemini web, três redes, Stories, destaques e GitHub. Os guias desta campanha usam links oficiais sem rastreamento; as legendas informam “Editorial disclosure: this guide uses untracked official links.” e as artes usam “AI editorial illustration · Independent guide”. A revisão das fontes continua datada de 31/10; não atribuir uma nova revisão ao dia da publicação.
+
+- Manter inglês nas redes; os dois guias QBX em alemão têm idioma e contexto da Alemanha explícitos na legenda.
+- Revisar todo o texto gerado no Gemini. A primeira arte QBX Chlorella precisou de duas revisões: faltou o nome e, em seguida, parte do título. Pedir blocos separados para marca, produto e título completo resolveu. Publicar somente a versão final revisada.
+- Os downloads originais ficaram em 928 × 1152. O aviso de largura recomendada do Pinterest não impediu a publicação; preservar a composição inteira, sem cortar texto.
+- Confirmar que o download realmente começou antes de enviar o próximo prompt. Se nenhum arquivo chegar, observar novamente o botão da resposta correta; não salvar uma imagem anterior como se fosse a nova.
+- Os destaques recebem grupos temáticos: Nutrition +4, Digestion +3, Brain +2 e Longevity +1. Antes de salvar, comparar os novos IDs com a linha de base e conferir o total; preservar as seleções existentes.
+- A ordem de upload não identifica cada Story. Registrar o conjunto de IDs do grupo quando não houver associação individual comprovada.
+- Na Meta, abrir o detalhe do post publicado e usar o link visível “Ver post no Facebook” para registrar o permalink real. O ID do post cruzado não é o ID da foto. Não inventar URLs.
+- `DELIVERY.md`, `publication-receipts.json` e `posts.json` registram o resultado final e impedem reenvios duplicados.
