@@ -23,6 +23,8 @@ function inspectPage(html, headers, url, expectedHtml) {
     const local = cheerio.load(expectedHtml);
     const links = (doc) => doc('.seo-related-list a').map((i, el) => doc(el).attr('href')).get();
     if (JSON.stringify(links($)) !== JSON.stringify(links(local))) errors.push('Published related navigation differs from checkout');
+    const icons = (doc) => doc('link[rel="icon"], link[rel="apple-touch-icon"]').map((i, el) => ['rel', 'href', 'type', 'sizes'].map(name => doc(el).attr(name) || '').join('|')).get();
+    if (JSON.stringify(icons($)) !== JSON.stringify(icons(local))) errors.push('Published browser icons differ from checkout');
   }
   return errors;
 }

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>PokiSky</title>
+  <path fill="#316b52" d="M21 0h22a21 21 0 0 1 21 21v22a21 21 0 0 1-21 21H8a8 8 0 0 1-8-8V21A21 21 0 0 1 21 0Z"/>
+  <path fill="#fff" fill-rule="evenodd" d="M21 16h14c9 0 14 5 14 13s-5 13-14 13h-5v10h-9Zm9 8v10h5c3 0 5-2 5-5s-2-5-5-5Z"/>
+</svg>
