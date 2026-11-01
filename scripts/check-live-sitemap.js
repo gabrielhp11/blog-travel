@@ -7,7 +7,7 @@ function indexingBlocked(value = '') {
   return /\b(?:noindex|none)\b/i.test(value);
 }
 
-function inspectPage(html, headers, url) {
+function inspectPage(html, headers, url, expectedHtml) {
   const $ = cheerio.load(html);
   const errors = [];
   if (!/text\/html/i.test(headers.get('content-type') || '')) errors.push('Not HTML');
@@ -19,6 +19,11 @@ function inspectPage(html, headers, url) {
   if (canonical.length !== 1 || canonical.attr('href') !== url) errors.push('Canonical differs from sitemap URL');
   if (!$('title').text().trim() || $('h1').length !== 1 || !$('h1').text().trim()) errors.push('Missing title or unique H1');
   if (!$('main').text().trim()) errors.push('Missing static main content');
+  if (expectedHtml !== undefined) {
+    const local = cheerio.load(expectedHtml);
+    const links = (doc) => doc('.seo-related-list a').map((i, el) => doc(el).attr('href')).get();
+    if (JSON.stringify(links($)) !== JSON.stringify(links(local))) errors.push('Published related navigation differs from checkout');
+  }
   return errors;
 }
 
@@ -57,7 +62,10 @@ async function main() {
         const page = await get(url);
         status = page.response.status;
         if (status !== 200) errors.push('HTTP ' + status + (page.response.headers.get('location') ? ' -> ' + page.response.headers.get('location') : ''));
-        else errors.push(...inspectPage(page.body, page.response.headers, url));
+        else {
+          const file = parsed.pathname === '/' ? 'index.html' : parsed.pathname.slice(1) + '.html';
+          errors.push(...inspectPage(page.body, page.response.headers, url, fs.readFileSync(file, 'utf8')));
+        }
       } catch (error) { errors.push(error.message); }
       results.push({url, status, errors});
     }

@@ -1,6 +1,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const cheerio = require('cheerio');
+const {relatedGuides} = require('./related-guides');
 const {siteUrl, guides, hubs, localeOf, ogLocaleOf, languages, cleanPath, absoluteUrl, escapeHtml: esc, hubFor, jsonLd, extractFaqs, faqPage, isEuropeanGuide, isUkIrelandGuide, planningPages} = require('./site-data');
 
 function htmlFiles(directory) {
@@ -96,10 +97,7 @@ for (const file of files) {
       insert($('.hero').first()[0].sourceCodeLocation.endOffset, '\n' + gallery);
     }
 
-    const related = guides.filter(item => item !== article && hubFor(item) === hub).sort((a, b) => {
-      const score = item => (item.id === article.sourceProductId ? 16 : 0) + (item.subtopic === article.subtopic ? 4 : 0) + (localeOf(item) === lang ? 2 : 0);
-      return score(b) - score(a);
-    }).slice(0, 3);
+    const related = relatedGuides(article, guides, {hubFor, localeOf});
     const europeHub = hubs.find(item => item.key === 'europe');
     const germanHub = hubs.find(item => item.key === 'europe-de');
     const ukHub = hubs.find(item => item.key === 'uk-ireland');

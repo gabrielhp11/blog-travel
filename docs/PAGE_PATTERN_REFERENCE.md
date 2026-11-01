@@ -353,6 +353,7 @@ Toda alteração nova deve ser documentada nesta seção. Ao criar ou editar qua
 
 | Data | Alteração | Arquivo(s) afetado(s) | Observação |
 | --- | --- | --- | --- |
+| 2026-11-01 | Navegação contextual revisada para páginas descobertas pelo Google | Seletor e testes de guias relacionados, páginas geradas, auditoria de descoberta | Mesmo idioma, comparação e produtos conectados; 65 exemplos históricos conferidos, sem promessa de indexação |
 | 2026-11-01 | Dez novos guias de suplementos encontrados na Digistore24 | Conteúdo, gerador, dez páginas, 30 imagens oficiais, catálogo, aliases e sitemap | Fontes de 31/10, oito textos EN e dois DE; links oficiais sem rastreamento e limitações de rótulos preservadas |
 | 2026-10-18 | GearUP e Creality com parcerias ativas e análise de três redes | Dois guias, seis imagens oficiais, catálogo, hub gaming, redirects e relatório | Links rastreados conferidos; novas candidaturas sem confirmação; bloqueios Impact/PartnerStack documentados |
 | 2026-10-18 | 17 guias Kiwify e reconciliação da conta | `content/kiwify-guides.json`, gerador, catálogo, páginas, 51 SVGs e auditoria | 11 guias no catálogo; 6 páginas documentais noindex; afiliação desativada e GPBOX fora do catálogo |

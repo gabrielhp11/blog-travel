@@ -21,3 +21,10 @@ test('rejects conflicting canonical URLs and HTTP 200 error-like empty shells', 
   assert.ok(inspectPage('<title>Error</title>', headers(), url).includes('Missing static main content'));
   assert.ok(inspectPage(html, headers({'content-type': 'application/json'}), url).includes('Not HTML'));
 });
+
+test('detects a stale deployment even when the sitemap and canonical URL are unchanged', () => {
+  const before = html.replace('</main>', '<ul class="seo-related-list"><li><a href="/old">Old guide</a></li></ul></main>');
+  const after = before.replace('/old', '/updated');
+  assert.ok(inspectPage(before, headers(), url, after).includes('Published related navigation differs from checkout'));
+  assert.deepEqual(inspectPage(after, headers(), url, after), []);
+});

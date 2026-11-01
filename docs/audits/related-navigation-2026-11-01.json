@@ -1,0 +1,3203 @@
+{
+  "scope": "Contextual navigation changes; no attribution of Google indexing delay",
+  "before": {
+    "crossLanguageLinks": 76,
+    "guidesWithoutContextualIncoming": 18
+  },
+  "after": {
+    "crossLanguageLinks": 0,
+    "guidesWithoutContextualIncoming": 29
+  },
+  "changedPages": 112,
+  "changedHistoricalExamples": 53,
+  "results": [
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/femicore",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/menovelle",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/tonicgreens-review",
+          "lang": "en-US"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/gut-health/digestistart",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/primebiome",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+          "lang": "en-GB"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/digestistart",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/gut-health/primebiome",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/senflo-gummies",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/qbx-kraeuteressenz",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/gut-health/integrative-digestive-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/gut-health/ketosana",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/gut-health/primebiome",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/gut-health/digestistart",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/senflo-gummies",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/qbx-kraeuteressenz",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/gut-health/senflo-gummies",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/gut-health/digestistart",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/menovelle",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/tonicgreens-review",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/gluconite",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/menovelle",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/femicore",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/tonicgreens-review",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/pep-tonic",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/tonicgreens-review",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/yara-hair-vitamins",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/mindsilence",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/brain-health/focus-iq",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/brain-health/advanced-memory-formula",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/rhythmone",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/longevity/vigorsana",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/focus-iq",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/brain-health/mindsilence",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/brain-health/mindsilence",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/brain-health/advanced-memory-formula",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/femicore",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/menovelle",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/yara-hair-vitamins",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/adaptogen-4",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/metabolic-health/slin",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/metabolic-health/slin",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/insulin-herb-berberine",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/glp-1-plus",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/femicore",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/menovelle",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/tonicgreens-review",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/gluconite",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/elixolve-sleep-strips",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/menovelle",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/glucotrust-german",
+          "lang": "de-DE"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/joint-health/advanced-joint-support",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/joint-health/advanced-joint-support",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/curcumitol-q",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/curcumitol-q",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/curcumitol-q",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/brain-health/brainamp",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/mindsilence",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/brain-health/focus-iq",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/brain-health/brainamp",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/advanced-memory-formula",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/brain-health/focus-iq",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/gut-health/integrative-digestive-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/gut-health/qbx-kraeuteressenz",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/gut-health/digestistart",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/gut-health/integrative-digestive-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/gut-health/senflo-gummies",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/digestistart",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/curcumitol-q",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/eznaturals-moringa",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/pep-tonic",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/femicore",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/longevity/advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/circo2",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-amino-formula",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/vigorsana",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/floravitasana",
+      "locale": "fr-FR",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/gut-health/qbx-kraeuteressenz",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/gut-health/digestistart",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/primebiome",
+          "lang": "en-US"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/insulin-herb-berberine",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/glp-1-plus",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/femicore",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/menovelle",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/tonicgreens-review",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/adaptogen-4",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/gut-health/digestistart",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/primebiome",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/qbx-kraeuteressenz",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/gut-health/integrative-digestive-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/gut-health/digestistart",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4",
+      "locale": "en-US",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/femicore",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/menovelle",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/tonicgreens-review",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/curcumitol-q",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips",
+      "locale": "en",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/gluconite",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/eznaturals-moringa",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/qbx-chlorella",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/gluconite",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/glucotrust-german",
+          "lang": "de-DE"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glucosana",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/glucotrust-german",
+          "lang": "de-DE"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/herosana-caliber",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/mens-health/alpha-dualis",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/advanced-prostate-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/mens-health/prime-perform-pro",
+          "lang": "en"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glucotrust-german",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite",
+      "locale": "en",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/elixolve-sleep-strips",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/eznaturals-moringa",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/qbx-chlorella",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/nutrition/elixolve-sleep-strips",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/menovelle",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/insulin-herb-berberine",
+      "locale": "en",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slin",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/glp-1-plus",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus",
+      "locale": "en",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/longevity/collagen",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/longevity/vigorsana",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/longevity/rhythmone",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/vigorsana",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis",
+      "locale": "en",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/mens-health/prime-perform-pro",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/spartamax",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/herosana-caliber",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/mens-health/prime-perform-pro",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/spartamax",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/advanced-prostate-formula",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/maker-tools/creality-3d-printers",
+      "locale": "en",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/ai-training/ki-training",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/business/digital-skills/hook-mastery",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/business/course/advanced-program",
+          "lang": "en"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/education/music-learning/piano-boogie-woogie",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/music-learning/endlich-klavier-spielen",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/business/marketing-tools/fastseohub-elite",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/music-learning/piano-boogie-woogie",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa",
+      "locale": "en",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/elixolve-sleep-strips",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/gluconite",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/qbx-chlorella",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/pep-tonic",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/femicore",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/wellness/mens-health/herosana-caliber",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/mens-health/alpha-dualis",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/prime-perform-pro",
+          "lang": "en"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/mens-health/alpha-dualis",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/prime-perform-pro",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/spartamax",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/curcumitol-q",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/curcumitol-q",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/curcumitol-q",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/fastseohub-elite",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/marketing-tools/salesforge-pro",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/ultimate-viddeos-ai",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/traffic-genius",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/marketing-tools/salesforge-pro",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/traffic-genius",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/ultimate-viddeos-ai",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/salesforge-pro",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/marketing-tools/fastseohub-elite",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/ultimate-viddeos-ai",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/traffic-genius",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/marketing-tools/traffic-genius",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/ultimate-viddeos-ai",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/fastseohub-elite",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/productivity/expertslides-powerpoint",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/business/productivity/excel-paket",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/business/productivity/excel-profissional",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+          "lang": "en-GB"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/supp-up-travel-system",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/fitness-learning/metodo-flow-futevolei",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/fastseohub-elite",
+          "lang": "en-GB"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/chargeback-prevention-masterclass",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/business/professional-learning/coursera-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/key-account-management-training",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/sap-ewm-supercharged",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/professional-learning/coursera-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/key-account-management-training",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/leadership-crash-course",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/family-learning/empowered-parenting",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/fastseohub-elite",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/salesforge-pro",
+          "lang": "en-GB"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/ai-training/agent-x",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/ai-training/ki-training",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/fastseohub-elite",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/ai-training/ki-training",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/remixable-founder",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/digital-skills/coachy-premium",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/digital-skills/hook-mastery",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/digital-skills/coachy-premium",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/digital-skills/hook-mastery",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/traffic-genius",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/business/marketing-tools/fastseohub-elite",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/salesforge-pro",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/ultimate-viddeos-ai",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/marketing-tools/ultimate-viddeos-ai",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/fastseohub-elite",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/salesforge-pro",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/metabolic-health/insulin-herb-berberine",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/metabolic-health/slin",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/gut-health/qbx-kraeuteressenz",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/gut-health/digestistart",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/gut-health/senflo-gummies",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/ketosana",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/joint-health/advanced-joint-support",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/elixolve-sleep-strips",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/eznaturals-moringa",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/nutrition/tonicgreens-review",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+          "lang": "en-GB"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/mindsilence",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/brain-health/focus-iq",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/advanced-memory-formula",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/brain-health/focus-iq",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/coachy-premium",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/digital-skills/remixable-founder",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/digital-skills/hook-mastery",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/digital-skills/hook-mastery",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/business/digital-skills/remixable-founder",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/education/pet-learning/herdenschutzhund-kurs",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/business/marketing-tools/funnelcockpit-standard",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/education/technical-training/et-akademie-dozenten-paket",
+          "lang": "de-DE"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/pet-learning/herdenschutzhund-kurs",
+      "locale": "de-DE",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/pet-learning/segredo-adestramento-canino",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/business/marketing-tools/funnelcockpit-standard",
+          "lang": "de-DE"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/funnelcockpit-standard",
+      "locale": "de-DE",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/marketing-tools/fastseohub-elite",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/salesforge-pro",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/ultimate-viddeos-ai",
+          "lang": "en-GB"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/et-akademie-dozenten-paket",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/education/technical-training/consertaflix",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/raspberry-pi-for-beginners",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/technical-training/fundamentos-do-corte",
+          "lang": "pt-BR"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/endlich-klavier-spielen",
+      "locale": "de-DE",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/music-learning/piano-boogie-woogie",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+          "lang": "de-DE"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/circo2",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-amino-formula",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/longevity/circo2",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-amino-formula",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/longevity/collagen",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/longevity/rhythmone",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/circo2",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/nutrition/advanced-muscle-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/social-media-masterclass",
+      "locale": "de-DE",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/business/creative-learning/skillshare",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/domestika-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+          "lang": "en-GB"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-paket",
+      "locale": "de-DE",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/productivity/expertslides-powerpoint",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/productivity/excel-profissional",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+          "lang": "de-DE"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/ai-training/ki-training",
+      "locale": "en",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/ai-training/agent-x",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/maker-tools/creality-3d-printers",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/business/digital-skills/hook-mastery",
+          "lang": "en"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/ai-training/agent-x",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula",
+      "locale": "en",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/brain-health/mindsilence",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/brain-health/focus-iq",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/brainamp",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/brain-health/focus-iq",
+          "lang": "en-US"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana",
+      "locale": "en",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/gut-health/qbx-kraeuteressenz",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/wellness/gut-health/digestistart",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/primebiome",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/gut-health/primebiome",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/senflo-gummies",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro",
+      "locale": "en",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/wellness/mens-health/alpha-dualis",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/spartamax",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/herosana-caliber",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/mens-health/spartamax",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/advanced-prostate-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/mens-health/alpha-dualis",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax",
+      "locale": "en",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/wellness/mens-health/alpha-dualis",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/prime-perform-pro",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/herosana-caliber",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/mens-health/advanced-prostate-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/mens-health/alpha-dualis",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/mens-health/prime-perform-pro",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen",
+      "locale": "en",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/longevity/vigorsana",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/longevity/rhythmone",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/longevity/rhythmone",
+          "lang": "en-US"
+        },
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana",
+      "locale": "en",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/wellness/longevity/selfplus-age-plus",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/longevity/collagen",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/wellness/longevity/rhythmone",
+          "lang": "en-US"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/wellness/longevity/advanced-amino-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/advanced-mitochondrial-formula",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/wellness/longevity/circo2",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/hook-mastery",
+      "locale": "en",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/digital-skills/remixable-founder",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/digital-skills/coachy-premium",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/maker-tools/creality-3d-printers",
+          "lang": "en"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/digital-skills/remixable-founder",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/digital-skills/coachy-premium",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/hackeando-a-fluencia",
+      "locale": "pt-BR",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/education/language-learning/ingles-para-viagens",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/language-learning/babbel",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/mystery-of-nils",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/language-learning/ingles-para-viagens",
+          "lang": "pt-BR"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/consertaflix",
+      "locale": "pt-BR",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/education/technical-training/fundamentos-do-corte",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/formacao-redlips",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/et-akademie-dozenten-paket",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/technical-training/formacao-redlips",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/fundamentos-do-corte",
+          "lang": "pt-BR"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/vehicle-buying/metodo-adl",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/language-learning/hackeando-a-fluencia",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/consertaflix",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/business/accessories-business/vivendo-de-acessorios",
+          "lang": "pt-BR"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/accessories-business/vivendo-de-acessorios",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/language-learning/hackeando-a-fluencia",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/consertaflix",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/business/vehicle-buying/metodo-adl",
+          "lang": "pt-BR"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/course/advanced-program",
+      "locale": "en",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/maker-tools/creality-3d-printers",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/business/ai-training/ki-training",
+          "lang": "en"
+        },
+        {
+          "url": "/topics/business/digital-skills/hook-mastery",
+          "lang": "en"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/pacote-4-guias-idiomas",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/travel/points-and-miles/elite-travelhacking-basix",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/travel/points-and-miles/comunidade-milhas",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/travel/connectivity/airalo",
+          "lang": "en-GB"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/elite-travelhacking-basix",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/travel/points-and-miles/comunidade-milhas",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/language-learning/pacote-4-guias-idiomas",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/travel/connectivity/airalo",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/travel/points-and-miles/comunidade-milhas",
+          "lang": "pt-BR"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/design-tools/canva-pro",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/fastseohub-elite",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/marketing-tools/salesforge-pro",
+          "lang": "en-GB"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/skillshare",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/creative-learning/domestika-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/prejudice-slog3-luts",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/domestika-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/prejudice-slog3-luts",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/domestika-plus",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/creative-learning/skillshare",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/prejudice-slog3-luts",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/creative-learning/prejudice-slog3-luts",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/skillshare",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/coursera-plus",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/professional-learning/chargeback-prevention-masterclass",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/key-account-management-training",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/sap-ewm-supercharged",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/professional-learning/key-account-management-training",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/leadership-crash-course",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/sap-ewm-supercharged",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/babbel",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/education/language-learning/mystery-of-nils",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/spanish-slow-and-easy",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/mega-sprachen-reise-englisch",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/language-learning/mega-sprachen-reise-englisch",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/mystery-of-nils",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/spanish-slow-and-easy",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/airalo",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/travel/connectivity/holafly",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/travel/experiences/getyourguide",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/travel/experiences/civitatis",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/travel/connectivity/holafly",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/holafly",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/travel/connectivity/airalo",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/travel/experiences/getyourguide",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/travel/experiences/civitatis",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/travel/connectivity/airalo",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/experiences/getyourguide",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/travel/experiences/civitatis",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/travel/connectivity/airalo",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/travel/connectivity/holafly",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/travel/experiences/civitatis",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/experiences/civitatis",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/travel/experiences/getyourguide",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/travel/connectivity/airalo",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/travel/connectivity/holafly",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/travel/experiences/getyourguide",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/transport/omio",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/travel/connectivity/airalo",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/travel/connectivity/holafly",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/travel/experiences/getyourguide",
+          "lang": "en-GB"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mystery-of-nils",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/education/language-learning/babbel",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/spanish-slow-and-easy",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/mega-sprachen-reise-englisch",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/language-learning/spanish-slow-and-easy",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/mega-sprachen-reise-englisch",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/babbel",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/spanish-slow-and-easy",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/language-learning/babbel",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/mystery-of-nils",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/mega-sprachen-reise-englisch",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/language-learning/mega-sprachen-reise-englisch",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/mystery-of-nils",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/babbel",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/creative-learning/skillshare",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/domestika-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/prejudice-slog3-luts",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/creative-learning/domestika-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/prejudice-slog3-luts",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/skillshare",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/prejudice-slog3-luts",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/creative-learning/skillshare",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/domestika-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/creative-learning/skillshare",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/creative-learning/domestika-plus",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/key-account-management-training",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/professional-learning/chargeback-prevention-masterclass",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/coursera-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/sap-ewm-supercharged",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/professional-learning/leadership-crash-course",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/sap-ewm-supercharged",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/chargeback-prevention-masterclass",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/raspberry-pi-for-beginners",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/technical-training/et-akademie-dozenten-paket",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/education/technical-training/consertaflix",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/fundamentos-do-corte",
+          "lang": "pt-BR"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/leadership-crash-course",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/professional-learning/chargeback-prevention-masterclass",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/coursera-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/key-account-management-training",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/business/professional-learning/sap-ewm-supercharged",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/chargeback-prevention-masterclass",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/coursera-plus",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mega-sprachen-reise-englisch",
+      "locale": "en-GB",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/language-learning/babbel",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/mystery-of-nils",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/spanish-slow-and-easy",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/language-learning/mystery-of-nils",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/spanish-slow-and-easy",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/babbel",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/piano-boogie-woogie",
+      "locale": "en-GB",
+      "historicalGoogleExample": false,
+      "before": [
+        {
+          "url": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/music-learning/endlich-klavier-spielen",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/business/marketing-tools/fastseohub-elite",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+          "lang": "en-GB"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/comunidade-milhas",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/travel/points-and-miles/elite-travelhacking-basix",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/language-learning/pacote-4-guias-idiomas",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/travel/connectivity/airalo",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/travel/points-and-miles/elite-travelhacking-basix",
+          "lang": "pt-BR"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/creative-learning/gifts-da-isa",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/creative-learning/aprenda-croche",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/business/creative-learning/social-media-masterclass",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/business/creative-learning/skillshare",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/creative-learning/aprenda-croche",
+          "lang": "pt-BR"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-profissional",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/productivity/expertslides-powerpoint",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/productivity/excel-paket",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/education/language-learning/hackeando-a-fluencia",
+          "lang": "pt-BR"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/creative-learning/aprenda-croche",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/creative-learning/gifts-da-isa",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/business/creative-learning/social-media-masterclass",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/business/creative-learning/skillshare",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/creative-learning/gifts-da-isa",
+          "lang": "pt-BR"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/professional-learning/supremo-enem",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/business/professional-learning/chargeback-prevention-masterclass",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/coursera-plus",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/business/professional-learning/key-account-management-training",
+          "lang": "en-GB"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/pet-learning/segredo-adestramento-canino",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/pet-learning/herdenschutzhund-kurs",
+          "lang": "de-DE"
+        },
+        {
+          "url": "/topics/education/language-learning/hackeando-a-fluencia",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/consertaflix",
+          "lang": "pt-BR"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/ingles-para-viagens",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/language-learning/hackeando-a-fluencia",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/language-learning/babbel",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/mystery-of-nils",
+          "lang": "en-GB"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/language-learning/hackeando-a-fluencia",
+          "lang": "pt-BR"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/fundamentos-do-corte",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/technical-training/consertaflix",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/formacao-redlips",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/et-akademie-dozenten-paket",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/technical-training/formacao-redlips",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/consertaflix",
+          "lang": "pt-BR"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/finance-ai/claude-para-financas",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/language-learning/hackeando-a-fluencia",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/consertaflix",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/business/vehicle-buying/metodo-adl",
+          "lang": "pt-BR"
+        }
+      ],
+      "after": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/formacao-redlips",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/technical-training/consertaflix",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/fundamentos-do-corte",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/et-akademie-dozenten-paket",
+          "lang": "de-DE"
+        }
+      ],
+      "after": [
+        {
+          "url": "/topics/education/technical-training/fundamentos-do-corte",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/consertaflix",
+          "lang": "pt-BR"
+        }
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/metodo-flow-futevolei",
+      "locale": "pt-BR",
+      "historicalGoogleExample": true,
+      "before": [
+        {
+          "url": "/topics/education/fitness-learning/supp-up-travel-system",
+          "lang": "en-GB"
+        },
+        {
+          "url": "/topics/education/language-learning/hackeando-a-fluencia",
+          "lang": "pt-BR"
+        },
+        {
+          "url": "/topics/education/technical-training/consertaflix",
+          "lang": "pt-BR"
+        }
+      ],
+      "after": []
+    }
+  ]
+}

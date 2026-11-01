@@ -1,0 +1,3101 @@
+{
+  "checkedAt": "2026-11-01T13:56:41.769Z",
+  "scope": "Static HTML discovery and navigation; not current Google index status",
+  "historicalReportUpdated": "2026-10-22",
+  "checked": 127,
+  "reachable": 127,
+  "historicalExamples": 65,
+  "historicalExamplesChecked": 65,
+  "guidesWithoutContextualIncoming": 29,
+  "errors": [],
+  "results": [
+    {
+      "url": "https://blog-travel-eight.vercel.app/",
+      "title": "PokiSky: travel, course, software and supplement buying guides",
+      "canonical": "https://blog-travel-eight.vercel.app/",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/"
+      ],
+      "incomingPages": [
+        "/affiliate-disclosure",
+        "/guides/courses",
+        "/guides/europa-esim",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/europe-esim",
+        "/guides/gaming",
+        "/guides/supplement-comparisons",
+        "/guides/travel",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/business/accessories-business/vivendo-de-acessorios",
+        "/topics/business/ai-training/agent-x",
+        "/topics/business/ai-training/ki-training",
+        "/topics/business/course/advanced-program",
+        "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+        "/topics/business/creative-learning/domestika-plus",
+        "/topics/business/creative-learning/prejudice-slog3-luts",
+        "/topics/business/creative-learning/skillshare",
+        "/topics/business/creative-learning/social-media-masterclass",
+        "/topics/business/design-tools/canva-pro",
+        "/topics/business/digital-skills/coachy-premium",
+        "/topics/business/digital-skills/hook-mastery",
+        "/topics/business/digital-skills/remixable-founder",
+        "/topics/business/family-learning/empowered-parenting",
+        "/topics/business/finance-ai/claude-para-financas",
+        "/topics/business/maker-tools/creality-3d-printers",
+        "/topics/business/marketing-tools/fastseohub-elite",
+        "/topics/business/marketing-tools/funnelcockpit-standard",
+        "/topics/business/marketing-tools/salesforge-pro",
+        "/topics/business/marketing-tools/traffic-genius",
+        "/topics/business/marketing-tools/ultimate-viddeos-ai",
+        "/topics/business/productivity/excel-paket",
+        "/topics/business/productivity/excel-profissional",
+        "/topics/business/productivity/expertslides-powerpoint",
+        "/topics/business/professional-learning/chargeback-prevention-masterclass",
+        "/topics/business/professional-learning/coursera-plus",
+        "/topics/business/professional-learning/key-account-management-training",
+        "/topics/business/professional-learning/leadership-crash-course",
+        "/topics/business/professional-learning/sap-ewm-supercharged",
+        "/topics/business/vehicle-buying/metodo-adl",
+        "/topics/education/creative-learning/aprenda-croche",
+        "/topics/education/creative-learning/gifts-da-isa",
+        "/topics/education/fitness-learning/metodo-flow-futevolei",
+        "/topics/education/fitness-learning/supp-up-travel-system",
+        "/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+        "/topics/education/language-learning/babbel",
+        "/topics/education/language-learning/hackeando-a-fluencia",
+        "/topics/education/language-learning/ingles-para-viagens",
+        "/topics/education/language-learning/mega-sprachen-reise-englisch",
+        "/topics/education/language-learning/mystery-of-nils",
+        "/topics/education/language-learning/pacote-4-guias-idiomas",
+        "/topics/education/language-learning/spanish-slow-and-easy",
+        "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+        "/topics/education/music-learning/endlich-klavier-spielen",
+        "/topics/education/music-learning/piano-boogie-woogie",
+        "/topics/education/pet-learning/herdenschutzhund-kurs",
+        "/topics/education/pet-learning/segredo-adestramento-canino",
+        "/topics/education/professional-learning/supremo-enem",
+        "/topics/education/technical-training/consertaflix",
+        "/topics/education/technical-training/et-akademie-dozenten-paket",
+        "/topics/education/technical-training/formacao-redlips",
+        "/topics/education/technical-training/fundamentos-do-corte",
+        "/topics/education/technical-training/raspberry-pi-for-beginners",
+        "/topics/entertainment/gaming-network/gearup-booster",
+        "/topics/travel/connectivity/airalo",
+        "/topics/travel/connectivity/holafly",
+        "/topics/travel/experiences/civitatis",
+        "/topics/travel/experiences/getyourguide",
+        "/topics/travel/points-and-miles/comunidade-milhas",
+        "/topics/travel/points-and-miles/elite-travelhacking-basix",
+        "/topics/travel/transport/omio",
+        "/topics/wellness/brain-health/advanced-memory-formula",
+        "/topics/wellness/brain-health/brainamp",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+        "/topics/wellness/brain-health/focus-iq",
+        "/topics/wellness/brain-health/mindsilence",
+        "/topics/wellness/gut-health/digestistart",
+        "/topics/wellness/gut-health/floravitasana",
+        "/topics/wellness/gut-health/integrative-digestive-formula",
+        "/topics/wellness/gut-health/ketosana",
+        "/topics/wellness/gut-health/primebiome",
+        "/topics/wellness/gut-health/qbx-kraeuteressenz",
+        "/topics/wellness/gut-health/senflo-gummies",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+        "/topics/wellness/joint-health/advanced-joint-support",
+        "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+        "/topics/wellness/longevity/advanced-amino-formula",
+        "/topics/wellness/longevity/advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/circo2",
+        "/topics/wellness/longevity/collagen",
+        "/topics/wellness/longevity/rhythmone",
+        "/topics/wellness/longevity/selfplus-age-plus",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/vigorsana",
+        "/topics/wellness/mens-health/advanced-prostate-formula",
+        "/topics/wellness/mens-health/alpha-dualis",
+        "/topics/wellness/mens-health/herosana-caliber",
+        "/topics/wellness/mens-health/prime-perform-pro",
+        "/topics/wellness/mens-health/spartamax",
+        "/topics/wellness/metabolic-health/glp-1-plus",
+        "/topics/wellness/metabolic-health/glucosana",
+        "/topics/wellness/metabolic-health/glucotrust-german",
+        "/topics/wellness/metabolic-health/insulin-herb-berberine",
+        "/topics/wellness/metabolic-health/metabosana",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+        "/topics/wellness/metabolic-health/slimsana",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+        "/topics/wellness/metabolic-health/slin",
+        "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+        "/topics/wellness/nutrition/adaptogen-4",
+        "/topics/wellness/nutrition/advanced-muscle-plus",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+        "/topics/wellness/nutrition/curcumitol-q",
+        "/topics/wellness/nutrition/elixolve-sleep-strips",
+        "/topics/wellness/nutrition/eznaturals-moringa",
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+        "/topics/wellness/nutrition/femicore",
+        "/topics/wellness/nutrition/gluconite",
+        "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+        "/topics/wellness/nutrition/menovelle",
+        "/topics/wellness/nutrition/pep-tonic",
+        "/topics/wellness/nutrition/qbx-chlorella",
+        "/topics/wellness/nutrition/tonicgreens-review",
+        "/topics/wellness/nutrition/yara-hair-vitamins",
+        "/topics/wellness/vision-health/advanced-vision-formula"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/affiliate-disclosure",
+      "title": "Affiliate Disclosure & Editorial Standards | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/affiliate-disclosure",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/affiliate-disclosure"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europa-esim",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/europe-esim",
+        "/guides/gaming",
+        "/guides/supplement-comparisons",
+        "/guides/travel",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/business/accessories-business/vivendo-de-acessorios",
+        "/topics/business/ai-training/agent-x",
+        "/topics/business/ai-training/ki-training",
+        "/topics/business/course/advanced-program",
+        "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+        "/topics/business/creative-learning/domestika-plus",
+        "/topics/business/creative-learning/prejudice-slog3-luts",
+        "/topics/business/creative-learning/skillshare",
+        "/topics/business/creative-learning/social-media-masterclass",
+        "/topics/business/design-tools/canva-pro",
+        "/topics/business/digital-skills/coachy-premium",
+        "/topics/business/digital-skills/hook-mastery",
+        "/topics/business/digital-skills/remixable-founder",
+        "/topics/business/family-learning/empowered-parenting",
+        "/topics/business/finance-ai/claude-para-financas",
+        "/topics/business/maker-tools/creality-3d-printers",
+        "/topics/business/marketing-tools/fastseohub-elite",
+        "/topics/business/marketing-tools/funnelcockpit-standard",
+        "/topics/business/marketing-tools/salesforge-pro",
+        "/topics/business/marketing-tools/traffic-genius",
+        "/topics/business/marketing-tools/ultimate-viddeos-ai",
+        "/topics/business/productivity/excel-paket",
+        "/topics/business/productivity/excel-profissional",
+        "/topics/business/productivity/expertslides-powerpoint",
+        "/topics/business/professional-learning/chargeback-prevention-masterclass",
+        "/topics/business/professional-learning/coursera-plus",
+        "/topics/business/professional-learning/key-account-management-training",
+        "/topics/business/professional-learning/leadership-crash-course",
+        "/topics/business/professional-learning/sap-ewm-supercharged",
+        "/topics/business/vehicle-buying/metodo-adl",
+        "/topics/education/creative-learning/aprenda-croche",
+        "/topics/education/creative-learning/gifts-da-isa",
+        "/topics/education/fitness-learning/metodo-flow-futevolei",
+        "/topics/education/fitness-learning/supp-up-travel-system",
+        "/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+        "/topics/education/language-learning/babbel",
+        "/topics/education/language-learning/hackeando-a-fluencia",
+        "/topics/education/language-learning/ingles-para-viagens",
+        "/topics/education/language-learning/mega-sprachen-reise-englisch",
+        "/topics/education/language-learning/mystery-of-nils",
+        "/topics/education/language-learning/pacote-4-guias-idiomas",
+        "/topics/education/language-learning/spanish-slow-and-easy",
+        "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+        "/topics/education/music-learning/endlich-klavier-spielen",
+        "/topics/education/music-learning/piano-boogie-woogie",
+        "/topics/education/pet-learning/herdenschutzhund-kurs",
+        "/topics/education/pet-learning/segredo-adestramento-canino",
+        "/topics/education/professional-learning/supremo-enem",
+        "/topics/education/technical-training/consertaflix",
+        "/topics/education/technical-training/et-akademie-dozenten-paket",
+        "/topics/education/technical-training/formacao-redlips",
+        "/topics/education/technical-training/fundamentos-do-corte",
+        "/topics/education/technical-training/raspberry-pi-for-beginners",
+        "/topics/entertainment/gaming-network/gearup-booster",
+        "/topics/travel/connectivity/airalo",
+        "/topics/travel/connectivity/holafly",
+        "/topics/travel/experiences/civitatis",
+        "/topics/travel/experiences/getyourguide",
+        "/topics/travel/points-and-miles/comunidade-milhas",
+        "/topics/travel/points-and-miles/elite-travelhacking-basix",
+        "/topics/travel/transport/omio",
+        "/topics/wellness/brain-health/advanced-memory-formula",
+        "/topics/wellness/brain-health/brainamp",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+        "/topics/wellness/brain-health/focus-iq",
+        "/topics/wellness/brain-health/mindsilence",
+        "/topics/wellness/gut-health/digestistart",
+        "/topics/wellness/gut-health/floravitasana",
+        "/topics/wellness/gut-health/integrative-digestive-formula",
+        "/topics/wellness/gut-health/ketosana",
+        "/topics/wellness/gut-health/primebiome",
+        "/topics/wellness/gut-health/qbx-kraeuteressenz",
+        "/topics/wellness/gut-health/senflo-gummies",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+        "/topics/wellness/joint-health/advanced-joint-support",
+        "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+        "/topics/wellness/longevity/advanced-amino-formula",
+        "/topics/wellness/longevity/advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/circo2",
+        "/topics/wellness/longevity/collagen",
+        "/topics/wellness/longevity/rhythmone",
+        "/topics/wellness/longevity/selfplus-age-plus",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/vigorsana",
+        "/topics/wellness/mens-health/advanced-prostate-formula",
+        "/topics/wellness/mens-health/alpha-dualis",
+        "/topics/wellness/mens-health/herosana-caliber",
+        "/topics/wellness/mens-health/prime-perform-pro",
+        "/topics/wellness/mens-health/spartamax",
+        "/topics/wellness/metabolic-health/glp-1-plus",
+        "/topics/wellness/metabolic-health/glucosana",
+        "/topics/wellness/metabolic-health/glucotrust-german",
+        "/topics/wellness/metabolic-health/insulin-herb-berberine",
+        "/topics/wellness/metabolic-health/metabosana",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+        "/topics/wellness/metabolic-health/slimsana",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+        "/topics/wellness/metabolic-health/slin",
+        "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+        "/topics/wellness/nutrition/adaptogen-4",
+        "/topics/wellness/nutrition/advanced-muscle-plus",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+        "/topics/wellness/nutrition/curcumitol-q",
+        "/topics/wellness/nutrition/elixolve-sleep-strips",
+        "/topics/wellness/nutrition/eznaturals-moringa",
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+        "/topics/wellness/nutrition/femicore",
+        "/topics/wellness/nutrition/gluconite",
+        "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+        "/topics/wellness/nutrition/menovelle",
+        "/topics/wellness/nutrition/pep-tonic",
+        "/topics/wellness/nutrition/qbx-chlorella",
+        "/topics/wellness/nutrition/tonicgreens-review",
+        "/topics/wellness/nutrition/yara-hair-vitamins",
+        "/topics/wellness/vision-health/advanced-vision-formula"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/travel",
+      "title": "Travel planning: eSIMs, transport and experiences | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/guides/travel",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/guides/travel"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europa-esim",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/europe-esim",
+        "/guides/gaming",
+        "/guides/supplement-comparisons",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/education/language-learning/pacote-4-guias-idiomas",
+        "/topics/travel/connectivity/airalo",
+        "/topics/travel/connectivity/holafly",
+        "/topics/travel/experiences/civitatis",
+        "/topics/travel/experiences/getyourguide",
+        "/topics/travel/points-and-miles/comunidade-milhas",
+        "/topics/travel/points-and-miles/elite-travelhacking-basix",
+        "/topics/travel/transport/omio"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/courses",
+      "title": "Online courses and digital tools: compare before buying | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/guides/courses",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/guides/courses"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/gaming",
+        "/guides/supplement-comparisons",
+        "/guides/travel",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/business/accessories-business/vivendo-de-acessorios",
+        "/topics/business/ai-training/agent-x",
+        "/topics/business/ai-training/ki-training",
+        "/topics/business/course/advanced-program",
+        "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+        "/topics/business/creative-learning/domestika-plus",
+        "/topics/business/creative-learning/prejudice-slog3-luts",
+        "/topics/business/creative-learning/skillshare",
+        "/topics/business/creative-learning/social-media-masterclass",
+        "/topics/business/design-tools/canva-pro",
+        "/topics/business/digital-skills/coachy-premium",
+        "/topics/business/digital-skills/hook-mastery",
+        "/topics/business/digital-skills/remixable-founder",
+        "/topics/business/family-learning/empowered-parenting",
+        "/topics/business/finance-ai/claude-para-financas",
+        "/topics/business/maker-tools/creality-3d-printers",
+        "/topics/business/marketing-tools/fastseohub-elite",
+        "/topics/business/marketing-tools/funnelcockpit-standard",
+        "/topics/business/marketing-tools/salesforge-pro",
+        "/topics/business/marketing-tools/traffic-genius",
+        "/topics/business/marketing-tools/ultimate-viddeos-ai",
+        "/topics/business/productivity/excel-paket",
+        "/topics/business/productivity/excel-profissional",
+        "/topics/business/productivity/expertslides-powerpoint",
+        "/topics/business/professional-learning/chargeback-prevention-masterclass",
+        "/topics/business/professional-learning/coursera-plus",
+        "/topics/business/professional-learning/key-account-management-training",
+        "/topics/business/professional-learning/leadership-crash-course",
+        "/topics/business/professional-learning/sap-ewm-supercharged",
+        "/topics/business/vehicle-buying/metodo-adl",
+        "/topics/education/creative-learning/aprenda-croche",
+        "/topics/education/creative-learning/gifts-da-isa",
+        "/topics/education/fitness-learning/metodo-flow-futevolei",
+        "/topics/education/fitness-learning/supp-up-travel-system",
+        "/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+        "/topics/education/language-learning/babbel",
+        "/topics/education/language-learning/hackeando-a-fluencia",
+        "/topics/education/language-learning/ingles-para-viagens",
+        "/topics/education/language-learning/mega-sprachen-reise-englisch",
+        "/topics/education/language-learning/mystery-of-nils",
+        "/topics/education/language-learning/spanish-slow-and-easy",
+        "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+        "/topics/education/music-learning/endlich-klavier-spielen",
+        "/topics/education/music-learning/piano-boogie-woogie",
+        "/topics/education/pet-learning/herdenschutzhund-kurs",
+        "/topics/education/pet-learning/segredo-adestramento-canino",
+        "/topics/education/professional-learning/supremo-enem",
+        "/topics/education/technical-training/consertaflix",
+        "/topics/education/technical-training/et-akademie-dozenten-paket",
+        "/topics/education/technical-training/formacao-redlips",
+        "/topics/education/technical-training/fundamentos-do-corte",
+        "/topics/education/technical-training/raspberry-pi-for-beginners",
+        "/topics/travel/points-and-miles/comunidade-milhas"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/wellness",
+      "title": "Supplement buyer guides: labels, formats and seller claims | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/guides/wellness",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/guides/wellness"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/gaming",
+        "/guides/supplement-comparisons",
+        "/guides/travel",
+        "/guides/uk-ireland",
+        "/topics/wellness/brain-health/advanced-memory-formula",
+        "/topics/wellness/brain-health/brainamp",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+        "/topics/wellness/brain-health/focus-iq",
+        "/topics/wellness/brain-health/mindsilence",
+        "/topics/wellness/gut-health/digestistart",
+        "/topics/wellness/gut-health/floravitasana",
+        "/topics/wellness/gut-health/integrative-digestive-formula",
+        "/topics/wellness/gut-health/ketosana",
+        "/topics/wellness/gut-health/primebiome",
+        "/topics/wellness/gut-health/qbx-kraeuteressenz",
+        "/topics/wellness/gut-health/senflo-gummies",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+        "/topics/wellness/joint-health/advanced-joint-support",
+        "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+        "/topics/wellness/longevity/advanced-amino-formula",
+        "/topics/wellness/longevity/advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/circo2",
+        "/topics/wellness/longevity/collagen",
+        "/topics/wellness/longevity/rhythmone",
+        "/topics/wellness/longevity/selfplus-age-plus",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/vigorsana",
+        "/topics/wellness/mens-health/advanced-prostate-formula",
+        "/topics/wellness/mens-health/alpha-dualis",
+        "/topics/wellness/mens-health/herosana-caliber",
+        "/topics/wellness/mens-health/prime-perform-pro",
+        "/topics/wellness/mens-health/spartamax",
+        "/topics/wellness/metabolic-health/glp-1-plus",
+        "/topics/wellness/metabolic-health/glucosana",
+        "/topics/wellness/metabolic-health/glucotrust-german",
+        "/topics/wellness/metabolic-health/insulin-herb-berberine",
+        "/topics/wellness/metabolic-health/metabosana",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+        "/topics/wellness/metabolic-health/slimsana",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+        "/topics/wellness/metabolic-health/slin",
+        "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+        "/topics/wellness/nutrition/adaptogen-4",
+        "/topics/wellness/nutrition/advanced-muscle-plus",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+        "/topics/wellness/nutrition/curcumitol-q",
+        "/topics/wellness/nutrition/elixolve-sleep-strips",
+        "/topics/wellness/nutrition/eznaturals-moringa",
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+        "/topics/wellness/nutrition/femicore",
+        "/topics/wellness/nutrition/gluconite",
+        "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+        "/topics/wellness/nutrition/menovelle",
+        "/topics/wellness/nutrition/pep-tonic",
+        "/topics/wellness/nutrition/qbx-chlorella",
+        "/topics/wellness/nutrition/tonicgreens-review",
+        "/topics/wellness/nutrition/yara-hair-vitamins",
+        "/topics/wellness/vision-health/advanced-vision-formula"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europe",
+      "title": "Europe buying guides: English, German and French | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/guides/europe",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/guides/europe"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europa-esim",
+        "/guides/europe-de",
+        "/guides/europe-esim",
+        "/guides/gaming",
+        "/guides/supplement-comparisons",
+        "/guides/travel",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/business/ai-training/agent-x",
+        "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+        "/topics/business/creative-learning/domestika-plus",
+        "/topics/business/creative-learning/prejudice-slog3-luts",
+        "/topics/business/creative-learning/skillshare",
+        "/topics/business/creative-learning/social-media-masterclass",
+        "/topics/business/design-tools/canva-pro",
+        "/topics/business/digital-skills/coachy-premium",
+        "/topics/business/digital-skills/remixable-founder",
+        "/topics/business/family-learning/empowered-parenting",
+        "/topics/business/marketing-tools/fastseohub-elite",
+        "/topics/business/marketing-tools/funnelcockpit-standard",
+        "/topics/business/marketing-tools/salesforge-pro",
+        "/topics/business/marketing-tools/traffic-genius",
+        "/topics/business/marketing-tools/ultimate-viddeos-ai",
+        "/topics/business/productivity/excel-paket",
+        "/topics/business/productivity/expertslides-powerpoint",
+        "/topics/business/professional-learning/chargeback-prevention-masterclass",
+        "/topics/business/professional-learning/coursera-plus",
+        "/topics/business/professional-learning/key-account-management-training",
+        "/topics/business/professional-learning/leadership-crash-course",
+        "/topics/business/professional-learning/sap-ewm-supercharged",
+        "/topics/education/fitness-learning/supp-up-travel-system",
+        "/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+        "/topics/education/language-learning/babbel",
+        "/topics/education/language-learning/mega-sprachen-reise-englisch",
+        "/topics/education/language-learning/mystery-of-nils",
+        "/topics/education/language-learning/spanish-slow-and-easy",
+        "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+        "/topics/education/music-learning/endlich-klavier-spielen",
+        "/topics/education/music-learning/piano-boogie-woogie",
+        "/topics/education/pet-learning/herdenschutzhund-kurs",
+        "/topics/education/technical-training/et-akademie-dozenten-paket",
+        "/topics/education/technical-training/raspberry-pi-for-beginners",
+        "/topics/travel/connectivity/airalo",
+        "/topics/travel/connectivity/holafly",
+        "/topics/travel/experiences/civitatis",
+        "/topics/travel/experiences/getyourguide",
+        "/topics/travel/transport/omio",
+        "/topics/wellness/brain-health/brainamp",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+        "/topics/wellness/gut-health/floravitasana",
+        "/topics/wellness/gut-health/integrative-digestive-formula",
+        "/topics/wellness/gut-health/qbx-kraeuteressenz",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+        "/topics/wellness/joint-health/advanced-joint-support",
+        "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+        "/topics/wellness/longevity/advanced-amino-formula",
+        "/topics/wellness/longevity/advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/circo2",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+        "/topics/wellness/mens-health/advanced-prostate-formula",
+        "/topics/wellness/mens-health/herosana-caliber",
+        "/topics/wellness/metabolic-health/glp-1-plus",
+        "/topics/wellness/metabolic-health/glucosana",
+        "/topics/wellness/metabolic-health/glucotrust-german",
+        "/topics/wellness/metabolic-health/metabosana",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+        "/topics/wellness/metabolic-health/slimsana",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+        "/topics/wellness/nutrition/advanced-muscle-plus",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+        "/topics/wellness/nutrition/curcumitol-q",
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+        "/topics/wellness/nutrition/pep-tonic",
+        "/topics/wellness/nutrition/qbx-chlorella",
+        "/topics/wellness/vision-health/advanced-vision-formula"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europe-de",
+      "title": "Ratgeber auf Deutsch: Kurse, Software und Kaufchecks | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/guides/europe-de",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/guides/europe-de"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europa-esim",
+        "/guides/europe",
+        "/guides/gaming",
+        "/guides/supplement-comparisons",
+        "/guides/travel",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/business/creative-learning/social-media-masterclass",
+        "/topics/business/marketing-tools/funnelcockpit-standard",
+        "/topics/business/productivity/excel-paket",
+        "/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+        "/topics/education/music-learning/endlich-klavier-spielen",
+        "/topics/education/pet-learning/herdenschutzhund-kurs",
+        "/topics/education/technical-training/et-akademie-dozenten-paket",
+        "/topics/wellness/gut-health/qbx-kraeuteressenz",
+        "/topics/wellness/mens-health/herosana-caliber",
+        "/topics/wellness/metabolic-health/glucosana",
+        "/topics/wellness/metabolic-health/glucotrust-german",
+        "/topics/wellness/metabolic-health/metabosana",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+        "/topics/wellness/metabolic-health/slimsana",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+        "/topics/wellness/nutrition/qbx-chlorella"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/uk-ireland",
+      "title": "UK and Ireland buying guides: labels, packs and delivery checks | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/guides/uk-ireland",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/guides/uk-ireland"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/gaming",
+        "/guides/supplement-comparisons",
+        "/guides/travel",
+        "/guides/wellness",
+        "/topics/wellness/brain-health/brainamp",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+        "/topics/wellness/gut-health/integrative-digestive-formula",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+        "/topics/wellness/joint-health/advanced-joint-support",
+        "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+        "/topics/wellness/longevity/advanced-amino-formula",
+        "/topics/wellness/longevity/advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/circo2",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+        "/topics/wellness/mens-health/advanced-prostate-formula",
+        "/topics/wellness/metabolic-health/glp-1-plus",
+        "/topics/wellness/nutrition/advanced-muscle-plus",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+        "/topics/wellness/nutrition/curcumitol-q",
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+        "/topics/wellness/nutrition/pep-tonic",
+        "/topics/wellness/vision-health/advanced-vision-formula"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/gaming",
+      "title": "Gaming connection guides: compatibility, trials and subscriptions | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/guides/gaming",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/guides/gaming"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/supplement-comparisons",
+        "/guides/travel",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/entertainment/gaming-network/gearup-booster"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/supplement-comparisons",
+      "title": "Supplement comparisons: labels, serving sizes and costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/guides/supplement-comparisons",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/guides/supplement-comparisons"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/gaming",
+        "/guides/travel",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+        "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+        "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+        "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europe-esim",
+      "title": "Airalo vs Holafly for Europe: eSIM buying checklist | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/guides/europe-esim",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/guides/europe-esim"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europa-esim",
+        "/guides/europe",
+        "/guides/travel",
+        "/guides/uk-ireland",
+        "/topics/travel/connectivity/airalo",
+        "/topics/travel/connectivity/holafly"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/guides/europa-esim",
+      "title": "eSIM für Europa: Airalo und Holafly vergleichen | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/guides/europa-esim",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/guides/europa-esim"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/europe-esim",
+        "/guides/travel"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella",
+      "title": "QBX Chlorella: 500 mg, Sulfite und Bestellkosten | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/wellness"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz",
+      "title": "QBX Kräuteressenz: 30 Tropfen, Rezeptur und Kosten | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/wellness"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/digestistart",
+      "title": "DigestiStart: 500 mg Blend, Capsule Label and Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/digestistart",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/digestistart"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/gut-health/primebiome",
+        "/topics/wellness/gut-health/senflo-gummies",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/gut-health/primebiome",
+        "/topics/wellness/gut-health/senflo-gummies",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome",
+      "title": "PrimeBiome: Gummy Label, CFU and Bundle Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/gut-health/digestistart",
+        "/topics/wellness/gut-health/ketosana"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/gut-health/digestistart",
+        "/topics/wellness/gut-health/ketosana"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore",
+      "title": "FemiCore: Two Blends, Probiotic Units and Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/nutrition/eznaturals-moringa",
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/nutrition/eznaturals-moringa",
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle",
+      "title": "Menovelle: Mushroom Label, Serving and Pack Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/nutrition/femicore",
+        "/topics/wellness/nutrition/gluconite",
+        "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/nutrition/femicore",
+        "/topics/wellness/nutrition/gluconite",
+        "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/mindsilence",
+      "title": "MindSilence: CFU Discrepancy, Label and Order Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/mindsilence",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/mindsilence"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/brain-health/focus-iq"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/brain-health/focus-iq"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/rhythmone",
+      "title": "RhythmONE: 2 ml Blend, Label Warning and Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/rhythmone",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/longevity/rhythmone"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/longevity/circo2",
+        "/topics/wellness/longevity/collagen"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/longevity/circo2",
+        "/topics/wellness/longevity/collagen"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/focus-iq",
+      "title": "Focus IQ: Current Panel, Fish Allergen and Autoship | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/focus-iq",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/focus-iq"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/brain-health/advanced-memory-formula",
+        "/topics/wellness/brain-health/brainamp",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/brain-health/advanced-memory-formula",
+        "/topics/wellness/brain-health/brainamp",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review",
+      "title": "TonicGreens Review: Scoop Label, Blends and Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/nutrition/menovelle",
+        "/topics/wellness/nutrition/pep-tonic"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/nutrition/menovelle",
+        "/topics/wellness/nutrition/pep-tonic"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+      "title": "SLIN vs Insulin Herb Berberine: Serving & Formula Checks | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/supplement-comparisons",
+        "/guides/wellness",
+        "/topics/wellness/metabolic-health/glp-1-plus",
+        "/topics/wellness/metabolic-health/insulin-herb-berberine",
+        "/topics/wellness/metabolic-health/slin"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/metabolic-health/glp-1-plus",
+        "/topics/wellness/metabolic-health/insulin-herb-berberine",
+        "/topics/wellness/metabolic-health/slin"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+      "title": "Gluconite vs Elixolve Sleep Strips: Nighttime Label Comparison | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/supplement-comparisons",
+        "/guides/wellness",
+        "/topics/wellness/nutrition/elixolve-sleep-strips",
+        "/topics/wellness/nutrition/femicore",
+        "/topics/wellness/nutrition/gluconite"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/nutrition/elixolve-sleep-strips",
+        "/topics/wellness/nutrition/femicore",
+        "/topics/wellness/nutrition/gluconite"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+      "title": "SlimSana vs. KetoSana: Kapseln, Tropfen und Etiketten | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana-vs-ketosana",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana-vs-ketosana"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/supplement-comparisons",
+        "/guides/wellness",
+        "/topics/wellness/metabolic-health/glucotrust-german",
+        "/topics/wellness/metabolic-health/metabosana",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+        "/topics/wellness/metabolic-health/slimsana"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/metabolic-health/glucotrust-german",
+        "/topics/wellness/metabolic-health/metabosana",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+        "/topics/wellness/metabolic-health/slimsana"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+      "title": "MetaboSana vs. GlucoSana: Mengen und Warnhinweise | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana-vs-glucosana"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/supplement-comparisons",
+        "/guides/wellness",
+        "/topics/wellness/metabolic-health/glucosana",
+        "/topics/wellness/metabolic-health/glucotrust-german",
+        "/topics/wellness/metabolic-health/metabosana"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/metabolic-health/glucosana",
+        "/topics/wellness/metabolic-health/glucotrust-german",
+        "/topics/wellness/metabolic-health/metabosana"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+      "title": "Curcumitol-Q vs Advanced Joint Support: Formula & Allergen Checks | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/supplement-comparisons",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/joint-health/advanced-joint-support",
+        "/topics/wellness/nutrition/curcumitol-q"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/joint-health/advanced-joint-support",
+        "/topics/wellness/nutrition/curcumitol-q"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+      "title": "Advanced Muscle Plus vs Advanced Amino Formula: Label Differences | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/supplement-comparisons",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/longevity/advanced-amino-formula",
+        "/topics/wellness/nutrition/adaptogen-4",
+        "/topics/wellness/nutrition/advanced-muscle-plus",
+        "/topics/wellness/nutrition/tonicgreens-review",
+        "/topics/wellness/nutrition/yara-hair-vitamins"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/longevity/advanced-amino-formula",
+        "/topics/wellness/nutrition/adaptogen-4",
+        "/topics/wellness/nutrition/advanced-muscle-plus",
+        "/topics/wellness/nutrition/tonicgreens-review",
+        "/topics/wellness/nutrition/yara-hair-vitamins"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+      "title": "BrainAMP vs Advanced Memory Formula: Ingredient & Serving Comparison | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/supplement-comparisons",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/brain-health/advanced-memory-formula",
+        "/topics/wellness/brain-health/brainamp",
+        "/topics/wellness/brain-health/focus-iq",
+        "/topics/wellness/brain-health/mindsilence"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/brain-health/advanced-memory-formula",
+        "/topics/wellness/brain-health/brainamp",
+        "/topics/wellness/brain-health/focus-iq",
+        "/topics/wellness/brain-health/mindsilence"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+      "title": "SenFlo vs Integrative Digestive Formula: Different Digestive Proposals | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/supplement-comparisons",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/gut-health/integrative-digestive-formula",
+        "/topics/wellness/gut-health/ketosana",
+        "/topics/wellness/gut-health/primebiome",
+        "/topics/wellness/gut-health/senflo-gummies"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/gut-health/integrative-digestive-formula",
+        "/topics/wellness/gut-health/ketosana",
+        "/topics/wellness/gut-health/primebiome",
+        "/topics/wellness/gut-health/senflo-gummies"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+      "title": "EZNaturals Moringa vs Pep Tonic: Capsule & Powder Comparison | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/supplement-comparisons",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/nutrition/elixolve-sleep-strips",
+        "/topics/wellness/nutrition/eznaturals-moringa",
+        "/topics/wellness/nutrition/pep-tonic"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/nutrition/elixolve-sleep-strips",
+        "/topics/wellness/nutrition/eznaturals-moringa",
+        "/topics/wellness/nutrition/pep-tonic"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+      "title": "SelfPlus AGE+ vs Advanced Mitochondrial Formula: Label Scope | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/supplement-comparisons",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/longevity/advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/circo2",
+        "/topics/wellness/longevity/collagen",
+        "/topics/wellness/longevity/rhythmone",
+        "/topics/wellness/longevity/selfplus-age-plus"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/longevity/advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/circo2",
+        "/topics/wellness/longevity/collagen",
+        "/topics/wellness/longevity/rhythmone",
+        "/topics/wellness/longevity/selfplus-age-plus"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/floravitasana",
+      "title": "FloraVitaSana : étiquette, prix et livraison | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/floravitasana",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/floravitasana"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/wellness"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin",
+      "title": "SLIN: Label Differences & Six-Bottle Order Cost | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slin"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/metabolic-health/glp-1-plus",
+        "/topics/wellness/metabolic-health/insulin-herb-berberine",
+        "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/metabolic-health/glp-1-plus",
+        "/topics/wellness/metabolic-health/insulin-herb-berberine",
+        "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins",
+      "title": "Yara Hair Vitamins: Monthly Billing & Label Checks | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/nutrition/menovelle",
+        "/topics/wellness/nutrition/tonicgreens-review"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/nutrition/menovelle",
+        "/topics/wellness/nutrition/tonicgreens-review"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies",
+      "title": "SenFlo Gummies: Senna Warnings, Label & Total Cost | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/gut-health/integrative-digestive-formula",
+        "/topics/wellness/gut-health/ketosana",
+        "/topics/wellness/gut-health/primebiome",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/gut-health/integrative-digestive-formula",
+        "/topics/wellness/gut-health/ketosana",
+        "/topics/wellness/gut-health/primebiome",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4",
+      "title": "AdaptoGen 4.0: Nine Botanicals, Pack Counts & Returns | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/nutrition/tonicgreens-review",
+        "/topics/wellness/nutrition/yara-hair-vitamins"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/nutrition/tonicgreens-review",
+        "/topics/wellness/nutrition/yara-hair-vitamins"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips",
+      "title": "Elixolve Sleep Strips: Ingredients & US Pack Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/nutrition/curcumitol-q",
+        "/topics/wellness/nutrition/gluconite",
+        "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/nutrition/curcumitol-q",
+        "/topics/wellness/nutrition/gluconite",
+        "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana",
+      "title": "SlimSana: Inhaltsstoffe, Kosten & Kaufbedingungen | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/slimsana"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/wellness",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana",
+      "title": "MetaboSana: Etikett, EGCG-Hinweise & Kosten | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/metabosana"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/wellness",
+        "/topics/wellness/metabolic-health/glucosana",
+        "/topics/wellness/metabolic-health/glucotrust-german",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/metabolic-health/glucosana",
+        "/topics/wellness/metabolic-health/glucotrust-german",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glucosana",
+      "title": "GlucoSana: Chrom-Etikett & Kaufbedingungen | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glucosana",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glucosana"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/wellness",
+        "/topics/wellness/metabolic-health/metabosana",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+        "/topics/wellness/metabolic-health/slimsana",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/metabolic-health/metabosana",
+        "/topics/wellness/metabolic-health/metabosana-vs-glucosana",
+        "/topics/wellness/metabolic-health/slimsana",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/herosana-caliber",
+      "title": "HeroSana Caliber: Gummies, Etikett & Abo-Checks | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/herosana-caliber",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/herosana-caliber"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/wellness"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glucotrust-german",
+      "title": "GlucoTrust auf Deutsch: Etikett & Kaufkosten | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glucotrust-german",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glucotrust-german"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/europe-de",
+        "/guides/wellness",
+        "/topics/wellness/metabolic-health/glucosana",
+        "/topics/wellness/metabolic-health/slimsana",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/metabolic-health/glucosana",
+        "/topics/wellness/metabolic-health/slimsana",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite",
+      "title": "Gluconite: Pack Costs, Returns & Label Questions | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/nutrition/elixolve-sleep-strips",
+        "/topics/wellness/nutrition/femicore",
+        "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/nutrition/elixolve-sleep-strips",
+        "/topics/wellness/nutrition/femicore",
+        "/topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/insulin-herb-berberine",
+      "title": "Insulin Herb Berberine: Label & US Pack Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/insulin-herb-berberine",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/insulin-herb-berberine"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/metabolic-health/glp-1-plus",
+        "/topics/wellness/metabolic-health/slin",
+        "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/metabolic-health/glp-1-plus",
+        "/topics/wellness/metabolic-health/slin",
+        "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus",
+      "title": "SelfPlus AGE+: Resveratrol Label & US Pack Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/longevity/advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/collagen",
+        "/topics/wellness/longevity/rhythmone",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/longevity/advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/collagen",
+        "/topics/wellness/longevity/rhythmone",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis",
+      "title": "Alpha Dualis: AM/PM Formula Checks & US Pack Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/mens-health/advanced-prostate-formula",
+        "/topics/wellness/mens-health/prime-perform-pro",
+        "/topics/wellness/mens-health/spartamax"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/mens-health/advanced-prostate-formula",
+        "/topics/wellness/mens-health/prime-perform-pro",
+        "/topics/wellness/mens-health/spartamax"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/maker-tools/creality-3d-printers",
+      "title": "Creality 3D Printers: Choose Your First US Setup | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/maker-tools/creality-3d-printers",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/maker-tools/creality-3d-printers"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/entertainment/gaming-network/gearup-booster",
+      "title": "GearUP Booster: teste uma rota melhor para o seu jogo | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/entertainment/gaming-network/gearup-booster",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/entertainment/gaming-network/gearup-booster"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/gaming"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+      "title": "Boogie woogie piano course: are you ready for the beginner lessons? | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/music-learning/boogie-woogie-piano-course-prerequisites",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/music-learning/boogie-woogie-piano-course-prerequisites"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/education/music-learning/piano-boogie-woogie"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/music-learning/piano-boogie-woogie"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa",
+      "title": "EZNaturals Moringa: Powder, Extracts & US Pack Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+        "/topics/wellness/nutrition/pep-tonic"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+        "/topics/wellness/nutrition/pep-tonic"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula",
+      "title": "Advanced Prostate Formula: Serving Size & Label Gaps | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/mens-health/alpha-dualis",
+        "/topics/wellness/mens-health/prime-perform-pro",
+        "/topics/wellness/mens-health/spartamax"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/mens-health/alpha-dualis",
+        "/topics/wellness/mens-health/prime-perform-pro",
+        "/topics/wellness/mens-health/spartamax"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus",
+      "title": "Advanced Muscle Plus: Vitamin D Caution & HMB Label | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/longevity/advanced-amino-formula",
+        "/topics/wellness/nutrition/adaptogen-4",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+        "/topics/wellness/nutrition/yara-hair-vitamins"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/longevity/advanced-amino-formula",
+        "/topics/wellness/nutrition/adaptogen-4",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula",
+        "/topics/wellness/nutrition/yara-hair-vitamins"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support",
+      "title": "Advanced Joint Support: Tablet Count & UK Order Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+        "/topics/wellness/nutrition/curcumitol-q"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+        "/topics/wellness/nutrition/curcumitol-q"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/fastseohub-elite",
+      "title": "FastSEOHub Elite: $197 Voucher, Audit Limits & Licence | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/fastseohub-elite",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/fastseohub-elite"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/marketing-tools/salesforge-pro",
+        "/topics/business/marketing-tools/traffic-genius",
+        "/topics/business/marketing-tools/ultimate-viddeos-ai"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/marketing-tools/salesforge-pro",
+        "/topics/business/marketing-tools/traffic-genius",
+        "/topics/business/marketing-tools/ultimate-viddeos-ai"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/salesforge-pro",
+      "title": "SalesForge Pro: HTML Export, $447 Cost & Licence | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/salesforge-pro",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/salesforge-pro"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/marketing-tools/fastseohub-elite",
+        "/topics/business/marketing-tools/traffic-genius",
+        "/topics/business/marketing-tools/ultimate-viddeos-ai"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/marketing-tools/fastseohub-elite",
+        "/topics/business/marketing-tools/traffic-genius",
+        "/topics/business/marketing-tools/ultimate-viddeos-ai"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/productivity/expertslides-powerpoint",
+      "title": "ExpertSlides: PowerPoint Add-In, Trial & Annual Cost | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/productivity/expertslides-powerpoint",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/productivity/expertslides-powerpoint"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/supp-up-travel-system",
+      "title": "SUPP UP.: Travel PDFs, Download Limits & $247 Offer | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/supp-up-travel-system",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/supp-up-travel-system"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/chargeback-prevention-masterclass",
+      "title": "NEXTMETHOD: Written Dispute Training & $225 Offer | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/chargeback-prevention-masterclass",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/professional-learning/chargeback-prevention-masterclass"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/professional-learning/key-account-management-training",
+        "/topics/business/professional-learning/leadership-crash-course",
+        "/topics/business/professional-learning/sap-ewm-supercharged"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/professional-learning/key-account-management-training",
+        "/topics/business/professional-learning/leadership-crash-course",
+        "/topics/business/professional-learning/sap-ewm-supercharged"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/family-learning/empowered-parenting",
+      "title": "Empowered Parenting: School Engagement Bundle & Cost | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/family-learning/empowered-parenting",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/family-learning/empowered-parenting"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/ultimate-viddeos-ai",
+      "title": "Ultimate Viddeos AI: $897 Annual Plan & Tool Limits | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/ultimate-viddeos-ai",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/ultimate-viddeos-ai"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/marketing-tools/fastseohub-elite",
+        "/topics/business/marketing-tools/salesforge-pro",
+        "/topics/business/marketing-tools/traffic-genius"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/marketing-tools/fastseohub-elite",
+        "/topics/business/marketing-tools/salesforge-pro",
+        "/topics/business/marketing-tools/traffic-genius"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/ai-training/agent-x",
+      "title": "Agent X: AI Marketing Workflows, Licence & $475 Offer | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/ai-training/agent-x",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/ai-training/agent-x"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/ai-training/ki-training"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/ai-training/ki-training"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/remixable-founder",
+      "title": "Remixable Founder: Creation Tools & Instalment Totals | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/remixable-founder",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/digital-skills/remixable-founder"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/digital-skills/coachy-premium",
+        "/topics/business/digital-skills/hook-mastery"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/digital-skills/coachy-premium",
+        "/topics/business/digital-skills/hook-mastery"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/traffic-genius",
+      "title": "Traffic Genius: Video Tools & $997 vs Instalment Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/traffic-genius",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/traffic-genius"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/marketing-tools/fastseohub-elite",
+        "/topics/business/marketing-tools/salesforge-pro",
+        "/topics/business/marketing-tools/ultimate-viddeos-ai"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/marketing-tools/fastseohub-elite",
+        "/topics/business/marketing-tools/salesforge-pro",
+        "/topics/business/marketing-tools/ultimate-viddeos-ai"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus",
+      "title": "GLP-1 Plus: Dihydroberberine Label & Pack Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/metabolic-health/insulin-herb-berberine",
+        "/topics/wellness/metabolic-health/slin",
+        "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/metabolic-health/insulin-herb-berberine",
+        "/topics/wellness/metabolic-health/slin",
+        "/topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula",
+      "title": "Integrative Digestive Formula: Blend Label & Pack Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/integrative-digestive-formula"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/gut-health/digestistart",
+        "/topics/wellness/gut-health/senflo-gummies",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/gut-health/digestistart",
+        "/topics/wellness/gut-health/senflo-gummies",
+        "/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q",
+      "title": "Curcumitol-Q: Curcumin, Quercetin & 6-Bottle Cost | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/joint-health/advanced-joint-support",
+        "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+        "/topics/wellness/nutrition/adaptogen-4",
+        "/topics/wellness/nutrition/advanced-muscle-plus",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/joint-health/advanced-joint-support",
+        "/topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support",
+        "/topics/wellness/nutrition/adaptogen-4",
+        "/topics/wellness/nutrition/advanced-muscle-plus",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic",
+      "title": "Pep Tonic: 10 g Scoop Label & Powder Pack Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/nutrition/eznaturals-moringa",
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+        "/topics/wellness/nutrition/menovelle"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/nutrition/eznaturals-moringa",
+        "/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic",
+        "/topics/wellness/nutrition/menovelle"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula",
+      "title": "Advanced Vision Formula: Lutein Label & Tablet Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp",
+      "title": "BrainAMP: Paraxanthine Label & 3-Bottle Cost | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/brain-health/advanced-memory-formula",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+        "/topics/wellness/brain-health/mindsilence"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/brain-health/advanced-memory-formula",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+        "/topics/wellness/brain-health/mindsilence"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/coachy-premium",
+      "title": "Coachy Premium: One-Course Limit & Annual Cost | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/coachy-premium",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/digital-skills/coachy-premium"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/digital-skills/hook-mastery",
+        "/topics/business/digital-skills/remixable-founder"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/digital-skills/hook-mastery",
+        "/topics/business/digital-skills/remixable-founder"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+      "title": "Ayurveda Komplett-Ausbildung: Module & Gesamtkosten | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/holistic-learning/ayurveda-komplett-ausbildung",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/holistic-learning/ayurveda-komplett-ausbildung"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/guides/europe-de"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/pet-learning/herdenschutzhund-kurs",
+      "title": "Herdenschutzhund-Kurs: Inhalte, Jahreszugang & Kosten | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/pet-learning/herdenschutzhund-kurs",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/pet-learning/herdenschutzhund-kurs"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/guides/europe-de"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/funnelcockpit-standard",
+      "title": "FunnelCockpit Standard: 1-€-Test & Jahreskosten | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/funnelcockpit-standard",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/marketing-tools/funnelcockpit-standard"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/guides/europe-de"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/et-akademie-dozenten-paket",
+      "title": "ET-Akademie Dozenten-Paket: Lehrmaterial & Nutzungsrecht | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/technical-training/et-akademie-dozenten-paket",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/technical-training/et-akademie-dozenten-paket"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/guides/europe-de"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/endlich-klavier-spielen",
+      "title": "Endlich Klavier Spielen: Premiumkurs für Erwachsene | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/music-learning/endlich-klavier-spielen",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/music-learning/endlich-klavier-spielen"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/guides/europe-de"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula",
+      "title": "Advanced Mitochondrial Formula: CoQ10 Label & Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-mitochondrial-formula"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/longevity/advanced-amino-formula",
+        "/topics/wellness/longevity/selfplus-age-plus",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/vigorsana"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/longevity/advanced-amino-formula",
+        "/topics/wellness/longevity/selfplus-age-plus",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/vigorsana"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2",
+      "title": "CircO2: Dissolving Tablet Label & 6-Box Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/longevity/advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/vigorsana"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/longevity/advanced-mitochondrial-formula",
+        "/topics/wellness/longevity/vigorsana"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula",
+      "title": "Advanced Amino Formula: 8-Amino-Acid Blend & Costs | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/uk-ireland",
+        "/guides/wellness",
+        "/topics/wellness/longevity/vigorsana",
+        "/topics/wellness/nutrition/advanced-muscle-plus",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/longevity/vigorsana",
+        "/topics/wellness/nutrition/advanced-muscle-plus",
+        "/topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/social-media-masterclass",
+      "title": "Social Media Masterclass: 9 Module, KI-Tools & Kosten | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/social-media-masterclass",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/creative-learning/social-media-masterclass"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/guides/europe-de"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-paket",
+      "title": "Excel-Paket: Über 70 Vorlagen & Versionskompatibilität | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-paket",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-paket"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/guides/europe-de"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/ai-training/ki-training",
+      "title": "KI-Training: Free German AI Webinar & Email Signup | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/ai-training/ki-training",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/ai-training/ki-training"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/topics/business/ai-training/agent-x"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/ai-training/agent-x"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula",
+      "title": "Advanced Memory Formula: 11 Ingredients to Compare | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/brain-health/brainamp",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+        "/topics/wellness/brain-health/focus-iq",
+        "/topics/wellness/brain-health/mindsilence"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/brain-health/brainamp",
+        "/topics/wellness/brain-health/brainamp-vs-advanced-memory-formula",
+        "/topics/wellness/brain-health/focus-iq",
+        "/topics/wellness/brain-health/mindsilence"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana",
+      "title": "KetoSana: Liquid Drops & Seller Formula Checks | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/gut-health/digestistart",
+        "/topics/wellness/gut-health/integrative-digestive-formula",
+        "/topics/wellness/metabolic-health/slimsana-vs-ketosana"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/gut-health/digestistart",
+        "/topics/wellness/gut-health/integrative-digestive-formula"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro",
+      "title": "Prime Perform Pro: Botanicals & Capsule Label Checks | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/mens-health/advanced-prostate-formula",
+        "/topics/wellness/mens-health/alpha-dualis",
+        "/topics/wellness/mens-health/spartamax"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/mens-health/advanced-prostate-formula",
+        "/topics/wellness/mens-health/alpha-dualis",
+        "/topics/wellness/mens-health/spartamax"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax",
+      "title": "SpartaMax: Gummy Format & 7-Ingredient Label Checks | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/mens-health/advanced-prostate-formula",
+        "/topics/wellness/mens-health/alpha-dualis",
+        "/topics/wellness/mens-health/prime-perform-pro"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/mens-health/advanced-prostate-formula",
+        "/topics/wellness/mens-health/alpha-dualis",
+        "/topics/wellness/mens-health/prime-perform-pro"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen",
+      "title": "Advanced Collagen Plus: Powder Sources & Label Checks | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/longevity/circo2"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/longevity/circo2"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana",
+      "title": "VigorSana: Zinc, Niacin & Full-Label Buying Checks | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/wellness",
+        "/topics/wellness/longevity/rhythmone",
+        "/topics/wellness/longevity/selfplus-age-plus",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula"
+      ],
+      "contextualIncomingPages": [
+        "/topics/wellness/longevity/rhythmone",
+        "/topics/wellness/longevity/selfplus-age-plus",
+        "/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/hook-mastery",
+      "title": "Hook Mastery: Marketing Hooks, Examples & Course Gaps | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/digital-skills/hook-mastery",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/digital-skills/hook-mastery"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/topics/business/digital-skills/coachy-premium",
+        "/topics/business/digital-skills/remixable-founder"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/digital-skills/coachy-premium",
+        "/topics/business/digital-skills/remixable-founder"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/hackeando-a-fluencia",
+      "title": "Hackeando a Fluência: 16 Semanas, App e Acesso | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/language-learning/hackeando-a-fluencia",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/language-learning/hackeando-a-fluencia"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/topics/education/language-learning/ingles-para-viagens"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/language-learning/ingles-para-viagens"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/consertaflix",
+      "title": "ConsertaFlix: Assinatura de Reparo de Celulares | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/technical-training/consertaflix",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/technical-training/consertaflix"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/topics/education/technical-training/formacao-redlips",
+        "/topics/education/technical-training/fundamentos-do-corte"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/technical-training/formacao-redlips",
+        "/topics/education/technical-training/fundamentos-do-corte"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/vehicle-buying/metodo-adl",
+      "title": "Método ADL: Curso de Veículos, Custos e Documentação | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/vehicle-buying/metodo-adl",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/vehicle-buying/metodo-adl"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/accessories-business/vivendo-de-acessorios",
+      "title": "Vivendo de Acessórios: Fornecedores e Custo do Curso | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/accessories-business/vivendo-de-acessorios",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/accessories-business/vivendo-de-acessorios"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/course/advanced-program",
+      "title": "Aivatar Academy: Free Webinar or Paid Membership? | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/course/advanced-program",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/course/advanced-program"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/pacote-4-guias-idiomas",
+      "title": "Pacote 4 Guias de Idiomas: PDFs e Prazo de Download | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/language-learning/pacote-4-guias-idiomas",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/language-learning/pacote-4-guias-idiomas"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/travel"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/elite-travelhacking-basix",
+      "title": "Elite Travelhacking BasiX: Curso em Alemão e Milhas | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/elite-travelhacking-basix",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/elite-travelhacking-basix"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/travel",
+        "/topics/travel/points-and-miles/comunidade-milhas"
+      ],
+      "contextualIncomingPages": [
+        "/topics/travel/points-and-miles/comunidade-milhas"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/design-tools/canva-pro",
+      "title": "Canva Pro: Brand Kits, Free Plan Comparison & Licence | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/design-tools/canva-pro",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/design-tools/canva-pro"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/skillshare",
+      "title": "Skillshare: Creative Classes, Trial & Annual Renewal | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/skillshare",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/creative-learning/skillshare"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+        "/topics/business/creative-learning/domestika-plus",
+        "/topics/business/creative-learning/prejudice-slog3-luts"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+        "/topics/business/creative-learning/domestika-plus",
+        "/topics/business/creative-learning/prejudice-slog3-luts"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/domestika-plus",
+      "title": "Domestika Plus: Course Credits, Access & Renewal | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/domestika-plus",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/creative-learning/domestika-plus"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+        "/topics/business/creative-learning/prejudice-slog3-luts",
+        "/topics/business/creative-learning/skillshare"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+        "/topics/business/creative-learning/prejudice-slog3-luts",
+        "/topics/business/creative-learning/skillshare"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/coursera-plus",
+      "title": "Coursera Plus: Included Programmes & Subscription Cost | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/coursera-plus",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/professional-learning/coursera-plus"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/professional-learning/chargeback-prevention-masterclass",
+        "/topics/business/professional-learning/leadership-crash-course",
+        "/topics/business/professional-learning/sap-ewm-supercharged"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/professional-learning/chargeback-prevention-masterclass",
+        "/topics/business/professional-learning/leadership-crash-course",
+        "/topics/business/professional-learning/sap-ewm-supercharged"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/babbel",
+      "title": "Babbel: Language Levels, Self-Study Access & Renewal | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/language-learning/babbel",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/language-learning/babbel"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/education/language-learning/mega-sprachen-reise-englisch",
+        "/topics/education/language-learning/mystery-of-nils",
+        "/topics/education/language-learning/spanish-slow-and-easy"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/language-learning/mega-sprachen-reise-englisch",
+        "/topics/education/language-learning/mystery-of-nils",
+        "/topics/education/language-learning/spanish-slow-and-easy"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/airalo",
+      "title": "Airalo: eSIM Country Coverage, Data & Activation | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/airalo",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/travel/connectivity/airalo"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europa-esim",
+        "/guides/europe",
+        "/guides/europe-esim",
+        "/guides/travel",
+        "/topics/travel/connectivity/holafly"
+      ],
+      "contextualIncomingPages": [
+        "/topics/travel/connectivity/holafly"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/holafly",
+      "title": "Holafly: Unlimited Data, Hotspot & Trip Package Rules | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/travel/connectivity/holafly",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/travel/connectivity/holafly"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europa-esim",
+        "/guides/europe",
+        "/guides/europe-esim",
+        "/guides/travel",
+        "/topics/travel/connectivity/airalo"
+      ],
+      "contextualIncomingPages": [
+        "/topics/travel/connectivity/airalo"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/experiences/getyourguide",
+      "title": "GetYourGuide: Ticket Options, Operators & Cancellation | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/travel/experiences/getyourguide",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/travel/experiences/getyourguide"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/travel",
+        "/topics/travel/experiences/civitatis"
+      ],
+      "contextualIncomingPages": [
+        "/topics/travel/experiences/civitatis"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/experiences/civitatis",
+      "title": "Civitatis: Tour Language, Inclusions & Booking Terms | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/travel/experiences/civitatis",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/travel/experiences/civitatis"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europe",
+        "/guides/travel",
+        "/topics/travel/experiences/getyourguide"
+      ],
+      "contextualIncomingPages": [
+        "/topics/travel/experiences/getyourguide"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/transport/omio",
+      "title": "Omio: Door-to-Door Fares, Baggage & Separate Tickets | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/travel/transport/omio",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/travel/transport/omio"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/europa-esim",
+        "/guides/europe",
+        "/guides/europe-esim",
+        "/guides/travel"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mystery-of-nils",
+      "title": "The Mystery of Nils: A1/A2 Norwegian & Monthly Access | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mystery-of-nils",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/language-learning/mystery-of-nils"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/education/language-learning/babbel",
+        "/topics/education/language-learning/mega-sprachen-reise-englisch",
+        "/topics/education/language-learning/spanish-slow-and-easy"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/language-learning/babbel",
+        "/topics/education/language-learning/mega-sprachen-reise-englisch",
+        "/topics/education/language-learning/spanish-slow-and-easy"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/spanish-slow-and-easy",
+      "title": "Spanish Slow and Easy: Short Audio & Latin America | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/language-learning/spanish-slow-and-easy",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/language-learning/spanish-slow-and-easy"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/education/language-learning/babbel",
+        "/topics/education/language-learning/mega-sprachen-reise-englisch",
+        "/topics/education/language-learning/mystery-of-nils"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/language-learning/babbel",
+        "/topics/education/language-learning/mega-sprachen-reise-englisch",
+        "/topics/education/language-learning/mystery-of-nils"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+      "title": "Dennis Schmelz Lightroom Presets: 18 Presets & Licence | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/creative-learning/dennis-schmelz-lightroom-presets"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/creative-learning/domestika-plus",
+        "/topics/business/creative-learning/prejudice-slog3-luts",
+        "/topics/business/creative-learning/skillshare"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/creative-learning/domestika-plus",
+        "/topics/business/creative-learning/prejudice-slog3-luts",
+        "/topics/business/creative-learning/skillshare"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/prejudice-slog3-luts",
+      "title": "Prejudice LUTs: Sony A7S III SLOG3 Compatibility | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/creative-learning/prejudice-slog3-luts",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/creative-learning/prejudice-slog3-luts"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+        "/topics/business/creative-learning/domestika-plus",
+        "/topics/business/creative-learning/skillshare"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/creative-learning/dennis-schmelz-lightroom-presets",
+        "/topics/business/creative-learning/domestika-plus",
+        "/topics/business/creative-learning/skillshare"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/key-account-management-training",
+      "title": "Key Account Management: 49 Videos & PPTX Templates | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/key-account-management-training",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/professional-learning/key-account-management-training"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/professional-learning/chargeback-prevention-masterclass",
+        "/topics/business/professional-learning/coursera-plus",
+        "/topics/business/professional-learning/sap-ewm-supercharged"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/professional-learning/chargeback-prevention-masterclass",
+        "/topics/business/professional-learning/coursera-plus",
+        "/topics/business/professional-learning/sap-ewm-supercharged"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/sap-ewm-supercharged",
+      "title": "SAP EWM Supercharged: 10 Topics in About 25 Minutes | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/sap-ewm-supercharged",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/professional-learning/sap-ewm-supercharged"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/professional-learning/coursera-plus",
+        "/topics/business/professional-learning/key-account-management-training",
+        "/topics/business/professional-learning/leadership-crash-course"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/professional-learning/coursera-plus",
+        "/topics/business/professional-learning/key-account-management-training",
+        "/topics/business/professional-learning/leadership-crash-course"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/raspberry-pi-for-beginners",
+      "title": "Raspberry Pi for Beginners: 25 Lessons & Older Setup | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/technical-training/raspberry-pi-for-beginners",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/technical-training/raspberry-pi-for-beginners"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/leadership-crash-course",
+      "title": "Leadership Crash Course: 50 Videos & 12-Month Access | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/professional-learning/leadership-crash-course",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/professional-learning/leadership-crash-course"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/business/professional-learning/chargeback-prevention-masterclass",
+        "/topics/business/professional-learning/coursera-plus",
+        "/topics/business/professional-learning/key-account-management-training"
+      ],
+      "contextualIncomingPages": [
+        "/topics/business/professional-learning/chargeback-prevention-masterclass",
+        "/topics/business/professional-learning/coursera-plus",
+        "/topics/business/professional-learning/key-account-management-training"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mega-sprachen-reise-englisch",
+      "title": "megaSPRACHEN Reise-Englisch: 121 Lessons in German | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/language-learning/mega-sprachen-reise-englisch",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/language-learning/mega-sprachen-reise-englisch"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/education/language-learning/babbel",
+        "/topics/education/language-learning/mystery-of-nils",
+        "/topics/education/language-learning/spanish-slow-and-easy"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/language-learning/babbel",
+        "/topics/education/language-learning/mystery-of-nils",
+        "/topics/education/language-learning/spanish-slow-and-easy"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/music-learning/piano-boogie-woogie",
+      "title": "Piano Boogie Woogie: German Lessons & Playing Level | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/music-learning/piano-boogie-woogie",
+      "listedInHistoricalGoogleReport": false,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/music-learning/piano-boogie-woogie"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/guides/europe",
+        "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/music-learning/boogie-woogie-piano-course-prerequisites"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/comunidade-milhas",
+      "title": "Comunidade Milhas 3.0: Conteúdo, Acesso e Condições | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/comunidade-milhas",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/travel/points-and-miles/comunidade-milhas"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/travel",
+        "/topics/travel/points-and-miles/elite-travelhacking-basix"
+      ],
+      "contextualIncomingPages": [
+        "/topics/travel/points-and-miles/elite-travelhacking-basix"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/creative-learning/gifts-da-isa",
+      "title": "Gifts da Isa — Empreenda em Casa: Conteúdo, Acesso e Condições | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/creative-learning/gifts-da-isa",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/creative-learning/gifts-da-isa"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/topics/education/creative-learning/aprenda-croche"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/creative-learning/aprenda-croche"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-profissional",
+      "title": "Curso de Excel Profissional: Conteúdo, Acesso e Condições | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-profissional",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/productivity/excel-profissional"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/creative-learning/aprenda-croche",
+      "title": "Aprenda Crochê: Conteúdo, Acesso e Condições | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/creative-learning/aprenda-croche",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/creative-learning/aprenda-croche"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/topics/education/creative-learning/gifts-da-isa"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/creative-learning/gifts-da-isa"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/professional-learning/supremo-enem",
+      "title": "Supremo — ENEM e Vestibulares 2026: Conteúdo, Acesso e Condições | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/professional-learning/supremo-enem",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/professional-learning/supremo-enem"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/pet-learning/segredo-adestramento-canino",
+      "title": "O Segredo do Adestramento Canino: Conteúdo, Acesso e Condições | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/pet-learning/segredo-adestramento-canino",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/pet-learning/segredo-adestramento-canino"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/language-learning/ingles-para-viagens",
+      "title": "Inglês para Viagens: Conteúdo, Acesso e Condições | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/language-learning/ingles-para-viagens",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/language-learning/ingles-para-viagens"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/topics/education/language-learning/hackeando-a-fluencia"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/language-learning/hackeando-a-fluencia"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/fundamentos-do-corte",
+      "title": "Fundamentos do Corte: Conteúdo, Acesso e Condições | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/technical-training/fundamentos-do-corte",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/technical-training/fundamentos-do-corte"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/topics/education/technical-training/consertaflix",
+        "/topics/education/technical-training/formacao-redlips"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/technical-training/consertaflix",
+        "/topics/education/technical-training/formacao-redlips"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/business/finance-ai/claude-para-financas",
+      "title": "Claude para Finanças: Conteúdo, Acesso e Condições | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/business/finance-ai/claude-para-financas",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/business/finance-ai/claude-para-financas"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses"
+      ],
+      "contextualIncomingPages": []
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/technical-training/formacao-redlips",
+      "title": "Formação Redlips: Conteúdo, Acesso e Condições | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/technical-training/formacao-redlips",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/technical-training/formacao-redlips"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses",
+        "/topics/education/technical-training/consertaflix",
+        "/topics/education/technical-training/fundamentos-do-corte"
+      ],
+      "contextualIncomingPages": [
+        "/topics/education/technical-training/consertaflix",
+        "/topics/education/technical-training/fundamentos-do-corte"
+      ]
+    },
+    {
+      "url": "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/metodo-flow-futevolei",
+      "title": "Método Flow Futevôlei: Conteúdo, Acesso e Condições | PokiSky",
+      "canonical": "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/metodo-flow-futevolei",
+      "listedInHistoricalGoogleReport": true,
+      "discoveryPath": [
+        "https://blog-travel-eight.vercel.app/",
+        "https://blog-travel-eight.vercel.app/topics/education/fitness-learning/metodo-flow-futevolei"
+      ],
+      "incomingPages": [
+        "/",
+        "/guides/courses"
+      ],
+      "contextualIncomingPages": []
+    }
+  ]
+}
