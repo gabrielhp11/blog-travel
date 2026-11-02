@@ -1,0 +1,647 @@
+{
+  "campaign": "supplement_coverage_20261102",
+  "brand": "PokiSky",
+  "language": "en",
+  "createdDate": "2026-11-02",
+  "status": "complete",
+  "publicationOrder": [
+    "advanced-prostate-formula",
+    "glp-1-plus",
+    "ketosana",
+    "prime-perform-pro",
+    "spartamax",
+    "vigorsana",
+    "brainamp",
+    "alpha-dualis"
+  ],
+  "rotationRule": "Cover public supplement guides without an individual post first. Only after those are published begin fresh angles for previously covered items. Do not repeat artwork or captions. Exclude hidden/unverified items, travel and courses.",
+  "selectionNote": "Detailed audit found seven guides without an individual post, including BrainAMP previously covered only in comparisons. Publish all seven first. The eighth post is a new package-contents angle for Alpha Dualis. GlucoTrust German is an alias match for the published German guide. Ten comparison guides already appear in historic campaigns.",
+  "posts": [
+    {
+      "id": "advanced-prostate-formula",
+      "name": "Advanced Prostate Formula",
+      "sourceFile": "topics/wellness/mens-health/advanced-prostate-formula.html",
+      "sourceReviewDate": "2026-10-08",
+      "socialLanguage": "en",
+      "sourceLanguage": "en-GB",
+      "headline": "MATCH THE FORMULA FIRST",
+      "checks": [
+        "Current wrapper",
+        "Serving basis",
+        "Seller clarification"
+      ],
+      "highlight": "Mens Health",
+      "round": "first_individual",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "imageFile": "images/01-advanced-prostate-formula-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial final de rede social, vertical 4:5, premium e legível em celular para PokiSky. Conceito visual único: deep olive and ivory, an open blank paper folder beside a small magnifying glass, generous space around typography. Reserve blocos tipográficos SEPARADOS para marca, produto e título, com margens seguras. Todos estes textos exatos devem aparecer sem omissões: marca 'PokiSky'; categoria pequena 'SUPPLEMENT BUYING GUIDE'; nome do produto 'Advanced Prostate Formula'; título grande COMPLETO 'MATCH THE FORMULA FIRST'; checklist 'Current wrapper', 'Serving basis', 'Seller clarification'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Affiliate guide'. O nome do produto não substitui nenhuma parte do título. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logos oficiais, pessoas, anatomia, gráficos científicos, moléculas, preços, dosagens, promessas de saúde, resultados ou depoimentos. Os números que fazem parte do nome GLP-1 Plus podem aparecer somente nesse nome. A ilustração é conceitual e não representa o produto real. Não acrescente texto. Uma imagem final, sem colagem de versões. Gere agora.",
+      "pinterestTitle": "Advanced Prostate Formula: match the formula first",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Advanced Prostate Formula guide flags a mismatch: oyster mushroom appears in the sales narrative but not the displayed wrapper. Confirm which formula will ship, and keep a one-tablet label serving separate from the twice-daily directions. This guide does not establish urinary treatment. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nMATCH THE FORMULA FIRST\n\nThe Advanced Prostate Formula guide flags a mismatch: oyster mushroom appears in the sales narrative but not the displayed wrapper. Confirm which formula will ship, and keep a one-tablet label serving separate from the twice-daily directions. This guide does not establish urinary treatment.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=advanced-prostate-formula\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nMATCH THE FORMULA FIRST\n\nThe Advanced Prostate Formula guide flags a mismatch: oyster mushroom appears in the sales narrative but not the displayed wrapper. Confirm which formula will ship, and keep a one-tablet label serving separate from the twice-daily directions. This guide does not establish urinary treatment.\n\nSave this checklist. Find “Advanced Prostate Formula” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=advanced-prostate-formula\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Advanced Prostate Formula. Headline: MATCH THE FORMULA FIRST. Checklist: Current wrapper; Serving basis; Seller clarification. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=advanced-prostate-formula",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=advanced-prostate-formula",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=advanced-prostate-formula"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964151352/",
+          "confirmedAt": "2026-11-02T13:21:01.797Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid02LbKYL89Ph2r7uwkCPKgaM7i9yoB9Dqn2J5MbWtd79ibus1XjMDPLXnpa2DTckQDPl&id=61595970654481",
+          "metaPostId": "122101798809532355",
+          "confirmedAt": "2026-11-02T13:20:54.822Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfPZoQ9DfJG/",
+          "metaPostId": "122101798809532355",
+          "confirmedAt": "2026-11-02T13:20:54.896Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/17902761246386168/",
+          "highlight": "Mens Health",
+          "groupStoryIds": [
+            "4021550703621510366",
+            "4021550642216940166",
+            "4021550590945738349",
+            "4021550523744614006",
+            "4021550465636717744"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_vfp9dcvfp9dcvfp9.jpg"
+    },
+    {
+      "id": "glp-1-plus",
+      "name": "GLP-1 Plus",
+      "sourceFile": "topics/wellness/metabolic-health/glp-1-plus.html",
+      "sourceReviewDate": "2026-10-07",
+      "socialLanguage": "en",
+      "sourceLanguage": "en-GB",
+      "headline": "READ BEYOND THE NAME",
+      "checks": [
+        "Product category",
+        "Complete label",
+        "Selected pack"
+      ],
+      "highlight": "Metabolic",
+      "round": "first_individual",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "imageFile": "images/02-glp-1-plus-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial final de rede social, vertical 4:5, premium e legível em celular para PokiSky. Conceito visual único: navy and muted ochre, a large clean paper bookmark resting on a closed unmarked notebook, restrained editorial still life. Reserve blocos tipográficos SEPARADOS para marca, produto e título, com margens seguras. Todos estes textos exatos devem aparecer sem omissões: marca 'PokiSky'; categoria pequena 'SUPPLEMENT BUYING GUIDE'; nome do produto 'GLP-1 Plus'; título grande COMPLETO 'READ BEYOND THE NAME'; checklist 'Product category', 'Complete label', 'Selected pack'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Affiliate guide'. O nome do produto não substitui nenhuma parte do título. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logos oficiais, pessoas, anatomia, gráficos científicos, moléculas, preços, dosagens, promessas de saúde, resultados ou depoimentos. Os números que fazem parte do nome GLP-1 Plus podem aparecer somente nesse nome. A ilustração é conceitual e não representa o produto real. Não acrescente texto. Uma imagem final, sem colagem de versões. Gere agora.",
+      "pinterestTitle": "GLP-1 Plus: read beyond the name",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. GLP-1 Plus is sold as a dietary supplement, not a prescription GLP-1 medicine. Read the capsule formula and selected order quantity. The product name and seller comparisons do not establish medicine equivalence or a reason to change prescribed treatment. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREAD BEYOND THE NAME\n\nGLP-1 Plus is sold as a dietary supplement, not a prescription GLP-1 medicine. Read the capsule formula and selected order quantity. The product name and seller comparisons do not establish medicine equivalence or a reason to change prescribed treatment.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=glp-1-plus\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREAD BEYOND THE NAME\n\nGLP-1 Plus is sold as a dietary supplement, not a prescription GLP-1 medicine. Read the capsule formula and selected order quantity. The product name and seller comparisons do not establish medicine equivalence or a reason to change prescribed treatment.\n\nSave this checklist. Find “GLP-1 Plus” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=glp-1-plus\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for GLP-1 Plus. Headline: READ BEYOND THE NAME. Checklist: Product category; Complete label; Selected pack. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=glp-1-plus",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=glp-1-plus",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/glp-1-plus?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=glp-1-plus"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964151375/",
+          "confirmedAt": "2026-11-02T13:22:12.233Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid02xWip6RDxCSPtrtPBSsUDofFUPrjthz8PhYYtFNDi2zhUJTREu98V5YyWDtPfjgmTl&id=61595970654481",
+          "metaPostId": "122101800663532355",
+          "confirmedAt": "2026-11-02T13:22:07.859Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfPZzCYjeEO/",
+          "metaPostId": "122101800663532355",
+          "confirmedAt": "2026-11-02T13:22:07.859Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18183830125429638/",
+          "highlight": "Metabolic",
+          "groupStoryIds": [
+            "4021552641759806003",
+            "4021552563770393554"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_gin39rgin39rgin3.jpg"
+    },
+    {
+      "id": "ketosana",
+      "name": "KetoSana",
+      "sourceFile": "topics/wellness/gut-health/ketosana.html",
+      "sourceReviewDate": "2026-10-05",
+      "socialLanguage": "en",
+      "sourceLanguage": "en",
+      "headline": "DROPS STILL NEED A FULL LABEL",
+      "checks": [
+        "Ingredient amounts",
+        "Serving directions",
+        "Complete warnings"
+      ],
+      "highlight": "Metabolic",
+      "round": "first_individual",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "imageFile": "images/03-ketosana-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial final de rede social, vertical 4:5, premium e legível em celular para PokiSky. Conceito visual único: moss green and pale stone, translucent blank paper sheets arranged as an abstract cascade on a stone desk, no liquid or product containers. Reserve blocos tipográficos SEPARADOS para marca, produto e título, com margens seguras. Todos estes textos exatos devem aparecer sem omissões: marca 'PokiSky'; categoria pequena 'SUPPLEMENT BUYING GUIDE'; nome do produto 'KetoSana'; título grande COMPLETO 'DROPS STILL NEED A FULL LABEL'; checklist 'Ingredient amounts', 'Serving directions', 'Complete warnings'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Affiliate guide'. O nome do produto não substitui nenhuma parte do título. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logos oficiais, pessoas, anatomia, gráficos científicos, moléculas, preços, dosagens, promessas de saúde, resultados ou depoimentos. Os números que fazem parte do nome GLP-1 Plus podem aparecer somente nesse nome. A ilustração é conceitual e não representa o produto real. Não acrescente texto. Uma imagem final, sem colagem de versões. Gere agora.",
+      "pinterestTitle": "KetoSana: drops still need a full label",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The KetoSana guide separates the liquid-drop format and seller-described ingredient list from a complete quantified label. Check every amount, direction and warning before comparing offers. Ingredient names and the keto pitch do not establish weight-loss results. The supplier page reviewed was in German. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nDROPS STILL NEED A FULL LABEL\n\nThe KetoSana guide separates the liquid-drop format and seller-described ingredient list from a complete quantified label. Check every amount, direction and warning before comparing offers. Ingredient names and the keto pitch do not establish weight-loss results. The supplier page reviewed was in German.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=ketosana\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nDROPS STILL NEED A FULL LABEL\n\nThe KetoSana guide separates the liquid-drop format and seller-described ingredient list from a complete quantified label. Check every amount, direction and warning before comparing offers. Ingredient names and the keto pitch do not establish weight-loss results. The supplier page reviewed was in German.\n\nSave this checklist. Find “KetoSana” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=ketosana\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for KetoSana. Headline: DROPS STILL NEED A FULL LABEL. Checklist: Ingredient amounts; Serving directions; Complete warnings. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=ketosana",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=ketosana",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=ketosana"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964151389/",
+          "confirmedAt": "2026-11-02T13:23:20.084Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0JyQCb3yNj6QM9mYWMERY4kjxKdYUn7ZVRhJPyf8XC3CwEguCtxvdUDenXnh5gNiul&id=61595970654481",
+          "metaPostId": "122101801539532355",
+          "confirmedAt": "2026-11-02T13:23:06.921Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfPZ6O1jXzt/",
+          "metaPostId": "122101801539532355",
+          "confirmedAt": "2026-11-02T13:23:06.921Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18183830125429638/",
+          "highlight": "Metabolic",
+          "groupStoryIds": [
+            "4021552641759806003",
+            "4021552563770393554"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_ojxjrpojxjrpojxj.jpg"
+    },
+    {
+      "id": "prime-perform-pro",
+      "name": "Prime Perform Pro",
+      "sourceFile": "topics/wellness/mens-health/prime-perform-pro.html",
+      "sourceReviewDate": "2026-10-05",
+      "socialLanguage": "en",
+      "sourceLanguage": "en",
+      "headline": "NAMES ARE ONLY THE START",
+      "checks": [
+        "Full amounts",
+        "Medicine overlap",
+        "Current terms"
+      ],
+      "highlight": "Mens Health",
+      "round": "first_individual",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "imageFile": "images/04-prime-perform-pro-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial final de rede social, vertical 4:5, premium e legível em celular para PokiSky. Conceito visual único: warm terracotta and charcoal, several plain cream paper tabs arranged on a sculptural folded folder, architectural shadows. Reserve blocos tipográficos SEPARADOS para marca, produto e título, com margens seguras. Todos estes textos exatos devem aparecer sem omissões: marca 'PokiSky'; categoria pequena 'SUPPLEMENT BUYING GUIDE'; nome do produto 'Prime Perform Pro'; título grande COMPLETO 'NAMES ARE ONLY THE START'; checklist 'Full amounts', 'Medicine overlap', 'Current terms'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Affiliate guide'. O nome do produto não substitui nenhuma parte do título. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logos oficiais, pessoas, anatomia, gráficos científicos, moléculas, preços, dosagens, promessas de saúde, resultados ou depoimentos. Os números que fazem parte do nome GLP-1 Plus podem aparecer somente nesse nome. A ilustração é conceitual e não representa o produto real. Não acrescente texto. Uma imagem final, sem colagem de versões. Gere agora.",
+      "pinterestTitle": "Prime Perform Pro: names are only the start",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. Prime Perform Pro lists botanicals and a boron compound in its sales overview. Names alone do not establish every ingredient amount, suitability or a finished-product effect. Bring the complete current label to a qualified professional when checking medicines and possible overlap. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nNAMES ARE ONLY THE START\n\nPrime Perform Pro lists botanicals and a boron compound in its sales overview. Names alone do not establish every ingredient amount, suitability or a finished-product effect. Bring the complete current label to a qualified professional when checking medicines and possible overlap.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=prime-perform-pro\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nNAMES ARE ONLY THE START\n\nPrime Perform Pro lists botanicals and a boron compound in its sales overview. Names alone do not establish every ingredient amount, suitability or a finished-product effect. Bring the complete current label to a qualified professional when checking medicines and possible overlap.\n\nSave this checklist. Find “Prime Perform Pro” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=prime-perform-pro\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Prime Perform Pro. Headline: NAMES ARE ONLY THE START. Checklist: Full amounts; Medicine overlap; Current terms. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=prime-perform-pro",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=prime-perform-pro",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=prime-perform-pro"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964151409/",
+          "confirmedAt": "2026-11-02T13:24:57.898Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0kRNkdLrZUqfWaNF2QTj3gWgVxm8yfFmP4eBGH2pgH2jiBwUPmpL2raYmWk9ULE2Ml&id=61595970654481",
+          "metaPostId": "122101802601532355",
+          "confirmedAt": "2026-11-02T13:24:52.750Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfPaGmTDW91/",
+          "metaPostId": "122101802601532355",
+          "confirmedAt": "2026-11-02T13:24:52.750Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/17902761246386168/",
+          "highlight": "Mens Health",
+          "groupStoryIds": [
+            "4021550703621510366",
+            "4021550642216940166",
+            "4021550590945738349",
+            "4021550523744614006",
+            "4021550465636717744"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_2ewxuu2ewxuu2ewx.jpg",
+      "geminiRevisions": [
+        "Gere novamente a arte de Prime Perform Pro do zero em terracota e carvão, mantendo TODOS os textos: PokiSky; SUPPLEMENT BUYING GUIDE; Prime Perform Pro; NAMES ARE ONLY THE START; Full amounts; Medicine overlap; Current terms; Read the guide. Na versão anterior faltou o rodapé obrigatório. Reserve uma faixa de marfim alta, completamente dentro da imagem, e escreva em preto grande e legível 'AI editorial illustration · Affiliate guide'. Reduza a ilustração de papéis para caber tudo. Formato vertical 4:5. Sem frascos, embalagens, alegações de saúde ou texto adicional. Uma única imagem final completa."
+      ]
+    },
+    {
+      "id": "spartamax",
+      "name": "SpartaMax",
+      "sourceFile": "topics/wellness/mens-health/spartamax.html",
+      "sourceReviewDate": "2026-10-05",
+      "socialLanguage": "en",
+      "sourceLanguage": "en",
+      "headline": "A GUMMY STILL NEEDS DETAILS",
+      "checks": [
+        "Complete panel",
+        "Added sugars",
+        "Current directions"
+      ],
+      "highlight": "Mens Health",
+      "round": "first_individual",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "imageFile": "images/05-spartamax-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial final de rede social, vertical 4:5, premium e legível em celular para PokiSky. Conceito visual único: teal and warm ivory, two sculptural folded paper arches around a completely blank index card, no sweets or product imagery. Reserve blocos tipográficos SEPARADOS para marca, produto e título, com margens seguras. Todos estes textos exatos devem aparecer sem omissões: marca 'PokiSky'; categoria pequena 'SUPPLEMENT BUYING GUIDE'; nome do produto 'SpartaMax'; título grande COMPLETO 'A GUMMY STILL NEEDS DETAILS'; checklist 'Complete panel', 'Added sugars', 'Current directions'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Affiliate guide'. O nome do produto não substitui nenhuma parte do título. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logos oficiais, pessoas, anatomia, gráficos científicos, moléculas, preços, dosagens, promessas de saúde, resultados ou depoimentos. Os números que fazem parte do nome GLP-1 Plus podem aparecer somente nesse nome. A ilustração é conceitual e não representa o produto real. Não acrescente texto. Uma imagem final, sem colagem de versões. Gere agora.",
+      "pinterestTitle": "SpartaMax: a gummy still needs details",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The SpartaMax guide looks beyond gummy format and advertised ingredient names. Compare the complete Supplement Facts, amounts, added sugars, directions and warnings. A gummy format does not establish suitability or the seller's performance claims. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nA GUMMY STILL NEEDS DETAILS\n\nThe SpartaMax guide looks beyond gummy format and advertised ingredient names. Compare the complete Supplement Facts, amounts, added sugars, directions and warnings. A gummy format does not establish suitability or the seller's performance claims.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=spartamax\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nA GUMMY STILL NEEDS DETAILS\n\nThe SpartaMax guide looks beyond gummy format and advertised ingredient names. Compare the complete Supplement Facts, amounts, added sugars, directions and warnings. A gummy format does not establish suitability or the seller's performance claims.\n\nSave this checklist. Find “SpartaMax” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=spartamax\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for SpartaMax. Headline: A GUMMY STILL NEEDS DETAILS. Checklist: Complete panel; Added sugars; Current directions. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=spartamax",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=spartamax",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=spartamax"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964151422/",
+          "confirmedAt": "2026-11-02T13:26:00.731Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid02khRnzgGAgGY2KfGVnMvBMPcHT9gznt47UxKEKZaEhkZE3BATHnhUSE9wKAiUJE1Al&id=61595970654481",
+          "metaPostId": "122101803405532355",
+          "confirmedAt": "2026-11-02T13:25:47.150Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfPaN4OjeZC/",
+          "metaPostId": "122101803405532355",
+          "confirmedAt": "2026-11-02T13:25:47.150Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/17902761246386168/",
+          "highlight": "Mens Health",
+          "groupStoryIds": [
+            "4021550703621510366",
+            "4021550642216940166",
+            "4021550590945738349",
+            "4021550523744614006",
+            "4021550465636717744"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_amp2o7amp2o7amp2.jpg"
+    },
+    {
+      "id": "vigorsana",
+      "name": "VigorSana",
+      "sourceFile": "topics/wellness/longevity/vigorsana.html",
+      "sourceReviewDate": "2026-10-05",
+      "socialLanguage": "en",
+      "sourceLanguage": "en",
+      "headline": "TWO NUTRIENTS ARE NOT A FULL LABEL",
+      "checks": [
+        "All ingredients",
+        "Exact amounts",
+        "Full warnings"
+      ],
+      "highlight": "Mens Health",
+      "round": "first_individual",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "imageFile": "images/06-vigorsana-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial final de rede social, vertical 4:5, premium e legível em celular para PokiSky. Conceito visual único: burgundy and cream, two blank paper squares alongside one larger folded document, refined minimal editorial composition. Reserve blocos tipográficos SEPARADOS para marca, produto e título, com margens seguras. Todos estes textos exatos devem aparecer sem omissões: marca 'PokiSky'; categoria pequena 'SUPPLEMENT BUYING GUIDE'; nome do produto 'VigorSana'; título grande COMPLETO 'TWO NUTRIENTS ARE NOT A FULL LABEL'; checklist 'All ingredients', 'Exact amounts', 'Full warnings'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Affiliate guide'. O nome do produto não substitui nenhuma parte do título. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logos oficiais, pessoas, anatomia, gráficos científicos, moléculas, preços, dosagens, promessas de saúde, resultados ou depoimentos. Os números que fazem parte do nome GLP-1 Plus podem aparecer somente nesse nome. A ilustração é conceitual e não representa o produto real. Não acrescente texto. Uma imagem final, sem colagem de versões. Gere agora.",
+      "pinterestTitle": "VigorSana: two nutrients are not a full label",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. VigorSana highlights zinc and niacin, while its promotional narrative refers to more ingredients. Obtain the complete current label before comparing formulas. Audience wording and vitality promises do not establish individual suitability or a verified outcome. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nTWO NUTRIENTS ARE NOT A FULL LABEL\n\nVigorSana highlights zinc and niacin, while its promotional narrative refers to more ingredients. Obtain the complete current label before comparing formulas. Audience wording and vitality promises do not establish individual suitability or a verified outcome.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=vigorsana\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nTWO NUTRIENTS ARE NOT A FULL LABEL\n\nVigorSana highlights zinc and niacin, while its promotional narrative refers to more ingredients. Obtain the complete current label before comparing formulas. Audience wording and vitality promises do not establish individual suitability or a verified outcome.\n\nSave this checklist. Find “VigorSana” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=vigorsana\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for VigorSana. Headline: TWO NUTRIENTS ARE NOT A FULL LABEL. Checklist: All ingredients; Exact amounts; Full warnings. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=vigorsana",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=vigorsana",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=vigorsana"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964151446/",
+          "confirmedAt": "2026-11-02T13:26:56.599Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0u3zdy8vMHTxBETmBxpXJRb8RDWaoV9hgY2va31CpG5g3XSk4Qf8mrTZSX8eMps4rl&id=61595970654481",
+          "metaPostId": "122101805565532355",
+          "confirmedAt": "2026-11-02T13:26:52.214Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfPaV73jY0k/",
+          "metaPostId": "122101805565532355",
+          "confirmedAt": "2026-11-02T13:26:52.214Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/17902761246386168/",
+          "highlight": "Mens Health",
+          "groupStoryIds": [
+            "4021550703621510366",
+            "4021550642216940166",
+            "4021550590945738349",
+            "4021550523744614006",
+            "4021550465636717744"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_dq60o9dq60o9dq60.jpg"
+    },
+    {
+      "id": "brainamp",
+      "name": "BrainAMP",
+      "sourceFile": "topics/wellness/brain-health/brainamp.html",
+      "sourceReviewDate": "2026-10-07",
+      "socialLanguage": "en",
+      "sourceLanguage": "en-GB",
+      "headline": "READ THE INGREDIENT FORM",
+      "checks": [
+        "Serving basis",
+        "Alpha-GPC form",
+        "Complete formula"
+      ],
+      "highlight": "Brain",
+      "round": "first_individual",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "imageFile": "images/07-brainamp-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial final de rede social, vertical 4:5, premium e legível em celular para PokiSky. Conceito visual único: cobalt and pale grey, a layered blank paper fan and a clear geometric glass prism, crisp editorial design. Reserve blocos tipográficos SEPARADOS para marca, produto e título, com margens seguras. Todos estes textos exatos devem aparecer sem omissões: marca 'PokiSky'; categoria pequena 'SUPPLEMENT BUYING GUIDE'; nome do produto 'BrainAMP'; título grande COMPLETO 'READ THE INGREDIENT FORM'; checklist 'Serving basis', 'Alpha-GPC form', 'Complete formula'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Affiliate guide'. O nome do produto não substitui nenhuma parte do título. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logos oficiais, pessoas, anatomia, gráficos científicos, moléculas, preços, dosagens, promessas de saúde, resultados ou depoimentos. Os números que fazem parte do nome GLP-1 Plus podem aparecer somente nesse nome. A ilustração é conceitual e não representa o produto real. Não acrescente texto. Uma imagem final, sem colagem de versões. Gere agora.",
+      "pinterestTitle": "BrainAMP: read the ingredient form",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The BrainAMP guide separates the stated Alpha-GPC ingredient amount from its concentration. Read the complete formula and serving basis, including paraxanthine, before comparing labels. Discuss suitability and medicine overlap with a qualified professional; ingredient names do not establish focus outcomes. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREAD THE INGREDIENT FORM\n\nThe BrainAMP guide separates the stated Alpha-GPC ingredient amount from its concentration. Read the complete formula and serving basis, including paraxanthine, before comparing labels. Discuss suitability and medicine overlap with a qualified professional; ingredient names do not establish focus outcomes.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=brainamp\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREAD THE INGREDIENT FORM\n\nThe BrainAMP guide separates the stated Alpha-GPC ingredient amount from its concentration. Read the complete formula and serving basis, including paraxanthine, before comparing labels. Discuss suitability and medicine overlap with a qualified professional; ingredient names do not establish focus outcomes.\n\nSave this checklist. Find “BrainAMP” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=brainamp\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for BrainAMP. Headline: READ THE INGREDIENT FORM. Checklist: Serving basis; Alpha-GPC form; Complete formula. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=brainamp",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=brainamp",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=brainamp"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964151465/",
+          "confirmedAt": "2026-11-02T13:28:02.006Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid02u2uG787YQgYF477j8jgYCMFrbDJc9Enwphzsito55vUJL19hpePoAaQkKmXrMvDBl&id=61595970654481",
+          "metaPostId": "122101806519532355",
+          "confirmedAt": "2026-11-02T13:27:47.572Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfPaceODT9g/",
+          "metaPostId": "122101806519532355",
+          "confirmedAt": "2026-11-02T13:27:47.572Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18135495877669528/",
+          "highlight": "Brain",
+          "groupStoryIds": [
+            "4021554605867369758"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_hd1dbmhd1dbmhd1d.jpg"
+    },
+    {
+      "id": "alpha-dualis",
+      "name": "Alpha Dualis",
+      "sourceFile": "topics/wellness/mens-health/alpha-dualis.html",
+      "sourceReviewDate": "2026-10-24",
+      "socialLanguage": "en",
+      "sourceLanguage": "en",
+      "headline": "A PACK IS NOT ALWAYS ONE BOTTLE",
+      "checks": [
+        "Package contents",
+        "Upfront total",
+        "Return postage"
+      ],
+      "highlight": "Mens Health",
+      "round": "new_angle_after_first_round",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "imageFile": "images/08-alpha-dualis-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial final de rede social, vertical 4:5, premium e legível em celular para PokiSky. Conceito visual único: graphite and muted gold, two closed blank paper folders tied together with a plain paper band, clear premium editorial typography. Reserve blocos tipográficos SEPARADOS para marca, produto e título, com margens seguras. Todos estes textos exatos devem aparecer sem omissões: marca 'PokiSky'; categoria pequena 'SUPPLEMENT BUYING GUIDE'; nome do produto 'Alpha Dualis'; título grande COMPLETO 'A PACK IS NOT ALWAYS ONE BOTTLE'; checklist 'Package contents', 'Upfront total', 'Return postage'; CTA 'Read the guide'; rodapé legível 'AI editorial illustration · Affiliate guide'. O nome do produto não substitui nenhuma parte do título. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logos oficiais, pessoas, anatomia, gráficos científicos, moléculas, preços, dosagens, promessas de saúde, resultados ou depoimentos. Os números que fazem parte do nome GLP-1 Plus podem aparecer somente nesse nome. A ilustração é conceitual e não representa o produto real. Não acrescente texto. Uma imagem final, sem colagem de versões. Gere agora.",
+      "pinterestTitle": "Alpha Dualis: a pack is not always one bottle",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Alpha Dualis guide distinguishes an AM/PM system pack from a single bottle. Confirm exactly what the order contains and compare the full amount paid. An advertised daily equivalent is not monthly billing, and the return promise can still involve customer-paid return postage. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nA PACK IS NOT ALWAYS ONE BOTTLE\n\nThe Alpha Dualis guide distinguishes an AM/PM system pack from a single bottle. Confirm exactly what the order contains and compare the full amount paid. An advertised daily equivalent is not monthly billing, and the return promise can still involve customer-paid return postage.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=alpha-dualis\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nA PACK IS NOT ALWAYS ONE BOTTLE\n\nThe Alpha Dualis guide distinguishes an AM/PM system pack from a single bottle. Confirm exactly what the order contains and compare the full amount paid. An advertised daily equivalent is not monthly billing, and the return promise can still involve customer-paid return postage.\n\nSave this checklist. Find “Alpha Dualis” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=alpha-dualis\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Alpha Dualis. Headline: A PACK IS NOT ALWAYS ONE BOTTLE. Checklist: Package contents; Upfront total; Return postage. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=alpha-dualis",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=alpha-dualis",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=alpha-dualis"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964151482/",
+          "confirmedAt": "2026-11-02T13:28:56.199Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0FyyY8T6NKCvrRaq9871D46XZQy1429DXbeAGpt8seo1uejE3iKwMYZbJfD3WVk1Dl&id=61595970654481",
+          "metaPostId": "122101808211532355",
+          "confirmedAt": "2026-11-02T13:28:54.264Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfPakI-DQ6d/",
+          "metaPostId": "122101808211532355",
+          "confirmedAt": "2026-11-02T13:28:54.264Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/17902761246386168/",
+          "highlight": "Mens Health",
+          "groupStoryIds": [
+            "4021550703621510366",
+            "4021550642216940166",
+            "4021550590945738349",
+            "4021550523744614006",
+            "4021550465636717744"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_rq60a9rq60a9rq60.jpg"
+    }
+  ],
+  "storyBaselineIds": [
+    "4020823494152982981",
+    "4020822590549182604",
+    "4020822494306685174",
+    "4020821280609402651",
+    "4020821212099616690",
+    "4020821154545399873",
+    "4020820246689133877",
+    "4020820187078983414",
+    "4020820125825142766",
+    "4020820039708927541",
+    "4020060775733069383",
+    "4020060322278472824",
+    "4020060271930613670",
+    "4020057009960781011",
+    "4020057155201202199",
+    "4020057291876784279",
+    "4020057437679135671",
+    "4020057583498313660",
+    "4020057710359279817",
+    "4020057836842677380",
+    "4020057958779486623",
+    "4020058093836079888",
+    "4020058214363591877",
+    "4020058964766588230",
+    "4020059020047483496",
+    "4020059084606225796",
+    "4020059150792383054",
+    "4020052798804372999",
+    "4020056515343586793",
+    "4020056565582974462",
+    "4021550703621510366",
+    "4021550642216940166",
+    "4021550590945738349",
+    "4021550523744614006",
+    "4021550465636717744",
+    "4021552641759806003",
+    "4021552563770393554",
+    "4021554605867369758"
+  ],
+  "geminiConversation": "https://gemini.google.com/app/a1102f011613948d",
+  "highlightBaselineCounts": {
+    "Mens Health": 2,
+    "Metabolic": 10,
+    "Sleep": 4,
+    "Brain": 5
+  },
+  "storyArchiveVerifiedOn": "2026-11-02",
+  "instagramPostCount": {
+    "before": 56,
+    "after": 64
+  },
+  "highlightUrls": {
+    "Mens Health": "https://instagram.com/stories/highlights/17902761246386168/",
+    "Metabolic": "https://instagram.com/stories/highlights/18183830125429638/",
+    "Brain": "https://instagram.com/stories/highlights/18135495877669528/"
+  },
+  "storyGroups": [
+    {
+      "name": "Mens Health",
+      "indices": [
+        0,
+        3,
+        4,
+        5,
+        7
+      ],
+      "postIds": [
+        "advanced-prostate-formula",
+        "prime-perform-pro",
+        "spartamax",
+        "vigorsana",
+        "alpha-dualis"
+      ],
+      "oldCount": 2,
+      "expectedCount": 7,
+      "status": "verified_in_highlight",
+      "submittedAt": "2026-11-02T13:29:51.619Z",
+      "storyIds": [
+        "4021550703621510366",
+        "4021550642216940166",
+        "4021550590945738349",
+        "4021550523744614006",
+        "4021550465636717744"
+      ],
+      "savedAt": "2026-11-02T13:33:11.382Z",
+      "verifiedCount": 7
+    },
+    {
+      "name": "Metabolic",
+      "indices": [
+        1,
+        2
+      ],
+      "postIds": [
+        "glp-1-plus",
+        "ketosana"
+      ],
+      "oldCount": 10,
+      "expectedCount": 12,
+      "status": "verified_in_highlight",
+      "submittedAt": "2026-11-02T13:34:01.489Z",
+      "storyIds": [
+        "4021552641759806003",
+        "4021552563770393554"
+      ],
+      "savedAt": "2026-11-02T13:37:21.679Z",
+      "verifiedCount": 12
+    },
+    {
+      "name": "Brain",
+      "indices": [
+        6
+      ],
+      "postIds": [
+        "brainamp"
+      ],
+      "oldCount": 5,
+      "expectedCount": 6,
+      "status": "verified_in_highlight",
+      "submittedAt": "2026-11-02T13:38:05.466Z",
+      "storyIds": [
+        "4021554605867369758"
+      ],
+      "savedAt": "2026-11-02T13:39:35.354Z",
+      "verifiedCount": 6
+    }
+  ],
+  "completedAt": "2026-11-02T13:40:20.779Z"
+}

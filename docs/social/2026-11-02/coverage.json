@@ -1,0 +1,1126 @@
+{
+  "asOf": "2026-11-02",
+  "scope": "Public wellness supplement guides only; hidden CleanSeSana excluded; travel and courses excluded.",
+  "rule": "Cover public supplement guides without an individual post first. Only after those are published begin fresh angles for previously covered items. Do not repeat artwork or captions. Exclude hidden/unverified items, travel and courses.",
+  "counts": {
+    "publicGuides": 54,
+    "individualSupplements": 44,
+    "comparisons": 10,
+    "individualsCoveredBefore": 37,
+    "individualsWithoutPostBefore": 7,
+    "individualsCoveredAfter": 44,
+    "individualsStillUncovered": 0
+  },
+  "uncoveredBefore": [
+    "advanced-prostate-formula",
+    "glp-1-plus",
+    "brainamp",
+    "ketosana",
+    "prime-perform-pro",
+    "spartamax",
+    "vigorsana"
+  ],
+  "rows": [
+    {
+      "slug": "qbx-chlorella",
+      "name": "QBX Chlorella",
+      "sourceFile": "topics/wellness/nutrition/qbx-chlorella.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-11-01/posts.json",
+          "postId": "qbx-chlorella"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "qbx-kraeuteressenz",
+      "name": "QBX Kräuteressenz",
+      "sourceFile": "topics/wellness/gut-health/qbx-kraeuteressenz.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-11-01/posts.json",
+          "postId": "qbx-kraeuteressenz"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "digestistart",
+      "name": "DigestiStart",
+      "sourceFile": "topics/wellness/gut-health/digestistart.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-11-01/posts.json",
+          "postId": "digestistart"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "primebiome",
+      "name": "PrimeBiome",
+      "sourceFile": "topics/wellness/gut-health/primebiome.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-11-01/posts.json",
+          "postId": "primebiome"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "femicore",
+      "name": "FemiCore",
+      "sourceFile": "topics/wellness/nutrition/femicore.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-11-01/posts.json",
+          "postId": "femicore"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "menovelle",
+      "name": "Menovelle",
+      "sourceFile": "topics/wellness/nutrition/menovelle.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-11-01/posts.json",
+          "postId": "menovelle"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "mindsilence",
+      "name": "MindSilence",
+      "sourceFile": "topics/wellness/brain-health/mindsilence.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-11-01/posts.json",
+          "postId": "mindsilence"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "rhythmone",
+      "name": "RhythmONE",
+      "sourceFile": "topics/wellness/longevity/rhythmone.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-11-01/posts.json",
+          "postId": "rhythmone"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "focus-iq",
+      "name": "Focus IQ",
+      "sourceFile": "topics/wellness/brain-health/focus-iq.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-11-01/posts.json",
+          "postId": "focus-iq"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "tonicgreens-review",
+      "name": "TonicGreens Review",
+      "sourceFile": "topics/wellness/nutrition/tonicgreens-review.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-11-01/posts.json",
+          "postId": "tonicgreens-review"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "slin-vs-insulin-herb-berberine",
+      "name": "SLIN vs Insulin Herb Berberine",
+      "sourceFile": "topics/wellness/metabolic-health/slin-vs-insulin-herb-berberine.html",
+      "comparison": true,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-28/posts.json",
+          "postId": "serving_size_first"
+        },
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFEL0SpDWK/",
+          "topic": "SLIN vs Insulin Herb Berberine serving and formula comparison"
+        },
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfDk3mECWko/",
+          "topic": "SLIN vs Insulin Herb Berberine serving check"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "gluconite-vs-elixolve-sleep-strips",
+      "name": "Gluconite vs Elixolve Sleep Strips",
+      "sourceFile": "topics/wellness/nutrition/gluconite-vs-elixolve-sleep-strips.html",
+      "comparison": true,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-28/posts.json",
+          "postId": "nighttime_label_check"
+        },
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFEUUFJWG-/",
+          "topic": "Gluconite vs Elixolve Sleep Strips nighttime label comparison"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "slimsana-vs-ketosana",
+      "name": "SlimSana vs. KetoSana",
+      "sourceFile": "topics/wellness/metabolic-health/slimsana-vs-ketosana.html",
+      "comparison": true,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFEdcspv_b/",
+          "topic": "SlimSana vs. KetoSana capsule and label comparison"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "metabosana-vs-glucosana",
+      "name": "MetaboSana vs. GlucoSana",
+      "sourceFile": "topics/wellness/metabolic-health/metabosana-vs-glucosana.html",
+      "comparison": true,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFEr-tJwCe/",
+          "topic": "MetaboSana vs GlucoSana quantities and warnings"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "curcumitol-q-vs-advanced-joint-support",
+      "name": "Curcumitol-Q vs Advanced Joint Support",
+      "sourceFile": "topics/wellness/joint-health/curcumitol-q-vs-advanced-joint-support.html",
+      "comparison": true,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFFZgEpTZO/",
+          "topic": "Curcumitol-Q vs Advanced Joint Support comparison"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "advanced-muscle-plus-vs-advanced-amino-formula",
+      "name": "Advanced Muscle Plus vs Advanced Amino Formula",
+      "sourceFile": "topics/wellness/nutrition/advanced-muscle-plus-vs-advanced-amino-formula.html",
+      "comparison": true,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-28/posts.json",
+          "postId": "full_formula_before_price"
+        },
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFE3P8J4Og/",
+          "topic": "Advanced Muscle Plus vs Advanced Amino Formula label comparison"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "brainamp-vs-advanced-memory-formula",
+      "name": "BrainAMP vs Advanced Memory Formula",
+      "sourceFile": "topics/wellness/brain-health/brainamp-vs-advanced-memory-formula.html",
+      "comparison": true,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-28/posts.json",
+          "postId": "ingredient_form_check"
+        },
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFE-DDpVVV/",
+          "topic": "BrainAMP vs Advanced Memory Formula comparison"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "senflo-vs-integrative-digestive-formula",
+      "name": "SenFlo vs Integrative Digestive Formula",
+      "sourceFile": "topics/wellness/gut-health/senflo-vs-integrative-digestive-formula.html",
+      "comparison": true,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFFGjQpvFE/",
+          "topic": "SenFlo vs Integrative Digestive Formula comparison"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "eznaturals-moringa-vs-pep-tonic",
+      "name": "EZNaturals Moringa vs Pep Tonic",
+      "sourceFile": "topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic.html",
+      "comparison": true,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFFMTCJoV1/",
+          "topic": "EZNaturals Moringa vs Pep Tonic comparison"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "selfplus-age-plus-vs-advanced-mitochondrial-formula",
+      "name": "SelfPlus AGE+ vs Advanced Mitochondrial Formula",
+      "sourceFile": "topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula.html",
+      "comparison": true,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-28/posts.json",
+          "postId": "check_destination_first"
+        },
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFFSW_JcV2/",
+          "topic": "SelfPlus AGE+ vs Advanced Mitochondrial Formula comparison"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "floravitasana",
+      "name": "FloraVitaSana ",
+      "sourceFile": "topics/wellness/gut-health/floravitasana.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFDjb9Ji7n/",
+          "topic": "FloraVitaSana label, prices and delivery in Europe (French)"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "slin",
+      "name": "SLIN",
+      "sourceFile": "topics/wellness/metabolic-health/slin.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFDqtiJjcA/",
+          "topic": "SLIN label and six-bottle order comparison"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "yara-hair-vitamins",
+      "name": "Yara Hair Vitamins",
+      "sourceFile": "topics/wellness/nutrition/yara-hair-vitamins.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFD0L4pLvC/",
+          "topic": "Yara Hair Vitamins monthly billing check"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "senflo-gummies",
+      "name": "SenFlo Gummies",
+      "sourceFile": "topics/wellness/gut-health/senflo-gummies.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFD804pAD_/",
+          "topic": "SenFlo Gummies label and senna warnings"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "adaptogen-4",
+      "name": "AdaptoGen 4.0",
+      "sourceFile": "topics/wellness/nutrition/adaptogen-4.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/posts.json",
+          "postId": "adaptogen-4"
+        },
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFEEFFpoPD/",
+          "topic": "AdaptoGen 4.0 label and capsule-count comparison"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "elixolve-sleep-strips",
+      "name": "Elixolve Sleep Strips",
+      "sourceFile": "topics/wellness/nutrition/elixolve-sleep-strips.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfDoWU2JZcM/",
+          "topic": "Elixolve Sleep Strips: 1 mg melatonin label and buying guide"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "slimsana",
+      "name": "SlimSana",
+      "sourceFile": "topics/wellness/metabolic-health/slimsana.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFCJO9pSN7/",
+          "topic": "SlimSana: Inhaltsstoffe, Versand und Rückgabe"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "metabosana",
+      "name": "MetaboSana",
+      "sourceFile": "topics/wellness/metabolic-health/metabosana.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFCWmrJMU2/",
+          "topic": "MetaboSana: label and green tea warning checks"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "glucosana",
+      "name": "GlucoSana",
+      "sourceFile": "topics/wellness/metabolic-health/glucosana.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFCiRhpB2m/",
+          "topic": "GlucoSana: label and buying terms"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "herosana-caliber",
+      "name": "HeroSana Caliber",
+      "sourceFile": "topics/wellness/mens-health/herosana-caliber.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFCrPiJolT/",
+          "topic": "HeroSana Caliber: gummies, supply and subscription"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "glucotrust-german",
+      "name": "GlucoTrust auf Deutsch",
+      "sourceFile": "topics/wellness/metabolic-health/glucotrust-german.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFCy4PpOaa/",
+          "topic": "GlucoTrust German label and returns"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "gluconite",
+      "name": "Gluconite",
+      "sourceFile": "topics/wellness/nutrition/gluconite.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFC6CnpWro/",
+          "topic": "Gluconite package costs and return conditions"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "insulin-herb-berberine",
+      "name": "Insulin Herb Berberine",
+      "sourceFile": "topics/wellness/metabolic-health/insulin-herb-berberine.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFDUjwpsET/",
+          "topic": "Insulin Herb Berberine capsule count and buying checks"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "selfplus-age-plus",
+      "name": "SelfPlus AGE+",
+      "sourceFile": "topics/wellness/longevity/selfplus-age-plus.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFDF0cJSJ4/",
+          "topic": "SelfPlus AGE+: 125 mg trans-resveratrol label"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "alpha-dualis",
+      "name": "Alpha Dualis",
+      "sourceFile": "topics/wellness/mens-health/alpha-dualis.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfFDNubpFW8/",
+          "topic": "Alpha Dualis AM/PM formula label comparison"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": {
+        "round": "new_angle_after_first_round",
+        "status": "published_all_networks_story_and_highlight",
+        "publications": {
+          "pinterest": {
+            "status": "verified_public",
+            "url": "https://br.pinterest.com/pin/765471267964151482/",
+            "confirmedAt": "2026-11-02T13:28:56.199Z"
+          },
+          "facebook": {
+            "status": "verified_public",
+            "url": "https://facebook.com/permalink.php?story_fbid=pfbid0FyyY8T6NKCvrRaq9871D46XZQy1429DXbeAGpt8seo1uejE3iKwMYZbJfD3WVk1Dl&id=61595970654481",
+            "metaPostId": "122101808211532355",
+            "confirmedAt": "2026-11-02T13:28:54.264Z"
+          },
+          "instagram": {
+            "status": "verified_public",
+            "url": "https://instagram.com/pokisky.guides/p/DfPakI-DQ6d/",
+            "metaPostId": "122101808211532355",
+            "confirmedAt": "2026-11-02T13:28:54.264Z"
+          },
+          "story": {
+            "status": "published_and_in_highlight",
+            "url": "https://instagram.com/stories/highlights/17902761246386168/",
+            "highlight": "Mens Health",
+            "groupStoryIds": [
+              "4021550703621510366",
+              "4021550642216940166",
+              "4021550590945738349",
+              "4021550523744614006",
+              "4021550465636717744"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "slug": "eznaturals-moringa",
+      "name": "EZNaturals Moringa",
+      "sourceFile": "topics/wellness/nutrition/eznaturals-moringa.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-31/posts.json",
+          "postId": "eznaturals-moringa"
+        },
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfDnYkzCdfK/",
+          "topic": "Comparing moringa capsules? Start with three checks: leaf powder vs. extracts, servings per bottle and the total delivered cost."
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "advanced-prostate-formula",
+      "name": "Advanced Prostate Formula",
+      "sourceFile": "topics/wellness/mens-health/advanced-prostate-formula.html",
+      "comparison": false,
+      "priorEvidence": [],
+      "coveredBefore": false,
+      "coveredAfter": true,
+      "thisCampaign": {
+        "round": "first_individual",
+        "status": "published_all_networks_story_and_highlight",
+        "publications": {
+          "pinterest": {
+            "status": "verified_public",
+            "url": "https://br.pinterest.com/pin/765471267964151352/",
+            "confirmedAt": "2026-11-02T13:21:01.797Z"
+          },
+          "facebook": {
+            "status": "verified_public",
+            "url": "https://facebook.com/permalink.php?story_fbid=pfbid02LbKYL89Ph2r7uwkCPKgaM7i9yoB9Dqn2J5MbWtd79ibus1XjMDPLXnpa2DTckQDPl&id=61595970654481",
+            "metaPostId": "122101798809532355",
+            "confirmedAt": "2026-11-02T13:20:54.822Z"
+          },
+          "instagram": {
+            "status": "verified_public",
+            "url": "https://instagram.com/pokisky.guides/p/DfPZoQ9DfJG/",
+            "metaPostId": "122101798809532355",
+            "confirmedAt": "2026-11-02T13:20:54.896Z"
+          },
+          "story": {
+            "status": "published_and_in_highlight",
+            "url": "https://instagram.com/stories/highlights/17902761246386168/",
+            "highlight": "Mens Health",
+            "groupStoryIds": [
+              "4021550703621510366",
+              "4021550642216940166",
+              "4021550590945738349",
+              "4021550523744614006",
+              "4021550465636717744"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "slug": "advanced-muscle-plus",
+      "name": "Advanced Muscle Plus",
+      "sourceFile": "topics/wellness/nutrition/advanced-muscle-plus.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-31/posts.json",
+          "postId": "advanced-muscle-plus"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "advanced-joint-support",
+      "name": "Advanced Joint Support",
+      "sourceFile": "topics/wellness/joint-health/advanced-joint-support.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/posts.json",
+          "postId": "advanced-joint-support"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "glp-1-plus",
+      "name": "GLP-1 Plus",
+      "sourceFile": "topics/wellness/metabolic-health/glp-1-plus.html",
+      "comparison": false,
+      "priorEvidence": [],
+      "coveredBefore": false,
+      "coveredAfter": true,
+      "thisCampaign": {
+        "round": "first_individual",
+        "status": "published_all_networks_story_and_highlight",
+        "publications": {
+          "pinterest": {
+            "status": "verified_public",
+            "url": "https://br.pinterest.com/pin/765471267964151375/",
+            "confirmedAt": "2026-11-02T13:22:12.233Z"
+          },
+          "facebook": {
+            "status": "verified_public",
+            "url": "https://facebook.com/permalink.php?story_fbid=pfbid02xWip6RDxCSPtrtPBSsUDofFUPrjthz8PhYYtFNDi2zhUJTREu98V5YyWDtPfjgmTl&id=61595970654481",
+            "metaPostId": "122101800663532355",
+            "confirmedAt": "2026-11-02T13:22:07.859Z"
+          },
+          "instagram": {
+            "status": "verified_public",
+            "url": "https://instagram.com/pokisky.guides/p/DfPZzCYjeEO/",
+            "metaPostId": "122101800663532355",
+            "confirmedAt": "2026-11-02T13:22:07.859Z"
+          },
+          "story": {
+            "status": "published_and_in_highlight",
+            "url": "https://instagram.com/stories/highlights/18183830125429638/",
+            "highlight": "Metabolic",
+            "groupStoryIds": [
+              "4021552641759806003",
+              "4021552563770393554"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "slug": "integrative-digestive-formula",
+      "name": "Integrative Digestive Formula",
+      "sourceFile": "topics/wellness/gut-health/integrative-digestive-formula.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-31/posts.json",
+          "postId": "integrative-digestive-formula"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "curcumitol-q",
+      "name": "Curcumitol-Q",
+      "sourceFile": "topics/wellness/nutrition/curcumitol-q.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-31/posts.json",
+          "postId": "curcumitol-q"
+        },
+        {
+          "record": "docs/social/2026-10-30/other-posts/plan.json",
+          "sourcePost": "https://www.instagram.com/pokisky.guides/p/DfDoIXcJE1B/",
+          "topic": "Curcumitol-Q label and buying guide"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "pep-tonic",
+      "name": "Pep Tonic",
+      "sourceFile": "topics/wellness/nutrition/pep-tonic.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-31/posts.json",
+          "postId": "pep-tonic"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "advanced-vision-formula",
+      "name": "Advanced Vision Formula",
+      "sourceFile": "topics/wellness/vision-health/advanced-vision-formula.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/posts.json",
+          "postId": "advanced-vision-formula"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "brainamp",
+      "name": "BrainAMP",
+      "sourceFile": "topics/wellness/brain-health/brainamp.html",
+      "comparison": false,
+      "priorEvidence": [],
+      "coveredBefore": false,
+      "coveredAfter": true,
+      "thisCampaign": {
+        "round": "first_individual",
+        "status": "published_all_networks_story_and_highlight",
+        "publications": {
+          "pinterest": {
+            "status": "verified_public",
+            "url": "https://br.pinterest.com/pin/765471267964151465/",
+            "confirmedAt": "2026-11-02T13:28:02.006Z"
+          },
+          "facebook": {
+            "status": "verified_public",
+            "url": "https://facebook.com/permalink.php?story_fbid=pfbid02u2uG787YQgYF477j8jgYCMFrbDJc9Enwphzsito55vUJL19hpePoAaQkKmXrMvDBl&id=61595970654481",
+            "metaPostId": "122101806519532355",
+            "confirmedAt": "2026-11-02T13:27:47.572Z"
+          },
+          "instagram": {
+            "status": "verified_public",
+            "url": "https://instagram.com/pokisky.guides/p/DfPaceODT9g/",
+            "metaPostId": "122101806519532355",
+            "confirmedAt": "2026-11-02T13:27:47.572Z"
+          },
+          "story": {
+            "status": "published_and_in_highlight",
+            "url": "https://instagram.com/stories/highlights/18135495877669528/",
+            "highlight": "Brain",
+            "groupStoryIds": [
+              "4021554605867369758"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "slug": "advanced-mitochondrial-formula",
+      "name": "Advanced Mitochondrial Formula",
+      "sourceFile": "topics/wellness/longevity/advanced-mitochondrial-formula.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-31/posts.json",
+          "postId": "advanced-mitochondrial-formula"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "circo2",
+      "name": "CircO2",
+      "sourceFile": "topics/wellness/longevity/circo2.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/posts.json",
+          "postId": "circo2"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "advanced-amino-formula",
+      "name": "Advanced Amino Formula",
+      "sourceFile": "topics/wellness/longevity/advanced-amino-formula.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-31/posts.json",
+          "postId": "advanced-amino-formula"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "advanced-memory-formula",
+      "name": "Advanced Memory Formula",
+      "sourceFile": "topics/wellness/brain-health/advanced-memory-formula.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-31/posts.json",
+          "postId": "advanced-memory-formula"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "ketosana",
+      "name": "KetoSana",
+      "sourceFile": "topics/wellness/gut-health/ketosana.html",
+      "comparison": false,
+      "priorEvidence": [],
+      "coveredBefore": false,
+      "coveredAfter": true,
+      "thisCampaign": {
+        "round": "first_individual",
+        "status": "published_all_networks_story_and_highlight",
+        "publications": {
+          "pinterest": {
+            "status": "verified_public",
+            "url": "https://br.pinterest.com/pin/765471267964151389/",
+            "confirmedAt": "2026-11-02T13:23:20.084Z"
+          },
+          "facebook": {
+            "status": "verified_public",
+            "url": "https://facebook.com/permalink.php?story_fbid=pfbid0JyQCb3yNj6QM9mYWMERY4kjxKdYUn7ZVRhJPyf8XC3CwEguCtxvdUDenXnh5gNiul&id=61595970654481",
+            "metaPostId": "122101801539532355",
+            "confirmedAt": "2026-11-02T13:23:06.921Z"
+          },
+          "instagram": {
+            "status": "verified_public",
+            "url": "https://instagram.com/pokisky.guides/p/DfPZ6O1jXzt/",
+            "metaPostId": "122101801539532355",
+            "confirmedAt": "2026-11-02T13:23:06.921Z"
+          },
+          "story": {
+            "status": "published_and_in_highlight",
+            "url": "https://instagram.com/stories/highlights/18183830125429638/",
+            "highlight": "Metabolic",
+            "groupStoryIds": [
+              "4021552641759806003",
+              "4021552563770393554"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "slug": "prime-perform-pro",
+      "name": "Prime Perform Pro",
+      "sourceFile": "topics/wellness/mens-health/prime-perform-pro.html",
+      "comparison": false,
+      "priorEvidence": [],
+      "coveredBefore": false,
+      "coveredAfter": true,
+      "thisCampaign": {
+        "round": "first_individual",
+        "status": "published_all_networks_story_and_highlight",
+        "publications": {
+          "pinterest": {
+            "status": "verified_public",
+            "url": "https://br.pinterest.com/pin/765471267964151409/",
+            "confirmedAt": "2026-11-02T13:24:57.898Z"
+          },
+          "facebook": {
+            "status": "verified_public",
+            "url": "https://facebook.com/permalink.php?story_fbid=pfbid0kRNkdLrZUqfWaNF2QTj3gWgVxm8yfFmP4eBGH2pgH2jiBwUPmpL2raYmWk9ULE2Ml&id=61595970654481",
+            "metaPostId": "122101802601532355",
+            "confirmedAt": "2026-11-02T13:24:52.750Z"
+          },
+          "instagram": {
+            "status": "verified_public",
+            "url": "https://instagram.com/pokisky.guides/p/DfPaGmTDW91/",
+            "metaPostId": "122101802601532355",
+            "confirmedAt": "2026-11-02T13:24:52.750Z"
+          },
+          "story": {
+            "status": "published_and_in_highlight",
+            "url": "https://instagram.com/stories/highlights/17902761246386168/",
+            "highlight": "Mens Health",
+            "groupStoryIds": [
+              "4021550703621510366",
+              "4021550642216940166",
+              "4021550590945738349",
+              "4021550523744614006",
+              "4021550465636717744"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "slug": "spartamax",
+      "name": "SpartaMax",
+      "sourceFile": "topics/wellness/mens-health/spartamax.html",
+      "comparison": false,
+      "priorEvidence": [],
+      "coveredBefore": false,
+      "coveredAfter": true,
+      "thisCampaign": {
+        "round": "first_individual",
+        "status": "published_all_networks_story_and_highlight",
+        "publications": {
+          "pinterest": {
+            "status": "verified_public",
+            "url": "https://br.pinterest.com/pin/765471267964151422/",
+            "confirmedAt": "2026-11-02T13:26:00.731Z"
+          },
+          "facebook": {
+            "status": "verified_public",
+            "url": "https://facebook.com/permalink.php?story_fbid=pfbid02khRnzgGAgGY2KfGVnMvBMPcHT9gznt47UxKEKZaEhkZE3BATHnhUSE9wKAiUJE1Al&id=61595970654481",
+            "metaPostId": "122101803405532355",
+            "confirmedAt": "2026-11-02T13:25:47.150Z"
+          },
+          "instagram": {
+            "status": "verified_public",
+            "url": "https://instagram.com/pokisky.guides/p/DfPaN4OjeZC/",
+            "metaPostId": "122101803405532355",
+            "confirmedAt": "2026-11-02T13:25:47.150Z"
+          },
+          "story": {
+            "status": "published_and_in_highlight",
+            "url": "https://instagram.com/stories/highlights/17902761246386168/",
+            "highlight": "Mens Health",
+            "groupStoryIds": [
+              "4021550703621510366",
+              "4021550642216940166",
+              "4021550590945738349",
+              "4021550523744614006",
+              "4021550465636717744"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "slug": "collagen",
+      "name": "Advanced Collagen Plus",
+      "sourceFile": "topics/wellness/longevity/collagen.html",
+      "comparison": false,
+      "priorEvidence": [
+        {
+          "record": "docs/social/2026-10-30/posts.json",
+          "postId": "collagen"
+        }
+      ],
+      "coveredBefore": true,
+      "coveredAfter": true,
+      "thisCampaign": null
+    },
+    {
+      "slug": "vigorsana",
+      "name": "VigorSana",
+      "sourceFile": "topics/wellness/longevity/vigorsana.html",
+      "comparison": false,
+      "priorEvidence": [],
+      "coveredBefore": false,
+      "coveredAfter": true,
+      "thisCampaign": {
+        "round": "first_individual",
+        "status": "published_all_networks_story_and_highlight",
+        "publications": {
+          "pinterest": {
+            "status": "verified_public",
+            "url": "https://br.pinterest.com/pin/765471267964151446/",
+            "confirmedAt": "2026-11-02T13:26:56.599Z"
+          },
+          "facebook": {
+            "status": "verified_public",
+            "url": "https://facebook.com/permalink.php?story_fbid=pfbid0u3zdy8vMHTxBETmBxpXJRb8RDWaoV9hgY2va31CpG5g3XSk4Qf8mrTZSX8eMps4rl&id=61595970654481",
+            "metaPostId": "122101805565532355",
+            "confirmedAt": "2026-11-02T13:26:52.214Z"
+          },
+          "instagram": {
+            "status": "verified_public",
+            "url": "https://instagram.com/pokisky.guides/p/DfPaV73jY0k/",
+            "metaPostId": "122101805565532355",
+            "confirmedAt": "2026-11-02T13:26:52.214Z"
+          },
+          "story": {
+            "status": "published_and_in_highlight",
+            "url": "https://instagram.com/stories/highlights/17902761246386168/",
+            "highlight": "Mens Health",
+            "groupStoryIds": [
+              "4021550703621510366",
+              "4021550642216940166",
+              "4021550590945738349",
+              "4021550523744614006",
+              "4021550465636717744"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

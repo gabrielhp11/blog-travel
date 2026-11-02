@@ -1,10 +1,11 @@
 # Fluxo de redes sociais da PokiSky
 
-Atualizado em 01/11/2026 a pedido do usuário para servir de memória das próximas campanhas.
+Atualizado em 02/11/2026 a pedido do usuário para servir de memória das próximas campanhas.
 
 ## Preferências e referências
 
 - Criar posts apenas de suplementos quando esse for o escopo pedido; não misturar viagens ou cursos.
+- Regra de rotação confirmada em 02/11: publicar primeiro os itens públicos do blog que ainda não têm post individual. Quando todos estiverem cobertos, criar novos posts dos mesmos itens com outro enfoque, nova arte e nova legenda. Um comparativo entre dois produtos não substitui o primeiro post individual de cada guia. Excluir itens ocultos ou com identidade/link ainda não verificados.
 - Gerar as próximas artes no Gemini web, conforme preferência expressa em 30/10/2026. Não iniciar geração em outra ferramenta sem necessidade ou nova orientação.
 - Manter inglês nos perfis de suplementos, conforme o padrão existente. Conferir o idioma do guia e do público antes de adaptar itens em francês ou alemão.
 - Instagram: `https://www.instagram.com/pokisky.guides/`, nome PokiSky | Supplement Guides.
@@ -104,3 +105,11 @@ Controle em `2026-11-01/posts.json`: dez posts baseados nos dez novos guias de s
 - A ordem de upload não identifica cada Story. Registrar o conjunto de IDs do grupo quando não houver associação individual comprovada.
 - Na Meta, abrir o detalhe do post publicado e usar o link visível “Ver post no Facebook” para registrar o permalink real. O ID do post cruzado não é o ID da foto. Não inventar URLs.
 - `DELIVERY.md`, `publication-receipts.json` e `posts.json` registram o resultado final e impedem reenvios duplicados.
+
+## Campanha de 02/11/2026 e rotação
+
+Controle em `2026-11-02/posts.json` e auditoria em `2026-11-02/coverage.json`. O catálogo contém 44 suplementos públicos individuais e dez comparativos. Antes desta campanha, 37 guias individuais tinham registro de post. Os sete restantes são Advanced Prostate Formula, GLP-1 Plus, KetoSana, Prime Perform Pro, SpartaMax, VigorSana e BrainAMP. BrainAMP já aparecia em comparações, mas não tinha post individual; GlucoTrust German corresponde ao guia GlucoTrust auf Deutsch, não é um produto ausente.
+
+Publicar os sete primeiros posts individuais antes do oitavo, que inaugura outro enfoque de Alpha Dualis (conteúdo do pacote, valor integral e devolução). Após confirmar essa cobertura, as próximas campanhas podem reutilizar os itens com novos assuntos. Conferir novos guias adicionados ao catálogo antes de iniciar outra rodada. Manter os registros de publicação por rede e não tratar itens somente preparados como cobertos.
+
+Concluída em 02/11: oito posts publicados e verificados nas três redes, oito Stories salvos e três destaques com contagens persistidas: Mens Health 7, Metabolic 12 e Brain 6. Instagram com 64 posts; destaques acumulam 64 artes. Auditoria confirma 44/44 suplementos individuais públicos cobertos. O oitavo post de Alpha Dualis iniciou a nova rodada depois dos sete primeiros envios. Consultar `2026-11-02/DELIVERY.md` e `posts.json` antes de retomar; não reenviar estes posts.

@@ -1,0 +1,115 @@
+Browser tab: 540250791, Title: "Meta Business Suite", URL: "https://business.facebook.com/latest/insights/object_insights/?asset_id=1441439982376766&business_id=1797870504751927&ir_qe_exposed=1&content_id=122101806519532355&nav_ref=bizweb_published_posts_table".
+1 AXWebArea Meta Business Suite, URL: business.facebook.com/latest/insights/object_insights/?asset_id=1441439982376766&business_id=1797870504751927&ir_qe_exposed=1&content_id=122101806519532355&nav_ref=bizweb_published_posts_table
+	2 container mount_0_0_LS
+		3 container
+			4 container
+				5 button Voltar ​
+					6 text Voltar
+					7 image
+				8 heading Value: 3, Ad / affiliate disclosure: the PokiSky guide contains affiliate links. READ THE INGREDIENT FORM The BrainAMP guide separates the stated Alpha-GPC ingredient amount from its concentration. Read the complete formula and serving basis, including paraxanthine, before comparing labels. Discuss suitability and medicine overlap with a qualified professional; ingredient names do not establish focus outcomes. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=brainamp AI editorial illustration; not product photography.
+					9 text Ad / affiliate disclosure: the PokiSky guide contains affiliate links. READ THE INGREDIENT FORM The BrainAMP guide separates the stated Alpha-GPC ingredient amount from its concentration. Read the complete formula and serving basis, including paraxanthine, before comparing labels. Discuss suitability and medicine overlap with a qualified professional; ingredient names do not establish focus outcomes. Read the source-based guide: https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_coverage_20261102&utm_content=brainamp AI editorial illustration; not product photography.
+				10 image Facebook
+				11 image Instagram
+				12 text Post  · Publicado em: Segunda, 2 de novembro 10:27
+				13 toolbar
+					14 button Turbinar
+						15 text Turbinar
+				16 container
+					17 tab group
+						18 tab (selected, settable, boolean) Value: 1, Description: Desempenho total
+Facebook
+Instagram
+						19 tab (selectable, settable, boolean) Value: 0, Description: Facebook
+Facebook
+						20 tab (selectable, settable, boolean) Value: 0, Description: Instagram
+Instagram
+				21 container
+					22 heading Visão geral, Value: 2
+						23 text Visão geral
+					24 text Visualizações
+					25 image
+					26 text 0 Interações líquidas
+					27 image
+					28 text 0 Cliques no link
+					29 image
+					30 text 0 Seguidores
+					31 image
+					32 text 0
+				33 container
+					34 text Visualizações
+					35 image
+					36 text 0
+					37 image Facebook
+					38 text 0 do Facebook
+					39 image Instagram
+					40 text 0 do Instagram
+					41 tab group
+						42 tab (selected, settable, boolean) Description: Total, Value: 1
+						43 tab (selectable, settable, boolean) Description: Seguidores, Value: 0
+					44 heading Dados indisponíveis, Value: 3
+						45 text Dados indisponíveis
+					46 text Estes dados não estão disponíveis no momento.
+				47 container
+					48 text Interações líquidas
+					49 image
+					50 text 0
+					51 image Facebook
+					52 text 0 do Facebook
+					53 image Instagram
+					54 text 0 do Instagram Curtidas e reações
+					55 image
+					56 text 0 Comentários
+					57 image
+					58 text 0 Compartilhamentos
+					59 image
+					60 text 0 Salvamentos
+					61 image
+					62 text 0
+				63 container
+					64 heading Prévia do feed, Value: 3
+						65 text Prévia do feed
+					66 container
+						67 link Description: PokiSky Supplement Guides, Value: facebook.com/profile.php?id=61595970654481&__cft__%5B0%5D=AZjNq8LYfogA5NSOqT_Gju6W0wUQjQkNq4HuILy2zHBy-dskbq7uHoi_gsZHZ-2Du2CBvwvfFvsRwL-cimz3yhoS5YhjNniYu77u_Yzslo4PIqvwli_4PkBtcu88E9Mj2V-dsk6QHrmo&__tn__=%253C%253C%252CP-R
+						68 heading PokiSky Supplement Guides, Value: 2
+							69 link Description: PokiSky Supplement Guides, Value: facebook.com/profile.php?id=61595970654481&__cft__%5B0%5D=AZjNq8LYfogA5NSOqT_Gju6W0wUQjQkNq4HuILy2zHBy-dskbq7uHoi_gsZHZ-2Du2CBvwvfFvsRwL-cimz3yhoS5YhjNniYu77u_Yzslo4PIqvwli_4PkBtcu88E9Mj2V-dsk6QHrmo&__tn__=-UC%252CP-R
+						70 button Conteúdo de IA
+						71 link Description: Há 5 minutos, Value: facebook.com/permalink.php?story_fbid=pfbid02u2uG787YQgYF477j8jgYCMFrbDJc9Enwphzsito55vUJL19hpePoAaQkKmXrMvDBl&id=61595970654481&__cft__%5B0%5D=AZjNq8LYfogA5NSOqT_Gju6W0wUQjQkNq4HuILy2zHBy-dskbq7uHoi_gsZHZ-2Du2CBvwvfFvsRwL-cimz3yhoS5YhjNniYu77u_Yzslo4PIqvwli_4PkBtcu88E9Mj2V-dsk6QHrmo&__tn__=%252CO%252CP-R
+						72 image Compartilhado com: Público
+						73 pop up button (collapsed) Description: Ações para este post de PokiSky Supplement Guides, Secondary Actions: Expand
+						74 text Ad / affiliate disclosure: the PokiSky guide contains affiliate links. …
+						75 button Ver mais
+						76 link Description: PokiSky supplement buying guide for BrainAMP. Headline: READ THE INGREDIENT FORM. Checklist: Serving basis; Alpha-GPC form; Complete formula. Read the guide. AI editorial illustration; affiliate guide., Value: business.facebook.com/photo.php?fbid=122101805685532355&set=a.122094306885532355&type=3&__cft__%5B0%5D=AZjNq8LYfogA5NSOqT_Gju6W0wUQjQkNq4HuILy2zHBy-dskbq7uHoi_gsZHZ-2Du2CBvwvfFvsRwL-cimz3yhoS5YhjNniYu77u_Yzslo4PIqvwli_4PkBtcu88E9Mj2V-dsk6QHrmo&__tn__=EH-R
+						77 button Turbinar
+							78 text Turbinar
+						79 container
+							80 button Reagir com Curtir ao post de PokiSky Supplement Guides
+							81 button Reagir ao post de PokiSky Supplement Guides
+						82 button Comentar no post de PokiSky Supplement Guides
+						83 button Compartilhar, para enviar para amigos ou postar no seu perfil.
+						84 container
+							85 button Trocar para outro perfil ou Página
+							86 text entry area (settable) Description: Comente como PokiSky Supplement Guides, Value:
+
+							87 content list
+								88 pop up button (collapsed) Description: Comente com uma figurinha de avatar, Secondary Actions: Expand
+								89 pop up button (collapsed) Description: Insira um emoji, Secondary Actions: Expand
+								90 button Anexe uma foto ou vídeo
+								91 pop up button (collapsed) Description: Comentar com um GIF, Secondary Actions: Expand
+								92 pop up button (collapsed) Description: Comente com uma figurinha, Secondary Actions: Expand
+					93 link Description: Ver post no Facebook, Value: facebook.com/permalink.php?story_fbid=pfbid02u2uG787YQgYF477j8jgYCMFrbDJc9Enwphzsito55vUJL19hpePoAaQkKmXrMvDBl&id=61595970654481
+					94 container
+						95 image
+						96 text pokisky.guides
+						97 button Curtir
+						98 button Comentar
+						99 button Compartilhar
+						100 button Salvar
+						101 container caption
+							102 text pokisky.guides
+							103 text Ad / affiliate disclosure: the PokiSky
+							104 text guide contains affiliate links. ...
+							105 button more
+			106 container
+				107 button Assistente da Meta AI para empresas
+
+The focused UI element is 1 AXWebArea Meta Business Suite, URL: business.facebook.com/latest/insights/object_insights/?asset_id=1441439982376766&business_id=1797870504751927&ir_qe_exposed=1&content_id=122101806519532355&nav_ref=bizweb_published_posts_table

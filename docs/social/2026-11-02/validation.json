@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-02",
+  "status": "passed",
+  "posts": 8,
+  "publicNetworkReceipts": 24,
+  "stories": 8,
+  "highlights": [
+    {
+      "name": "Mens Health",
+      "added": 5,
+      "total": 7,
+      "status": "verified_in_highlight"
+    },
+    {
+      "name": "Metabolic",
+      "added": 2,
+      "total": 12,
+      "status": "verified_in_highlight"
+    },
+    {
+      "name": "Brain",
+      "added": 1,
+      "total": 6,
+      "status": "verified_in_highlight"
+    }
+  ],
+  "instagramPostCount": {
+    "before": 56,
+    "after": 64
+  },
+  "coverage": {
+    "individualSupplements": 44,
+    "covered": 44,
+    "uncovered": 0
+  },
+  "checks": {
+    "captionsAndTracking": true,
+    "decodedImages": 8,
+    "dimensions": "928x1152",
+    "sha256Recorded": true,
+    "projectCheck": "node scripts/run-task.js check",
+    "projectCheckPassed": true,
+    "infrastructureTests": 13,
+    "editorialTests": 3
+  }
+}
