@@ -1,0 +1,453 @@
+{
+  "campaign": "supplement_rotation_20261103",
+  "brand": "PokiSky",
+  "createdDate": "2026-11-03",
+  "language": "en",
+  "status": "complete",
+  "rotationRule": "Continue fresh angles after first individual coverage of all 44 public supplements. Check for newly added public supplement guides before repeating; preserve older campaigns.",
+  "notes": "Browser access restored on 3 November after prior URL-validation interruptions. Resume the prepared five posts; preserve original source review dates.",
+  "storyPlan": [
+    {
+      "name": "Sleep",
+      "postIds": [
+        "elixolve-sleep-strips",
+        "gluconite"
+      ]
+    },
+    {
+      "name": "Longevity",
+      "postIds": [
+        "selfplus-age-plus",
+        "circo2"
+      ]
+    },
+    {
+      "name": "Metabolic",
+      "postIds": [
+        "insulin-herb-berberine"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": "elixolve-sleep-strips",
+      "name": "Elixolve Sleep Strips",
+      "sourceFile": "topics/wellness/nutrition/elixolve-sleep-strips.html",
+      "sourceReviewDate": "2026-10-25",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "new_angle_after_first_round",
+      "socialLanguage": "en",
+      "headline": "WHEN DOES THE RETURN CLOCK START?",
+      "checks": [
+        "Deadline basis",
+        "Contact process",
+        "Postage terms"
+      ],
+      "highlight": "Sleep",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "expectedImageFile": "images/01-elixolve-sleep-strips-gemini.jpg",
+      "imageFile": "images/01-elixolve-sleep-strips-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte final editorial premium vertical 4:5 para PokiSky, legível em celular. Conceito: midnight blue and warm ivory, a blank envelope and an unmarked folded paper calendar shape, restrained editorial still life. Blocos separados para marca, produto e título completo. Todos estes textos exatos, sem omissões: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Elixolve Sleep Strips'; título 'WHEN DOES THE RETURN CLOCK START?'; checklist 'Deadline basis', 'Contact process', 'Postage terms'; CTA 'Read the guide'; rodapé em faixa própria, inteiramente dentro da imagem e legível 'AI editorial illustration · Affiliate guide'. Preserve margens seguras e diminua a ilustração se necessário para caber todo o texto. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logotipos oficiais, pessoas, anatomia, gráficos científicos, preços, dosagens, resultados ou promessas de saúde. Objetos em papel são conceituais e não representam o produto. Não acrescente texto. Uma única imagem final. Gere agora.",
+      "pinterestTitle": "Elixolve Sleep Strips: when does the return clock start",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Elixolve guide records a return window measured from delivery in the policy reviewed. Before ordering, check the deadline attached to your exact purchase, who to contact and whether return postage applies. A guarantee does not make every purchase cost-free. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nWHEN DOES THE RETURN CLOCK START?\n\nThe Elixolve guide records a return window measured from delivery in the policy reviewed. Before ordering, check the deadline attached to your exact purchase, who to contact and whether return postage applies. A guarantee does not make every purchase cost-free.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=elixolve-sleep-strips\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nWHEN DOES THE RETURN CLOCK START?\n\nThe Elixolve guide records a return window measured from delivery in the policy reviewed. Before ordering, check the deadline attached to your exact purchase, who to contact and whether return postage applies. A guarantee does not make every purchase cost-free.\n\nSave this checklist. Find “Elixolve Sleep Strips” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=elixolve-sleep-strips\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Elixolve Sleep Strips. Headline: WHEN DOES THE RETURN CLOCK START?. Checklist: Deadline basis; Contact process; Postage terms. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=elixolve-sleep-strips",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=elixolve-sleep-strips",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=elixolve-sleep-strips"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964171957/",
+          "confirmedAt": "2026-11-03T16:01:26.663Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0Cic5nG2GMmTDg9aDrD4MWTqnDFdXrVkNDFYXA2VpcFFuiFJeK8MbNWcA5Jdu1Gfgl&id=61595970654481",
+          "metaPostId": "122103044553532355",
+          "confirmedAt": "2026-11-03T16:01:15.224Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfSQux2jnxt/",
+          "metaPostId": "122103044553532355",
+          "confirmedAt": "2026-11-03T16:01:15.264Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18641512975013076/",
+          "highlight": "Sleep",
+          "groupStoryIds": [
+            "4022356670910811392",
+            "4022356610101770247"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_zcfxbjzcfxbjzcfx.jpg"
+    },
+    {
+      "id": "gluconite",
+      "name": "Gluconite",
+      "sourceFile": "topics/wellness/nutrition/gluconite.html",
+      "sourceReviewDate": "2026-10-25",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "new_angle_after_first_round",
+      "socialLanguage": "en",
+      "headline": "WHAT IS STILL MISSING?",
+      "checks": [
+        "Current panel",
+        "Exact version",
+        "Seller clarification"
+      ],
+      "highlight": "Sleep",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "expectedImageFile": "images/02-gluconite-gemini.jpg",
+      "imageFile": "images/02-gluconite-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte final editorial premium vertical 4:5 para PokiSky, legível em celular. Conceito: slate blue and soft sand, a blank paper frame with a separate plain reading card, generous editorial whitespace. Blocos separados para marca, produto e título completo. Todos estes textos exatos, sem omissões: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Gluconite'; título 'WHAT IS STILL MISSING?'; checklist 'Current panel', 'Exact version', 'Seller clarification'; CTA 'Read the guide'; rodapé em faixa própria, inteiramente dentro da imagem e legível 'AI editorial illustration · Affiliate guide'. Preserve margens seguras e diminua a ilustração se necessário para caber todo o texto. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logotipos oficiais, pessoas, anatomia, gráficos científicos, preços, dosagens, resultados ou promessas de saúde. Objetos em papel são conceituais e não representam o produto. Não acrescente texto. Uma única imagem final. Gere agora.",
+      "pinterestTitle": "Gluconite: what is still missing",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The reviewed Gluconite sales materials did not provide a readable complete current Supplement Facts panel. Ask for the exact formula, serving size, allergens and warnings before comparing packages. Do not fill missing details from older or unrelated listings. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nWHAT IS STILL MISSING?\n\nThe reviewed Gluconite sales materials did not provide a readable complete current Supplement Facts panel. Ask for the exact formula, serving size, allergens and warnings before comparing packages. Do not fill missing details from older or unrelated listings.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=gluconite\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nWHAT IS STILL MISSING?\n\nThe reviewed Gluconite sales materials did not provide a readable complete current Supplement Facts panel. Ask for the exact formula, serving size, allergens and warnings before comparing packages. Do not fill missing details from older or unrelated listings.\n\nSave this checklist. Find “Gluconite” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=gluconite\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Gluconite. Headline: WHAT IS STILL MISSING?. Checklist: Current panel; Exact version; Seller clarification. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=gluconite",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=gluconite",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=gluconite"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964172002/",
+          "confirmedAt": "2026-11-03T16:03:13.116Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0DsmcCuBfJn8YzwsbU2QcrPDkNxjufvSRTdVDB5Z7tsJHVqvXzVDe9V7DvNzxf7dbl&id=61595970654481",
+          "metaPostId": "122103046395532355",
+          "confirmedAt": "2026-11-03T16:03:07.875Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfSQ-nZDipy/",
+          "metaPostId": "122103046395532355",
+          "confirmedAt": "2026-11-03T16:03:07.875Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18641512975013076/",
+          "highlight": "Sleep",
+          "groupStoryIds": [
+            "4022356670910811392",
+            "4022356610101770247"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_lxg3f5lxg3f5lxg3.jpg"
+    },
+    {
+      "id": "selfplus-age-plus",
+      "name": "SelfPlus AGE+",
+      "sourceFile": "topics/wellness/longevity/selfplus-age-plus.html",
+      "sourceReviewDate": "2026-10-24",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "new_angle_after_first_round",
+      "socialLanguage": "en",
+      "headline": "CHECK THE DESTINATION FIRST",
+      "checks": [
+        "Eligible address",
+        "Shipping charge",
+        "Final order total"
+      ],
+      "highlight": "Longevity",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "expectedImageFile": "images/03-selfplus-age-plus-gemini.jpg",
+      "imageFile": "images/03-selfplus-age-plus-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte final editorial premium vertical 4:5 para PokiSky, legível em celular. Conceito: forest green and cream, a clean folded paper map without geographical marks beside one plain envelope, premium editorial composition. Blocos separados para marca, produto e título completo. Todos estes textos exatos, sem omissões: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'SelfPlus AGE+'; título 'CHECK THE DESTINATION FIRST'; checklist 'Eligible address', 'Shipping charge', 'Final order total'; CTA 'Read the guide'; rodapé em faixa própria, inteiramente dentro da imagem e legível 'AI editorial illustration · Affiliate guide'. Preserve margens seguras e diminua a ilustração se necessário para caber todo o texto. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logotipos oficiais, pessoas, anatomia, gráficos científicos, preços, dosagens, resultados ou promessas de saúde. Objetos em papel são conceituais e não representam o produto. Não acrescente texto. Uma única imagem final. Gere agora.",
+      "pinterestTitle": "SelfPlus AGE+: check the destination first",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. Our SelfPlus AGE+ guide records a US-only shipping policy and conflicting shipping charges in the materials reviewed. Confirm an eligible delivery address and the final charge before comparing packages. The older checkout observation is not a current delivery quote. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE DESTINATION FIRST\n\nOur SelfPlus AGE+ guide records a US-only shipping policy and conflicting shipping charges in the materials reviewed. Confirm an eligible delivery address and the final charge before comparing packages. The older checkout observation is not a current delivery quote.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=selfplus-age-plus\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE DESTINATION FIRST\n\nOur SelfPlus AGE+ guide records a US-only shipping policy and conflicting shipping charges in the materials reviewed. Confirm an eligible delivery address and the final charge before comparing packages. The older checkout observation is not a current delivery quote.\n\nSave this checklist. Find “SelfPlus AGE+” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=selfplus-age-plus\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for SelfPlus AGE+. Headline: CHECK THE DESTINATION FIRST. Checklist: Eligible address; Shipping charge; Final order total. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=selfplus-age-plus",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=selfplus-age-plus",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/selfplus-age-plus?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=selfplus-age-plus"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964172019/",
+          "confirmedAt": "2026-11-03T16:05:00.388Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0tKBgnALu3R4z3PjZFeZJgGunWiwmX9p1ZWKSR53fqW6R6KL4ZzC9KxFTUqT3Juovl&id=61595970654481",
+          "metaPostId": "122103049227532355",
+          "confirmedAt": "2026-11-03T16:04:40.257Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfSRLUNjq9o/",
+          "metaPostId": "122103049227532355",
+          "confirmedAt": "2026-11-03T16:04:40.257Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18076840808743676/",
+          "highlight": "Longevity",
+          "groupStoryIds": [
+            "4022358529247643129",
+            "4022358468010792665"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_j50o36j50o36j50o.jpg"
+    },
+    {
+      "id": "circo2",
+      "name": "CircO2",
+      "sourceFile": "topics/wellness/longevity/circo2.html",
+      "sourceReviewDate": "2026-10-06",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "new_angle_after_first_round",
+      "socialLanguage": "en",
+      "headline": "A BOX COUNT IS NOT A PERSONAL PLAN",
+      "checks": [
+        "Current directions",
+        "Whole order",
+        "Return postage"
+      ],
+      "highlight": "Longevity",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "expectedImageFile": "images/04-circo2-gemini.jpg",
+      "imageFile": "images/04-circo2-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte final editorial premium vertical 4:5 para PokiSky, legível em celular. Conceito: aubergine and pale stone, several blank paper folders stacked at different heights with a single reading tab, architectural editorial still life. Blocos separados para marca, produto e título completo. Todos estes textos exatos, sem omissões: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'CircO2'; título 'A BOX COUNT IS NOT A PERSONAL PLAN'; checklist 'Current directions', 'Whole order', 'Return postage'; CTA 'Read the guide'; rodapé em faixa própria, inteiramente dentro da imagem e legível 'AI editorial illustration · Affiliate guide'. Preserve margens seguras e diminua a ilustração se necessário para caber todo o texto. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logotipos oficiais, pessoas, anatomia, gráficos científicos, preços, dosagens, resultados ou promessas de saúde. Objetos em papel são conceituais e não representam o produto. Não acrescente texto. Uma única imagem final. Gere agora.",
+      "pinterestTitle": "CircO2: a box count is not a personal plan",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The CircO2 guide separates tablets per box and label servings from a personal usage schedule. Compare the full selected order and current directions after resolving suitability. A larger box bundle or lower unit price is not a reason to assume you need a longer supply. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nA BOX COUNT IS NOT A PERSONAL PLAN\n\nThe CircO2 guide separates tablets per box and label servings from a personal usage schedule. Compare the full selected order and current directions after resolving suitability. A larger box bundle or lower unit price is not a reason to assume you need a longer supply.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=circo2\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nA BOX COUNT IS NOT A PERSONAL PLAN\n\nThe CircO2 guide separates tablets per box and label servings from a personal usage schedule. Compare the full selected order and current directions after resolving suitability. A larger box bundle or lower unit price is not a reason to assume you need a longer supply.\n\nSave this checklist. Find “CircO2” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=circo2\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for CircO2. Headline: A BOX COUNT IS NOT A PERSONAL PLAN. Checklist: Current directions; Whole order; Return postage. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=circo2",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=circo2",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/circo2?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=circo2"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964172041/",
+          "confirmedAt": "2026-11-03T16:06:21.060Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid08gnZm7Vgt3NxUYDyCPewa6zvSxxCdE4VJ8SHW4dUAFfEK2yX2sVwGRC8ERYFkfvCl&id=61595970654481",
+          "metaPostId": "122103051987532355",
+          "confirmedAt": "2026-11-03T16:06:16.413Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfSRWTxjgsn/",
+          "metaPostId": "122103051987532355",
+          "confirmedAt": "2026-11-03T16:06:16.413Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18076840808743676/",
+          "highlight": "Longevity",
+          "groupStoryIds": [
+            "4022358529247643129",
+            "4022358468010792665"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_13jqjo13jqjo13jq.jpg"
+    },
+    {
+      "id": "insulin-herb-berberine",
+      "name": "Insulin Herb Berberine",
+      "sourceFile": "topics/wellness/metabolic-health/insulin-herb-berberine.html",
+      "sourceReviewDate": "2026-10-27",
+      "sourceReviewNote": "Label reviewed 27 October; price references remain dated 25 October 2026.",
+      "round": "new_angle_after_first_round",
+      "socialLanguage": "en",
+      "headline": "READ THE ALLERGEN LINE",
+      "checks": [
+        "Shared equipment",
+        "Physical package",
+        "Complete warnings"
+      ],
+      "highlight": "Metabolic",
+      "status": "published_all_networks_story_and_highlight",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "expectedImageFile": "images/05-insulin-herb-berberine-gemini.jpg",
+      "imageFile": "images/05-insulin-herb-berberine-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte final editorial premium vertical 4:5 para PokiSky, legível em celular. Conceito: deep teal and ivory, layered blank paper cards beside a small brass magnifying glass, clear mobile-readable editorial layout. Blocos separados para marca, produto e título completo. Todos estes textos exatos, sem omissões: 'PokiSky'; 'SUPPLEMENT BUYING GUIDE'; 'Insulin Herb Berberine'; título 'READ THE ALLERGEN LINE'; checklist 'Shared equipment', 'Physical package', 'Complete warnings'; CTA 'Read the guide'; rodapé em faixa própria, inteiramente dentro da imagem e legível 'AI editorial illustration · Affiliate guide'. Preserve margens seguras e diminua a ilustração se necessário para caber todo o texto. Sem embalagens, frascos, comprimidos, cápsulas, rótulos simulados, logotipos oficiais, pessoas, anatomia, gráficos científicos, preços, dosagens, resultados ou promessas de saúde. Objetos em papel são conceituais e não representam o produto. Não acrescente texto. Uma única imagem final. Gere agora.",
+      "pinterestTitle": "Insulin Herb Berberine: read the allergen line",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Insulin Herb Berberine panel reviewed in our guide includes a shared-equipment allergen warning. Read that statement alongside the full ingredients and excipients, and confirm the current physical package. A capsule-material description alone does not establish allergen suitability. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREAD THE ALLERGEN LINE\n\nThe Insulin Herb Berberine panel reviewed in our guide includes a shared-equipment allergen warning. Read that statement alongside the full ingredients and excipients, and confirm the current physical package. A capsule-material description alone does not establish allergen suitability.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/insulin-herb-berberine?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=insulin-herb-berberine\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREAD THE ALLERGEN LINE\n\nThe Insulin Herb Berberine panel reviewed in our guide includes a shared-equipment allergen warning. Read that statement alongside the full ingredients and excipients, and confirm the current physical package. A capsule-material description alone does not establish allergen suitability.\n\nSave this checklist. Find “Insulin Herb Berberine” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/insulin-herb-berberine?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=insulin-herb-berberine\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Insulin Herb Berberine. Headline: READ THE ALLERGEN LINE. Checklist: Shared equipment; Physical package; Complete warnings. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/insulin-herb-berberine?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=insulin-herb-berberine",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/insulin-herb-berberine?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=insulin-herb-berberine",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/metabolic-health/insulin-herb-berberine?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261103&utm_content=insulin-herb-berberine"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964172065/",
+          "confirmedAt": "2026-11-03T16:10:03.285Z"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid02y9CUpaasxBgcb1Ugc55hPk5eH4avA6LmPn1414R62CTzfaiubws2CDBEHSmk2KULl&id=61595970654481",
+          "metaPostId": "122103055587532355",
+          "confirmedAt": "2026-11-03T16:09:57.687Z"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://instagram.com/pokisky.guides/p/DfSRsc-DlUF/",
+          "metaPostId": "122103055587532355",
+          "confirmedAt": "2026-11-03T16:09:57.687Z"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://instagram.com/stories/highlights/18183830125429638/",
+          "highlight": "Metabolic",
+          "groupStoryIds": [
+            "4022359828777758439"
+          ]
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_srn5xpsrn5xpsrn5.jpg"
+    }
+  ],
+  "geminiConversation": "https://gemini.google.com/app/62ff9705a03987e5",
+  "instagramPostCount": {
+    "before": 64,
+    "after": 69
+  },
+  "highlightUrls": {
+    "Sleep": "https://instagram.com/stories/highlights/18641512975013076/",
+    "Longevity": "https://instagram.com/stories/highlights/18076840808743676/",
+    "Metabolic": "https://instagram.com/stories/highlights/18183830125429638/"
+  },
+  "highlightBaselineCounts": {
+    "Sleep": 4,
+    "Longevity": 5,
+    "Metabolic": 12
+  },
+  "storyBaselineIds": [
+    "4020058964766588230",
+    "4020059020047483496",
+    "4020059084606225796",
+    "4020059150792383054",
+    "4021554605867369758",
+    "4021552641759806003",
+    "4021552563770393554",
+    "4021550703621510366",
+    "4021550642216940166",
+    "4021550590945738349",
+    "4021550523744614006",
+    "4021550465636717744",
+    "4020823494152982981",
+    "4020822590549182604",
+    "4020822494306685174",
+    "4020821280609402651",
+    "4019410729748183173",
+    "4019410858941120761",
+    "4019410989711101729",
+    "4020054205111758806",
+    "4020057009960781011",
+    "4020057155201202199",
+    "4020057291876784279",
+    "4020057437679135671",
+    "4020057583498313660",
+    "4020057710359279817",
+    "4020057836842677380",
+    "4020057958779486623",
+    "4020058093836079888",
+    "4020058214363591877",
+    "4022356670910811392",
+    "4022356610101770247",
+    "4022358529247643129",
+    "4022358468010792665",
+    "4022359828777758439"
+  ],
+  "storyArchiveVerifiedOn": "2026-11-03",
+  "storyGroups": [
+    {
+      "name": "Sleep",
+      "indices": [
+        0,
+        1
+      ],
+      "postIds": [
+        "elixolve-sleep-strips",
+        "gluconite"
+      ],
+      "oldCount": 4,
+      "expectedCount": 6,
+      "status": "verified_in_highlight",
+      "submittedAt": "2026-11-03T16:11:32.972Z",
+      "storyIds": [
+        "4022356670910811392",
+        "4022356610101770247"
+      ],
+      "savedAt": "2026-11-03T16:13:56.052Z",
+      "verifiedCount": 6
+    },
+    {
+      "name": "Longevity",
+      "indices": [
+        2,
+        3
+      ],
+      "postIds": [
+        "selfplus-age-plus",
+        "circo2"
+      ],
+      "oldCount": 5,
+      "expectedCount": 7,
+      "status": "verified_in_highlight",
+      "submittedAt": "2026-11-03T16:15:13.359Z",
+      "storyIds": [
+        "4022358529247643129",
+        "4022358468010792665"
+      ],
+      "savedAt": "2026-11-03T16:17:15.830Z",
+      "verifiedCount": 7
+    },
+    {
+      "name": "Metabolic",
+      "indices": [
+        4
+      ],
+      "postIds": [
+        "insulin-herb-berberine"
+      ],
+      "oldCount": 12,
+      "expectedCount": 13,
+      "status": "verified_in_highlight",
+      "submittedAt": "2026-11-03T16:17:56.503Z",
+      "storyIds": [
+        "4022359828777758439"
+      ],
+      "savedAt": "2026-11-03T16:19:26.992Z",
+      "verifiedCount": 13
+    }
+  ],
+  "completedAt": "2026-11-03T16:20:45.913Z"
+}

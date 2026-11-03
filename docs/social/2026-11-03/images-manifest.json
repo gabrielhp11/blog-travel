@@ -1,0 +1,72 @@
+[
+  {
+    "id": "elixolve-sleep-strips",
+    "file": "images/01-elixolve-sleep-strips-gemini.jpg",
+    "generator": "Gemini web",
+    "conversation": "https://gemini.google.com/app/62ff9705a03987e5",
+    "originalDownload": "Gemini_Generated_Image_zcfxbjzcfxbjzcfx.jpg",
+    "width": 928,
+    "height": 1152,
+    "format": "jpeg",
+    "bytes": 631841,
+    "sha256": "ac558dc2bca8ce4ea07549af9bf2027e098ec34c21fdec2b9775f06e68d030df",
+    "reviewed": true,
+    "notes": "Original Gemini artwork, visually reviewed. No synthetic packaging or local cropping. Native original download."
+  },
+  {
+    "id": "gluconite",
+    "file": "images/02-gluconite-gemini.jpg",
+    "generator": "Gemini web",
+    "conversation": "https://gemini.google.com/app/62ff9705a03987e5",
+    "originalDownload": "Gemini_Generated_Image_lxg3f5lxg3f5lxg3.jpg",
+    "width": 928,
+    "height": 1152,
+    "format": "jpeg",
+    "bytes": 477929,
+    "sha256": "d46b5003237010252d3aef17299d4aab2001eefe514050165545b1cfa05faf82",
+    "reviewed": true,
+    "notes": "Original Gemini artwork, visually reviewed. No synthetic packaging or local cropping. Native original download."
+  },
+  {
+    "id": "selfplus-age-plus",
+    "file": "images/03-selfplus-age-plus-gemini.jpg",
+    "generator": "Gemini web",
+    "conversation": "https://gemini.google.com/app/62ff9705a03987e5",
+    "originalDownload": "Gemini_Generated_Image_j50o36j50o36j50o.jpg",
+    "width": 928,
+    "height": 1152,
+    "format": "jpeg",
+    "bytes": 489856,
+    "sha256": "cf9d4e9b0c39457b0ea52d3e7dc45fe02dba559cd623375b61bb563b8abfb738",
+    "reviewed": true,
+    "notes": "Original Gemini artwork, visually reviewed. No synthetic packaging or local cropping. Native original download."
+  },
+  {
+    "id": "circo2",
+    "file": "images/04-circo2-gemini.jpg",
+    "generator": "Gemini web",
+    "conversation": "https://gemini.google.com/app/62ff9705a03987e5",
+    "originalDownload": "Gemini_Generated_Image_13jqjo13jqjo13jq.jpg",
+    "width": 928,
+    "height": 1152,
+    "format": "jpeg",
+    "bytes": 585304,
+    "sha256": "b26aa37865606b5e5d1f3419c4d80a5bad4ce756e9a5bb7002a252034c1509ea",
+    "reviewed": true,
+    "notes": "Original Gemini artwork, visually reviewed. No synthetic packaging or local cropping. Native original download."
+  },
+  {
+    "id": "insulin-herb-berberine",
+    "file": "images/05-insulin-herb-berberine-gemini.jpg",
+    "generator": "Gemini web",
+    "conversation": "https://gemini.google.com/app/62ff9705a03987e5",
+    "originalDownload": "Gemini_Generated_Image_srn5xpsrn5xpsrn5.jpg",
+    "width": 928,
+    "height": 1152,
+    "format": "jpeg",
+    "bytes": 552079,
+    "sha256": "da046718d1ee32862ca7ca7b38d145e4af82abef55455b376431f603ef67a712",
+    "reviewed": true,
+    "notes": "Original Gemini artwork, visually reviewed. No synthetic packaging or local cropping. Native original download."
+  }
+]

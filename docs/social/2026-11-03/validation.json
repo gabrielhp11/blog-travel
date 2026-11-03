@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-03",
+  "status": "passed",
+  "posts": 5,
+  "publicNetworkReceipts": 15,
+  "stories": 5,
+  "generatedImages": 5,
+  "decodedImageDimensions": "928x1152",
+  "sha256Recorded": true,
+  "instagramPostCount": {
+    "before": 64,
+    "after": 69
+  },
+  "highlights": [
+    {
+      "name": "Sleep",
+      "added": 2,
+      "total": 6,
+      "status": "verified_in_highlight"
+    },
+    {
+      "name": "Longevity",
+      "added": 2,
+      "total": 7,
+      "status": "verified_in_highlight"
+    },
+    {
+      "name": "Metabolic",
+      "added": 1,
+      "total": 13,
+      "status": "verified_in_highlight"
+    }
+  ],
+  "checks": {
+    "captionLimits": true,
+    "sourceGuidePaths": true,
+    "trackingPerNetwork": true,
+    "publicPermalinks": true,
+    "persistedHighlightSelections": true,
+    "projectCheck": "node scripts/run-task.js check",
+    "projectCheckPassed": true,
+    "infrastructureTests": 13,
+    "editorialTests": 3
+  }
+}

@@ -1,6 +1,6 @@
 # Fluxo de redes sociais da PokiSky
 
-Atualizado em 02/11/2026 a pedido do usuário para servir de memória das próximas campanhas.
+Atualizado em 03/11/2026 a pedido do usuário para servir de memória das próximas campanhas.
 
 ## Preferências e referências
 
@@ -113,3 +113,7 @@ Controle em `2026-11-02/posts.json` e auditoria em `2026-11-02/coverage.json`. O
 Publicar os sete primeiros posts individuais antes do oitavo, que inaugura outro enfoque de Alpha Dualis (conteúdo do pacote, valor integral e devolução). Após confirmar essa cobertura, as próximas campanhas podem reutilizar os itens com novos assuntos. Conferir novos guias adicionados ao catálogo antes de iniciar outra rodada. Manter os registros de publicação por rede e não tratar itens somente preparados como cobertos.
 
 Concluída em 02/11: oito posts publicados e verificados nas três redes, oito Stories salvos e três destaques com contagens persistidas: Mens Health 7, Metabolic 12 e Brain 6. Instagram com 64 posts; destaques acumulam 64 artes. Auditoria confirma 44/44 suplementos individuais públicos cobertos. O oitavo post de Alpha Dualis iniciou a nova rodada depois dos sete primeiros envios. Consultar `2026-11-02/DELIVERY.md` e `posts.json` antes de retomar; não reenviar estes posts.
+
+## Campanha de 03/11/2026 — concluída
+
+Cinco novos enfoques em `2026-11-03/posts.json`: Elixolve Sleep Strips, Gluconite, SelfPlus AGE+, CircO2 e Insulin Herb Berberine. Após as interrupções iniciais de validação da aba, a conexão de navegação foi restabelecida e o trabalho prosseguiu pelo fluxo normal. As cinco artes foram geradas no Gemini, baixadas e revisadas; os cinco posts estão publicados e verificados em cada rede. Cinco Stories salvos e três destaques reabertos com contagens persistidas: Sleep 6, Longevity 7 e Metabolic 13. Instagram com 69 posts e destaques acumulando 69 artes. Consultar `2026-11-03/DELIVERY.md` e `posts.json`; não reenviar estas publicações.
