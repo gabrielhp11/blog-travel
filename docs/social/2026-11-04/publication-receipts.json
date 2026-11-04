@@ -1,0 +1,183 @@
+{
+  "campaign": "supplement_rotation_20261104",
+  "posts": [
+    {
+      "id": "brainamp",
+      "round": "new_angle_after_first_round",
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964187313/"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0YQqPQS5HrdesYPvRoJ2gBkRWwjHqyhXxUQPw7prihfz7gMJ265pEJszYin1au4uFl&id=61595970654481",
+          "metaId": "122103894933532355"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfUspuPDjGw/"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://www.instagram.com/stories/highlights/18135495877669528/",
+          "highlight": "Brain",
+          "storyId": "4023039537240154652"
+        }
+      }
+    },
+    {
+      "id": "advanced-prostate-formula",
+      "round": "new_angle_after_first_round",
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964187366/"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid02Ps26Zs3DnbrqKyn9nMKJfry759odJJwH3V6fGVR8trcBpdRxvexPGHgnfV1NqXUCl&id=61595970654481",
+          "metaId": "122103895827532355"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfUsw4uDoaG/"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://www.instagram.com/stories/highlights/17902761246386168/",
+          "highlight": "Mens Health",
+          "storyId": null
+        }
+      }
+    },
+    {
+      "id": "prime-perform-pro",
+      "round": "new_angle_after_first_round",
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964187380/"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid07mvtnj854xBfFyRSWbWsCB6Qhp3AHkksgu7zJnLgZxEGhzfb3kZffoemHicRP3QEl&id=61595970654481",
+          "metaId": "122103896397532355"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfUs4sIDkMW/"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://www.instagram.com/stories/highlights/17902761246386168/",
+          "highlight": "Mens Health",
+          "storyId": null
+        }
+      }
+    },
+    {
+      "id": "ketosana",
+      "round": "new_angle_after_first_round",
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964187385/"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0cGc7LTtQFBwRPmkM1xwg6GaFvqXfexzmhyGLLa6tFdfFgq8sGVMim6FDj5s7EVVnl&id=61595970654481",
+          "metaId": "122103896889532355"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfUs8ikDnsy/"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://www.instagram.com/stories/highlights/18183830125429638/",
+          "highlight": "Metabolic",
+          "storyId": "4023041144706902179"
+        }
+      }
+    },
+    {
+      "id": "spartamax",
+      "round": "new_angle_after_first_round",
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964187397/"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid02yNrH79ZoqZ2vJAvQgYagA8RcnW9AT7LNvdjDSJAfzPDpk6E9B2sewjCmQxmkpH5rl&id=61595970654481",
+          "metaId": "122103897777532355"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfUtBX0juPK/"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://www.instagram.com/stories/highlights/17902761246386168/",
+          "highlight": "Mens Health",
+          "storyId": null
+        }
+      }
+    }
+  ],
+  "storyGroups": [
+    {
+      "name": "Brain",
+      "postIds": [
+        "brainamp"
+      ],
+      "storyIds": [
+        "4023039537240154652"
+      ],
+      "previousCount": 6,
+      "verifiedCount": 7,
+      "status": "verified_in_highlight",
+      "expectedCount": 7,
+      "url": "https://www.instagram.com/stories/highlights/18135495877669528/"
+    },
+    {
+      "name": "Mens Health",
+      "postIds": [
+        "advanced-prostate-formula",
+        "prime-perform-pro",
+        "spartamax"
+      ],
+      "storyIds": [
+        "4023040652925145321",
+        "4023040590312576276",
+        "4023040525753885297"
+      ],
+      "previousCount": 7,
+      "verifiedCount": 10,
+      "status": "verified_in_highlight",
+      "expectedCount": 10,
+      "url": "https://www.instagram.com/stories/highlights/17902761246386168/"
+    },
+    {
+      "name": "Metabolic",
+      "postIds": [
+        "ketosana"
+      ],
+      "storyIds": [
+        "4023041144706902179"
+      ],
+      "previousCount": 13,
+      "verifiedCount": 14,
+      "status": "verified_in_highlight",
+      "expectedCount": 14,
+      "url": "https://www.instagram.com/stories/highlights/18183830125429638/"
+    }
+  ],
+  "highlightUrls": {
+    "Brain": "https://www.instagram.com/stories/highlights/18135495877669528/",
+    "Mens Health": "https://www.instagram.com/stories/highlights/17902761246386168/",
+    "Metabolic": "https://www.instagram.com/stories/highlights/18183830125429638/"
+  }
+}

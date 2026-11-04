@@ -1,0 +1,72 @@
+[
+  {
+    "id": "brainamp",
+    "file": "images/01-brainamp-gemini.jpg",
+    "generator": "Gemini web",
+    "conversation": "https://gemini.google.com/app/600cc904e5e98f87",
+    "originalDownload": "Gemini_Generated_Image_8quug98quug98quu.jpg",
+    "width": 928,
+    "height": 1152,
+    "format": "jpeg",
+    "bytes": 513445,
+    "sha256": "6080c1de3d983fb0875f7da3e05636f0ac11076c047ce44a1d406d31f9a612ab",
+    "reviewed": true,
+    "notes": "Original Gemini artwork, visually reviewed. No synthetic packaging or local cropping. Native original download."
+  },
+  {
+    "id": "advanced-prostate-formula",
+    "file": "images/02-advanced-prostate-formula-gemini.jpg",
+    "generator": "Gemini web",
+    "conversation": "https://gemini.google.com/app/600cc904e5e98f87",
+    "originalDownload": "Gemini_Generated_Image_46qra046qra046qr.jpg",
+    "width": 928,
+    "height": 1152,
+    "format": "jpeg",
+    "bytes": 531192,
+    "sha256": "e42c98cc403e67679a3939dc31a44f90f0c18433de3dea835a96d7de5fa5ee9a",
+    "reviewed": true,
+    "notes": "Original Gemini artwork, visually reviewed. No synthetic packaging or local cropping. Native original download."
+  },
+  {
+    "id": "prime-perform-pro",
+    "file": "images/03-prime-perform-pro-gemini.jpg",
+    "generator": "Gemini web",
+    "conversation": "https://gemini.google.com/app/600cc904e5e98f87",
+    "originalDownload": "Gemini_Generated_Image_o81pjvo81pjvo81p.jpg",
+    "width": 928,
+    "height": 1152,
+    "format": "jpeg",
+    "bytes": 745478,
+    "sha256": "7f6e318e5acaa987e2774e743cc43a3bab444b716eb8f69366156f9f0828f184",
+    "reviewed": true,
+    "notes": "Original Gemini artwork, visually reviewed. No synthetic packaging or local cropping. Native original download."
+  },
+  {
+    "id": "ketosana",
+    "file": "images/04-ketosana-gemini.jpg",
+    "generator": "Gemini web",
+    "conversation": "https://gemini.google.com/app/600cc904e5e98f87",
+    "originalDownload": "Gemini_Generated_Image_nmmubinmmubinmmu.jpg",
+    "width": 928,
+    "height": 1152,
+    "format": "jpeg",
+    "bytes": 528174,
+    "sha256": "57555f5635e786c73c898d24e9db2538eb6cf3c87769ba588146fd75041cd71e",
+    "reviewed": true,
+    "notes": "Original Gemini artwork, visually reviewed. No synthetic packaging or local cropping. Native original download."
+  },
+  {
+    "id": "spartamax",
+    "file": "images/05-spartamax-gemini.jpg",
+    "generator": "Gemini web",
+    "conversation": "https://gemini.google.com/app/600cc904e5e98f87",
+    "originalDownload": "Gemini_Generated_Image_78uwnk78uwnk78uw.jpg",
+    "width": 928,
+    "height": 1152,
+    "format": "jpeg",
+    "bytes": 591500,
+    "sha256": "49c07a5687e8a1dff86633ddd04d2ae27f8cb596cdbf82d1d75cade6f981af1e",
+    "reviewed": true,
+    "notes": "Original Gemini artwork, visually reviewed. No synthetic packaging or local cropping. Native original download."
+  }
+]

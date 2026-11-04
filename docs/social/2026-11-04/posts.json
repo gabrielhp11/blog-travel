@@ -1,0 +1,374 @@
+{
+  "campaign": "supplement_rotation_20261104",
+  "brand": "PokiSky",
+  "createdDate": "2026-11-04",
+  "language": "en",
+  "status": "complete",
+  "rotationRule": "Continue fresh angles after first individual coverage of all 44 public supplements. Check for newly added public supplement guides before repeating; preserve older campaigns.",
+  "notes": "Five fresh angles for existing public supplement guides. Source review dates retained. Instagram has 74 feed posts. Story IDs for Mens Health are recorded by group.",
+  "storyPlan": [
+    {
+      "name": "Brain",
+      "postIds": [
+        "brainamp"
+      ],
+      "storyIds": [
+        "4023039537240154652"
+      ],
+      "previousCount": 6,
+      "verifiedCount": 7
+    },
+    {
+      "name": "Mens Health",
+      "postIds": [
+        "advanced-prostate-formula",
+        "prime-perform-pro",
+        "spartamax"
+      ],
+      "storyIds": [
+        "4023040652925145321",
+        "4023040590312576276",
+        "4023040525753885297"
+      ],
+      "previousCount": 7,
+      "verifiedCount": 10
+    },
+    {
+      "name": "Metabolic",
+      "postIds": [
+        "ketosana"
+      ],
+      "storyIds": [
+        "4023041144706902179"
+      ],
+      "previousCount": 13,
+      "verifiedCount": 14
+    }
+  ],
+  "posts": [
+    {
+      "id": "brainamp",
+      "name": "BrainAMP",
+      "sourceFile": "topics/wellness/brain-health/brainamp.html",
+      "sourceReviewDate": "2026-10-07",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "new_angle_after_first_round",
+      "socialLanguage": "en",
+      "headline": "CHECK THE ORDER QUANTITY",
+      "checks": [
+        "Bottle count",
+        "Delivery charges",
+        "Currency conversion"
+      ],
+      "highlight": "Brain",
+      "status": "complete",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "expectedImageFile": "images/01-brainamp-gemini.jpg",
+      "imageFile": "images/01-brainamp-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial premium vertical 4:5, com tipografia muito legível para celular. Ilustração conceitual: geometria de cartões lisos empilhados em azul tinta e amarelo mostarda. Com margens de segurança largas, escreva exatamente, em blocos separados: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “BrainAMP”, “CHECK THE ORDER QUANTITY”, “Bottle count”, “Delivery charges”, “Currency conversion”, “Read the guide” e, em faixa de rodapé bem legível, “AI editorial illustration · Affiliate guide”. Sem outros textos, frascos, embalagens, rótulos simulados, logotipos oficiais, pessoas, anatomia, resultados, preços ou promessas de saúde. Gere agora uma única imagem.",
+      "pinterestTitle": "BrainAMP: check the order quantity",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The BrainAMP guide records that its purchase button opens a three-bottle order form. Check the quantity selected, delivery charges and any currency conversion costs before comparing the full total. Use the seller page to look for other quantities. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE ORDER QUANTITY\n\nThe BrainAMP guide records that its purchase button opens a three-bottle order form. Check the quantity selected, delivery charges and any currency conversion costs before comparing the full total. Use the seller page to look for other quantities.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=brainamp\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE ORDER QUANTITY\n\nThe BrainAMP guide records that its purchase button opens a three-bottle order form. Check the quantity selected, delivery charges and any currency conversion costs before comparing the full total. Use the seller page to look for other quantities.\n\nSave this checklist. Find “BrainAMP” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=brainamp\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for BrainAMP. Headline: CHECK THE ORDER QUANTITY. Checklist: Bottle count; Delivery charges; Currency conversion. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=brainamp",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=brainamp",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/brainamp?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=brainamp"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964187313/"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0YQqPQS5HrdesYPvRoJ2gBkRWwjHqyhXxUQPw7prihfz7gMJ265pEJszYin1au4uFl&id=61595970654481",
+          "metaId": "122103894933532355"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfUspuPDjGw/"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://www.instagram.com/stories/highlights/18135495877669528/",
+          "highlight": "Brain",
+          "storyId": "4023039537240154652"
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_8quug98quug98quu.jpg"
+    },
+    {
+      "id": "advanced-prostate-formula",
+      "name": "Advanced Prostate Formula",
+      "sourceFile": "topics/wellness/mens-health/advanced-prostate-formula.html",
+      "sourceReviewDate": "2026-10-08",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "new_angle_after_first_round",
+      "socialLanguage": "en",
+      "headline": "SERVING AND DIRECTIONS",
+      "checks": [
+        "Serving line",
+        "Suggested use",
+        "Current package"
+      ],
+      "highlight": "Mens Health",
+      "status": "complete",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "expectedImageFile": "images/02-advanced-prostate-formula-gemini.jpg",
+      "imageFile": "images/02-advanced-prostate-formula-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial premium vertical 4:5, com tipografia muito legível para celular. Ilustração conceitual: dois cartões pautados abstratos em índigo e branco gelo. Com margens de segurança largas, escreva exatamente, em blocos separados: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Advanced Prostate Formula”, “SERVING AND DIRECTIONS”, “Serving line”, “Suggested use”, “Current package”, “Read the guide” e, em faixa de rodapé bem legível, “AI editorial illustration · Affiliate guide”. Sem outros textos, frascos, embalagens, rótulos simulados, logotipos oficiais, pessoas, anatomia, resultados, preços ou promessas de saúde. Gere agora uma única imagem.",
+      "pinterestTitle": "Advanced Prostate Formula: serving and directions",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The label reviewed in our guide lists a serving size separately from its suggested-use directions. Read both lines on the current package so you can tell what the ingredient table measures. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nSERVING AND DIRECTIONS\n\nThe label reviewed in our guide lists a serving size separately from its suggested-use directions. Read both lines on the current package so you can tell what the ingredient table measures.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=advanced-prostate-formula\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nSERVING AND DIRECTIONS\n\nThe label reviewed in our guide lists a serving size separately from its suggested-use directions. Read both lines on the current package so you can tell what the ingredient table measures.\n\nSave this checklist. Find “Advanced Prostate Formula” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=advanced-prostate-formula\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Advanced Prostate Formula. Headline: SERVING AND DIRECTIONS. Checklist: Serving line; Suggested use; Current package. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=advanced-prostate-formula",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=advanced-prostate-formula",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/advanced-prostate-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=advanced-prostate-formula"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964187366/"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid02Ps26Zs3DnbrqKyn9nMKJfry759odJJwH3V6fGVR8trcBpdRxvexPGHgnfV1NqXUCl&id=61595970654481",
+          "metaId": "122103895827532355"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfUsw4uDoaG/"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://www.instagram.com/stories/highlights/17902761246386168/",
+          "highlight": "Mens Health",
+          "storyId": null
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_46qra046qra046qr.jpg"
+    },
+    {
+      "id": "prime-perform-pro",
+      "name": "Prime Perform Pro",
+      "sourceFile": "topics/wellness/mens-health/prime-perform-pro.html",
+      "sourceReviewDate": "2026-10-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "new_angle_after_first_round",
+      "socialLanguage": "en",
+      "headline": "READ THE REFUND TERMS",
+      "checks": [
+        "Deadline",
+        "Return steps",
+        "Written terms"
+      ],
+      "highlight": "Mens Health",
+      "status": "complete",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "expectedImageFile": "images/03-prime-perform-pro-gemini.jpg",
+      "imageFile": "images/03-prime-perform-pro-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial premium vertical 4:5, com tipografia muito legível para celular. Ilustração conceitual: envelope aberto de papel creme e uma folha dobrada sobre fundo terracota. Com margens de segurança largas, escreva exatamente, em blocos separados: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Prime Perform Pro”, “READ THE REFUND TERMS”, “Deadline”, “Return steps”, “Written terms”, “Read the guide” e, em faixa de rodapé bem legível, “AI editorial illustration · Affiliate guide”. Sem outros textos, frascos, embalagens, rótulos simulados, logotipos oficiais, pessoas, anatomia, resultados, preços ou promessas de saúde. Gere agora uma única imagem.",
+      "pinterestTitle": "Prime Perform Pro: read the refund terms",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The reviewed Prime Perform Pro page advertised a refund window. Check what starts the deadline, how to request a return and which conditions apply to your order. Keep a copy of the written terms. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREAD THE REFUND TERMS\n\nThe reviewed Prime Perform Pro page advertised a refund window. Check what starts the deadline, how to request a return and which conditions apply to your order. Keep a copy of the written terms.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=prime-perform-pro\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREAD THE REFUND TERMS\n\nThe reviewed Prime Perform Pro page advertised a refund window. Check what starts the deadline, how to request a return and which conditions apply to your order. Keep a copy of the written terms.\n\nSave this checklist. Find “Prime Perform Pro” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=prime-perform-pro\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Prime Perform Pro. Headline: READ THE REFUND TERMS. Checklist: Deadline; Return steps; Written terms. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=prime-perform-pro",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=prime-perform-pro",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/prime-perform-pro?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=prime-perform-pro"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964187380/"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid07mvtnj854xBfFyRSWbWsCB6Qhp3AHkksgu7zJnLgZxEGhzfb3kZffoemHicRP3QEl&id=61595970654481",
+          "metaId": "122103896397532355"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfUs4sIDkMW/"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://www.instagram.com/stories/highlights/17902761246386168/",
+          "highlight": "Mens Health",
+          "storyId": null
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_o81pjvo81pjvo81p.jpg"
+    },
+    {
+      "id": "ketosana",
+      "name": "KetoSana",
+      "sourceFile": "topics/wellness/gut-health/ketosana.html",
+      "sourceReviewDate": "2026-10-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "new_angle_after_first_round",
+      "socialLanguage": "en",
+      "headline": "COMPARE THE FULL ORDER",
+      "checks": [
+        "Selected pack",
+        "Delivery charge",
+        "Checkout total"
+      ],
+      "highlight": "Metabolic",
+      "status": "complete",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "expectedImageFile": "images/04-ketosana-gemini.jpg",
+      "imageFile": "images/04-ketosana-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial premium vertical 4:5, com tipografia muito legível para celular. Ilustração conceitual: balança geométrica de papel e dois cartões em esmeralda e areia. Com margens de segurança largas, escreva exatamente, em blocos separados: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “KetoSana”, “COMPARE THE FULL ORDER”, “Selected pack”, “Delivery charge”, “Checkout total”, “Read the guide” e, em faixa de rodapé bem legível, “AI editorial illustration · Affiliate guide”. Sem outros textos, frascos, embalagens, rótulos simulados, logotipos oficiais, pessoas, anatomia, resultados, preços ou promessas de saúde. Gere agora uma única imagem.",
+      "pinterestTitle": "KetoSana: compare the full order",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. When comparing KetoSana offers, check the pack selected, delivery charge and currency. Use the full checkout total for your address when comparing the order options. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCOMPARE THE FULL ORDER\n\nWhen comparing KetoSana offers, check the pack selected, delivery charge and currency. Use the full checkout total for your address when comparing the order options.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=ketosana\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCOMPARE THE FULL ORDER\n\nWhen comparing KetoSana offers, check the pack selected, delivery charge and currency. Use the full checkout total for your address when comparing the order options.\n\nSave this checklist. Find “KetoSana” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=ketosana\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for KetoSana. Headline: COMPARE THE FULL ORDER. Checklist: Selected pack; Delivery charge; Checkout total. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=ketosana",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=ketosana",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/ketosana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=ketosana"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964187385/"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0cGc7LTtQFBwRPmkM1xwg6GaFvqXfexzmhyGLLa6tFdfFgq8sGVMim6FDj5s7EVVnl&id=61595970654481",
+          "metaId": "122103896889532355"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfUs8ikDnsy/"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://www.instagram.com/stories/highlights/18183830125429638/",
+          "highlight": "Metabolic",
+          "storyId": "4023041144706902179"
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_nmmubinmmubinmmu.jpg"
+    },
+    {
+      "id": "spartamax",
+      "name": "SpartaMax",
+      "sourceFile": "topics/wellness/mens-health/spartamax.html",
+      "sourceReviewDate": "2026-10-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "new_angle_after_first_round",
+      "socialLanguage": "en",
+      "headline": "CHECK WHAT THE GUMMY CONTAINS",
+      "checks": [
+        "Other ingredients",
+        "Sweeteners",
+        "Allergen statement"
+      ],
+      "highlight": "Mens Health",
+      "status": "complete",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "reviewed",
+      "expectedImageFile": "images/05-spartamax-gemini.jpg",
+      "imageFile": "images/05-spartamax-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial premium vertical 4:5, com tipografia muito legível para celular. Ilustração conceitual: lupa sobre cartões de cor coral e ameixa em composição editorial. Com margens de segurança largas, escreva exatamente, em blocos separados: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “SpartaMax”, “CHECK WHAT THE GUMMY CONTAINS”, “Other ingredients”, “Sweeteners”, “Allergen statement”, “Read the guide” e, em faixa de rodapé bem legível, “AI editorial illustration · Affiliate guide”. Sem outros textos, frascos, embalagens, rótulos simulados, logotipos oficiais, pessoas, anatomia, resultados, preços ou promessas de saúde. Gere agora uma única imagem.",
+      "pinterestTitle": "SpartaMax: check what the gummy contains",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The SpartaMax guide summarizes the ingredients named on the seller page. For a full comparison, ask for the current package and check other ingredients, sweeteners and any allergen statement. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK WHAT THE GUMMY CONTAINS\n\nThe SpartaMax guide summarizes the ingredients named on the seller page. For a full comparison, ask for the current package and check other ingredients, sweeteners and any allergen statement.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=spartamax\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK WHAT THE GUMMY CONTAINS\n\nThe SpartaMax guide summarizes the ingredients named on the seller page. For a full comparison, ask for the current package and check other ingredients, sweeteners and any allergen statement.\n\nSave this checklist. Find “SpartaMax” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=spartamax\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for SpartaMax. Headline: CHECK WHAT THE GUMMY CONTAINS. Checklist: Other ingredients; Sweeteners; Allergen statement. Read the guide. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=spartamax",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=spartamax",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/spartamax?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261104&utm_content=spartamax"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964187397/"
+        },
+        "facebook": {
+          "status": "verified_public",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid02yNrH79ZoqZ2vJAvQgYagA8RcnW9AT7LNvdjDSJAfzPDpk6E9B2sewjCmQxmkpH5rl&id=61595970654481",
+          "metaId": "122103897777532355"
+        },
+        "instagram": {
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfUtBX0juPK/"
+        },
+        "story": {
+          "status": "published_and_in_highlight",
+          "url": "https://www.instagram.com/stories/highlights/17902761246386168/",
+          "highlight": "Mens Health",
+          "storyId": null
+        }
+      },
+      "geminiDownload": "Gemini_Generated_Image_78uwnk78uwnk78uw.jpg"
+    }
+  ],
+  "geminiConversation": "https://gemini.google.com/app/600cc904e5e98f87",
+  "highlightUrls": {
+    "Brain": "https://www.instagram.com/stories/highlights/18135495877669528/",
+    "Mens Health": "https://www.instagram.com/stories/highlights/17902761246386168/",
+    "Metabolic": "https://www.instagram.com/stories/highlights/18183830125429638/"
+  },
+  "storyGroups": [
+    {
+      "name": "Brain",
+      "postIds": [
+        "brainamp"
+      ],
+      "storyIds": [
+        "4023039537240154652"
+      ],
+      "previousCount": 6,
+      "verifiedCount": 7,
+      "status": "verified_in_highlight",
+      "expectedCount": 7,
+      "url": "https://www.instagram.com/stories/highlights/18135495877669528/"
+    },
+    {
+      "name": "Mens Health",
+      "postIds": [
+        "advanced-prostate-formula",
+        "prime-perform-pro",
+        "spartamax"
+      ],
+      "storyIds": [
+        "4023040652925145321",
+        "4023040590312576276",
+        "4023040525753885297"
+      ],
+      "previousCount": 7,
+      "verifiedCount": 10,
+      "status": "verified_in_highlight",
+      "expectedCount": 10,
+      "url": "https://www.instagram.com/stories/highlights/17902761246386168/"
+    },
+    {
+      "name": "Metabolic",
+      "postIds": [
+        "ketosana"
+      ],
+      "storyIds": [
+        "4023041144706902179"
+      ],
+      "previousCount": 13,
+      "verifiedCount": 14,
+      "status": "verified_in_highlight",
+      "expectedCount": 14,
+      "url": "https://www.instagram.com/stories/highlights/18183830125429638/"
+    }
+  ]
+}

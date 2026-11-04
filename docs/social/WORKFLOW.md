@@ -117,3 +117,7 @@ Concluída em 02/11: oito posts publicados e verificados nas três redes, oito S
 ## Campanha de 03/11/2026 — concluída
 
 Cinco novos enfoques em `2026-11-03/posts.json`: Elixolve Sleep Strips, Gluconite, SelfPlus AGE+, CircO2 e Insulin Herb Berberine. Após as interrupções iniciais de validação da aba, a conexão de navegação foi restabelecida e o trabalho prosseguiu pelo fluxo normal. As cinco artes foram geradas no Gemini, baixadas e revisadas; os cinco posts estão publicados e verificados em cada rede. Cinco Stories salvos e três destaques reabertos com contagens persistidas: Sleep 6, Longevity 7 e Metabolic 13. Instagram com 69 posts e destaques acumulando 69 artes. Consultar `2026-11-03/DELIVERY.md` e `posts.json`; não reenviar estas publicações.
+
+## Campanha de 04/11/2026
+
+Cinco novos recortes em BrainAMP, Advanced Prostate Formula, Prime Perform Pro, KetoSana e SpartaMax. As cinco artes vieram do Gemini e os 15 links das redes estão em `2026-11-04/DELIVERY.md`. Os cinco Stories foram salvos e verificados em Brain (7), Mens Health (10) e Metabolic (14). Instagram com 74 posts. No editor de texto alternativo da Meta, o botão Aplicar fora da área visível respondeu à tecla Enter. Na edição de destaques, conferir a contagem antes de salvar e os IDs na seção de selecionados depois de reabrir.
