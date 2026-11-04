@@ -300,6 +300,64 @@ const blogArticles = [
   "publishedAt": "2026-11-01",
   "affiliateStatus": "Untracked official seller link. Marketplace verified 2026-10-31; no newly approved partnership claimed."
 },
+{
+  "id": "digistore-top-t",
+  "topic": "wellness",
+  "subtopic": "nutrition",
+  "locale": "en-US",
+  "market": "United States buying context; verify the final eligible address and full quote",
+  "category": "Supplement label and purchase checks",
+  "audience": "US adults comparing current supplement labels and purchase conditions",
+  "title": "Top T: Formula and Five-Bottle Checkout",
+  "summary": "Top T is an Enhanced Labs capsule supplement marketed for men’s vitality. Compare the manufacturer’s four-capsule serving and the five-bottle Digistore24 checkout before deciding.",
+  "highlights": [
+    "Four capsules per listed serving",
+    "Five bottles in the verified checkout",
+    "Check the order-specific refund terms"
+  ],
+  "service": "Dietary supplement",
+  "ctaText": "View the Digistore24 offer",
+  "reviewUrl": "topics/wellness/nutrition/top-t.html",
+  "bookingUrl": "https://www.digistore24.com/redir/619373/gabrielhenriquep123f97e/",
+  "imageUrl": "assets/images/sources/digistore-20261104/top-t-1.png",
+  "imageAlt": "Top T: supplier product artwork",
+  "imageType": "official",
+  "linkType": "affiliate",
+  "network": "Digistore24",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-11-04",
+  "affiliateStatus": "Digistore24 partnership accepted and tracked checkout verified 2026-11-04."
+},
+{
+  "id": "digistore-black-ox",
+  "topic": "wellness",
+  "subtopic": "nutrition",
+  "locale": "en-US",
+  "market": "United States buying context; verify the final eligible address and full quote",
+  "category": "Supplement label and purchase checks",
+  "audience": "US adults comparing current supplement labels and purchase conditions",
+  "title": "Black Ox: Serving Size, Formula and Checkout",
+  "summary": "Black Ox is an Enhanced Labs capsule supplement sold in the men’s fitness category. Compare the four-capsule label serving with the seller’s directions and confirm the formula in the Digistore24 order.",
+  "highlights": [
+    "Four capsules per listed serving",
+    "Manufacturer directions mention two servings a day",
+    "$68.39 initial checkout"
+  ],
+  "service": "Dietary supplement",
+  "ctaText": "View the Digistore24 offer",
+  "reviewUrl": "topics/wellness/nutrition/black-ox.html",
+  "bookingUrl": "https://www.digistore24.com/redir/502452/gabrielhenriquep123f97e/",
+  "imageUrl": "assets/images/sources/digistore-20261104/black-ox-1.png",
+  "imageAlt": "Black Ox: supplier product artwork",
+  "imageType": "official",
+  "linkType": "affiliate",
+  "network": "Digistore24",
+  "isDirectAffiliate": false,
+  "featured": false,
+  "publishedAt": "2026-11-04",
+  "affiliateStatus": "Digistore24 partnership accepted and tracked checkout verified 2026-11-04."
+},
 // digistore-20261031:end
 // supplement-comparisons:start
 {

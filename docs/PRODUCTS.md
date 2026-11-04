@@ -793,3 +793,9 @@ These compare existing registered guides; no new affiliation or product testing 
 - [SenFlo vs Integrative Digestive Formula: Different Digestive Proposals](/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula) · en-GB
 - [EZNaturals Moringa vs Pep Tonic: Capsule & Powder Comparison](/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic) · en-GB
 - [SelfPlus AGE+ vs Advanced Mitochondrial Formula: Label Scope](/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula) · en-GB
+
+### 4 November 2026 — Enhanced Labs, Digistore24
+
+- [Top T](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/top-t): tracked five-bottle checkout, manufacturer serving and blend disclosure.
+- [Black Ox](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/black-ox): tracked checkout, manufacturer serving and daily directions distinguished, formula count discrepancy noted.
+- See [account and source review](digistore-2026-11-04/DELIVERY.md) for approved and pending offers held from publication.

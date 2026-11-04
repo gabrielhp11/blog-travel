@@ -781,5 +781,59 @@
       ]
     ],
     "next": "Check the current formula, suitability and complete order commitment."
+  },
+  "topics/wellness/nutrition/top-t.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial comparison questions, not individual use or dosing recommendations.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Same version?",
+        "Match the manufacturer panel to the exact checkout item.",
+        "Pause if the seller cannot confirm the formula."
+      ],
+      [
+        "Right quantity?",
+        "Check the bottle count and the full order total.",
+        "Pause if checkout labels or charges are unclear."
+      ],
+      [
+        "Can I return it?",
+        "Read the order-specific policy and exclusions.",
+        "Pause if the return window or postage is unclear."
+      ]
+    ],
+    "next": "Check the current formula, suitability and complete order commitment."
+  },
+  "topics/wellness/nutrition/black-ox.html": {
+    "heading": "Three checks before you choose",
+    "intro": "Editorial comparison questions, not individual use or dosing recommendations.",
+    "columns": [
+      "Your question",
+      "What to compare",
+      "When to pause"
+    ],
+    "rows": [
+      [
+        "Same version?",
+        "Match the manufacturer panel to the exact checkout item.",
+        "Pause if the seller cannot confirm the formula."
+      ],
+      [
+        "Right quantity?",
+        "Check the bottle count and the full order total.",
+        "Pause if checkout labels or charges are unclear."
+      ],
+      [
+        "Can I return it?",
+        "Read the order-specific policy and exclusions.",
+        "Pause if the return window or postage is unclear."
+      ]
+    ],
+    "next": "Check the current formula, suitability and complete order commitment."
   }
 }
