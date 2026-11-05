@@ -1,0 +1,53 @@
+{
+  "status": "complete",
+  "generator": "Gemini web",
+  "conversation": "https://gemini.google.com/app/a119ff54a8e5910a",
+  "deliveredImages": [
+    {
+      "file": "images/01-top-t-gemini.jpg",
+      "width": 928,
+      "height": 1152,
+      "bytes": 568685,
+      "sha256": "cd91f082a5ecdf647584233138bc80c5134d7edb216d47f08d78833f600f6978",
+      "reviewed": true,
+      "provenance": "Native original-image download from Gemini; copied unchanged to campaign directory"
+    },
+    {
+      "file": "images/02-black-ox-gemini.jpg",
+      "width": 928,
+      "height": 1152,
+      "bytes": 616288,
+      "sha256": "812edaad368abba1da3c8d17c35a569cc202175226f3632d3394b8175c3ac4eb",
+      "reviewed": true,
+      "provenance": "Native original-image download from Gemini; copied unchanged to campaign directory"
+    },
+    {
+      "file": "images/03-pineal-guardian-gemini.jpg",
+      "width": 928,
+      "height": 1152,
+      "bytes": 716529,
+      "sha256": "2d0350d26e6d097d2bada6d7527ff94369b2c80740b4d192c98a5da0d7002f4a",
+      "reviewed": true,
+      "provenance": "Native original-image download from Gemini; copied unchanged to campaign directory"
+    },
+    {
+      "file": "images/04-pineal-xt-gemini.jpg",
+      "width": 928,
+      "height": 1152,
+      "bytes": 719051,
+      "sha256": "90ddcb753daf124b2180c51ab93742011e0a03a335cb63b807d8ca2c725ae3c3",
+      "reviewed": true,
+      "provenance": "Native original-image download from Gemini; copied unchanged to campaign directory"
+    },
+    {
+      "file": "images/05-claritox-pro-gemini.jpg",
+      "width": 928,
+      "height": 1152,
+      "bytes": 668964,
+      "sha256": "66685ae08ef32ff29b048587bf8f7680fa11d93298378a9e5db76cf303b280b1",
+      "reviewed": true,
+      "provenance": "Native original-image download from Gemini; copied unchanged to campaign directory"
+    }
+  ],
+  "note": "All five files visually checked. Text and disclosure preserved. Native output is 928 × 1152, approximately 4:5, without cropping."
+}

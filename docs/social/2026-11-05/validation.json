@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-05",
+  "copyChecks": "passed",
+  "artwork": "five_downloaded_reviewed",
+  "publication": "not_published",
+  "checks": [
+    {
+      "id": "top-t",
+      "sourceExists": true,
+      "sourceDatePreserved": true,
+      "platformTextLimits": true,
+      "utmUrls": true,
+      "artwork": "downloaded_reviewed",
+      "dimensions": [
+        928,
+        1152
+      ],
+      "sha256": "cd91f082a5ecdf647584233138bc80c5134d7edb216d47f08d78833f600f6978",
+      "publication": "not_published"
+    },
+    {
+      "id": "black-ox",
+      "sourceExists": true,
+      "sourceDatePreserved": true,
+      "platformTextLimits": true,
+      "utmUrls": true,
+      "artwork": "downloaded_reviewed",
+      "dimensions": [
+        928,
+        1152
+      ],
+      "sha256": "812edaad368abba1da3c8d17c35a569cc202175226f3632d3394b8175c3ac4eb",
+      "publication": "not_published"
+    },
+    {
+      "id": "pineal-guardian",
+      "sourceExists": true,
+      "sourceDatePreserved": true,
+      "platformTextLimits": true,
+      "utmUrls": true,
+      "artwork": "downloaded_reviewed",
+      "dimensions": [
+        928,
+        1152
+      ],
+      "sha256": "2d0350d26e6d097d2bada6d7527ff94369b2c80740b4d192c98a5da0d7002f4a",
+      "publication": "not_published"
+    },
+    {
+      "id": "pineal-xt",
+      "sourceExists": true,
+      "sourceDatePreserved": true,
+      "platformTextLimits": true,
+      "utmUrls": true,
+      "artwork": "downloaded_reviewed",
+      "dimensions": [
+        928,
+        1152
+      ],
+      "sha256": "90ddcb753daf124b2180c51ab93742011e0a03a335cb63b807d8ca2c725ae3c3",
+      "publication": "not_published"
+    },
+    {
+      "id": "claritox-pro",
+      "sourceExists": true,
+      "sourceDatePreserved": true,
+      "platformTextLimits": true,
+      "utmUrls": true,
+      "artwork": "downloaded_reviewed",
+      "dimensions": [
+        928,
+        1152
+      ],
+      "sha256": "66685ae08ef32ff29b048587bf8f7680fa11d93298378a9e5db76cf303b280b1",
+      "publication": "not_published"
+    }
+  ]
+}

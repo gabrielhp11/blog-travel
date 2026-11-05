@@ -1,0 +1,242 @@
+{
+  "campaign": "supplement_first_guides_20261105",
+  "brand": "PokiSky",
+  "createdDate": "2026-11-05",
+  "language": "en",
+  "status": "prepared",
+  "notes": "Five complete posts prepared with Gemini artwork, platform-specific English copy, UTM guide links and alt text. Creation-only request; publication remains not_published.",
+  "posts": [
+    {
+      "id": "top-t",
+      "name": "Top T",
+      "sourceFile": "topics/wellness/nutrition/top-t.html",
+      "sourceReviewDate": "2026-11-04",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "START WITH THE SERVING",
+      "checks": [
+        "Serving size",
+        "Full formula",
+        "Order version"
+      ],
+      "highlight": "Nutrition",
+      "status": "prepared",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/01-top-t-gemini.jpg",
+      "imageFile": "images/01-top-t-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial premium vertical 4:5 para Instagram, com tipografia legível no celular, margens amplas e acabamento de revista. Paleta azul-marinho e lima suave. Ilustração conceitual de quatro peças geométricas sobre uma ficha de papel. Escreva exatamente em blocos separados: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Top T”, “START WITH THE SERVING”, “Serving size”, “Full formula”, “Order version”, “Read the guide”, “AI editorial illustration · Affiliate guide”. Não use outros textos, frascos, embalagens, rótulos simulados, logotipos oficiais, pessoas, resultados, preços ou promessas de saúde. Gere agora uma única imagem.",
+      "pinterestTitle": "Top T: start with the serving",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Top T guide compares the manufacturer’s four-capsule serving with the version offered through Digistore24. Start with the serving line, then match the complete formula to the bottle being sold. A capsule count alone does not tell you the amount of each ingredient. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nSTART WITH THE SERVING\n\nThe Top T guide compares the manufacturer’s four-capsule serving with the version offered through Digistore24. Start with the serving line, then match the complete formula to the bottle being sold. A capsule count alone does not tell you the amount of each ingredient.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/top-t?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=top-t\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nSTART WITH THE SERVING\n\nThe Top T guide compares the manufacturer’s four-capsule serving with the version offered through Digistore24. Start with the serving line, then match the complete formula to the bottle being sold. A capsule count alone does not tell you the amount of each ingredient.\n\nSave this checklist. Find “Top T” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/top-t?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=top-t\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Top T. START WITH THE SERVING. Checklist: Serving size; Full formula; Order version. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/top-t?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=top-t",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/top-t?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=top-t",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/top-t?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=top-t"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "cd91f082a5ecdf647584233138bc80c5134d7edb216d47f08d78833f600f6978"
+    },
+    {
+      "id": "black-ox",
+      "name": "Black Ox",
+      "sourceFile": "topics/wellness/nutrition/black-ox.html",
+      "sourceReviewDate": "2026-11-04",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "MATCH THE CURRENT LABEL",
+      "checks": [
+        "Bottle label",
+        "Ingredient list",
+        "Exact version"
+      ],
+      "highlight": "Nutrition",
+      "status": "prepared",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/02-black-ox-gemini.jpg",
+      "imageFile": "images/02-black-ox-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial premium vertical 4:5 para Instagram, com tipografia legível no celular, margens amplas e acabamento de revista. Paleta carvão e cobre. Ilustração conceitual de duas fichas editoriais lado a lado sob uma lupa. Escreva exatamente em blocos separados: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Black Ox”, “MATCH THE CURRENT LABEL”, “Bottle label”, “Ingredient list”, “Exact version”, “Read the guide”, “AI editorial illustration · Affiliate guide”. Não use outros textos, frascos, embalagens, rótulos simulados, logotipos oficiais, pessoas, resultados, preços ou promessas de saúde. Gere agora uma única imagem.",
+      "pinterestTitle": "Black Ox: match the current label",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Black Ox manufacturer summary refers to 11 ingredients, while its written table lists 13 entries. Ask for the current bottle label and compare it with the actual order version before relying on either summary. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nMATCH THE CURRENT LABEL\n\nThe Black Ox manufacturer summary refers to 11 ingredients, while its written table lists 13 entries. Ask for the current bottle label and compare it with the actual order version before relying on either summary.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/black-ox?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=black-ox\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nMATCH THE CURRENT LABEL\n\nThe Black Ox manufacturer summary refers to 11 ingredients, while its written table lists 13 entries. Ask for the current bottle label and compare it with the actual order version before relying on either summary.\n\nSave this checklist. Find “Black Ox” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/black-ox?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=black-ox\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Black Ox. MATCH THE CURRENT LABEL. Checklist: Bottle label; Ingredient list; Exact version. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/black-ox?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=black-ox",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/black-ox?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=black-ox",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/black-ox?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=black-ox"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "812edaad368abba1da3c8d17c35a569cc202175226f3632d3394b8175c3ac4eb"
+    },
+    {
+      "id": "pineal-guardian",
+      "name": "Pineal Guardian X",
+      "sourceFile": "topics/wellness/brain-health/pineal-guardian.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "ONE BLEND, MANY INGREDIENTS",
+      "checks": [
+        "Blend total",
+        "Separate amounts",
+        "Current X version"
+      ],
+      "highlight": "Brain",
+      "status": "prepared",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/03-pineal-guardian-gemini.jpg",
+      "imageFile": "images/03-pineal-guardian-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial premium vertical 4:5 para Instagram, com tipografia legível no celular, margens amplas e acabamento de revista. Paleta petróleo e creme. Ilustração conceitual de mosaico de peças de papel formando um único círculo. Escreva exatamente em blocos separados: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Pineal Guardian X”, “ONE BLEND, MANY INGREDIENTS”, “Blend total”, “Separate amounts”, “Current X version”, “Read the guide”, “AI editorial illustration · Affiliate guide”. Não use outros textos, frascos, embalagens, rótulos simulados, logotipos oficiais, pessoas, resultados, preços ou promessas de saúde. Gere agora uma única imagem.",
+      "pinterestTitle": "Pineal Guardian X: one blend, many ingredients",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Pineal Guardian X guide records a proprietary blend total. That total is not the quantity of each botanical: individual amounts are not disclosed. Match the X version and request the complete current label before comparing formulas. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nONE BLEND, MANY INGREDIENTS\n\nThe Pineal Guardian X guide records a proprietary blend total. That total is not the quantity of each botanical: individual amounts are not disclosed. Match the X version and request the complete current label before comparing formulas.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/pineal-guardian?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=pineal-guardian\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nONE BLEND, MANY INGREDIENTS\n\nThe Pineal Guardian X guide records a proprietary blend total. That total is not the quantity of each botanical: individual amounts are not disclosed. Match the X version and request the complete current label before comparing formulas.\n\nSave this checklist. Find “Pineal Guardian X” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/pineal-guardian?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=pineal-guardian\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Pineal Guardian X. ONE BLEND, MANY INGREDIENTS. Checklist: Blend total; Separate amounts; Current X version. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/pineal-guardian?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=pineal-guardian",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/pineal-guardian?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=pineal-guardian",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/pineal-guardian?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=pineal-guardian"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "2d0350d26e6d097d2bada6d7527ff94369b2c80740b4d192c98a5da0d7002f4a"
+    },
+    {
+      "id": "pineal-xt",
+      "name": "Pineal XT Gold",
+      "sourceFile": "topics/wellness/nutrition/pineal-xt.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "GOLD IS A VERSION CHECK",
+      "checks": [
+        "Gold label",
+        "Full panel",
+        "Order match"
+      ],
+      "highlight": "Nutrition",
+      "status": "prepared",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/04-pineal-xt-gemini.jpg",
+      "imageFile": "images/04-pineal-xt-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial premium vertical 4:5 para Instagram, com tipografia legível no celular, margens amplas e acabamento de revista. Paleta ocre e marfim. Ilustração conceitual de cartão dourado em relevo e duas abas de arquivo. Escreva exatamente em blocos separados: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Pineal XT Gold”, “GOLD IS A VERSION CHECK”, “Gold label”, “Full panel”, “Order match”, “Read the guide”, “AI editorial illustration · Affiliate guide”. Não use outros textos, frascos, embalagens, rótulos simulados, logotipos oficiais, pessoas, resultados, preços ou promessas de saúde. Gere agora uma única imagem.",
+      "pinterestTitle": "Pineal XT Gold: gold is a version check",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Pineal XT Gold guide covers the Gold formula. Compare the name and complete panel on the current bottle with your order; an older Pineal XT label may describe a different version. Read the guide’s label details and unresolved shipping wording before deciding. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nGOLD IS A VERSION CHECK\n\nThe Pineal XT Gold guide covers the Gold formula. Compare the name and complete panel on the current bottle with your order; an older Pineal XT label may describe a different version. Read the guide’s label details and unresolved shipping wording before deciding.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-xt?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=pineal-xt\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nGOLD IS A VERSION CHECK\n\nThe Pineal XT Gold guide covers the Gold formula. Compare the name and complete panel on the current bottle with your order; an older Pineal XT label may describe a different version. Read the guide’s label details and unresolved shipping wording before deciding.\n\nSave this checklist. Find “Pineal XT Gold” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-xt?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=pineal-xt\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Pineal XT Gold. GOLD IS A VERSION CHECK. Checklist: Gold label; Full panel; Order match. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-xt?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=pineal-xt",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-xt?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=pineal-xt",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-xt?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=pineal-xt"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "90ddcb753daf124b2180c51ab93742011e0a03a335cb63b807d8ca2c725ae3c3"
+    },
+    {
+      "id": "claritox-pro",
+      "name": "Claritox Pro",
+      "sourceFile": "topics/wellness/brain-health/claritox-pro.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "READ THE RETURN CLOCK",
+      "checks": [
+        "Start date",
+        "Return deadline",
+        "Postage terms"
+      ],
+      "highlight": "Brain",
+      "status": "prepared",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/05-claritox-pro-gemini.jpg",
+      "imageFile": "images/05-claritox-pro-gemini.jpg",
+      "geminiPrompt": "Crie UMA arte editorial premium vertical 4:5 para Instagram, com tipografia legível no celular, margens amplas e acabamento de revista. Paleta verde-floresta e rosa-claro. Ilustração conceitual de calendário abstrato sem números ao lado de um envelope. Escreva exatamente em blocos separados: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Claritox Pro”, “READ THE RETURN CLOCK”, “Start date”, “Return deadline”, “Postage terms”, “Read the guide”, “AI editorial illustration · Affiliate guide”. Não use outros textos, frascos, embalagens, rótulos simulados, logotipos oficiais, pessoas, resultados, preços ou promessas de saúde. Gere agora uma única imagem.",
+      "pinterestTitle": "Claritox Pro: read the return clock",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Claritox Pro guide records a 60-day refund period starting on delivery, while the seller suggests a three-month trial. Those periods do not match. Confirm the written deadline, required returns and postage costs before ordering. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREAD THE RETURN CLOCK\n\nThe Claritox Pro guide records a 60-day refund period starting on delivery, while the seller suggests a three-month trial. Those periods do not match. Confirm the written deadline, required returns and postage costs before ordering.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/claritox-pro?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=claritox-pro\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREAD THE RETURN CLOCK\n\nThe Claritox Pro guide records a 60-day refund period starting on delivery, while the seller suggests a three-month trial. Those periods do not match. Confirm the written deadline, required returns and postage costs before ordering.\n\nSave this checklist. Find “Claritox Pro” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/claritox-pro?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=claritox-pro\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Claritox Pro. READ THE RETURN CLOCK. Checklist: Start date; Return deadline; Postage terms. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/claritox-pro?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=claritox-pro",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/claritox-pro?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=claritox-pro",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/claritox-pro?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261105&utm_content=claritox-pro"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "66685ae08ef32ff29b048587bf8f7680fa11d93298378a9e5db76cf303b280b1"
+    }
+  ],
+  "geminiConversation": "https://gemini.google.com/app/a119ff54a8e5910a",
+  "artworkBlocker": "Browser URL policy rejected access to the downloads page. Browser interactions stopped per WORKFLOW.md. First artwork generated; native original download clicked, but no definitive local file verified. No artwork delivered or published."
+}
