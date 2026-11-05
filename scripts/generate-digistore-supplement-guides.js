@@ -4,7 +4,8 @@ const path = require('node:path');
 const read = file => JSON.parse(fs.readFileSync(file, 'utf8'));
 const batches = [
   { ...read('content/digistore-supplements-20261031.json'), published: '2026-11-01', assets: read('docs/digistore-2026-10-31/downloaded-assets.json') },
-  { ...read('content/digistore-supplements-20261104.json'), assets: read('docs/digistore-2026-11-04/downloaded-assets.json') }
+  { ...read('content/digistore-supplements-20261104.json'), assets: read('docs/digistore-2026-11-04/downloaded-assets.json') },
+  { ...read('content/digistore-supplements-20261105.json'), assets: read('docs/digistore-2026-11-05/downloaded-assets.json') }
 ];
 const openingsFile = 'content/product-openings.json';
 const decisionsFile = 'content/buying-decisions.json';
@@ -21,7 +22,7 @@ const colors = [];
 const redirects = JSON.parse(fs.readFileSync('vercel.json', 'utf8'));
 for (const batch of batches) for (const p of batch.products) {
   const affiliate = Boolean(p.pid);
-  const offerRel = affiliate ? "sponsored noopener noreferrer" : "noopener noreferrer";
+  const offerRel = affiliate ? (p.affiliateStatus ? "sponsored nofollow noopener noreferrer" : "sponsored noopener noreferrer") : "noopener noreferrer";
   const de = p.locale.startsWith('de');
   const t = de ? {
     checked:'Quellen geprüft am 31. Oktober 2026', label:'Etikett', costs:'Kosten', wellness:'Nahrungsergänzung',
@@ -53,7 +54,8 @@ for (const batch of batches) for (const p of batch.products) {
   const imgs = [1,2,3].map(n => batch.assets.find(a=>a.slug===p.assetKey && a.position===n));
   if (imgs.some(x=>!x || !fs.existsSync(x.path.slice(1)))) throw Error('Missing reviewed asset: '+p.slug);
   if (new Set(imgs.map(x=>x.sha256)).size !== 3) throw Error('Duplicate product artwork: '+p.slug);
-  const imageAlts = de ? [`${p.name}: Produktabbildung des Anbieters`,`${p.name}: veröffentlichtes Etikett oder Portionsangaben`,`${p.name}: weitere Verpackungs- oder Größenabbildung des Anbieters`] : [`${p.name}: supplier product artwork`,`${p.name}: published supplier label or serving panel`,`${p.name}: additional supplier product artwork`];
+  const imageAlts = p.imageAlts || (de ? [`${p.name}: Produktabbildung des Anbieters`,`${p.name}: veröffentlichtes Etikett oder Portionsangaben`,`${p.name}: weitere Verpackungs- oder Größenabbildung des Anbieters`] : [`${p.name}: supplier product artwork`,`${p.name}: published supplier label or serving panel`,`${p.name}: additional supplier product artwork`]);
+  if (p.imageCaptions) [t.primaryCaption,t.labelCaption,t.supportCaption] = p.imageCaptions;
   const figure = (i,caption,hero=false)=>`<figure class="${hero?'product-card':'source-figure'}"><a href="${imgs[i].path}" target="_blank" rel="noopener"><img src="${imgs[i].path}" width="${imgs[i].width}" height="${imgs[i].height}" alt="${esc(imageAlts[i])}" loading="${hero?'eager':'lazy'}"${hero?' fetchpriority="high"':''} decoding="async"></a><figcaption>${esc(caption)}</figcaption></figure>`;
   const headline = esc(p.title);
   const html = `<!doctype html>
@@ -80,7 +82,7 @@ for (const batch of batches) for (const p of batch.products) {
     if(!record){record={...img,usedBy:[]};delete record.slug;delete record.position;manifest.push(record);}
     record.usedBy=[...new Set([...(record.usedBy||[]),file])];
   }
-  entries.push({id:p.id,topic:'wellness',subtopic:p.subtopic,locale:p.locale,market:de?'Germany; confirm destination, shipping and selected billing plan':'United States buying context; verify the final eligible address and full quote',category:de?'Etikett und Kaufbedingungen':'Supplement label and purchase checks',audience:de?'Erwachsene in Deutschland, die Etikett und Bestellbedingungen vergleichen':'US adults comparing current supplement labels and purchase conditions',title:p.title,summary:p.intro,highlights:p.highlights,service:de?'Nahrungsergänzungsmittel':'Dietary supplement',ctaText:t.cta,reviewUrl:file,bookingUrl:affiliate?p.offer:publicPath,imageUrl:imgs[0].path.slice(1),imageAlt:imageAlts[0],imageType:'official',linkType:affiliate?'affiliate':'official',network:'Digistore24',isDirectAffiliate:false,featured:false,publishedAt:batch.published,affiliateStatus:affiliate?'Digistore24 partnership accepted and tracked checkout verified 2026-11-04.':'Untracked official seller link. Marketplace verified 2026-10-31; no newly approved partnership claimed.'});
+  entries.push({id:p.id,topic:'wellness',subtopic:p.subtopic,locale:p.locale,market:de?'Germany; confirm destination, shipping and selected billing plan':'United States buying context; verify the final eligible address and full quote',category:de?'Etikett und Kaufbedingungen':'Supplement label and purchase checks',audience:de?'Erwachsene in Deutschland, die Etikett und Bestellbedingungen vergleichen':'US adults comparing current supplement labels and purchase conditions',title:p.title,summary:p.intro,highlights:p.highlights,service:de?'Nahrungsergänzungsmittel':'Dietary supplement',ctaText:t.cta,reviewUrl:file,bookingUrl:affiliate?p.offer:publicPath,imageUrl:imgs[0].path.slice(1),imageAlt:imageAlts[0],imageType:'official',linkType:affiliate?'affiliate':'official',network:'Digistore24',isDirectAffiliate:false,featured:false,publishedAt:batch.published,affiliateStatus:p.affiliateStatus || (affiliate?'Digistore24 partnership accepted and tracked checkout verified 2026-11-04.':'Untracked official seller link. Marketplace verified 2026-10-31; no newly approved partnership claimed.')});
   colors.push(`.page-${p.slug}{--accent:${p.palette[0]};--gold:${p.palette[0]};--bg:${p.palette[1]};--accent-soft:${p.palette[2]}}`);
   for(const alias of [`/${p.slug}`,`/${p.slug}.html`]){
     if(!redirects.redirects.some(r=>r.source===alias)) redirects.redirects.push({source:alias,destination:publicPath,permanent:true});

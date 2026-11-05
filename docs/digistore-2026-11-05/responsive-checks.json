@@ -1,0 +1,452 @@
+[
+  {
+    "slug": "pineal-guardian",
+    "size": {
+      "width": 320,
+      "height": 568
+    },
+    "ctaTop": 900.46875,
+    "h1": "Pineal Guardian X: Liquid Label, Blend and Pack Costs",
+    "primary": {
+      "loaded": true,
+      "top": 443.625
+    },
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "slug": "pineal-xt",
+    "size": {
+      "width": 320,
+      "height": 568
+    },
+    "ctaTop": 900.46875,
+    "h1": "Pineal XT Gold: Iodine, Capsule Label and Bundle Costs",
+    "primary": {
+      "loaded": true,
+      "top": 443.625
+    },
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "slug": "claritox-pro",
+    "size": {
+      "width": 320,
+      "height": 568
+    },
+    "ctaTop": 951.65625,
+    "h1": "Claritox Pro: Formula Transparency, Costs and Return Deadline",
+    "primary": {
+      "loaded": true,
+      "top": 443.625
+    },
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "slug": "nervogen-pro",
+    "size": {
+      "width": 320,
+      "height": 568
+    },
+    "ctaTop": 900.46875,
+    "h1": "Nervogen Pro: Botanical List, Bundle Costs and Return Terms",
+    "primary": {
+      "loaded": true,
+      "top": 443.625
+    },
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "slug": "pineal-10x",
+    "size": {
+      "width": 320,
+      "height": 568
+    },
+    "ctaTop": 900.46875,
+    "h1": "Pineal 10x Gold: Dropper Label and Conflicting Bundle Prices",
+    "primary": {
+      "loaded": true,
+      "top": 443.625
+    },
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "slug": "denticore",
+    "size": {
+      "width": 320,
+      "height": 568
+    },
+    "ctaTop": 874.875,
+    "h1": "DentiCore: Mineral Amounts, Chewable Label and Buying Checks",
+    "primary": {
+      "loaded": true,
+      "top": 443.625
+    },
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "slug": "vertigenics",
+    "size": {
+      "width": 320,
+      "height": 568
+    },
+    "ctaTop": 900.46875,
+    "h1": "Vertigenics: Two-Capsule Label, Blend and Return Checks",
+    "primary": {
+      "loaded": true,
+      "top": 443.625
+    },
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "slug": "synaptigen",
+    "size": {
+      "width": 320,
+      "height": 568
+    },
+    "ctaTop": 900.46875,
+    "h1": "Synaptigen: Probiotic Label, CFU Timing and Tablet Supply",
+    "primary": {
+      "loaded": true,
+      "top": 443.625
+    },
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "slug": "nerve-fresh",
+    "size": {
+      "width": 320,
+      "height": 568
+    },
+    "ctaTop": 900.46875,
+    "h1": "Nerve Fresh: Botanical Claims, Direction Conflicts and Returns",
+    "primary": {
+      "loaded": true,
+      "top": 443.625
+    },
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "slug": "nerve-soothe",
+    "size": {
+      "width": 320,
+      "height": 568
+    },
+    "ctaTop": 926.0625,
+    "h1": "Nerve Soothe: Botanical List, Multi-Bottle Costs and 60-Day Terms",
+    "primary": {
+      "loaded": true,
+      "top": 443.625
+    },
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "slug": "pineal-guardian",
+    "size": {
+      "width": 360,
+      "height": 640
+    },
+    "ctaTop": 828.21875,
+    "h1": "Pineal Guardian X: Liquid Label, Blend and Pack Costs",
+    "primary": {
+      "loaded": true,
+      "top": 396.96875
+    },
+    "scroll": 345,
+    "width": 360
+  },
+  {
+    "slug": "pineal-xt",
+    "size": {
+      "width": 360,
+      "height": 640
+    },
+    "ctaTop": 853.8125,
+    "h1": "Pineal XT Gold: Iodine, Capsule Label and Bundle Costs",
+    "primary": {
+      "loaded": true,
+      "top": 396.96875
+    },
+    "scroll": 345,
+    "width": 360
+  },
+  {
+    "slug": "claritox-pro",
+    "size": {
+      "width": 360,
+      "height": 640
+    },
+    "ctaTop": 904.453125,
+    "h1": "Claritox Pro: Formula Transparency, Costs and Return Deadline",
+    "primary": {
+      "loaded": true,
+      "top": 422.015625
+    },
+    "scroll": 345,
+    "width": 360
+  },
+  {
+    "slug": "nervogen-pro",
+    "size": {
+      "width": 360,
+      "height": 640
+    },
+    "ctaTop": 853.265625,
+    "h1": "Nervogen Pro: Botanical List, Bundle Costs and Return Terms",
+    "primary": {
+      "loaded": true,
+      "top": 422.015625
+    },
+    "scroll": 345,
+    "width": 360
+  },
+  {
+    "slug": "pineal-10x",
+    "size": {
+      "width": 360,
+      "height": 640
+    },
+    "ctaTop": 828.21875,
+    "h1": "Pineal 10x Gold: Dropper Label and Conflicting Bundle Prices",
+    "primary": {
+      "loaded": true,
+      "top": 396.96875
+    },
+    "scroll": 345,
+    "width": 360
+  },
+  {
+    "slug": "denticore",
+    "size": {
+      "width": 360,
+      "height": 640
+    },
+    "ctaTop": 853.265625,
+    "h1": "DentiCore: Mineral Amounts, Chewable Label and Buying Checks",
+    "primary": {
+      "loaded": true,
+      "top": 422.015625
+    },
+    "scroll": 345,
+    "width": 360
+  },
+  {
+    "slug": "vertigenics",
+    "size": {
+      "width": 360,
+      "height": 640
+    },
+    "ctaTop": 853.265625,
+    "h1": "Vertigenics: Two-Capsule Label, Blend and Return Checks",
+    "primary": {
+      "loaded": true,
+      "top": 422.015625
+    },
+    "scroll": 345,
+    "width": 360
+  },
+  {
+    "slug": "synaptigen",
+    "size": {
+      "width": 360,
+      "height": 640
+    },
+    "ctaTop": 828.21875,
+    "h1": "Synaptigen: Probiotic Label, CFU Timing and Tablet Supply",
+    "primary": {
+      "loaded": true,
+      "top": 396.96875
+    },
+    "scroll": 345,
+    "width": 360
+  },
+  {
+    "slug": "nerve-fresh",
+    "size": {
+      "width": 360,
+      "height": 640
+    },
+    "ctaTop": 853.8125,
+    "h1": "Nerve Fresh: Botanical Claims, Direction Conflicts and Returns",
+    "primary": {
+      "loaded": true,
+      "top": 396.96875
+    },
+    "scroll": 345,
+    "width": 360
+  },
+  {
+    "slug": "nerve-soothe",
+    "size": {
+      "width": 360,
+      "height": 640
+    },
+    "ctaTop": 878.859375,
+    "h1": "Nerve Soothe: Botanical List, Multi-Bottle Costs and 60-Day Terms",
+    "primary": {
+      "loaded": true,
+      "top": 422.015625
+    },
+    "scroll": 345,
+    "width": 360
+  },
+  {
+    "slug": "pineal-guardian",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "ctaTop": 544.109375,
+    "h1": "Pineal Guardian X: Liquid Label, Blend and Pack Costs",
+    "primary": {
+      "loaded": true,
+      "top": 141
+    },
+    "scroll": 1351,
+    "width": 1366
+  },
+  {
+    "slug": "pineal-xt",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "ctaTop": 595.171875,
+    "h1": "Pineal XT Gold: Iodine, Capsule Label and Bundle Costs",
+    "primary": {
+      "loaded": true,
+      "top": 141
+    },
+    "scroll": 1351,
+    "width": 1366
+  },
+  {
+    "slug": "claritox-pro",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "ctaTop": 595.171875,
+    "h1": "Claritox Pro: Formula Transparency, Costs and Return Deadline",
+    "primary": {
+      "loaded": true,
+      "top": 141
+    },
+    "scroll": 1351,
+    "width": 1366
+  },
+  {
+    "slug": "nervogen-pro",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "ctaTop": 595.171875,
+    "h1": "Nervogen Pro: Botanical List, Bundle Costs and Return Terms",
+    "primary": {
+      "loaded": true,
+      "top": 141
+    },
+    "scroll": 1351,
+    "width": 1366
+  },
+  {
+    "slug": "pineal-10x",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "ctaTop": 595.171875,
+    "h1": "Pineal 10x Gold: Dropper Label and Conflicting Bundle Prices",
+    "primary": {
+      "loaded": true,
+      "top": 141
+    },
+    "scroll": 1351,
+    "width": 1366
+  },
+  {
+    "slug": "denticore",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "ctaTop": 595.171875,
+    "h1": "DentiCore: Mineral Amounts, Chewable Label and Buying Checks",
+    "primary": {
+      "loaded": true,
+      "top": 141
+    },
+    "scroll": 1351,
+    "width": 1366
+  },
+  {
+    "slug": "vertigenics",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "ctaTop": 595.171875,
+    "h1": "Vertigenics: Two-Capsule Label, Blend and Return Checks",
+    "primary": {
+      "loaded": true,
+      "top": 141
+    },
+    "scroll": 1351,
+    "width": 1366
+  },
+  {
+    "slug": "synaptigen",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "ctaTop": 595.171875,
+    "h1": "Synaptigen: Probiotic Label, CFU Timing and Tablet Supply",
+    "primary": {
+      "loaded": true,
+      "top": 141
+    },
+    "scroll": 1351,
+    "width": 1366
+  },
+  {
+    "slug": "nerve-fresh",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "ctaTop": 595.171875,
+    "h1": "Nerve Fresh: Botanical Claims, Direction Conflicts and Returns",
+    "primary": {
+      "loaded": true,
+      "top": 141
+    },
+    "scroll": 1351,
+    "width": 1366
+  },
+  {
+    "slug": "nerve-soothe",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "ctaTop": 595.171875,
+    "h1": "Nerve Soothe: Botanical List, Multi-Bottle Costs and 60-Day Terms",
+    "primary": {
+      "loaded": true,
+      "top": 141
+    },
+    "scroll": 1351,
+    "width": 1366
+  }
+]

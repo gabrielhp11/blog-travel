@@ -1,0 +1,352 @@
+{
+  "reviewed": "2026-11-05",
+  "newRequests": [
+    {
+      "name": "CoreVital Burn",
+      "status": "pending"
+    },
+    {
+      "name": "Pineal 10x",
+      "status": "accepted"
+    },
+    {
+      "name": "T-CARE",
+      "status": "pending"
+    },
+    {
+      "name": "MannaFlux",
+      "status": "pending"
+    },
+    {
+      "name": "Lymphatic System Support",
+      "status": "pending"
+    },
+    {
+      "name": "Native Rest",
+      "status": "pending"
+    },
+    {
+      "name": "Prostadine",
+      "status": "pending"
+    },
+    {
+      "name": "ZenCortex",
+      "status": "pending"
+    },
+    {
+      "name": "Vertigenics",
+      "status": "accepted"
+    },
+    {
+      "name": "Quietum Plus",
+      "status": "pending"
+    },
+    {
+      "name": "Synadentix",
+      "status": "pending"
+    },
+    {
+      "name": "JointVive",
+      "status": "pending"
+    },
+    {
+      "name": "NeuroVera",
+      "status": "pending"
+    },
+    {
+      "name": "ProstaLite",
+      "status": "pending"
+    },
+    {
+      "name": "Nerve Fresh",
+      "status": "accepted"
+    },
+    {
+      "name": "Keravita Pro",
+      "status": "pending"
+    },
+    {
+      "name": "Steel Bite Pro",
+      "status": "pending"
+    },
+    {
+      "name": "Nerve Soothe",
+      "status": "accepted"
+    }
+  ],
+  "published": [
+    {
+      "name": "Pineal Guardian X",
+      "slug": "pineal-guardian",
+      "marketplaceId": "48317",
+      "status": "accepted",
+      "newlyAccepted": false,
+      "affiliateUrl": "https://pinealguardianvip.com/ds/indexts.php#aff=gabrielhenriquep123f97e",
+      "page": "/topics/wellness/brain-health/pineal-guardian",
+      "sellerAccount": "Nutraville",
+      "sources": [
+        [
+          "Supplier: current product presentation",
+          "https://pinealguardianvip.com/ds/indexts.php"
+        ],
+        [
+          "Supplier: current label",
+          "https://pinealguardianvip.com/ds/label2.html"
+        ],
+        [
+          "FDA: dietary supplements and product approval",
+          "https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements"
+        ]
+      ]
+    },
+    {
+      "name": "Pineal XT Gold",
+      "slug": "pineal-xt",
+      "marketplaceId": "45830",
+      "status": "accepted",
+      "newlyAccepted": false,
+      "affiliateUrl": "https://pxt.pinealxt.com/ds/presentation/index.php#aff=gabrielhenriquep123f97e",
+      "page": "/topics/wellness/nutrition/pineal-xt",
+      "sellerAccount": "Nutraville",
+      "sources": [
+        [
+          "Supplier: current product presentation",
+          "https://pxt.pinealxt.com/ds/presentation/index.php"
+        ],
+        [
+          "Supplier: current label",
+          "https://pxt.pinealxt.com/ds/presentation/label.html"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://pxt.pinealxt.com/shipping.html"
+        ],
+        [
+          "FDA: dietary supplements and product approval",
+          "https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements"
+        ]
+      ]
+    },
+    {
+      "name": "Claritox Pro",
+      "slug": "claritox-pro",
+      "marketplaceId": "48046",
+      "status": "accepted",
+      "newlyAccepted": false,
+      "affiliateUrl": "https://claritox24.com/text2.php#aff=gabrielhenriquep123f97e",
+      "page": "/topics/wellness/brain-health/claritox-pro",
+      "sellerAccount": "ClaritoxPro",
+      "sources": [
+        [
+          "Supplier: current product presentation",
+          "https://claritox24.com/text2.php"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://claritox24.com/help/refunds.php"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://claritox24.com/help/shipping.php"
+        ],
+        [
+          "FDA: dietary supplements and product approval",
+          "https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements"
+        ]
+      ]
+    },
+    {
+      "name": "Nervogen Pro",
+      "slug": "nervogen-pro",
+      "marketplaceId": "48124",
+      "status": "accepted",
+      "newlyAccepted": false,
+      "affiliateUrl": "https://thenervogen24.com/text.php#aff=gabrielhenriquep123f97e",
+      "page": "/topics/wellness/nutrition/nervogen-pro",
+      "sellerAccount": "NervogenPro",
+      "sources": [
+        [
+          "Supplier: current product presentation",
+          "https://thenervogen24.com/text.php"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://thenervogen24.com/help/refunds.php"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://thenervogen24.com/help/shipping.php"
+        ],
+        [
+          "FDA: dietary supplements and product approval",
+          "https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements"
+        ]
+      ]
+    },
+    {
+      "name": "Pineal 10x Gold",
+      "slug": "pineal-10x",
+      "marketplaceId": "52925",
+      "status": "accepted",
+      "newlyAccepted": true,
+      "affiliateUrl": "https://pineal10x.com/pnl10-index.php#aff=gabrielhenriquep123f97e",
+      "page": "/topics/wellness/nutrition/pineal-10x",
+      "sellerAccount": "midasman88",
+      "sources": [
+        [
+          "Supplier: current product presentation",
+          "https://pineal10x.com/pnl10-index.php"
+        ],
+        [
+          "Supplier: current label",
+          "https://pineal10x.com/assets/imgs/labels/pineal10x_gold.png"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://pineal10x.com/shipping.php"
+        ],
+        [
+          "FDA: dietary supplements and product approval",
+          "https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements"
+        ]
+      ]
+    },
+    {
+      "name": "DentiCore",
+      "slug": "denticore",
+      "marketplaceId": "47137",
+      "status": "accepted",
+      "newlyAccepted": false,
+      "affiliateUrl": "https://denticore24.com/text.php#aff=gabrielhenriquep123f97e",
+      "page": "/topics/wellness/nutrition/denticore",
+      "sellerAccount": "DentiCore",
+      "sources": [
+        [
+          "Supplier: current product presentation",
+          "https://denticore24.com/text.php"
+        ],
+        [
+          "Supplier: current label",
+          "https://denticore24.com/statics/img/main-product-label.png"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://denticore24.com/help/refunds.php"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://denticore24.com/help/shipping.php"
+        ],
+        [
+          "FDA: dietary supplements and product approval",
+          "https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements"
+        ]
+      ]
+    },
+    {
+      "name": "Vertigenics",
+      "slug": "vertigenics",
+      "marketplaceId": "50717",
+      "status": "accepted",
+      "newlyAccepted": true,
+      "affiliateUrl": "https://getmyvertigenics24.com/text.php#aff=gabrielhenriquep123f97e",
+      "page": "/topics/wellness/brain-health/vertigenics",
+      "sellerAccount": "Vertigenics",
+      "sources": [
+        [
+          "Supplier: current product presentation",
+          "https://getmyvertigenics24.com/text.php"
+        ],
+        [
+          "Supplier: current label",
+          "https://getmyvertigenics24.com/statics/img/label.png"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://getmyvertigenics24.com/help/refunds.php"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://getmyvertigenics24.com/help/shipping.php"
+        ],
+        [
+          "FDA: dietary supplements and product approval",
+          "https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements"
+        ]
+      ]
+    },
+    {
+      "name": "Synaptigen",
+      "slug": "synaptigen",
+      "marketplaceId": "53030",
+      "status": "accepted",
+      "newlyAccepted": false,
+      "affiliateUrl": "http://synaptigen24.com/text.php#aff=gabrielhenriquep123f97e",
+      "page": "/topics/wellness/brain-health/synaptigen",
+      "sellerAccount": "Synaptigen",
+      "sources": [
+        [
+          "Supplier: current product presentation",
+          "https://synaptigen24.com/text.php"
+        ],
+        [
+          "Supplier: current label",
+          "https://synaptigen24.com/statics/img/label.png"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://synaptigen24.com/help/refunds.php"
+        ],
+        [
+          "Supplier: shipping or return policy",
+          "https://synaptigen24.com/help/shipping.php"
+        ],
+        [
+          "FDA: dietary supplements and product approval",
+          "https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements"
+        ]
+      ]
+    },
+    {
+      "name": "Nerve Fresh",
+      "slug": "nerve-fresh",
+      "marketplaceId": "50226",
+      "status": "accepted",
+      "newlyAccepted": true,
+      "affiliateUrl": "https://secure.nervefresh.com/index-nf-ds#aff=gabrielhenriquep123f97e",
+      "page": "/topics/wellness/nutrition/nerve-fresh",
+      "sellerAccount": "premvitality",
+      "sources": [
+        [
+          "Supplier: current product presentation",
+          "https://secure.nervefresh.com/index-nf-ds"
+        ],
+        [
+          "FDA: dietary supplements and product approval",
+          "https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements"
+        ]
+      ]
+    },
+    {
+      "name": "Nerve Soothe",
+      "slug": "nerve-soothe",
+      "marketplaceId": "55736",
+      "status": "accepted",
+      "newlyAccepted": true,
+      "affiliateUrl": "https://secure.getnervesoothe.com/index-bp-ds#aff=gabrielhenriquep123f97e",
+      "page": "/topics/wellness/nutrition/nerve-soothe",
+      "sellerAccount": "premvitality",
+      "sources": [
+        [
+          "Supplier: current product presentation",
+          "https://secure.getnervesoothe.com/index-bp-ds"
+        ],
+        [
+          "FDA: dietary supplements and product approval",
+          "https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements"
+        ]
+      ]
+    }
+  ],
+  "limits": "Account acceptance and account-generated promotional URLs verified. No purchase, checkout payment, conversion or commission receipt verified. Pending requests are not published as approved affiliations."
+}

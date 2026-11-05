@@ -1,0 +1,232 @@
+[
+  {
+    "slug": "pineal-guardian",
+    "images": [
+      {
+        "height": 550,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/pineal-guardian-1.avif",
+        "width": 473
+      },
+      {
+        "height": 934,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/pineal-guardian-2.webp",
+        "width": 1920
+      },
+      {
+        "height": 745,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/pineal-guardian-3.avif",
+        "width": 808
+      }
+    ]
+  },
+  {
+    "slug": "pineal-xt",
+    "images": [
+      {
+        "height": 513,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/pineal-xt-1.avif",
+        "width": 444
+      },
+      {
+        "height": 740,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/pineal-xt-2.avif",
+        "width": 1828
+      },
+      {
+        "height": 553,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/pineal-xt-3.avif",
+        "width": 531
+      }
+    ]
+  },
+  {
+    "slug": "claritox-pro",
+    "images": [
+      {
+        "height": 678,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/claritox-pro-1.png",
+        "width": 363
+      },
+      {
+        "height": 1397,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/claritox-pro-2.png",
+        "width": 1941
+      },
+      {
+        "height": 741,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/claritox-pro-3.png",
+        "width": 888
+      }
+    ]
+  },
+  {
+    "slug": "nervogen-pro",
+    "images": [
+      {
+        "height": 484,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/nervogen-pro-1.png",
+        "width": 270
+      },
+      {
+        "height": 582,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/nervogen-pro-2.png",
+        "width": 540
+      },
+      {
+        "height": 687,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/nervogen-pro-3.png",
+        "width": 810
+      }
+    ]
+  },
+  {
+    "slug": "pineal-10x",
+    "images": [
+      {
+        "height": 800,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/pineal-10x-1.png",
+        "width": 800
+      },
+      {
+        "height": 902,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/pineal-10x-2.png",
+        "width": 2315
+      },
+      {
+        "height": 800,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/pineal-10x-3.png",
+        "width": 800
+      }
+    ]
+  },
+  {
+    "slug": "denticore",
+    "images": [
+      {
+        "height": 1129,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/denticore-1.png",
+        "width": 1194
+      },
+      {
+        "height": 1260,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/denticore-2.png",
+        "width": 3360
+      },
+      {
+        "height": 747,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/denticore-3.png",
+        "width": 931
+      }
+    ]
+  },
+  {
+    "slug": "vertigenics",
+    "images": [
+      {
+        "height": 708,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/vertigenics-1.png",
+        "width": 601
+      },
+      {
+        "height": 1212,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/vertigenics-2.png",
+        "width": 3408
+      },
+      {
+        "height": 1370,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/vertigenics-3.png",
+        "width": 1384
+      }
+    ]
+  },
+  {
+    "slug": "synaptigen",
+    "images": [
+      {
+        "height": 1599,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/synaptigen-1.png",
+        "width": 1599
+      },
+      {
+        "height": 1428,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/synaptigen-2.png",
+        "width": 3666
+      },
+      {
+        "height": 909,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/synaptigen-3.png",
+        "width": 1178
+      }
+    ]
+  },
+  {
+    "slug": "nerve-fresh",
+    "images": [
+      {
+        "height": 452,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/nerve-fresh-1.png",
+        "width": 840
+      },
+      {
+        "height": 225,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/nerve-fresh-2.png",
+        "width": 400
+      },
+      {
+        "height": 225,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/nerve-fresh-3.png",
+        "width": 400
+      }
+    ]
+  },
+  {
+    "slug": "nerve-soothe",
+    "images": [
+      {
+        "height": 972,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/nerve-soothe-1.png",
+        "width": 612
+      },
+      {
+        "height": 1070,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/nerve-soothe-2.png",
+        "width": 612
+      },
+      {
+        "height": 1500,
+        "loaded": true,
+        "src": "/assets/images/sources/digistore-20261105/nerve-soothe-3.png",
+        "width": 1500
+      }
+    ]
+  }
+]

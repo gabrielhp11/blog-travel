@@ -54,3 +54,18 @@ Directory: `/guides/supplement-comparisons`. Every article also has short aliase
 - [SenFlo vs Integrative Digestive Formula: Different Digestive Proposals](/topics/wellness/gut-health/senflo-vs-integrative-digestive-formula) · en-GB
 - [EZNaturals Moringa vs Pep Tonic: Capsule & Powder Comparison](/topics/wellness/nutrition/eznaturals-moringa-vs-pep-tonic) · en-GB
 - [SelfPlus AGE+ vs Advanced Mitochondrial Formula: Label Scope](/topics/wellness/longevity/selfplus-age-plus-vs-advanced-mitochondrial-formula) · en-GB
+
+## 5 November 2026 — Ten supplement guides
+
+- [Pineal Guardian X](https://blog-travel-eight.vercel.app/topics/wellness/brain-health/pineal-guardian) — accepted Digistore24 partnership; three pinned supplier images.
+- [Pineal XT Gold](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-xt) — accepted Digistore24 partnership; three pinned supplier images.
+- [Claritox Pro](https://blog-travel-eight.vercel.app/topics/wellness/brain-health/claritox-pro) — accepted Digistore24 partnership; three pinned supplier images.
+- [Nervogen Pro](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nervogen-pro) — accepted Digistore24 partnership; three pinned supplier images.
+- [Pineal 10x Gold](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-10x) — accepted Digistore24 partnership; three pinned supplier images.
+- [DentiCore](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/denticore) — accepted Digistore24 partnership; three pinned supplier images.
+- [Vertigenics](https://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics) — accepted Digistore24 partnership; three pinned supplier images.
+- [Synaptigen](https://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen) — accepted Digistore24 partnership; three pinned supplier images.
+- [Nerve Fresh](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-fresh) — accepted Digistore24 partnership; three pinned supplier images.
+- [Nerve Soothe](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe) — accepted Digistore24 partnership; three pinned supplier images.
+
+See [source review, account status and validation](digistore-2026-11-05/DELIVERY.md). Four partnerships accepted in this session; six existing accepted partnerships reconfirmed. Fourteen other new requests remain pending.

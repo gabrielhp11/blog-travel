@@ -1136,6 +1136,106 @@
       "source": "/black-ox.html",
       "destination": "/topics/wellness/nutrition/black-ox",
       "permanent": true
+    },
+    {
+      "source": "/pineal-guardian",
+      "destination": "/topics/wellness/brain-health/pineal-guardian",
+      "permanent": true
+    },
+    {
+      "source": "/pineal-guardian.html",
+      "destination": "/topics/wellness/brain-health/pineal-guardian",
+      "permanent": true
+    },
+    {
+      "source": "/pineal-xt",
+      "destination": "/topics/wellness/nutrition/pineal-xt",
+      "permanent": true
+    },
+    {
+      "source": "/pineal-xt.html",
+      "destination": "/topics/wellness/nutrition/pineal-xt",
+      "permanent": true
+    },
+    {
+      "source": "/claritox-pro",
+      "destination": "/topics/wellness/brain-health/claritox-pro",
+      "permanent": true
+    },
+    {
+      "source": "/claritox-pro.html",
+      "destination": "/topics/wellness/brain-health/claritox-pro",
+      "permanent": true
+    },
+    {
+      "source": "/nervogen-pro",
+      "destination": "/topics/wellness/nutrition/nervogen-pro",
+      "permanent": true
+    },
+    {
+      "source": "/nervogen-pro.html",
+      "destination": "/topics/wellness/nutrition/nervogen-pro",
+      "permanent": true
+    },
+    {
+      "source": "/pineal-10x",
+      "destination": "/topics/wellness/nutrition/pineal-10x",
+      "permanent": true
+    },
+    {
+      "source": "/pineal-10x.html",
+      "destination": "/topics/wellness/nutrition/pineal-10x",
+      "permanent": true
+    },
+    {
+      "source": "/denticore",
+      "destination": "/topics/wellness/nutrition/denticore",
+      "permanent": true
+    },
+    {
+      "source": "/denticore.html",
+      "destination": "/topics/wellness/nutrition/denticore",
+      "permanent": true
+    },
+    {
+      "source": "/vertigenics",
+      "destination": "/topics/wellness/brain-health/vertigenics",
+      "permanent": true
+    },
+    {
+      "source": "/vertigenics.html",
+      "destination": "/topics/wellness/brain-health/vertigenics",
+      "permanent": true
+    },
+    {
+      "source": "/synaptigen",
+      "destination": "/topics/wellness/brain-health/synaptigen",
+      "permanent": true
+    },
+    {
+      "source": "/synaptigen.html",
+      "destination": "/topics/wellness/brain-health/synaptigen",
+      "permanent": true
+    },
+    {
+      "source": "/nerve-fresh",
+      "destination": "/topics/wellness/nutrition/nerve-fresh",
+      "permanent": true
+    },
+    {
+      "source": "/nerve-fresh.html",
+      "destination": "/topics/wellness/nutrition/nerve-fresh",
+      "permanent": true
+    },
+    {
+      "source": "/nerve-soothe",
+      "destination": "/topics/wellness/nutrition/nerve-soothe",
+      "permanent": true
+    },
+    {
+      "source": "/nerve-soothe.html",
+      "destination": "/topics/wellness/nutrition/nerve-soothe",
+      "permanent": true
     }
   ],
   "headers": [

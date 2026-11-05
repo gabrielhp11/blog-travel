@@ -799,3 +799,18 @@ These compare existing registered guides; no new affiliation or product testing 
 - [Top T](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/top-t): tracked five-bottle checkout, manufacturer serving and blend disclosure.
 - [Black Ox](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/black-ox): tracked checkout, manufacturer serving and daily directions distinguished, formula count discrepancy noted.
 - See [account and source review](digistore-2026-11-04/DELIVERY.md) for approved and pending offers held from publication.
+
+## 5 November 2026 — Ten supplement guides
+
+- [Pineal Guardian X](https://blog-travel-eight.vercel.app/topics/wellness/brain-health/pineal-guardian) — accepted Digistore24 partnership; three pinned supplier images.
+- [Pineal XT Gold](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-xt) — accepted Digistore24 partnership; three pinned supplier images.
+- [Claritox Pro](https://blog-travel-eight.vercel.app/topics/wellness/brain-health/claritox-pro) — accepted Digistore24 partnership; three pinned supplier images.
+- [Nervogen Pro](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nervogen-pro) — accepted Digistore24 partnership; three pinned supplier images.
+- [Pineal 10x Gold](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-10x) — accepted Digistore24 partnership; three pinned supplier images.
+- [DentiCore](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/denticore) — accepted Digistore24 partnership; three pinned supplier images.
+- [Vertigenics](https://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics) — accepted Digistore24 partnership; three pinned supplier images.
+- [Synaptigen](https://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen) — accepted Digistore24 partnership; three pinned supplier images.
+- [Nerve Fresh](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-fresh) — accepted Digistore24 partnership; three pinned supplier images.
+- [Nerve Soothe](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe) — accepted Digistore24 partnership; three pinned supplier images.
+
+See [source review, account status and validation](digistore-2026-11-05/DELIVERY.md). Four partnerships accepted in this session; six existing accepted partnerships reconfirmed. Fourteen other new requests remain pending.
