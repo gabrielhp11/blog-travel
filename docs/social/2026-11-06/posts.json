@@ -1,0 +1,439 @@
+{
+  "campaign": "supplement_first_guides_20261106",
+  "brand": "PokiSky",
+  "createdDate": "2026-11-06",
+  "language": "en",
+  "status": "in_progress",
+  "notes": "Eight artworks and copy prepared individually. Three feed cross-posts published on Facebook and Instagram. Remaining five feed posts, Stories and Highlights pending. Pinterest attempt for Synaptigen is unconfirmed due reCAPTCHA connection error; no duplicate retry made.",
+  "posts": [
+    {
+      "id": "synaptigen",
+      "name": "Synaptigen",
+      "sourceFile": "topics/wellness/brain-health/synaptigen.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "CHECK THE TIME POINT",
+      "checks": [
+        "At manufacture",
+        "Expiry guarantee",
+        "Current panel"
+      ],
+      "highlight": "Brain",
+      "status": "feed_published",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/01-synaptigen-gemini.jpg",
+      "imageFile": "images/01-synaptigen-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Slate blue and lavender, three abstract calendar cards linked by a dotted timeline; no microbes, brain imagery or packaging. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Synaptigen”, “CHECK THE TIME POINT”, “At manufacture”, “Expiry guarantee”, “Current panel”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image.",
+      "pinterestTitle": "Synaptigen: check the CFU time point",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The PokiSky Synaptigen guide reports a 3.5 billion CFU statement at manufacture and compares the stated time point with the current label and tablet directions. Check what the seller guarantees through expiry; a manufacture figure alone does not answer that question. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE TIME POINT\n\nThe PokiSky Synaptigen guide reports a 3.5 billion CFU statement at manufacture and compares the stated time point with the current label and tablet directions. Check what the seller guarantees through expiry; a manufacture figure alone does not answer that question.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=synaptigen\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE TIME POINT\n\nThe PokiSky Synaptigen guide reports a 3.5 billion CFU statement at manufacture and compares the stated time point with the current label and tablet directions. Check what the seller guarantees through expiry; a manufacture figure alone does not answer that question.\n\nSave this checklist. Find “Synaptigen” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=synaptigen\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Synaptigen. CHECK THE TIME POINT. Checklist: At manufacture; Expiry guarantee; Current panel. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=synaptigen",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=synaptigen",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=synaptigen"
+      },
+      "publications": {
+        "pinterest": {
+          "error": "Pinterest reCAPTCHA service connection error; save outcome unknown; do not retry until state resolved",
+          "status": "attempted_unconfirmed"
+        },
+        "facebook": {
+          "meta_id": "122105634045532355",
+          "status": "published_via_meta",
+          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+        },
+        "instagram": {
+          "meta_id": "122105634045532355",
+          "status": "published_via_meta",
+          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+        },
+        "stories": {
+          "status": "pending"
+        },
+        "highlight": {
+          "status": "pending"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "0e7fb6a2dd19c3aee80aa64d5374af8893796562307bc82869c92374b0ce13b0"
+    },
+    {
+      "id": "vertigenics",
+      "name": "Vertigenics",
+      "sourceFile": "topics/wellness/brain-health/vertigenics.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "SEPARATE SERVING FROM DIRECTIONS",
+      "checks": [
+        "Two capsules",
+        "Thirty servings",
+        "Current directions"
+      ],
+      "highlight": "Brain",
+      "status": "feed_published",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/02-vertigenics-gemini.jpg",
+      "imageFile": "images/02-vertigenics-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Pine green and amber, abstract split formula card and geometric capsule-like shapes; no packaging. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Vertigenics”, “SEPARATE SERVING FROM DIRECTIONS”, “Two capsules”, “Thirty servings”, “Current directions”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image.",
+      "pinterestTitle": "Vertigenics: separate serving from directions",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Vertigenics guide counts 60 capsules as 30 label servings and notes wording differences between the label and seller directions. Read those details separately and confirm the current instructions before comparing a package. This is a label check, not a balance or treatment claim. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nSEPARATE SERVING FROM DIRECTIONS\n\nThe Vertigenics guide counts 60 capsules as 30 label servings and notes wording differences between the label and seller directions. Read those details separately and confirm the current instructions before comparing a package. This is a label check, not a balance or treatment claim.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=vertigenics\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nSEPARATE SERVING FROM DIRECTIONS\n\nThe Vertigenics guide counts 60 capsules as 30 label servings and notes wording differences between the label and seller directions. Read those details separately and confirm the current instructions before comparing a package. This is a label check, not a balance or treatment claim.\n\nSave this checklist. Find “Vertigenics” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=vertigenics\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Vertigenics. SEPARATE SERVING FROM DIRECTIONS. Checklist: Two capsules; Thirty servings; Current directions. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=vertigenics",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=vertigenics",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=vertigenics"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "pending"
+        },
+        "facebook": {
+          "meta_id": "122105640285532355",
+          "status": "published_via_meta",
+          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+        },
+        "instagram": {
+          "meta_id": "122105640285532355",
+          "status": "published_via_meta",
+          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+        },
+        "stories": {
+          "status": "pending"
+        },
+        "highlight": {
+          "status": "pending"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "177e40d3ec3f80e9677c7b4f1b4b7c8d672fbb75fc0c1d022ddc9fb403cc28bc"
+    },
+    {
+      "id": "senflo-gummies",
+      "name": "SenFlo Gummies",
+      "sourceFile": "topics/wellness/gut-health/senflo-gummies.html",
+      "sourceReviewDate": "2026-10-26",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "REQUEST THE FULL LABEL",
+      "checks": [
+        "Ingredient amounts",
+        "Serving directions",
+        "Shipping total"
+      ],
+      "highlight": "Digestion",
+      "status": "feed_published",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/03-senflo-gummies-gemini.jpg",
+      "imageFile": "images/03-senflo-gummies-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Minimal cream, coral and navy typographic poster with large abstract shapes; no product or people. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “SenFlo Gummies”, “REQUEST THE FULL LABEL”, “Ingredient amounts”, “Serving directions”, “Shipping total”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image.",
+      "pinterestTitle": "SenFlo Gummies: request the full label",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The SenFlo Gummies guide does not establish a complete quantified Supplement Facts panel. Ask for the full current label, serving directions and warnings before comparing offers. Pack-day marketing is not a personal-use recommendation; confirm shipping and the full checkout total too. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREQUEST THE FULL LABEL\n\nThe SenFlo Gummies guide does not establish a complete quantified Supplement Facts panel. Ask for the full current label, serving directions and warnings before comparing offers. Pack-day marketing is not a personal-use recommendation; confirm shipping and the full checkout total too.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=senflo-gummies\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nREQUEST THE FULL LABEL\n\nThe SenFlo Gummies guide does not establish a complete quantified Supplement Facts panel. Ask for the full current label, serving directions and warnings before comparing offers. Pack-day marketing is not a personal-use recommendation; confirm shipping and the full checkout total too.\n\nSave this checklist. Find “SenFlo Gummies” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=senflo-gummies\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to SenFlo Gummies. REQUEST THE FULL LABEL. Checklist: Ingredient amounts; Serving directions; Shipping total. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=senflo-gummies",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=senflo-gummies",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=senflo-gummies"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "pending"
+        },
+        "facebook": {
+          "meta_id": "122105644965532355",
+          "status": "published_via_meta",
+          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+        },
+        "instagram": {
+          "meta_id": "122105644965532355",
+          "status": "published_via_meta",
+          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+        },
+        "stories": {
+          "status": "pending"
+        },
+        "highlight": {
+          "status": "pending"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "06cb506ca10c5ae7a0a63f18766e5435def6c813ef599833eb20920ad9bdbc0c"
+    },
+    {
+      "id": "nerve-fresh",
+      "name": "Nerve Fresh",
+      "sourceFile": "topics/wellness/nutrition/nerve-fresh.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "ONE CAPSULE OR TWO DIRECTIONS?",
+      "checks": [
+        "Headline serving",
+        "FAQ directions",
+        "Full label"
+      ],
+      "highlight": "Nutrition",
+      "status": "prepared",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/04-nerve-fresh-gemini.jpg",
+      "imageFile": "images/04-nerve-fresh-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Pale background, teal and tangerine abstract branching paths from a single card; no nerve imagery or product. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Nerve Fresh”, “ONE CAPSULE OR TWO DIRECTIONS?”, “Headline serving”, “FAQ directions”, “Full label”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image.",
+      "pinterestTitle": "Nerve Fresh: compare the directions",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. Nerve Fresh materials mention five botanicals, but the guide says a full quantitative panel is still needed. It also notes a one-capsule headline and a twice-daily FAQ. Compare both statements with the current package; do not infer a suitable serving from marketing copy. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nONE CAPSULE OR TWO DIRECTIONS?\n\nNerve Fresh materials mention five botanicals, but the guide says a full quantitative panel is still needed. It also notes a one-capsule headline and a twice-daily FAQ. Compare both statements with the current package; do not infer a suitable serving from marketing copy.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-fresh?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nerve-fresh\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nONE CAPSULE OR TWO DIRECTIONS?\n\nNerve Fresh materials mention five botanicals, but the guide says a full quantitative panel is still needed. It also notes a one-capsule headline and a twice-daily FAQ. Compare both statements with the current package; do not infer a suitable serving from marketing copy.\n\nSave this checklist. Find “Nerve Fresh” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-fresh?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nerve-fresh\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Nerve Fresh. ONE CAPSULE OR TWO DIRECTIONS?. Checklist: Headline serving; FAQ directions; Full label. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-fresh?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nerve-fresh",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-fresh?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nerve-fresh",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-fresh?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nerve-fresh"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "pending"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "pending"
+        },
+        "highlight": {
+          "status": "pending"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "f5eab59f5737bcafe00d5ebdb25f9e2b19cf9518b383b5a745825c5409e259e7"
+    },
+    {
+      "id": "nerve-soothe",
+      "name": "Nerve Soothe",
+      "sourceFile": "topics/wellness/nutrition/nerve-soothe.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "CHECK THE TOTAL ORDER",
+      "checks": [
+        "Unit price",
+        "Shipping",
+        "Return postage"
+      ],
+      "highlight": "Nutrition",
+      "status": "prepared",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/05-nerve-soothe-gemini.jpg",
+      "imageFile": "images/05-nerve-soothe-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Ivory, plum and sage, abstract blank stacked cards and circular arrow. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Nerve Soothe”, “CHECK THE TOTAL ORDER”, “Unit price”, “Shipping”, “Return postage”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image.",
+      "pinterestTitle": "Nerve Soothe: check the total order",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. A multi-bottle unit price is not the full order cost. The Nerve Soothe guide compares shipping, return postage and the difference between the advertised use period and the stated return window. Check the terms attached to your exact order. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE TOTAL ORDER\n\nA multi-bottle unit price is not the full order cost. The Nerve Soothe guide compares shipping, return postage and the difference between the advertised use period and the stated return window. Check the terms attached to your exact order.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nerve-soothe\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE TOTAL ORDER\n\nA multi-bottle unit price is not the full order cost. The Nerve Soothe guide compares shipping, return postage and the difference between the advertised use period and the stated return window. Check the terms attached to your exact order.\n\nSave this checklist. Find “Nerve Soothe” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nerve-soothe\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Nerve Soothe. CHECK THE TOTAL ORDER. Checklist: Unit price; Shipping; Return postage. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nerve-soothe",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nerve-soothe",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nerve-soothe"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "pending"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "pending"
+        },
+        "highlight": {
+          "status": "pending"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "97fe20099764272cecb0b38f774b574901d7ce7e56db902740d096bf03f0016c"
+    },
+    {
+      "id": "nervogen-pro",
+      "name": "Nervogen Pro",
+      "sourceFile": "topics/wellness/nutrition/nervogen-pro.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "WHEN DOES THE CLOCK START?",
+      "checks": [
+        "Shipment date",
+        "Return deadline",
+        "Postage terms"
+      ],
+      "highlight": "Nutrition",
+      "status": "prepared",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/06-nervogen-pro-gemini.jpg",
+      "imageFile": "images/06-nervogen-pro-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Cobalt blue, pale yellow and white, abstract undated calendar, envelope and arrow. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Nervogen Pro”, “WHEN DOES THE CLOCK START?”, “Shipment date”, “Return deadline”, “Postage terms”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image.",
+      "pinterestTitle": "Nervogen Pro: when does the clock start?",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Nervogen Pro guide records a 60-day return policy beginning at shipment. Check the written deadline, required steps and postage terms for your exact order. The seller’s five botanical names do not replace a complete quantitative label. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nWHEN DOES THE CLOCK START?\n\nThe Nervogen Pro guide records a 60-day return policy beginning at shipment. Check the written deadline, required steps and postage terms for your exact order. The seller’s five botanical names do not replace a complete quantitative label.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/nervogen-pro?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nervogen-pro\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nWHEN DOES THE CLOCK START?\n\nThe Nervogen Pro guide records a 60-day return policy beginning at shipment. Check the written deadline, required steps and postage terms for your exact order. The seller’s five botanical names do not replace a complete quantitative label.\n\nSave this checklist. Find “Nervogen Pro” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/nervogen-pro?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nervogen-pro\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Nervogen Pro. WHEN DOES THE CLOCK START?. Checklist: Shipment date; Return deadline; Postage terms. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nervogen-pro?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nervogen-pro",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nervogen-pro?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nervogen-pro",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nervogen-pro?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=nervogen-pro"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "pending"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "pending"
+        },
+        "highlight": {
+          "status": "pending"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "6a1d19c9cf5ca4cff4c6772a1f0c38080e5e2c05d113622d1b6878c6df6703cc"
+    },
+    {
+      "id": "pineal-10x",
+      "name": "Pineal 10x Gold",
+      "sourceFile": "topics/wellness/nutrition/pineal-10x.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "RECONCILE THE BUNDLE TOTALS",
+      "checks": [
+        "Same page",
+        "Bundle quantity",
+        "Final checkout"
+      ],
+      "highlight": "Nutrition",
+      "status": "prepared",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/07-pineal-10x-gemini.jpg",
+      "imageFile": "images/07-pineal-10x-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Midnight blue, copper and sand, two empty abstract tags and geometric magnifier; no currency or product. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Pineal 10x Gold”, “RECONCILE THE BUNDLE TOTALS”, “Same page”, “Bundle quantity”, “Final checkout”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image.",
+      "pinterestTitle": "Pineal 10x Gold: reconcile the bundle totals",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Pineal 10x Gold guide notes conflicting bundle totals on the seller page. Match the selected quantity and displayed total, then confirm the final checkout amount and any delivery charges. A 575 mg combined blend is a total, not the amount of each listed ingredient. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nRECONCILE THE BUNDLE TOTALS\n\nThe Pineal 10x Gold guide notes conflicting bundle totals on the seller page. Match the selected quantity and displayed total, then confirm the final checkout amount and any delivery charges. A 575 mg combined blend is a total, not the amount of each listed ingredient.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-10x?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=pineal-10x\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nRECONCILE THE BUNDLE TOTALS\n\nThe Pineal 10x Gold guide notes conflicting bundle totals on the seller page. Match the selected quantity and displayed total, then confirm the final checkout amount and any delivery charges. A 575 mg combined blend is a total, not the amount of each listed ingredient.\n\nSave this checklist. Find “Pineal 10x Gold” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-10x?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=pineal-10x\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Pineal 10x Gold. RECONCILE THE BUNDLE TOTALS. Checklist: Same page; Bundle quantity; Final checkout. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-10x?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=pineal-10x",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-10x?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=pineal-10x",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pineal-10x?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=pineal-10x"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "pending"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "pending"
+        },
+        "highlight": {
+          "status": "pending"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "474f86ed132746291b7875a42d92f5978930286c98c027393da5972d9f84ff53"
+    },
+    {
+      "id": "yara-hair-vitamins",
+      "name": "Yara Hair Vitamins",
+      "sourceFile": "topics/wellness/nutrition/yara-hair-vitamins.html",
+      "sourceReviewDate": "2026-10-26",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "headline": "CHECK THE RECURRING CHARGE",
+      "checks": [
+        "Monthly renewal",
+        "Full commitment",
+        "Return terms"
+      ],
+      "highlight": "Hair",
+      "status": "prepared",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/08-yara-hair-vitamins.jpg",
+      "imageFile": "images/08-yara-hair-vitamins.jpg",
+      "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Olive and dusty pink on cream, abstract undated calendar with circular arrow and blank card; no hair imagery or product. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Yara Hair Vitamins”, “CHECK THE RECURRING CHARGE”, “Monthly renewal”, “Full commitment”, “Return terms”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image.",
+      "pinterestTitle": "Yara Hair Vitamins: check the recurring charge",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Yara Hair Vitamins guide notes that its affiliate link opened a monthly subscription checkout. Check the renewal amount, full commitment, delivery destination and written return instructions before ordering. The guide describes the seller’s label; it does not establish a hair-growth result. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE RECURRING CHARGE\n\nThe Yara Hair Vitamins guide notes that its affiliate link opened a monthly subscription checkout. Check the renewal amount, full commitment, delivery destination and written return instructions before ordering. The guide describes the seller’s label; it does not establish a hair-growth result.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=yara-hair-vitamins\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE RECURRING CHARGE\n\nThe Yara Hair Vitamins guide notes that its affiliate link opened a monthly subscription checkout. Check the renewal amount, full commitment, delivery destination and written return instructions before ordering. The guide describes the seller’s label; it does not establish a hair-growth result.\n\nSave this checklist. Find “Yara Hair Vitamins” on the PokiSky blog.\n\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=yara-hair-vitamins\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #BuyingGuide #PokiSky",
+      "altText": "PokiSky guide to Yara Hair Vitamins. CHECK THE RECURRING CHARGE. Checklist: Monthly renewal; Full commitment; Return terms. Conceptual editorial illustration. AI editorial illustration; affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=yara-hair-vitamins",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=yara-hair-vitamins",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/yara-hair-vitamins?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_first_guides_20261106&utm_content=yara-hair-vitamins"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "pending"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "pending"
+        },
+        "highlight": {
+          "status": "pending"
+        }
+      },
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "e622b329c38a8fc5639c66cd1d6e8d233a8174ff060899f046f128b25891c273"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "status": "prepared",
+  "campaign": "supplement_first_guides_20261106",
+  "checks": {
+    "uniquePublicGuides": 8,
+    "distinctGeminiImages": 8,
+    "imageFilesExist": true,
+    "dimensions": "928x1152",
+    "affiliateDisclosure": true,
+    "platformSpecificUrls": true,
+    "altText": true
+  },
+  "publications": "not_published"
+}

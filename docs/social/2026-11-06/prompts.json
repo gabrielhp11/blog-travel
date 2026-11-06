@@ -1,0 +1,34 @@
+[
+  {
+    "id": "synaptigen",
+    "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Slate blue and lavender, three abstract calendar cards linked by a dotted timeline; no microbes, brain imagery or packaging. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Synaptigen”, “CHECK THE TIME POINT”, “At manufacture”, “Expiry guarantee”, “Current panel”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image."
+  },
+  {
+    "id": "vertigenics",
+    "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Pine green and amber, abstract split formula card and geometric capsule-like shapes; no packaging. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Vertigenics”, “SEPARATE SERVING FROM DIRECTIONS”, “Two capsules”, “Thirty servings”, “Current directions”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image."
+  },
+  {
+    "id": "senflo-gummies",
+    "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Minimal cream, coral and navy typographic poster with large abstract shapes; no product or people. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “SenFlo Gummies”, “REQUEST THE FULL LABEL”, “Ingredient amounts”, “Serving directions”, “Shipping total”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image."
+  },
+  {
+    "id": "nerve-fresh",
+    "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Pale background, teal and tangerine abstract branching paths from a single card; no nerve imagery or product. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Nerve Fresh”, “ONE CAPSULE OR TWO DIRECTIONS?”, “Headline serving”, “FAQ directions”, “Full label”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image."
+  },
+  {
+    "id": "nerve-soothe",
+    "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Ivory, plum and sage, abstract blank stacked cards and circular arrow. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Nerve Soothe”, “CHECK THE TOTAL ORDER”, “Unit price”, “Shipping”, “Return postage”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image."
+  },
+  {
+    "id": "nervogen-pro",
+    "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Cobalt blue, pale yellow and white, abstract undated calendar, envelope and arrow. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Nervogen Pro”, “WHEN DOES THE CLOCK START?”, “Shipment date”, “Return deadline”, “Postage terms”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image."
+  },
+  {
+    "id": "pineal-10x",
+    "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Midnight blue, copper and sand, two empty abstract tags and geometric magnifier; no currency or product. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Pineal 10x Gold”, “RECONCILE THE BUNDLE TOTALS”, “Same page”, “Bundle quantity”, “Final checkout”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image."
+  },
+  {
+    "id": "yara-hair-vitamins",
+    "geminiPrompt": "Create one vertical 4:5 premium editorial illustration for Instagram. Visual direction: Olive and dusty pink on cream, abstract undated calendar with circular arrow and blank card; no hair imagery or product. Use mobile-readable high-contrast typography and safe margins. Include these exact text blocks only: “PokiSky”, “SUPPLEMENT BUYING GUIDE”, “Yara Hair Vitamins”, “CHECK THE RECURRING CHARGE”, “Monthly renewal”, “Full commitment”, “Return terms”, “Read the guide”, “AI editorial illustration · Affiliate guide”. No other text, labels, logos, packaging, people, results, prices or health promises. Generate one image."
+  }
+]

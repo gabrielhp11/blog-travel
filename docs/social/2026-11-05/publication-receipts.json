@@ -1,0 +1,154 @@
+{
+  "campaign": "supplement_first_guides_20261105",
+  "status": "complete",
+  "posts": [
+    {
+      "id": "top-t",
+      "pinterest": {
+        "status": "verified_public",
+        "url": "https://br.pinterest.com/pin/765471267964209934/"
+      },
+      "meta": {
+        "status": "verified_public",
+        "metaId": "122105177529532355"
+      },
+      "instagram": {
+        "status": "verified_public",
+        "url": "https://www.instagram.com/pokisky.guides/p/DfYBPaTDKNB/"
+      },
+      "facebook": {
+        "status": "verified_public",
+        "url": "https://facebook.com/permalink.php?story_fbid=pfbid028Cik5ypx4D2ZyApUaEjLL329DZesLMYYJpMSvoggdLbUZbaAFM4MD6ZPUYfxhXFUl&id=61595970654481"
+      },
+      "storyIds": [
+        "4024105591273960438",
+        "4024105547309267578",
+        "4024105497405463044"
+      ],
+      "highlight": "Nutrition",
+      "storyStatus": "published_highlight_verified"
+    },
+    {
+      "id": "black-ox",
+      "pinterest": {
+        "status": "verified_public",
+        "url": "https://br.pinterest.com/pin/765471267964209950/"
+      },
+      "meta": {
+        "status": "verified_public",
+        "metaId": "122105178321532355"
+      },
+      "instagram": {
+        "status": "verified_public",
+        "url": "https://www.instagram.com/pokisky.guides/p/DfYBZPJDJik/"
+      },
+      "facebook": {
+        "status": "verified_public",
+        "url": "https://facebook.com/permalink.php?story_fbid=pfbid0DkTKJGBATvAYzPvco67DssFnouXthVwYMRJsGTEJiEbv3v4YGVhWqxErfbc1qr15l&id=61595970654481"
+      },
+      "storyIds": [
+        "4024105591273960438",
+        "4024105547309267578",
+        "4024105497405463044"
+      ],
+      "highlight": "Nutrition",
+      "storyStatus": "published_highlight_verified"
+    },
+    {
+      "id": "pineal-guardian",
+      "pinterest": {
+        "status": "verified_public",
+        "url": "https://br.pinterest.com/pin/765471267964209955/"
+      },
+      "meta": {
+        "status": "verified_public",
+        "metaId": "122105296269532355"
+      },
+      "instagram": {
+        "status": "verified_public",
+        "url": "https://www.instagram.com/pokisky.guides/p/DfYfJgfjEE-/"
+      },
+      "facebook": {
+        "status": "verified_public",
+        "url": "https://facebook.com/permalink.php?story_fbid=pfbid0kevHqR11xJKHRNi4T9XA89g7uT8q72YdpakZ2P7C3obY2UvNvu3uRbxsR6ofJt27l&id=61595970654481"
+      },
+      "storyIds": [
+        "4024384876119075945",
+        "4024384729813368001"
+      ],
+      "highlight": "Brain",
+      "storyStatus": "published_highlight_verified"
+    },
+    {
+      "id": "pineal-xt",
+      "pinterest": {
+        "status": "verified_public",
+        "url": "https://br.pinterest.com/pin/765471267964212908/"
+      },
+      "instagram": {
+        "status": "verified_public",
+        "url": "https://www.instagram.com/pokisky.guides/p/DfYfSfbDDqx/"
+      },
+      "meta": {
+        "status": "verified_public",
+        "metaId": "122105296917532355"
+      },
+      "facebook": {
+        "status": "verified_public",
+        "url": "https://facebook.com/permalink.php?story_fbid=pfbid02jbykm6xcVb1CaqbxGKBcodDyJrM2o192wBwpXZYM8jtWdqZBJv7gbdvk1UwdPU6yl&id=61595970654481"
+      },
+      "storyIds": [
+        "4024105591273960438",
+        "4024105547309267578",
+        "4024105497405463044"
+      ],
+      "highlight": "Nutrition",
+      "storyStatus": "published_highlight_verified"
+    },
+    {
+      "id": "claritox-pro",
+      "pinterest": {
+        "status": "verified_public",
+        "url": "https://br.pinterest.com/pin/765471267964212931/"
+      },
+      "instagram": {
+        "status": "verified_public",
+        "url": "https://www.instagram.com/pokisky.guides/p/DfYfZdgDM_l/"
+      },
+      "meta": {
+        "status": "verified_public",
+        "metaId": "122105297343532355"
+      },
+      "facebook": {
+        "status": "verified_public",
+        "url": "https://facebook.com/permalink.php?story_fbid=pfbid02dQTcZvNYJNPoAfB1ZmQQfFCHGjEsqDpmzHnZMgPdBR3aebPHc1TYCjpRSC8ntgnQl&id=61595970654481"
+      },
+      "storyIds": [
+        "4024384876119075945",
+        "4024384729813368001"
+      ],
+      "highlight": "Brain",
+      "storyStatus": "published_highlight_verified"
+    }
+  ],
+  "stories": {
+    "instagram": "https://www.instagram.com/pokisky.guides/",
+    "publishedCount": 5,
+    "nutrition": {
+      "highlightCount": 16,
+      "storyIds": [
+        "4024105591273960438",
+        "4024105547309267578",
+        "4024105497405463044"
+      ]
+    },
+    "brain": {
+      "highlightCount": 9,
+      "storyIds": [
+        "4024384876119075945",
+        "4024384729813368001"
+      ]
+    },
+    "linkSticker": "unavailable in Meta interface"
+  }
+}

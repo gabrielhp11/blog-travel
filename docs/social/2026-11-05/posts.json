@@ -3,8 +3,8 @@
   "brand": "PokiSky",
   "createdDate": "2026-11-05",
   "language": "en",
-  "status": "prepared",
-  "notes": "Five complete posts prepared with Gemini artwork, platform-specific English copy, UTM guide links and alt text. Creation-only request; publication remains not_published.",
+  "status": "published_verified",
+  "notes": "Five complete posts published and verified on Pinterest, Facebook and Instagram; five Instagram Stories archived and saved in Nutrition or Brain highlights. Public links and Meta IDs in publication-receipts.json.",
   "posts": [
     {
       "id": "top-t",
@@ -21,7 +21,7 @@
         "Order version"
       ],
       "highlight": "Nutrition",
-      "status": "prepared",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/01-top-t-gemini.jpg",
@@ -39,18 +39,32 @@
       },
       "publications": {
         "pinterest": {
-          "status": "not_published"
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964209934/"
         },
         "facebook": {
-          "status": "not_published"
+          "status": "verified_public",
+          "metaId": "122105177529532355",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid028Cik5ypx4D2ZyApUaEjLL329DZesLMYYJpMSvoggdLbUZbaAFM4MD6ZPUYfxhXFUl&id=61595970654481"
         },
         "instagram": {
-          "status": "not_published"
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfYBPaTDKNB/"
         }
       },
       "imageWidth": 928,
       "imageHeight": 1152,
-      "imageSha256": "cd91f082a5ecdf647584233138bc80c5134d7edb216d47f08d78833f600f6978"
+      "imageSha256": "cd91f082a5ecdf647584233138bc80c5134d7edb216d47f08d78833f600f6978",
+      "story": {
+        "highlightCount": 16,
+        "storyIds": [
+          "4024105591273960438",
+          "4024105547309267578",
+          "4024105497405463044"
+        ],
+        "highlight": "Nutrition",
+        "status": "published_highlight_verified"
+      }
     },
     {
       "id": "black-ox",
@@ -67,7 +81,7 @@
         "Exact version"
       ],
       "highlight": "Nutrition",
-      "status": "prepared",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/02-black-ox-gemini.jpg",
@@ -85,18 +99,32 @@
       },
       "publications": {
         "pinterest": {
-          "status": "not_published"
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964209950/"
         },
         "facebook": {
-          "status": "not_published"
+          "status": "verified_public",
+          "metaId": "122105178321532355",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0DkTKJGBATvAYzPvco67DssFnouXthVwYMRJsGTEJiEbv3v4YGVhWqxErfbc1qr15l&id=61595970654481"
         },
         "instagram": {
-          "status": "not_published"
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfYBZPJDJik/"
         }
       },
       "imageWidth": 928,
       "imageHeight": 1152,
-      "imageSha256": "812edaad368abba1da3c8d17c35a569cc202175226f3632d3394b8175c3ac4eb"
+      "imageSha256": "812edaad368abba1da3c8d17c35a569cc202175226f3632d3394b8175c3ac4eb",
+      "story": {
+        "highlightCount": 16,
+        "storyIds": [
+          "4024105591273960438",
+          "4024105547309267578",
+          "4024105497405463044"
+        ],
+        "highlight": "Nutrition",
+        "status": "published_highlight_verified"
+      }
     },
     {
       "id": "pineal-guardian",
@@ -113,7 +141,7 @@
         "Current X version"
       ],
       "highlight": "Brain",
-      "status": "prepared",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/03-pineal-guardian-gemini.jpg",
@@ -131,18 +159,31 @@
       },
       "publications": {
         "pinterest": {
-          "status": "not_published"
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964209955/"
         },
         "facebook": {
-          "status": "not_published"
+          "status": "verified_public",
+          "metaId": "122105296269532355",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid0kevHqR11xJKHRNi4T9XA89g7uT8q72YdpakZ2P7C3obY2UvNvu3uRbxsR6ofJt27l&id=61595970654481"
         },
         "instagram": {
-          "status": "not_published"
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfYfJgfjEE-/"
         }
       },
       "imageWidth": 928,
       "imageHeight": 1152,
-      "imageSha256": "2d0350d26e6d097d2bada6d7527ff94369b2c80740b4d192c98a5da0d7002f4a"
+      "imageSha256": "2d0350d26e6d097d2bada6d7527ff94369b2c80740b4d192c98a5da0d7002f4a",
+      "story": {
+        "highlightCount": 9,
+        "storyIds": [
+          "4024384876119075945",
+          "4024384729813368001"
+        ],
+        "highlight": "Brain",
+        "status": "published_highlight_verified"
+      }
     },
     {
       "id": "pineal-xt",
@@ -159,7 +200,7 @@
         "Order match"
       ],
       "highlight": "Nutrition",
-      "status": "prepared",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/04-pineal-xt-gemini.jpg",
@@ -177,18 +218,32 @@
       },
       "publications": {
         "pinterest": {
-          "status": "not_published"
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964212908/"
         },
         "facebook": {
-          "status": "not_published"
+          "status": "verified_public",
+          "metaId": "122105296917532355",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid02jbykm6xcVb1CaqbxGKBcodDyJrM2o192wBwpXZYM8jtWdqZBJv7gbdvk1UwdPU6yl&id=61595970654481"
         },
         "instagram": {
-          "status": "not_published"
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfYfSfbDDqx/"
         }
       },
       "imageWidth": 928,
       "imageHeight": 1152,
-      "imageSha256": "90ddcb753daf124b2180c51ab93742011e0a03a335cb63b807d8ca2c725ae3c3"
+      "imageSha256": "90ddcb753daf124b2180c51ab93742011e0a03a335cb63b807d8ca2c725ae3c3",
+      "story": {
+        "highlightCount": 16,
+        "storyIds": [
+          "4024105591273960438",
+          "4024105547309267578",
+          "4024105497405463044"
+        ],
+        "highlight": "Nutrition",
+        "status": "published_highlight_verified"
+      }
     },
     {
       "id": "claritox-pro",
@@ -205,7 +260,7 @@
         "Postage terms"
       ],
       "highlight": "Brain",
-      "status": "prepared",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/05-claritox-pro-gemini.jpg",
@@ -223,20 +278,32 @@
       },
       "publications": {
         "pinterest": {
-          "status": "not_published"
+          "status": "verified_public",
+          "url": "https://br.pinterest.com/pin/765471267964212931/"
         },
         "facebook": {
-          "status": "not_published"
+          "status": "verified_public",
+          "metaId": "122105297343532355",
+          "url": "https://facebook.com/permalink.php?story_fbid=pfbid02dQTcZvNYJNPoAfB1ZmQQfFCHGjEsqDpmzHnZMgPdBR3aebPHc1TYCjpRSC8ntgnQl&id=61595970654481"
         },
         "instagram": {
-          "status": "not_published"
+          "status": "verified_public",
+          "url": "https://www.instagram.com/pokisky.guides/p/DfYfZdgDM_l/"
         }
       },
       "imageWidth": 928,
       "imageHeight": 1152,
-      "imageSha256": "66685ae08ef32ff29b048587bf8f7680fa11d93298378a9e5db76cf303b280b1"
+      "imageSha256": "66685ae08ef32ff29b048587bf8f7680fa11d93298378a9e5db76cf303b280b1",
+      "story": {
+        "highlightCount": 9,
+        "storyIds": [
+          "4024384876119075945",
+          "4024384729813368001"
+        ],
+        "highlight": "Brain",
+        "status": "published_highlight_verified"
+      }
     }
   ],
-  "geminiConversation": "https://gemini.google.com/app/a119ff54a8e5910a",
-  "artworkBlocker": "Browser URL policy rejected access to the downloads page. Browser interactions stopped per WORKFLOW.md. First artwork generated; native original download clicked, but no definitive local file verified. No artwork delivered or published."
+  "geminiConversation": "https://gemini.google.com/app/a119ff54a8e5910a"
 }

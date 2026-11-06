@@ -1,0 +1,33 @@
+{
+  "campaign": "supplement_first_guides_20261106",
+  "status": "in_progress",
+  "completedFeedCrossposts": [
+    {
+      "post": "synaptigen",
+      "metaId": "122105634045532355"
+    },
+    {
+      "post": "vertigenics",
+      "metaId": "122105640285532355"
+    },
+    {
+      "post": "senflo-gummies",
+      "metaId": "122105644965532355"
+    }
+  ],
+  "pendingFeedPosts": [
+    "nerve-fresh",
+    "nerve-soothe",
+    "nervogen-pro",
+    "pineal-10x",
+    "yara-hair-vitamins"
+  ],
+  "pinterest": {
+    "note": "Do not retry Synaptigen until the previous save state is resolved.",
+    "synaptigen": "attempted_unconfirmed_recaptcha_connection_error",
+    "otherPins": "pending"
+  },
+  "stories": "pending",
+  "highlights": "pending",
+  "lastUpdated": "2026-11-06"
+}

@@ -121,3 +121,7 @@ Cinco novos enfoques em `2026-11-03/posts.json`: Elixolve Sleep Strips, Gluconit
 ## Campanha de 04/11/2026
 
 Cinco novos recortes em BrainAMP, Advanced Prostate Formula, Prime Perform Pro, KetoSana e SpartaMax. As cinco artes vieram do Gemini e os 15 links das redes estão em `2026-11-04/DELIVERY.md`. Os cinco Stories foram salvos e verificados em Brain (7), Mens Health (10) e Metabolic (14). Instagram com 74 posts. No editor de texto alternativo da Meta, o botão Aplicar fora da área visível respondeu à tecla Enter. Na edição de destaques, conferir a contagem antes de salvar e os IDs na seção de selecionados depois de reabrir.
+
+## Escopo permanente confirmado em 05/11/2026
+
+Quando o usuário pedir para seguir o fluxo de criação, concluir a campanha inteira: preparar os posts, gerar e revisar as artes no Gemini, publicar no Pinterest, Facebook e Instagram, publicar Stories no Instagram, salvar nos destaques por tema e verificar os resultados com links e evidências. A autorização de publicação está incluída nessa solicitação. Registrar bloqueios e estados reais por item e concluir o envio ao GitHub.
