@@ -1,33 +1,114 @@
 {
   "campaign": "supplement_first_guides_20261106",
-  "status": "in_progress",
-  "completedFeedCrossposts": [
+  "status": "complete_verified",
+  "completedDate": "2026-11-06",
+  "platforms": [
+    "Facebook",
+    "Instagram",
+    "Pinterest"
+  ],
+  "posts": [
     {
-      "post": "synaptigen",
-      "metaId": "122105634045532355"
+      "pinterestPinId": "765471267964219520",
+      "instagramStoryId": "4024411612340976502",
+      "pinterestUrl": "https://uk.pinterest.com/pin/765471267964219520/",
+      "facebookInstagramMetaId": "122105634045532355",
+      "id": "synaptigen",
+      "highlight": "Brain"
     },
     {
-      "post": "vertigenics",
-      "metaId": "122105640285532355"
+      "pinterestPinId": "765471267964219930",
+      "instagramStoryId": "4024412493422358858",
+      "pinterestUrl": "https://uk.pinterest.com/pin/765471267964219930/",
+      "facebookInstagramMetaId": "122105640285532355",
+      "id": "vertigenics",
+      "highlight": "Brain"
     },
     {
-      "post": "senflo-gummies",
-      "metaId": "122105644965532355"
+      "pinterestPinId": "765471267964219948",
+      "instagramStoryId": "4024412591594242496",
+      "pinterestUrl": "https://uk.pinterest.com/pin/765471267964219948/",
+      "facebookInstagramMetaId": "122105644965532355",
+      "id": "senflo-gummies",
+      "highlight": "Digestion"
+    },
+    {
+      "pinterestPinId": "765471267964219955",
+      "instagramStoryId": "4024412638914358657",
+      "pinterestUrl": "https://uk.pinterest.com/pin/765471267964219955/",
+      "facebookInstagramMetaId": "122105648595532355",
+      "id": "nerve-fresh",
+      "highlight": "Nutrition"
+    },
+    {
+      "pinterestPinId": "765471267964219961",
+      "instagramStoryId": "4024412439835914705",
+      "pinterestUrl": "https://uk.pinterest.com/pin/765471267964219961/",
+      "facebookInstagramMetaId": "122105649039532355",
+      "id": "nerve-soothe",
+      "highlight": "Nutrition"
+    },
+    {
+      "pinterestPinId": "765471267964219963",
+      "instagramStoryId": "4024411737532538493",
+      "pinterestUrl": "https://uk.pinterest.com/pin/765471267964219963/",
+      "facebookInstagramMetaId": "122105649627532355",
+      "id": "nervogen-pro",
+      "highlight": "Nutrition"
+    },
+    {
+      "pinterestPinId": "765471267964219966",
+      "instagramStoryId": "4024412544156664901",
+      "pinterestUrl": "https://uk.pinterest.com/pin/765471267964219966/",
+      "facebookInstagramMetaId": "122105649969532355",
+      "id": "pineal-10x",
+      "highlight": "Nutrition"
+    },
+    {
+      "pinterestPinId": "765471267964219970",
+      "instagramStoryId": "4024412692609829878",
+      "pinterestUrl": "https://uk.pinterest.com/pin/765471267964219970/",
+      "facebookInstagramMetaId": "122105650323532355",
+      "id": "yara-hair-vitamins",
+      "highlight": "Hair"
     }
   ],
-  "pendingFeedPosts": [
-    "nerve-fresh",
-    "nerve-soothe",
-    "nervogen-pro",
-    "pineal-10x",
-    "yara-hair-vitamins"
+  "highlights": [
+    {
+      "added": [
+        "Synaptigen",
+        "Vertigenics"
+      ],
+      "total": 11,
+      "name": "Brain"
+    },
+    {
+      "added": [
+        "Nerve Fresh",
+        "Nerve Soothe",
+        "Nervogen Pro",
+        "Pineal 10x Gold"
+      ],
+      "total": 20,
+      "name": "Nutrition"
+    },
+    {
+      "added": [
+        "SenFlo Gummies"
+      ],
+      "total": 8,
+      "name": "Digestion"
+    },
+    {
+      "added": [
+        "Yara Hair Vitamins"
+      ],
+      "total": 2,
+      "name": "Hair"
+    }
   ],
-  "pinterest": {
-    "note": "Do not retry Synaptigen until the previous save state is resolved.",
-    "synaptigen": "attempted_unconfirmed_recaptcha_connection_error",
-    "otherPins": "pending"
-  },
-  "stories": "pending",
-  "highlights": "pending",
-  "lastUpdated": "2026-11-06"
+  "verification": {
+    "meta": "All eight Meta success receipts and story active-list entries confirmed; highlight editors showed Brain 11, Nutrition 20, Digestion 8, Hair 2.",
+    "pinterest": "All eight titles visibly present in the PokiSky profile Created grid; each publication returned a Pin success receipt."
+  }
 }

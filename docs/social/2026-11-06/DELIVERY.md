@@ -1,16 +1,16 @@
 # Oito posts — 6 de novembro de 2026
 
-Oito posts individuais preparados com artes originais do Gemini, legendas separadas por rede, avisos de afiliado, UTMs e texto alternativo. Três publicações cruzadas já estão no Facebook e Instagram. A campanha está **em andamento**, não concluída.
+Campanha concluída e verificada em Facebook, Instagram e Pinterest. Cada um dos oito posts tem arte Gemini, texto adaptado por rede, aviso de afiliado, URL UTM e texto alternativo. Os oito Pins aparecem na grade “Criados” do perfil PokiSky; cada um retornou recibo de sucesso do Pinterest.
 
-| Post | Enfoque | Estado |
-| --- | --- | --- |
-| Synaptigen | CHECK THE TIME POINT | Facebook + Instagram publicados; tentativa no Pinterest sem confirmação por erro de conexão do reCAPTCHA |
-| Vertigenics | SEPARATE SERVING FROM DIRECTIONS | Facebook + Instagram publicados |
-| SenFlo Gummies | REQUEST THE FULL LABEL | Facebook + Instagram publicados |
-| Nerve Fresh | ONE CAPSULE OR TWO DIRECTIONS? | Pendente |
-| Nerve Soothe | CHECK THE TOTAL ORDER | Pendente |
-| Nervogen Pro | WHEN DOES THE CLOCK START? | Pendente |
-| Pineal 10x Gold | RECONCILE THE BUNDLE TOTALS | Pendente |
-| Yara Hair Vitamins | CHECK THE RECURRING CHARGE | Pendente |
+| Post | Destaque | Facebook + Instagram | Pinterest |
+| --- | --- | --- | --- |
+| Synaptigen | Brain | 122105634045532355 | [Pin](https://uk.pinterest.com/pin/765471267964219520/) |
+| Vertigenics | Brain | 122105640285532355 | [Pin](https://uk.pinterest.com/pin/765471267964219930/) |
+| SenFlo Gummies | Digestion | 122105644965532355 | [Pin](https://uk.pinterest.com/pin/765471267964219948/) |
+| Nerve Fresh | Nutrition | 122105648595532355 | [Pin](https://uk.pinterest.com/pin/765471267964219955/) |
+| Nerve Soothe | Nutrition | 122105649039532355 | [Pin](https://uk.pinterest.com/pin/765471267964219961/) |
+| Nervogen Pro | Nutrition | 122105649627532355 | [Pin](https://uk.pinterest.com/pin/765471267964219963/) |
+| Pineal 10x Gold | Nutrition | 122105649969532355 | [Pin](https://uk.pinterest.com/pin/765471267964219966/) |
+| Yara Hair Vitamins | Hair | 122105650323532355 | [Pin](https://uk.pinterest.com/pin/765471267964219970/) |
 
-Ainda faltam cinco posts de feed, os Pins, os Stories e a inclusão nos destaques temáticos. Não repetir a tentativa de Pin de Synaptigen até confirmar se o salvamento anterior ocorreu. IDs das publicações e estado detalhado estão em publication-receipts.json e posts.json.
+Também foram publicados oito Instagram Stories. Eles foram preservados no arquivo e adicionados aos destaques existentes: Brain (11 Stories), Nutrition (20), Digestion (8) e Hair (2). Os IDs individuais constam em publication-receipts.json.

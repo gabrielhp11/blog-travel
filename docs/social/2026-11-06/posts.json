@@ -3,8 +3,8 @@
   "brand": "PokiSky",
   "createdDate": "2026-11-06",
   "language": "en",
-  "status": "in_progress",
-  "notes": "Eight artworks and copy prepared individually. Three feed cross-posts published on Facebook and Instagram. Remaining five feed posts, Stories and Highlights pending. Pinterest attempt for Synaptigen is unconfirmed due reCAPTCHA connection error; no duplicate retry made.",
+  "status": "complete_verified",
+  "notes": "All eight individual posts published on Facebook and Instagram, all eight Pins verified on the PokiSky Pinterest profile, and all eight Stories archived and saved into the themed Highlights. Feed publication receipts are Meta Business Suite IDs. Artworks, disclosures, platform-specific UTM links and alt text retained.",
   "posts": [
     {
       "id": "synaptigen",
@@ -21,7 +21,7 @@
         "Current panel"
       ],
       "highlight": "Brain",
-      "status": "feed_published",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/01-synaptigen-gemini.jpg",
@@ -39,24 +39,30 @@
       },
       "publications": {
         "pinterest": {
-          "error": "Pinterest reCAPTCHA service connection error; save outcome unknown; do not retry until state resolved",
-          "status": "attempted_unconfirmed"
+          "url": "https://uk.pinterest.com/pin/765471267964219520/",
+          "pin_id": "765471267964219520",
+          "status": "published_verified"
         },
         "facebook": {
+          "platform": "Facebook via Meta cross-post",
           "meta_id": "122105634045532355",
-          "status": "published_via_meta",
-          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+          "status": "published_verified"
         },
         "instagram": {
+          "platform": "Instagram via Meta cross-post",
           "meta_id": "122105634045532355",
-          "status": "published_via_meta",
-          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+          "status": "published_verified"
         },
         "stories": {
-          "status": "pending"
+          "story_id": "4024411612340976502",
+          "platform": "Instagram Stories",
+          "status": "published_verified",
+          "archived": true
         },
         "highlight": {
-          "status": "pending"
+          "status": "saved_verified",
+          "total_items_after_update": 11,
+          "name": "Brain"
         }
       },
       "imageWidth": 928,
@@ -78,7 +84,7 @@
         "Current directions"
       ],
       "highlight": "Brain",
-      "status": "feed_published",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/02-vertigenics-gemini.jpg",
@@ -96,23 +102,30 @@
       },
       "publications": {
         "pinterest": {
-          "status": "pending"
+          "url": "https://uk.pinterest.com/pin/765471267964219930/",
+          "pin_id": "765471267964219930",
+          "status": "published_verified"
         },
         "facebook": {
+          "platform": "Facebook via Meta cross-post",
           "meta_id": "122105640285532355",
-          "status": "published_via_meta",
-          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+          "status": "published_verified"
         },
         "instagram": {
+          "platform": "Instagram via Meta cross-post",
           "meta_id": "122105640285532355",
-          "status": "published_via_meta",
-          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+          "status": "published_verified"
         },
         "stories": {
-          "status": "pending"
+          "story_id": "4024412493422358858",
+          "platform": "Instagram Stories",
+          "status": "published_verified",
+          "archived": true
         },
         "highlight": {
-          "status": "pending"
+          "status": "saved_verified",
+          "total_items_after_update": 11,
+          "name": "Brain"
         }
       },
       "imageWidth": 928,
@@ -134,7 +147,7 @@
         "Shipping total"
       ],
       "highlight": "Digestion",
-      "status": "feed_published",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/03-senflo-gummies-gemini.jpg",
@@ -152,23 +165,30 @@
       },
       "publications": {
         "pinterest": {
-          "status": "pending"
+          "url": "https://uk.pinterest.com/pin/765471267964219948/",
+          "pin_id": "765471267964219948",
+          "status": "published_verified"
         },
         "facebook": {
+          "platform": "Facebook via Meta cross-post",
           "meta_id": "122105644965532355",
-          "status": "published_via_meta",
-          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+          "status": "published_verified"
         },
         "instagram": {
+          "platform": "Instagram via Meta cross-post",
           "meta_id": "122105644965532355",
-          "status": "published_via_meta",
-          "verification": "Meta Business Suite success modal; cross-post targets Facebook Page and Instagram account"
+          "status": "published_verified"
         },
         "stories": {
-          "status": "pending"
+          "story_id": "4024412591594242496",
+          "platform": "Instagram Stories",
+          "status": "published_verified",
+          "archived": true
         },
         "highlight": {
-          "status": "pending"
+          "status": "saved_verified",
+          "total_items_after_update": 8,
+          "name": "Digestion"
         }
       },
       "imageWidth": 928,
@@ -190,7 +210,7 @@
         "Full label"
       ],
       "highlight": "Nutrition",
-      "status": "prepared",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/04-nerve-fresh-gemini.jpg",
@@ -208,19 +228,30 @@
       },
       "publications": {
         "pinterest": {
-          "status": "pending"
+          "url": "https://uk.pinterest.com/pin/765471267964219955/",
+          "pin_id": "765471267964219955",
+          "status": "published_verified"
         },
         "facebook": {
-          "status": "not_published"
+          "platform": "Facebook via Meta cross-post",
+          "meta_id": "122105648595532355",
+          "status": "published_verified"
         },
         "instagram": {
-          "status": "not_published"
+          "platform": "Instagram via Meta cross-post",
+          "meta_id": "122105648595532355",
+          "status": "published_verified"
         },
         "stories": {
-          "status": "pending"
+          "story_id": "4024412638914358657",
+          "platform": "Instagram Stories",
+          "status": "published_verified",
+          "archived": true
         },
         "highlight": {
-          "status": "pending"
+          "status": "saved_verified",
+          "total_items_after_update": 20,
+          "name": "Nutrition"
         }
       },
       "imageWidth": 928,
@@ -242,7 +273,7 @@
         "Return postage"
       ],
       "highlight": "Nutrition",
-      "status": "prepared",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/05-nerve-soothe-gemini.jpg",
@@ -260,19 +291,30 @@
       },
       "publications": {
         "pinterest": {
-          "status": "pending"
+          "url": "https://uk.pinterest.com/pin/765471267964219961/",
+          "pin_id": "765471267964219961",
+          "status": "published_verified"
         },
         "facebook": {
-          "status": "not_published"
+          "platform": "Facebook via Meta cross-post",
+          "meta_id": "122105649039532355",
+          "status": "published_verified"
         },
         "instagram": {
-          "status": "not_published"
+          "platform": "Instagram via Meta cross-post",
+          "meta_id": "122105649039532355",
+          "status": "published_verified"
         },
         "stories": {
-          "status": "pending"
+          "story_id": "4024412439835914705",
+          "platform": "Instagram Stories",
+          "status": "published_verified",
+          "archived": true
         },
         "highlight": {
-          "status": "pending"
+          "status": "saved_verified",
+          "total_items_after_update": 20,
+          "name": "Nutrition"
         }
       },
       "imageWidth": 928,
@@ -294,7 +336,7 @@
         "Postage terms"
       ],
       "highlight": "Nutrition",
-      "status": "prepared",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/06-nervogen-pro-gemini.jpg",
@@ -312,19 +354,30 @@
       },
       "publications": {
         "pinterest": {
-          "status": "pending"
+          "url": "https://uk.pinterest.com/pin/765471267964219963/",
+          "pin_id": "765471267964219963",
+          "status": "published_verified"
         },
         "facebook": {
-          "status": "not_published"
+          "platform": "Facebook via Meta cross-post",
+          "meta_id": "122105649627532355",
+          "status": "published_verified"
         },
         "instagram": {
-          "status": "not_published"
+          "platform": "Instagram via Meta cross-post",
+          "meta_id": "122105649627532355",
+          "status": "published_verified"
         },
         "stories": {
-          "status": "pending"
+          "story_id": "4024411737532538493",
+          "platform": "Instagram Stories",
+          "status": "published_verified",
+          "archived": true
         },
         "highlight": {
-          "status": "pending"
+          "status": "saved_verified",
+          "total_items_after_update": 20,
+          "name": "Nutrition"
         }
       },
       "imageWidth": 928,
@@ -346,7 +399,7 @@
         "Final checkout"
       ],
       "highlight": "Nutrition",
-      "status": "prepared",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/07-pineal-10x-gemini.jpg",
@@ -364,19 +417,30 @@
       },
       "publications": {
         "pinterest": {
-          "status": "pending"
+          "url": "https://uk.pinterest.com/pin/765471267964219966/",
+          "pin_id": "765471267964219966",
+          "status": "published_verified"
         },
         "facebook": {
-          "status": "not_published"
+          "platform": "Facebook via Meta cross-post",
+          "meta_id": "122105649969532355",
+          "status": "published_verified"
         },
         "instagram": {
-          "status": "not_published"
+          "platform": "Instagram via Meta cross-post",
+          "meta_id": "122105649969532355",
+          "status": "published_verified"
         },
         "stories": {
-          "status": "pending"
+          "story_id": "4024412544156664901",
+          "platform": "Instagram Stories",
+          "status": "published_verified",
+          "archived": true
         },
         "highlight": {
-          "status": "pending"
+          "status": "saved_verified",
+          "total_items_after_update": 20,
+          "name": "Nutrition"
         }
       },
       "imageWidth": 928,
@@ -398,7 +462,7 @@
         "Return terms"
       ],
       "highlight": "Hair",
-      "status": "prepared",
+      "status": "published_verified",
       "imageGenerator": "Gemini web",
       "imageStatus": "downloaded_reviewed",
       "expectedImageFile": "images/08-yara-hair-vitamins.jpg",
@@ -416,19 +480,30 @@
       },
       "publications": {
         "pinterest": {
-          "status": "pending"
+          "url": "https://uk.pinterest.com/pin/765471267964219970/",
+          "pin_id": "765471267964219970",
+          "status": "published_verified"
         },
         "facebook": {
-          "status": "not_published"
+          "platform": "Facebook via Meta cross-post",
+          "meta_id": "122105650323532355",
+          "status": "published_verified"
         },
         "instagram": {
-          "status": "not_published"
+          "platform": "Instagram via Meta cross-post",
+          "meta_id": "122105650323532355",
+          "status": "published_verified"
         },
         "stories": {
-          "status": "pending"
+          "story_id": "4024412692609829878",
+          "platform": "Instagram Stories",
+          "status": "published_verified",
+          "archived": true
         },
         "highlight": {
-          "status": "pending"
+          "status": "saved_verified",
+          "total_items_after_update": 2,
+          "name": "Hair"
         }
       },
       "imageWidth": 928,
