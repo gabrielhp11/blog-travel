@@ -1,0 +1,335 @@
+{
+  "campaign": "supplement_rotation_20261108",
+  "publicationDate": "2026-11-08",
+  "status": "complete_verified",
+  "verification": {
+    "meta": "Published list in Meta Business Suite showed Facebook and Instagram on each matching campaign caption.",
+    "pinterest": "Created grid on the PokiSky profile showed the matching Pin titles and public URLs.",
+    "stories": "Meta confirmed publication. All ten dated thumbnails were identified visually and mapped to their visible story IDs.",
+    "highlights": "Each highlight was reopened. The two new thumbnails remained selected and the total matched."
+  },
+  "posts": [
+    {
+      "id": "top-t",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108044263532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108044263532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964254584/",
+        "pin_id": "765471267964254584"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025934363258304195"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Nutrition",
+        "total_items_after_update": 25
+      }
+    },
+    {
+      "id": "black-ox",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108045415532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108045415532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964254591/",
+        "pin_id": "765471267964254591"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025934422825816393"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Nutrition",
+        "total_items_after_update": 25
+      }
+    },
+    {
+      "id": "focus-iq",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108050617532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108050617532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964254649/",
+        "pin_id": "765471267964254649"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025934526425106503"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Brain",
+        "total_items_after_update": 14
+      }
+    },
+    {
+      "id": "mindsilence",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108046117532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108046117532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964254600/",
+        "pin_id": "765471267964254600"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025934474927421315"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Brain",
+        "total_items_after_update": 14
+      }
+    },
+    {
+      "id": "digestistart",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108046411532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108046411532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964254609/",
+        "pin_id": "765471267964254609"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025934573032227399"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Digestion",
+        "total_items_after_update": 11
+      }
+    },
+    {
+      "id": "integrative-digestive-formula",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108048325532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108048325532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964254617/",
+        "pin_id": "765471267964254617"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025934627893677157"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Digestion",
+        "total_items_after_update": 11
+      }
+    },
+    {
+      "id": "glp-1-plus",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108051277532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108051277532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964254654/",
+        "pin_id": "765471267964254654"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025934689868722275"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Metabolic",
+        "total_items_after_update": 16
+      }
+    },
+    {
+      "id": "insulin-herb-berberine",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108052045532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108052045532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964254662/",
+        "pin_id": "765471267964254662"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025934742926658035"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Metabolic",
+        "total_items_after_update": 16
+      }
+    },
+    {
+      "id": "rhythmone",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108056209532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108056209532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964254685/",
+        "pin_id": "765471267964254685"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025934796286633524"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Longevity",
+        "total_items_after_update": 9
+      }
+    },
+    {
+      "id": "advanced-mitochondrial-formula",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108061909532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108061909532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964254688/",
+        "pin_id": "765471267964254688"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025934846878293921"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Longevity",
+        "total_items_after_update": 9
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "name": "Nutrition",
+      "total": 25,
+      "addedStoryIds": [
+        "4025934363258304195",
+        "4025934422825816393"
+      ]
+    },
+    {
+      "name": "Brain",
+      "total": 14,
+      "addedStoryIds": [
+        "4025934526425106503",
+        "4025934474927421315"
+      ]
+    },
+    {
+      "name": "Digestion",
+      "total": 11,
+      "addedStoryIds": [
+        "4025934573032227399",
+        "4025934627893677157"
+      ]
+    },
+    {
+      "name": "Metabolic",
+      "total": 16,
+      "addedStoryIds": [
+        "4025934689868722275",
+        "4025934742926658035"
+      ]
+    },
+    {
+      "name": "Longevity",
+      "total": 9,
+      "addedStoryIds": [
+        "4025934796286633524",
+        "4025934846878293921"
+      ]
+    }
+  ]
+}
