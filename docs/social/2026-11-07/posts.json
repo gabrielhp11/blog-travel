@@ -1,0 +1,514 @@
+{
+  "campaign": "supplement_buying_checks_20261107",
+  "brand": "PokiSky",
+  "createdDate": "2026-11-07",
+  "language": "en",
+  "status": "complete_verified",
+  "posts": [
+    {
+      "id": "denticore",
+      "name": "DentiCore",
+      "sourceFile": "topics/wellness/nutrition/denticore.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Source check already documented in the guide. No supplier recheck was performed for this campaign.",
+      "round": "first_individual_post",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "WHAT DOES 120 MG COVER?",
+      "checks": [
+        "Four separately listed minerals",
+        "Shared blend total",
+        "Undisclosed amounts within the blend"
+      ],
+      "highlight": "Nutrition",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/01-denticore-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 social feed poster for PokiSky. Use an ink navy and coral palette on warm ivory. Abstract four pieces sit together inside a single coral outline, a visual metaphor for a combined weight. Bold typography legible on a phone, generous safe margins, clean modern editorial design. Render exactly four text lines or blocks with these exact words: “PokiSky”; “DentiCore”; “WHAT DOES 120 MG COVER?”; “AI editorial illustration · Affiliate guide”. No extra words, invented products, bottles, packaging, results, people, medical imagery or logos. Generate the image now.",
+      "pinterestTitle": "DentiCore: what the 120 mg blend figure covers",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. DentiCore lists four mineral amounts separately and gives 120 mg as the combined weight of a four-ingredient blend. Use the PokiSky guide to tell individually listed amounts from the shared total. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nA number beside a blend belongs to the whole blend. In the DentiCore wrapper reviewed by PokiSky, 120 mg covers four named ingredients together. Calcium, iodine, copper and chromium each have a separate entry. The guide shows how those two parts of the panel are reported.\n\nRead the buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/denticore?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=denticore\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\n120 mg is the total for four ingredients in the DentiCore blend. The wrapper lists four minerals separately, and it gives no individual amount for each ingredient inside the blend. Save this label-reading tip for the next time you see a blend total.\n\nFind “DentiCore” on the PokiSky blog.\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/denticore?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=denticore\n\nAI editorial illustration; not product photography.\n\n#SupplementLabels #IngredientLists #PokiSky",
+      "altText": "PokiSky. DentiCore. WHAT DOES 120 MG COVER? Four abstract pieces inside a coral frame. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/denticore?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=denticore",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/denticore?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=denticore",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/denticore?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=denticore"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122106808215532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122106808215532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964237618/",
+          "pin_id": "765471267964237618"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4025213540692248304"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Nutrition",
+          "total_items_after_update": 23
+        }
+      },
+      "imageFile": "images/01-denticore-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "6401f6021573c4e3e45e4347fb5f257175d493257f67e91909184df751fc1e9d"
+    },
+    {
+      "id": "advanced-vision-formula",
+      "name": "Advanced Vision Formula",
+      "sourceFile": "topics/wellness/vision-health/advanced-vision-formula.html",
+      "sourceReviewDate": "2026-10-07",
+      "sourceReviewNote": "Source check already documented in the guide. No supplier recheck was performed for this campaign.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "CHECK THE PACK AT CHECKOUT",
+      "checks": [
+        "Selected bottle count",
+        "Final amount charged",
+        "Delivery to your address"
+      ],
+      "highlight": "Vision",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/02-advanced-vision-formula-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 social feed poster for PokiSky. Use ultramarine and bright lemon with three rows of abstract geometric tiles; give the middle row a thin highlight frame. A modern poster about order quantities. Bold typography legible on a phone, generous safe margins, clean modern editorial design. Render exactly four text lines or blocks with these exact words: “PokiSky”; “Advanced Vision Formula”; “CHECK THE PACK AT CHECKOUT”; “AI editorial illustration · Affiliate guide”. No extra words, invented products, bottles, packaging, results, people, medical imagery or logos. Generate the image now.",
+      "pinterestTitle": "Advanced Vision Formula: check which pack opens",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Advanced Vision Formula guide compares one, three and six bottles. Its order button is for three bottles. Check the selected quantity and delivered total before paying. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nComparing one, three or six bottles? The Advanced Vision Formula guide lists those options, and its main order button opens the three-bottle form. Compare the bottle count and final delivered total on the order you actually choose.\n\nRead the buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-vision-formula\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nThe pack you read about and the pack you open can be different. The Advanced Vision Formula guide compares three quantities, and its main order link opens the three-bottle option. Check the count in your cart before comparing the total.\n\nFind “Advanced Vision Formula” on the PokiSky blog.\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-vision-formula\n\nAI editorial illustration; not product photography.\n\n#CheckoutChecklist #SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky. Advanced Vision Formula. CHECK THE PACK AT CHECKOUT. Rows of blue and yellow tiles with the middle row framed. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-vision-formula",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-vision-formula",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/vision-health/advanced-vision-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-vision-formula"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122106812265532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122106812265532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964237719/",
+          "pin_id": "765471267964237719"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4025213602180719426"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Vision",
+          "total_items_after_update": 2
+        }
+      },
+      "imageFile": "images/02-advanced-vision-formula-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "ebd7d898e5d8bb8ab9cf6362b26f20dd1e25f27de2dac14c2e2085ff3e91dd01"
+    },
+    {
+      "id": "advanced-joint-support",
+      "name": "Advanced Joint Support",
+      "sourceFile": "topics/wellness/joint-health/advanced-joint-support.html",
+      "sourceReviewDate": "2026-10-08",
+      "sourceReviewNote": "Source check already documented in the guide. No supplier recheck was performed for this campaign.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "CHECK THE SHELLFISH SOURCE",
+      "checks": [
+        "Glucosamine source",
+        "Current allergen statement",
+        "Label for the version shipped"
+      ],
+      "highlight": "Joints",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/03-advanced-joint-support-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 social feed poster for PokiSky. Use deep forest green and cream, with a warm orange highlighter stripe crossing an abstract page of simple graphic lines. No literal animals or pills. Bold typography legible on a phone, generous safe margins, clean modern editorial design. Render exactly four text lines or blocks with these exact words: “PokiSky”; “Advanced Joint Support”; “CHECK THE SHELLFISH SOURCE”; “AI editorial illustration · Affiliate guide”. No extra words, invented products, bottles, packaging, results, people, medical imagery or logos. Generate the image now.",
+      "pinterestTitle": "Advanced Joint Support: check the glucosamine source",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The reviewed Advanced Joint Support label identifies crab and/or shrimp as the glucosamine source. Use the guide to locate the allergen statement and confirm it against the label for the bottle being sold. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nThe ingredient name is only part of the label. In the Advanced Joint Support panel reviewed by PokiSky, glucosamine is identified as coming from crab and/or shrimp. Check the complete allergen statement on the label for the version the seller will ship.\n\nRead the buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-joint-support\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nLooking at the Advanced Joint Support label? Find glucosamine, then read the source in the allergen statement. The panel in our guide lists crab and/or shrimp. Save this reminder to check the exact bottle label when comparing products.\n\nFind “Advanced Joint Support” on the PokiSky blog.\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-joint-support\n\nAI editorial illustration; not product photography.\n\n#AllergenLabels #SupplementLabels #PokiSky",
+      "altText": "PokiSky. Advanced Joint Support. CHECK THE SHELLFISH SOURCE. An orange highlighter stroke crossing lines on a cream page. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-joint-support",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-joint-support",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/joint-health/advanced-joint-support?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-joint-support"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122106812763532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122106812763532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964237753/",
+          "pin_id": "765471267964237753"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4025213663677601945"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Joints",
+          "total_items_after_update": 5
+        }
+      },
+      "imageFile": "images/03-advanced-joint-support-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "3bfee9dd2df89671ae338d8b362aa9c3afa9b162e6509eb3eea2d826cef6e013"
+    },
+    {
+      "id": "advanced-memory-formula",
+      "name": "Advanced Memory Formula",
+      "sourceFile": "topics/wellness/brain-health/advanced-memory-formula.html",
+      "sourceReviewDate": "2026-10-27",
+      "sourceReviewNote": "Source check already documented in the guide. No supplier recheck was performed for this campaign.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "CHECK THE REGIONAL OFFER",
+      "checks": [
+        "Destination eligibility",
+        "Shipping on the selected pack",
+        "Order-specific refund terms"
+      ],
+      "highlight": "Brain",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/04-advanced-memory-formula-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 social feed poster for PokiSky. Use muted violet and turquoise, with branching dotted paths and an abstract location pin built from triangles, without depicting an actual map. Bold typography legible on a phone, generous safe margins, clean modern editorial design. Render exactly four text lines or blocks with these exact words: “PokiSky”; “Advanced Memory Formula”; “CHECK THE REGIONAL OFFER”; “AI editorial illustration · Affiliate guide”. No extra words, invented products, bottles, packaging, results, people, medical imagery or logos. Generate the image now.",
+      "pinterestTitle": "Advanced Memory Formula: verify the delivered order",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. Use the Advanced Memory Formula buying checklist to confirm the chosen pack, shipping to your address and refund terms for that order. Check those details at the seller’s checkout. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nWhen comparing offers for Advanced Memory Formula, start with the total for the pack and address you will actually use. PokiSky’s buying checklist calls out current package options, shipping and refunds. Check those terms together, since the seller’s options can change.\n\nRead the buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-memory-formula\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nComparing Advanced Memory Formula offers? Put the selected pack, shipping for your address and refund terms on the same checklist. Save it for checkout so you can compare the full order.\n\nFind “Advanced Memory Formula” on the PokiSky blog.\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-memory-formula\n\nAI editorial illustration; not product photography.\n\n#CheckoutChecklist #BuyingGuide #PokiSky",
+      "altText": "PokiSky. Advanced Memory Formula. CHECK THE REGIONAL OFFER. Dotted paths and a geometric location marker. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-memory-formula",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-memory-formula",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/advanced-memory-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=advanced-memory-formula"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122106813693532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122106813693532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964237775/",
+          "pin_id": "765471267964237775"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4025213868997174226"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Brain",
+          "total_items_after_update": 12
+        }
+      },
+      "imageFile": "images/04-advanced-memory-formula-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "e3d1eb0a0e96270673e0a3815c6cb55172b4eaa0224b91cc6bf41cc51c828a0c"
+    },
+    {
+      "id": "adaptogen-4",
+      "name": "AdaptoGen 4.0",
+      "sourceFile": "topics/wellness/nutrition/adaptogen-4.html",
+      "sourceReviewDate": "2026-10-26",
+      "sourceReviewNote": "Source check already documented in the guide. No supplier recheck was performed for this campaign.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "HOW MANY BOTTLES CAN YOU OPEN?",
+      "checks": [
+        "Opened bottle limit",
+        "Return number",
+        "Return postage"
+      ],
+      "highlight": "Nutrition",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/05-adaptogen-4-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 social feed poster for PokiSky. Use charcoal and goldenrod. Show three abstract squares, one peeled back at a corner and two closed. Do not depict product containers. Bold typography legible on a phone, generous safe margins, clean modern editorial design. Render exactly four text lines or blocks with these exact words: “PokiSky”; “AdaptoGen 4.0”; “HOW MANY BOTTLES CAN YOU OPEN?”; “AI editorial illustration · Affiliate guide”. No extra words, invented products, bottles, packaging, results, people, medical imagery or logos. Generate the image now.",
+      "pinterestTitle": "AdaptoGen 4.0: check the opened-bottle return rule",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The AdaptoGen 4.0 return policy reviewed by PokiSky normally covers at most one opened bottle plus returned unopened bottles. Check the rules for your specific order, including return postage. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nBuying a multi-bottle pack of AdaptoGen 4.0? Ask how opening a bottle affects a return. The written policy reviewed in the guide normally refunds at most one opened bottle along with eligible unopened returns. It also calls for a return number and buyer-paid return postage. Confirm the policy that applies to your order.\n\nRead the buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=adaptogen-4\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nBefore choosing an AdaptoGen 4.0 bundle, read the opened-bottle rule. The policy in the PokiSky guide normally covers at most one opened bottle. Check your order’s terms for unopened bottles, the return number and postage.\n\nFind “AdaptoGen 4.0” on the PokiSky blog.\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=adaptogen-4\n\nAI editorial illustration; not product photography.\n\n#ReturnPolicy #SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky. AdaptoGen 4.0. HOW MANY BOTTLES CAN YOU OPEN? Three gold squares, with one corner folded back. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=adaptogen-4",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=adaptogen-4",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/adaptogen-4?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=adaptogen-4"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122106815937532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122106815937532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964237820/",
+          "pin_id": "765471267964237820"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4025213743864346762"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Nutrition",
+          "total_items_after_update": 23
+        }
+      },
+      "imageFile": "images/05-adaptogen-4-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "1be1e3e5efab3ad99adf557727e55f1b1f31ae8f4a2c9f43cba216ff311f875a"
+    },
+    {
+      "id": "primebiome",
+      "name": "PrimeBiome",
+      "sourceFile": "topics/wellness/gut-health/primebiome.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceReviewNote": "Source check already documented in the guide. No supplier recheck was performed for this campaign.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": false,
+      "headline": "CHECK THE SMALL PACK SHIPPING",
+      "checks": [
+        "Two-bottle offer card",
+        "General shipping statement",
+        "Address-specific total"
+      ],
+      "highlight": "Digestion",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/06-primebiome-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 social feed poster for PokiSky. Use dark plum, papaya and sand. Two offset abstract shipping arrows and a small geometric route on a plain background, no mock interface or currency. Bold typography legible on a phone, generous safe margins, clean modern editorial design. Render exactly four text lines or blocks with these exact words: “PokiSky”; “PrimeBiome”; “CHECK THE SMALL PACK SHIPPING”; “AI editorial illustration · Independent guide”. No extra words, invented products, bottles, packaging, results, people, medical imagery or logos. Generate the image now.",
+      "pinterestTitle": "PrimeBiome: compare shipping on the exact bundle",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The PrimeBiome guide records a two-bottle offer card that added shipping even though the general table said US delivery was free. Compare the exact pack and address at checkout. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nDoes the free-shipping message apply to the two-bottle PrimeBiome bundle? The supplier’s general table and that bundle’s card gave different answers in the PokiSky guide. Confirm the charge for the exact quantity and address at checkout.\n\nRead the buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=primebiome\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nOne PrimeBiome page, two shipping messages: the general table said US delivery was free, while the two-bottle card added a charge. If you are comparing packs, check the final total for your address. Save this as a reminder to check the specific offer card.\n\nFind “PrimeBiome” on the PokiSky blog.\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=primebiome\n\nAI editorial illustration; not product photography.\n\n#ShippingChecklist #BuyingGuide #PokiSky",
+      "altText": "PokiSky. PrimeBiome. CHECK THE SMALL PACK SHIPPING. Two offset shipping arrows on a sand-coloured background. AI editorial illustration · Independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=primebiome",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=primebiome",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=primebiome"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122106817221532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122106817221532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964237837/",
+          "pin_id": "765471267964237837"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4025213796083370394"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Digestion",
+          "total_items_after_update": 9
+        }
+      },
+      "imageFile": "images/06-primebiome-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "5d1ee5451d82aa96e55e699c954a2e737a27a543b44abecf63cc555496651228"
+    },
+    {
+      "id": "pep-tonic",
+      "name": "Pep Tonic",
+      "sourceFile": "topics/wellness/nutrition/pep-tonic.html",
+      "sourceReviewDate": "2026-10-07",
+      "sourceReviewNote": "Source check already documented in the guide. No supplier recheck was performed for this campaign.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "CHECK THE BAG COUNT",
+      "checks": [
+        "Selected bag count",
+        "Full upfront cost",
+        "Address and delivery charges"
+      ],
+      "highlight": "Nutrition",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/07-pep-tonic-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 social feed poster for PokiSky. Use teal and apricot with a bold array of six flat geometric circles and a simple cutout arrow, no product or shipping boxes. Bold typography legible on a phone, generous safe margins, clean modern editorial design. Render exactly four text lines or blocks with these exact words: “PokiSky”; “Pep Tonic”; “CHECK THE BAG COUNT”; “AI editorial illustration · Affiliate guide”. No extra words, invented products, bottles, packaging, results, people, medical imagery or logos. Generate the image now.",
+      "pinterestTitle": "Pep Tonic: verify the bag count before checkout",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Pep Tonic guide compares one-, three- and six-bag options. Its main offer link opens six bags. Confirm the quantity and the complete delivered cost on the order form. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nPep Tonic is listed in one-, three- and six-bag packs in the PokiSky guide. The main offer button opens the six-bag form. To compare with a smaller pack, use the full upfront total and the delivery charge for your address.\n\nRead the buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=pep-tonic\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nHow many bags are in the Pep Tonic order form you opened? The guide’s main offer link goes to six. If you want to compare with one or three, start with the quantity and total charge for each option.\n\nFind “Pep Tonic” on the PokiSky blog.\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=pep-tonic\n\nAI editorial illustration; not product photography.\n\n#PackSize #CheckoutChecklist #PokiSky",
+      "altText": "PokiSky. Pep Tonic. CHECK THE BAG COUNT. Teal and apricot circles with a cutout arrow. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=pep-tonic",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=pep-tonic",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/pep-tonic?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=pep-tonic"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122106817743532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122106817743532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964237868/",
+          "pin_id": "765471267964237868"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4025213927591598145"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Nutrition",
+          "total_items_after_update": 23
+        }
+      },
+      "imageFile": "images/07-pep-tonic-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "1d757cea9b94cbf074ac076d79e5e6f8858281fcadd7ff0faff5634f4c6a354d"
+    },
+    {
+      "id": "collagen",
+      "name": "Advanced Collagen Plus",
+      "sourceFile": "topics/wellness/longevity/collagen.html",
+      "sourceReviewDate": "2026-10-05",
+      "sourceReviewNote": "Source check already documented in the guide. No supplier recheck was performed for this campaign.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "CHECK THE SERVINGS PER TUB",
+      "checks": [
+        "Serving weight",
+        "Servings per current tub",
+        "Total delivered cost"
+      ],
+      "highlight": "Collagen",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/08-collagen-gemini.jpg",
+      "geminiPrompt": "Create one vertical 4:5 social feed poster for PokiSky. Use navy and dusty rose. A minimal measuring spoon silhouette above a group of small unmarked bars, without a product photo, currency or pricing. Bold typography legible on a phone, generous safe margins, clean modern editorial design. Render exactly four text lines or blocks with these exact words: “PokiSky”; “Advanced Collagen Plus”; “CHECK THE SERVINGS PER TUB”; “AI editorial illustration · Affiliate guide”. No extra words, invented products, bottles, packaging, results, people, medical imagery or logos. Generate the image now.",
+      "pinterestTitle": "Advanced Collagen Plus: verify the serving count",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Advanced Collagen Plus guide reports an 11 g scoop in the seller’s directions. For a pack comparison, confirm servings per tub on the current label and compare the delivered total. Read the guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nAn 11 g scoop tells you the weight of one scoop. For Advanced Collagen Plus, the next number to check is the servings per tub on the exact pack you’re comparing. Use that count and the full delivered price if you want to work out the cost per serving.\n\nRead the buying guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=collagen\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nThe seller’s Advanced Collagen Plus directions list an 11 g scoop. For shopping, write down the servings per tub from the current label too. That count gives you a way to compare the delivered cost per serving across pack sizes.\n\nFind “Advanced Collagen Plus” on the PokiSky blog.\nGuide address (copy into your browser):\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=collagen\n\nAI editorial illustration; not product photography.\n\n#ServingSize #SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky. Advanced Collagen Plus. CHECK THE SERVINGS PER TUB. A spoon silhouette above a set of small bars. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=collagen",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=collagen",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/collagen?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_buying_checks_20261107&utm_content=collagen"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122106826977532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122106826977532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964237888/",
+          "pin_id": "765471267964237888"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4025213984449563183"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Collagen",
+          "total_items_after_update": 3
+        }
+      },
+      "imageFile": "images/08-collagen-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "13c0774fabe75c22dca941d8d82dc79d96e85ba6fcf57700b013ee0c4772530f"
+    }
+  ],
+  "notes": "Eight public posts for each of Facebook, Instagram and Pinterest. The Facebook and Instagram destinations were confirmed together in Meta Business Suite. All eight Instagram Stories were confirmed and matched to saved thematic Highlights."
+}

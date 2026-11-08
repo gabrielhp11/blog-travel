@@ -1,0 +1,283 @@
+{
+  "campaign": "supplement_buying_checks_20261107",
+  "publicationDate": "2026-11-07",
+  "status": "complete_verified",
+  "verification": {
+    "meta": "Published list in Meta Business Suite showing both Facebook and Instagram on each matching caption.",
+    "pinterest": "Created grid on the PokiSky Pinterest profile showing each matching Pin and its public link.",
+    "stories": "Story publication receipt and eight visually identified 7 November entries in the Instagram Highlights library.",
+    "highlights": "All six highlights reopened. The new story cards remained selected and totals matched."
+  },
+  "posts": [
+    {
+      "id": "denticore",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122106808215532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122106808215532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964237618/",
+        "pin_id": "765471267964237618"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025213540692248304"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Nutrition",
+        "total_items_after_update": 23
+      }
+    },
+    {
+      "id": "advanced-vision-formula",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122106812265532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122106812265532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964237719/",
+        "pin_id": "765471267964237719"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025213602180719426"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Vision",
+        "total_items_after_update": 2
+      }
+    },
+    {
+      "id": "advanced-joint-support",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122106812763532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122106812763532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964237753/",
+        "pin_id": "765471267964237753"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025213663677601945"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Joints",
+        "total_items_after_update": 5
+      }
+    },
+    {
+      "id": "advanced-memory-formula",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122106813693532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122106813693532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964237775/",
+        "pin_id": "765471267964237775"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025213868997174226"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Brain",
+        "total_items_after_update": 12
+      }
+    },
+    {
+      "id": "adaptogen-4",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122106815937532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122106815937532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964237820/",
+        "pin_id": "765471267964237820"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025213743864346762"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Nutrition",
+        "total_items_after_update": 23
+      }
+    },
+    {
+      "id": "primebiome",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122106817221532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122106817221532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964237837/",
+        "pin_id": "765471267964237837"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025213796083370394"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Digestion",
+        "total_items_after_update": 9
+      }
+    },
+    {
+      "id": "pep-tonic",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122106817743532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122106817743532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964237868/",
+        "pin_id": "765471267964237868"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025213927591598145"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Nutrition",
+        "total_items_after_update": 23
+      }
+    },
+    {
+      "id": "collagen",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122106826977532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122106826977532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964237888/",
+        "pin_id": "765471267964237888"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4025213984449563183"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Collagen",
+        "total_items_after_update": 3
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "name": "Nutrition",
+      "total": 23,
+      "addedStoryIds": [
+        "4025213540692248304",
+        "4025213743864346762",
+        "4025213927591598145"
+      ]
+    },
+    {
+      "name": "Vision",
+      "total": 2,
+      "addedStoryIds": [
+        "4025213602180719426"
+      ]
+    },
+    {
+      "name": "Joints",
+      "total": 5,
+      "addedStoryIds": [
+        "4025213663677601945"
+      ]
+    },
+    {
+      "name": "Brain",
+      "total": 12,
+      "addedStoryIds": [
+        "4025213868997174226"
+      ]
+    },
+    {
+      "name": "Digestion",
+      "total": 9,
+      "addedStoryIds": [
+        "4025213796083370394"
+      ]
+    },
+    {
+      "name": "Collagen",
+      "total": 3,
+      "addedStoryIds": [
+        "4025213984449563183"
+      ]
+    }
+  ]
+}
