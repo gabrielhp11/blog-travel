@@ -1,0 +1,66 @@
+[
+  {
+    "file": "images/01-synaptigen-gemini.jpg",
+    "width": 928,
+    "height": 1152,
+    "source": "Gemini web native original download",
+    "reviewed": true,
+    "sha256": "6bb18d26df0b65a3c05a1773a5a07a533fe64fb634bf99699d13f84ca1de3298"
+  },
+  {
+    "file": "images/02-vertigenics-gemini.jpg",
+    "width": 928,
+    "height": 1152,
+    "source": "Gemini web native original download",
+    "reviewed": true,
+    "sha256": "f1797f89e472b4632e0c495113a4dc1c6d44ca89e7ba7afbe99c27ddbccc111c"
+  },
+  {
+    "file": "images/03-femicore-gemini.jpg",
+    "width": 928,
+    "height": 1152,
+    "source": "Gemini web native original download",
+    "reviewed": true,
+    "sha256": "aeb62c1f29df2865d8fbda790e7f2444577e461044a4050fe576858250eb5707"
+  },
+  {
+    "file": "images/04-menovelle-gemini.jpg",
+    "width": 928,
+    "height": 1152,
+    "source": "Gemini web native original download",
+    "reviewed": true,
+    "sha256": "9ba0c599f290a8f2686e62dbf77d7b5c35534657fa98edb9f7422a75ccd4665e"
+  },
+  {
+    "file": "images/05-primebiome-gemini.jpg",
+    "width": 928,
+    "height": 1152,
+    "source": "Gemini web native original download",
+    "reviewed": true,
+    "sha256": "8c93e81eaf05755d7bef0693206b62b312a4fc028338377e953d29c89ed544a7"
+  },
+  {
+    "file": "images/06-senflo-gummies-gemini.jpg",
+    "width": 928,
+    "height": 1152,
+    "source": "Gemini web native original download",
+    "reviewed": true,
+    "sha256": "635b667e1d9e86eeaf5e478e79bbb1b5868cabe4a046166094e48b38791df6d3"
+  },
+  {
+    "file": "images/07-elixolve-sleep-strips-gemini.jpg",
+    "width": 928,
+    "height": 1152,
+    "source": "Gemini web native original download",
+    "reviewed": true,
+    "sha256": "6d64c1e155fd0bb9e5d67dc379d84198df976fbcc6be82cc1775052af35cd1ee"
+  },
+  {
+    "file": "images/08-gluconite-gemini.jpg",
+    "width": 928,
+    "height": 1152,
+    "source": "Gemini web native original download",
+    "reviewed": true,
+    "sha256": "fdc6251025f2596767ba12116ec0fa3a2feb84dc53c7df4f10f8506660269991"
+  }
+]

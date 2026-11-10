@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "campaign": "supplement_rotation_20261109",
+  "checks": {
+    "distinctPublicGuides": 8,
+    "distinctHeadlines": 8,
+    "distinctGeminiImages": 8,
+    "dimensions": "928 × 1152",
+    "disclosuresMatchGuides": true,
+    "platformSpecificUrls": 30,
+    "altTexts": 8,
+    "facebookAndInstagramPostsVerifiedPerNetwork": 8,
+    "pinterestPinsVerified": 8,
+    "instagramStoriesVerified": 8,
+    "highlightsVerified": 4
+  }
+}

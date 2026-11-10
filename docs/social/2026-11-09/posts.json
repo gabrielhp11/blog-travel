@@ -1,0 +1,474 @@
+{
+  "campaign": "supplement_rotation_20261109",
+  "brand": "PokiSky",
+  "createdDate": "2026-11-09",
+  "language": "en",
+  "status": "complete_verified",
+  "posts": [
+    {
+      "id": "synaptigen",
+      "name": "Synaptigen",
+      "sourceFile": "topics/wellness/brain-health/synaptigen.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Existing guide review. No new supplier review claimed.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "READ BOTH PROBIOTIC ENTRIES",
+      "highlight": "Brain",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/01-synaptigen-gemini.jpg",
+      "geminiPrompt": "Generate one vertical 4:5 PokiSky editorial poster. Navy and mint. Show two separate, stacked geometric bands with simple dots, on warm white. Use strong contrast and wide safe margins. Typeset exactly the next four lines, once each, without quotation marks. Use these exact spellings.\nPokiSky\nSynaptigen\nREAD BOTH PROBIOTIC ENTRIES\nAI editorial illustration · Affiliate guide\nNo extra text, people, prices, medical promises, packaging or logos. Generate the image now.",
+      "pinterestTitle": "Synaptigen: read the separate probiotic entries",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The reviewed Synaptigen label reports a count for the shared probiotic blend and lists Streptococcus salivarius separately by weight. Look for the unit beside each entry when comparing labels. Read the guide. AI editorial illustration. Concept art.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nThe reviewed Synaptigen label reports a count for the shared probiotic blend and lists Streptococcus salivarius separately by weight. Look for the unit beside each entry when comparing labels.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=synaptigen\n\nAI editorial illustration. Concept art.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nWhich number belongs to which entry? The reviewed Synaptigen label reports a count for the shared probiotic blend and lists Streptococcus salivarius separately by weight. Look for the unit beside each entry when comparing labels.\n\nFind “Synaptigen” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=synaptigen\n\nAI editorial illustration. Concept art.\n\n#SupplementLabels #ProbioticLabels #PokiSky",
+      "altText": "PokiSky. Synaptigen. READ BOTH PROBIOTIC ENTRIES. Two stacked geometric bands with dots. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=synaptigen",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=synaptigen",
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=synaptigen"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122108955615532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122108955615532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964275757/",
+          "pin_id": "765471267964275757"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4026732358668915303"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Brain",
+          "total_items_after_update": 16
+        }
+      },
+      "imageFile": "images/01-synaptigen-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "6bb18d26df0b65a3c05a1773a5a07a533fe64fb634bf99699d13f84ca1de3298"
+    },
+    {
+      "id": "vertigenics",
+      "name": "Vertigenics",
+      "sourceFile": "topics/wellness/brain-health/vertigenics.html",
+      "sourceReviewDate": "2026-11-05",
+      "sourceReviewNote": "Existing guide review. No new supplier review claimed.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "BANABA OR BANANA?",
+      "highlight": "Brain",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/02-vertigenics-gemini.jpg",
+      "geminiPrompt": "Generate one vertical 4:5 PokiSky editorial poster. Plum and mustard. Set two abstract leaf outlines side by side against a pale peach field. Use strong contrast and wide safe margins. Typeset exactly the next four lines, once each, without quotation marks. Use these exact spellings.\nPokiSky\nVertigenics\nBANABA OR BANANA?\nAI editorial illustration · Affiliate guide\nNo extra text, people, prices, medical promises, packaging or logos. Generate the image now.",
+      "pinterestTitle": "Vertigenics: compare the botanical names",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Vertigenics wrapper reviewed by PokiSky says Banaba leaf extract, while the sales page says Banana. Ask the seller to confirm the ingredient on the current label for the pack you are considering. Read the guide. AI editorial illustration. Concept art.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nThe Vertigenics wrapper reviewed by PokiSky says Banaba leaf extract, while the sales page says Banana. Ask the seller to confirm the ingredient on the current label for the pack you are considering.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=vertigenics\n\nAI editorial illustration. Concept art.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nOne letter changes the name. The Vertigenics wrapper reviewed by PokiSky says Banaba leaf extract, while the sales page says Banana. Ask the seller to confirm the ingredient on the current label for the pack you are considering.\n\nFind “Vertigenics” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=vertigenics\n\nAI editorial illustration. Concept art.\n\n#IngredientLists #SupplementLabels #PokiSky",
+      "altText": "PokiSky. Vertigenics. BANABA OR BANANA? Two abstract leaf outlines side by side. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=vertigenics",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=vertigenics",
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=vertigenics"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122108956671532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122108956671532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964275773/",
+          "pin_id": "765471267964275773"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4026732601846300369"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Brain",
+          "total_items_after_update": 16
+        }
+      },
+      "imageFile": "images/02-vertigenics-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "f1797f89e472b4632e0c495113a4dc1c6d44ca89e7ba7afbe99c27ddbccc111c"
+    },
+    {
+      "id": "femicore",
+      "name": "FemiCore",
+      "sourceFile": "topics/wellness/nutrition/femicore.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceReviewNote": "Existing guide review. No new supplier review claimed.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": false,
+      "headline": "ORDER DATE OR DELIVERY DATE?",
+      "highlight": "Nutrition",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/03-femicore-gemini.jpg",
+      "geminiPrompt": "Generate one vertical 4:5 PokiSky editorial poster. Cobalt and soft orange. Show two blank calendar tiles connected by a dotted line. Use strong contrast and wide safe margins. Typeset exactly the next four lines, once each, without quotation marks. Use these exact spellings.\nPokiSky\nFemiCore\nORDER DATE OR DELIVERY DATE?\nAI editorial illustration · Independent guide\nNo extra text, people, prices, medical promises, packaging or logos. Generate the image now.",
+      "pinterestTitle": "FemiCore: confirm the start of the return period",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The FemiCore return policy reviewed by PokiSky mentions the order date in one section and delivery in another. Ask support to confirm the start date and deadline in writing for your exact order. Read the guide. AI editorial illustration. Concept art.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nThe FemiCore return policy reviewed by PokiSky mentions the order date in one section and delivery in another. Ask support to confirm the start date and deadline in writing for your exact order.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=femicore\n\nAI editorial illustration. Concept art.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nWhich date starts your return window? The FemiCore return policy reviewed by PokiSky mentions the order date in one section and delivery in another. Ask support to confirm the start date and deadline in writing for your exact order.\n\nFind “FemiCore” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=femicore\n\nAI editorial illustration. Concept art.\n\n#ReturnChecklist #BuyingGuide #PokiSky",
+      "altText": "PokiSky. FemiCore. ORDER DATE OR DELIVERY DATE? Two blank calendar tiles linked by a dotted line. AI editorial illustration · Independent guide.",
+      "urls": {
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=femicore",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=femicore",
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/femicore?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=femicore"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122108957235532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122108957235532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964275782/",
+          "pin_id": "765471267964275782"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4026732746868582665"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Nutrition",
+          "total_items_after_update": 27
+        }
+      },
+      "imageFile": "images/03-femicore-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "aeb62c1f29df2865d8fbda790e7f2444577e461044a4050fe576858250eb5707"
+    },
+    {
+      "id": "menovelle",
+      "name": "Menovelle",
+      "sourceFile": "topics/wellness/nutrition/menovelle.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceReviewNote": "Existing guide review. No new supplier review claimed.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": false,
+      "headline": "CHECK THE ONE-TIME ORDER",
+      "highlight": "Nutrition",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/04-menovelle-gemini.jpg",
+      "geminiPrompt": "Generate one vertical 4:5 PokiSky editorial poster. Burgundy and cream. Use a single wide receipt silhouette with three short parallel marks and a large check. Use strong contrast and wide safe margins. Typeset exactly the next four lines, once each, without quotation marks. Use these exact spellings.\nPokiSky\nMenovelle\nCHECK THE ONE-TIME ORDER\nAI editorial illustration · Independent guide\nNo extra text, people, prices, medical promises, packaging or logos. Generate the image now.",
+      "pinterestTitle": "Menovelle: check the billing and pack at checkout",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The Menovelle offer reviewed by PokiSky described a one-time purchase and showed packs of two, three or six bottles. Check that the selected checkout matches the quantity and billing terms you expect. Read the guide. AI editorial illustration. Concept art.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nThe Menovelle offer reviewed by PokiSky described a one-time purchase and showed packs of two, three or six bottles. Check that the selected checkout matches the quantity and billing terms you expect.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=menovelle\n\nAI editorial illustration. Concept art.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nCheck the pack and billing together. The Menovelle offer reviewed by PokiSky described a one-time purchase and showed packs of two, three or six bottles. Check that the selected checkout matches the quantity and billing terms you expect.\n\nFind “Menovelle” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=menovelle\n\nAI editorial illustration. Concept art.\n\n#CheckoutChecklist #PackSize #PokiSky",
+      "altText": "PokiSky. Menovelle. CHECK THE ONE-TIME ORDER. A geometric receipt with a large check mark. AI editorial illustration · Independent guide.",
+      "urls": {
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=menovelle",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=menovelle",
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/menovelle?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=menovelle"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122108957703532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122108957703532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964275793/",
+          "pin_id": "765471267964275793"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4026732873133866698"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Nutrition",
+          "total_items_after_update": 27
+        }
+      },
+      "imageFile": "images/04-menovelle-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "9ba0c599f290a8f2686e62dbf77d7b5c35534657fa98edb9f7422a75ccd4665e"
+    },
+    {
+      "id": "primebiome",
+      "name": "PrimeBiome",
+      "sourceFile": "topics/wellness/gut-health/primebiome.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceReviewNote": "Existing guide review. No new supplier review claimed.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": false,
+      "headline": "CHECK THE GUMMY BASE",
+      "highlight": "Digestion",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/05-primebiome-gemini.jpg",
+      "geminiPrompt": "Generate one vertical 4:5 PokiSky editorial poster. Dark green and pale yellow. Use a cluster of clean abstract geometric tiles and a magnifying circle. Do not render any apostrophes, quotation marks or decorative marks next to words. Render the brand and product names as bare words. Use strong contrast and wide safe margins. Typeset exactly the next four lines, once each, without quotation marks. Use these exact spellings.\nPokiSky\nPrimeBiome\nCHECK THE GUMMY BASE\nAI editorial illustration · Independent guide\nNo extra text, people, prices, medical promises, packaging or logos. Generate the image now.",
+      "pinterestTitle": "PrimeBiome: read the sugar and other ingredients",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The PrimeBiome wrapper reviewed by PokiSky lists total sugars and added sugars per gummy. Glucose syrup and sucrose also appear in the other ingredients. Read both parts of the current label when comparing gummy products. Read the guide. AI editorial illustration. Concept art.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nThe PrimeBiome wrapper reviewed by PokiSky lists total sugars and added sugars per gummy. Glucose syrup and sucrose also appear in the other ingredients. Read both parts of the current label when comparing gummy products.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=primebiome\n\nAI editorial illustration. Concept art.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nSave this for your next gummy label check. The PrimeBiome wrapper reviewed by PokiSky lists total sugars and added sugars per gummy. Glucose syrup and sucrose also appear in the other ingredients. Read both parts of the current label when comparing gummy products.\n\nFind “PrimeBiome” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=primebiome\n\nAI editorial illustration. Concept art.\n\n#GummyLabels #IngredientLists #PokiSky",
+      "altText": "PokiSky. PrimeBiome. CHECK THE GUMMY BASE. A magnifying circle over a cluster of geometric tiles. AI editorial illustration · Independent guide.",
+      "urls": {
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=primebiome",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=primebiome",
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/primebiome?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=primebiome"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122108959095532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122108959095532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964275825/",
+          "pin_id": "765471267964275825"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4026733250906441093"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Digestion",
+          "total_items_after_update": 13
+        }
+      },
+      "imageFile": "images/05-primebiome-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "8c93e81eaf05755d7bef0693206b62b312a4fc028338377e953d29c89ed544a7"
+    },
+    {
+      "id": "senflo-gummies",
+      "name": "SenFlo Gummies",
+      "sourceFile": "topics/wellness/gut-health/senflo-gummies.html",
+      "sourceReviewDate": "2026-10-26",
+      "sourceReviewNote": "Existing guide review. No new supplier review claimed.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "WHO PAYS RETURN POSTAGE?",
+      "highlight": "Digestion",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/06-senflo-gummies-gemini.jpg",
+      "geminiPrompt": "Generate one vertical 4:5 PokiSky editorial poster. Violet and warm ivory. Use a crisp line drawing of a return arrow and an abstract stamp. Use strong contrast and wide safe margins. Typeset exactly the next four lines, once each, without quotation marks. Use these exact spellings.\nPokiSky\nSenFlo Gummies\nWHO PAYS RETURN POSTAGE?\nAI editorial illustration · Affiliate guide\nNo extra text, people, prices, medical promises, packaging or logos. Generate the image now.",
+      "pinterestTitle": "SenFlo Gummies: ask about return postage",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The SenFlo Gummies policy reviewed by PokiSky gives a return address and describes the refund process. The guide flags that return postage responsibility was unclear. Ask who pays before relying on the refund terms. Read the guide. AI editorial illustration. Concept art.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nThe SenFlo Gummies policy reviewed by PokiSky gives a return address and describes the refund process. The guide flags that return postage responsibility was unclear. Ask who pays before relying on the refund terms.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=senflo-gummies\n\nAI editorial illustration. Concept art.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nA return address is only one detail. The SenFlo Gummies policy reviewed by PokiSky gives a return address and describes the refund process. The guide flags that return postage responsibility was unclear. Ask who pays before relying on the refund terms.\n\nFind “SenFlo Gummies” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=senflo-gummies\n\nAI editorial illustration. Concept art.\n\n#ReturnPostage #BuyingGuide #PokiSky",
+      "altText": "PokiSky. SenFlo Gummies. WHO PAYS RETURN POSTAGE? A return arrow next to an abstract stamp. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=senflo-gummies",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=senflo-gummies",
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=senflo-gummies"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122108959605532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122108959605532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964275837/",
+          "pin_id": "765471267964275837"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4026733130605449089"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Digestion",
+          "total_items_after_update": 13
+        }
+      },
+      "imageFile": "images/06-senflo-gummies-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "635b667e1d9e86eeaf5e478e79bbb1b5868cabe4a046166094e48b38791df6d3"
+    },
+    {
+      "id": "elixolve-sleep-strips",
+      "name": "Elixolve Sleep Strips",
+      "sourceFile": "topics/wellness/nutrition/elixolve-sleep-strips.html",
+      "sourceReviewDate": "2026-10-25",
+      "sourceReviewNote": "Existing guide review. No new supplier review claimed.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "READ THE LABEL LINE BY LINE",
+      "highlight": "Sleep",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/07-elixolve-sleep-strips-gemini.jpg",
+      "geminiPrompt": "Generate one vertical 4:5 PokiSky editorial poster. Midnight blue and ice lavender. Use alternating geometric bars separated by generous space. Use strong contrast and wide safe margins. Typeset exactly the next four lines, once each, without quotation marks. Use these exact spellings.\nPokiSky\nElixolve Sleep Strips\nREAD THE LABEL LINE BY LINE\nAI editorial illustration · Affiliate guide\nNo extra text, people, prices, medical promises, packaging or logos. Generate the image now.",
+      "pinterestTitle": "Elixolve Sleep Strips: read the extract entries",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The reviewed Elixolve Sleep Strips panel lists melatonin on one line and valerian, lavender, chamomile and hibiscus extracts on separate lines. Read each entry with the serving size at the top of the panel. Read the guide. AI editorial illustration. Concept art.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nThe reviewed Elixolve Sleep Strips panel lists melatonin on one line and valerian, lavender, chamomile and hibiscus extracts on separate lines. Read each entry with the serving size at the top of the panel.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=elixolve-sleep-strips\n\nAI editorial illustration. Concept art.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nLook beyond the first line of the panel. The reviewed Elixolve Sleep Strips panel lists melatonin on one line and valerian, lavender, chamomile and hibiscus extracts on separate lines. Read each entry with the serving size at the top of the panel.\n\nFind “Elixolve Sleep Strips” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=elixolve-sleep-strips\n\nAI editorial illustration. Concept art.\n\n#SupplementLabels #IngredientLists #PokiSky",
+      "altText": "PokiSky. Elixolve Sleep Strips. READ THE LABEL LINE BY LINE. Alternating geometric bars with open space between them. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=elixolve-sleep-strips",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=elixolve-sleep-strips",
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/elixolve-sleep-strips?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=elixolve-sleep-strips"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122108960013532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122108960013532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964275852/",
+          "pin_id": "765471267964275852"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4026733009633287361"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Sleep",
+          "total_items_after_update": 8
+        }
+      },
+      "imageFile": "images/07-elixolve-sleep-strips-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "6d64c1e155fd0bb9e5d67dc379d84198df976fbcc6be82cc1775052af35cd1ee"
+    },
+    {
+      "id": "gluconite",
+      "name": "Gluconite",
+      "sourceFile": "topics/wellness/nutrition/gluconite.html",
+      "sourceReviewDate": "2026-10-25",
+      "sourceReviewNote": "Existing guide review. No new supplier review claimed.",
+      "round": "new_angle",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "headline": "GET RETURN APPROVAL FIRST",
+      "highlight": "Sleep",
+      "status": "published_verified",
+      "imageGenerator": "Gemini web",
+      "imageStatus": "downloaded_reviewed",
+      "expectedImageFile": "images/08-gluconite-gemini.jpg",
+      "geminiPrompt": "Generate one vertical 4:5 PokiSky editorial poster. Burnt orange and navy. Draw a simple envelope outline and a bold check mark on warm cream. Use strong contrast and wide safe margins. Typeset exactly the next four lines, once each, without quotation marks. Use these exact spellings.\nPokiSky\nGluconite\nGET RETURN APPROVAL FIRST\nAI editorial illustration · Affiliate guide\nNo extra text, people, prices, medical promises, packaging or logos. Generate the image now.",
+      "pinterestTitle": "Gluconite: confirm the return steps with support",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The Gluconite policy reviewed by PokiSky asks buyers to contact support and obtain confirmation before mailing a return. Check the instructions for your checkout and keep the written reply with your order details. Read the guide. AI editorial illustration. Concept art.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nThe Gluconite policy reviewed by PokiSky asks buyers to contact support and obtain confirmation before mailing a return. Check the instructions for your checkout and keep the written reply with your order details.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=gluconite\n\nAI editorial illustration. Concept art.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nGet the steps in writing before mailing a return. The Gluconite policy reviewed by PokiSky asks buyers to contact support and obtain confirmation before mailing a return. Check the instructions for your checkout and keep the written reply with your order details.\n\nFind “Gluconite” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=gluconite\n\nAI editorial illustration. Concept art.\n\n#ReturnChecklist #BuyingGuide #PokiSky",
+      "altText": "PokiSky. Gluconite. GET RETURN APPROVAL FIRST. A simple envelope outline and a bold check mark. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=gluconite",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=gluconite",
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/gluconite?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261109&utm_content=gluconite"
+      },
+      "publications": {
+        "facebook": {
+          "status": "published_verified",
+          "platform": "Facebook via Meta Business Suite",
+          "meta_id": "122108960823532355"
+        },
+        "instagram": {
+          "status": "published_verified",
+          "platform": "Instagram via Meta Business Suite",
+          "meta_id": "122108960823532355"
+        },
+        "pinterest": {
+          "status": "published_verified",
+          "url": "https://uk.pinterest.com/pin/765471267964275874/",
+          "pin_id": "765471267964275874"
+        },
+        "stories": {
+          "status": "published_verified",
+          "platform": "Instagram Stories",
+          "story_id": "4026732484279989114"
+        },
+        "highlight": {
+          "status": "saved_verified",
+          "name": "Sleep",
+          "total_items_after_update": 8
+        }
+      },
+      "imageFile": "images/08-gluconite-gemini.jpg",
+      "imageWidth": 928,
+      "imageHeight": 1152,
+      "imageSha256": "fdc6251025f2596767ba12116ec0fa3a2feb84dc53c7df4f10f8506660269991"
+    }
+  ],
+  "notes": "Eight posts on each of Facebook, Instagram and Pinterest. Eight Instagram Stories were visually mapped to their thumbnails and saved in four themed Highlights."
+}

@@ -1,0 +1,271 @@
+{
+  "campaign": "supplement_rotation_20261109",
+  "publicationDate": "2026-11-09",
+  "status": "complete_verified",
+  "verification": {
+    "meta": "Published list in Meta Business Suite showed Facebook and Instagram on each matching campaign caption.",
+    "pinterest": "Created grid on the PokiSky profile showed the matching Pin titles and public URLs.",
+    "stories": "Meta confirmed publication. All eight dated thumbnails were identified visually and mapped to their visible story IDs.",
+    "highlights": "All four highlight saves showed the two intended new Stories selected. Nutrition and Digestion were reopened after saving; all four totals were recorded from the saved edit state."
+  },
+  "posts": [
+    {
+      "id": "synaptigen",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108955615532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108955615532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964275757/",
+        "pin_id": "765471267964275757"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4026732358668915303"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Brain",
+        "total_items_after_update": 16
+      }
+    },
+    {
+      "id": "vertigenics",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108956671532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108956671532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964275773/",
+        "pin_id": "765471267964275773"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4026732601846300369"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Brain",
+        "total_items_after_update": 16
+      }
+    },
+    {
+      "id": "femicore",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108957235532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108957235532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964275782/",
+        "pin_id": "765471267964275782"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4026732746868582665"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Nutrition",
+        "total_items_after_update": 27
+      }
+    },
+    {
+      "id": "menovelle",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108957703532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108957703532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964275793/",
+        "pin_id": "765471267964275793"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4026732873133866698"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Nutrition",
+        "total_items_after_update": 27
+      }
+    },
+    {
+      "id": "primebiome",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108959095532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108959095532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964275825/",
+        "pin_id": "765471267964275825"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4026733250906441093"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Digestion",
+        "total_items_after_update": 13
+      }
+    },
+    {
+      "id": "senflo-gummies",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108959605532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108959605532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964275837/",
+        "pin_id": "765471267964275837"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4026733130605449089"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Digestion",
+        "total_items_after_update": 13
+      }
+    },
+    {
+      "id": "elixolve-sleep-strips",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108960013532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108960013532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964275852/",
+        "pin_id": "765471267964275852"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4026733009633287361"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Sleep",
+        "total_items_after_update": 8
+      }
+    },
+    {
+      "id": "gluconite",
+      "facebook": {
+        "status": "published_verified",
+        "platform": "Facebook via Meta Business Suite",
+        "meta_id": "122108960823532355"
+      },
+      "instagram": {
+        "status": "published_verified",
+        "platform": "Instagram via Meta Business Suite",
+        "meta_id": "122108960823532355"
+      },
+      "pinterest": {
+        "status": "published_verified",
+        "url": "https://uk.pinterest.com/pin/765471267964275874/",
+        "pin_id": "765471267964275874"
+      },
+      "stories": {
+        "status": "published_verified",
+        "platform": "Instagram Stories",
+        "story_id": "4026732484279989114"
+      },
+      "highlight": {
+        "status": "saved_verified",
+        "name": "Sleep",
+        "total_items_after_update": 8
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "name": "Brain",
+      "total": 16,
+      "addedStoryIds": [
+        "4026732358668915303",
+        "4026732601846300369"
+      ]
+    },
+    {
+      "name": "Nutrition",
+      "total": 27,
+      "addedStoryIds": [
+        "4026732746868582665",
+        "4026732873133866698"
+      ]
+    },
+    {
+      "name": "Digestion",
+      "total": 13,
+      "addedStoryIds": [
+        "4026733250906441093",
+        "4026733130605449089"
+      ]
+    },
+    {
+      "name": "Sleep",
+      "total": 8,
+      "addedStoryIds": [
+        "4026733009633287361",
+        "4026732484279989114"
+      ]
+    }
+  ]
+}
