@@ -32,6 +32,20 @@ function renderPlanningLinks(key, lang = 'en') {
 // Audience metadata is editorial context, not a guarantee of delivery or billing support.
 const isEuropeanGuide = article => /europe|germany|austria|united kingdom|\buk\b|ireland/i.test(article.market || '');
 const isUkIrelandGuide = article => /united kingdom|\buk\b|ireland/i.test(article.market || '');
+
+// The supplement directory can follow the Instagram topics independently of article URLs.
+const wellnessTopicOverrides = new Map([
+  ['elixolve-sleep-strips', 'sleep'],
+  ['gluconite', 'sleep'],
+  ['gluconite-vs-elixolve-sleep-strips', 'sleep'],
+  ['curcumitol-q', 'joint-health'],
+  ['advanced-amino-formula', 'nutrition'],
+  ['collagen', 'collagen'],
+  ['yara-hair-vitamins', 'hair'],
+  ['vigorsana', 'mens-health'],
+  ['ketosana', 'metabolic-health']
+]);
+
 const hubs = [
   {key: 'travel', file: 'guides/travel.html', title: 'Travel planning: eSIMs, transport and experiences', label: 'Travel', description: 'Compare travel eSIMs, transport booking tools, guided experiences and travel-learning guides. Check coverage, ticket conditions and total trip costs.', topics: ['travel'], groups: [
     ['Connectivity', 'Compare your existing roaming allowance with the destinations, validity and activation rules of an eSIM. Check your exact phone model and whether it is unlocked before buying.', ['connectivity']],
@@ -47,9 +61,20 @@ const hubs = [
     ['Family and school learning', 'Compare the outline with your family’s questions and local school context. Check delivery format, access, individual support and refund conditions; courses do not assess a particular child or guarantee educational outcomes.', ['family-learning']],
     ['Learning about dogs', 'Compare the course topic with your own dog and questions. Check the teaching language, access period and whether individual support is included. A video course does not assess your particular situation or guarantee changes in behaviour.', ['pet-learning']]
   ]},
-  {key: 'wellness', file: 'guides/wellness.html', title: 'Supplement buyer guides: labels, formats and seller claims', label: 'Wellness', description: 'Browse source-based supplement guides. Compare label information, serving formats, pack sizes and seller claims before discussing suitability with a health professional.', topics: ['wellness'], groups: [
-    ['Formats and label details', 'Compare the current full label, ingredient amounts, serving directions, warnings and pack sizes. Similar names or shared ingredients do not establish equivalent products or effects.', ['longevity', 'nutrition', 'vision-health', 'joint-health']],
-    ['Seller-described formulas', 'Read claims separately from the ingredient list. These guides summarise public seller information and do not establish clinical effectiveness or replace a qualified health professional.', ['brain-health', 'gut-health', 'mens-health', 'metabolic-health']]
+  {key: 'wellness', file: 'guides/wellness.html', title: 'Supplement buyer guides: labels, formats and seller claims', label: 'Wellness', description: 'Browse source-based supplement guides. Compare label information, serving formats, pack sizes and seller claims before discussing suitability with a health professional.', topics: ['wellness'],
+    groupKey: article => wellnessTopicOverrides.get(article.reviewUrl.split('/').pop().replace(/\.html$/, '')) || article.subtopic,
+    groups: [
+      ['Sleep', 'Browse nighttime formulas and compare serving directions, formats and label disclosures.', ['sleep']],
+      ['Brain', 'Explore guides to supplements marketed for focus and memory. Compare ingredient forms, serving sizes and allergens.', ['brain-health']],
+      ['Digestion', 'Compare digestive blends, probiotic labels, serving units and warnings.', ['gut-health']],
+      ['Metabolic', 'Compare labels and pack sizes for products marketed for blood sugar or weight management.', ['metabolic-health']],
+      ['Nutrition', 'Explore greens powders, botanicals, amino acids and other nutrition formulas by format and serving size.', ['nutrition']],
+      ['Longevity', 'Compare the named compounds, serving information and purchase terms in formulas marketed for healthy aging.', ['longevity']],
+      ['Men’s Health', 'Compare ingredient lists, bottle counts and one-time or subscription terms for products marketed to men.', ['mens-health']],
+      ['Joints', 'Check ingredient amounts, warnings and tablet counts in guides to joint formulas.', ['joint-health']],
+      ['Collagen', 'Check collagen sources, serving information and potential allergens.', ['collagen']],
+      ['Vision', 'Compare the listed nutrients, tablet counts and purchase terms for eye-health formulas.', ['vision-health']],
+      ['Hair', 'Check ingredients, serving information and billing terms for hair supplements.', ['hair']]
   ]}
 ];
 hubs.push({
@@ -122,7 +147,7 @@ hubs.push({
 hubs.push({key: 'gaming', file: 'guides/gaming.html', title: 'Gaming connection guides: compatibility, trials and subscriptions', label: 'Gaming', description: 'Compare gaming connection software by game, server region, platform, trial conditions and subscription costs. Read the guide before choosing a plan.', image: 'gearup-home.jpg', topics: ['entertainment'], groups: [['Gaming connection software', 'Start with the game, platform and server region. Compare your own connection and check trial billing before subscribing; performance improvements are not guaranteed.', ['gaming-network']]]});
 hubs.push({key:'supplement-comparisons',file:'guides/supplement-comparisons.html',title:'Supplement comparisons: labels, serving sizes and costs',label:'Comparisons',description:'Read side-by-side supplement comparisons based on supplier labels and dated purchase information. Check differences, missing details and country-specific costs before deciding.',image:'advanced-amino-formula.jpg',topics:[],select:article=>article.comparison===true,groupBy:'topic',groups:[['Ten source-based supplement comparisons','These are label and purchase comparisons, not head-to-head clinical trials or recommendations to combine products. Read both registered guides before following any affiliate offer.',['wellness']]]});
 const navHubs = hubs.filter(hub => hub.nav !== false);
-const groupKey = (hub, article) => hub.groupBy === 'locale' ? localeOf(article) : hub.groupBy === 'topic' ? article.topic : article.subtopic;
+const groupKey = (hub, article) => hub.groupKey?.(article) ?? (hub.groupBy === 'locale' ? localeOf(article) : hub.groupBy === 'topic' ? article.topic : article.subtopic);
 const hubFor = (article) => hubs.find(hub => hub.topics.includes(article.topic));
 const guidesFor = (hub) => hub.select ? guides.filter(hub.select) : guides.filter(article => hub.topics.includes(article.topic));
 function renderCard(article, index) {

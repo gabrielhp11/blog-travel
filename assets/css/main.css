@@ -179,6 +179,16 @@ h1 em { color: var(--accent); font-style: normal; }
 .guide-group { margin-block: 48px; }
 .guide-group h2 { font-size: 1.7rem; }
 .guide-group > p { max-width: 75ch; }
+.supplement-topics { padding-block: 20px 24px; border-block: 1px solid var(--line); }
+.supplement-topics h2 { margin-bottom: 18px; font-size: 1.25rem; }
+.supplement-topic-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(82px, 1fr)); gap: 16px 10px; }
+.supplement-topic-links a { display: grid; justify-items: center; align-content: start; gap: 8px; padding: 4px 2px; border-radius: 8px; text-align: center; color: var(--accent-dark); font-size: .84rem; font-weight: 700; line-height: 1.3; }
+.supplement-topic-icon { display: grid; place-items: center; width: 52px; height: 52px; border: 2px solid var(--accent); border-radius: 50%; background: var(--accent-pale); box-shadow: inset 0 0 0 3px var(--bg); }
+.supplement-topic-links a:hover .supplement-topic-icon,
+.supplement-topic-links a:focus-visible .supplement-topic-icon { color: white; background: var(--accent-dark); }
+.supplement-topic-heading { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 0 16px; margin-bottom: 10px; }
+.supplement-topic-heading h2 { margin-bottom: 0; }
+.supplement-topic-heading a { padding-block: 10px; font-size: .85rem; }
 .planning-links ul { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
 .planning-links li { border: 1px solid var(--line); border-radius: 12px; padding: 20px; background: var(--surface); }
 .planning-links p { font-size: .9rem; margin: 12px 0 0; }
@@ -193,6 +203,7 @@ h1 em { color: var(--accent); font-style: normal; }
 .post-footer .btn { min-height: 38px; height: auto; padding-block: 8px; text-align: center; }
 @media (max-width: 640px) {
   .directory-heading h1 { font-size: 2rem; }
+  .supplement-topic-heading h2, .supplement-topics h2 { scroll-margin-top: 32px; }
   .guide-index .nav { flex-wrap: wrap; gap: 12px; padding-block: 12px; }
   .guide-index .nav-links { flex-wrap: wrap; }
   .guide-index .nav-links a:first-child { display: inline; }
