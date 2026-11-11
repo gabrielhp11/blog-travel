@@ -2,7 +2,7 @@ import { redirect } from "next/navigation";
 import { auth } from "@/lib/auth";
 import { adminEmails } from "@/lib/env";
 import { prisma } from "@/lib/prisma";
-import { createAffiliateCode } from "@/lib/codes";
+import { createAffiliateProfile } from "@/lib/affiliate-capacity";
 
 export async function getCurrentAffiliate() {
   const session = await auth();
@@ -17,9 +17,10 @@ export async function getCurrentAffiliate() {
 
   let profile = user.affiliateProfile;
   if (!profile) {
-    profile = await prisma.affiliateProfile.create({
-      data: { userId: user.id, affiliateCode: await createAffiliateCode() },
-    });
+    profile = await prisma.$transaction((tx) =>
+      createAffiliateProfile(tx, user.id, user.role === "AFFILIATE"),
+    );
+    if (!profile) return null;
   }
   return { user, profile };
 }

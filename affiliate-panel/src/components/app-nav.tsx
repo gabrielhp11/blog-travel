@@ -7,6 +7,7 @@ export function AppNav({ name, admin = false }: { name: string | null; admin?: b
       <Link className="brand" href="/dashboard">PokiSky Afiliados</Link>
       <nav className="nav" aria-label="Navegação principal">
         <Link href="/dashboard">Visão geral</Link>
+        {!admin && <Link href="/dashboard/guide">Como conseguir vendas</Link>}
         <Link href="/dashboard/clicks">Cliques</Link>
         <Link href="/dashboard/sales">Vendas</Link>
         <Link href="/dashboard/payouts">Saques</Link>

@@ -45,6 +45,7 @@ model User {
   accounts         Account[]
   sessions         Session[]
   affiliateProfile AffiliateProfile?
+  affiliateSlot    AffiliateSlot?
   auditLogs        AuditLog[]        @relation("AuditActor")
 
   @@index([role, createdAt])
@@ -102,6 +103,12 @@ model AffiliateProfile {
   sales             Sale[]
   payouts           Payout[]
 
+}
+
+model AffiliateSlot {
+  slot   Int    @id
+  userId String? @unique
+  user   User?  @relation(fields: [userId], references: [id], onDelete: SetNull)
 }
 
 model Click {

@@ -3,7 +3,7 @@ import Google from "next-auth/providers/google";
 import { PrismaAdapter } from "@auth/prisma-adapter";
 import { prisma } from "@/lib/prisma";
 import { adminEmails } from "@/lib/env";
-import { createAffiliateCode } from "@/lib/codes";
+import { createAffiliateProfile, hasAvailableAffiliateSlot } from "@/lib/affiliate-capacity";
 
 export const { handlers, auth, signIn, signOut } = NextAuth({
   adapter: PrismaAdapter(prisma),
@@ -25,8 +25,17 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
   callbacks: {
     async signIn({ user, account, profile }) {
       if (account?.provider !== "google" || !user.email || !profile || !("email_verified" in profile) || profile.email_verified !== true) return false;
-      const existing = await prisma.user.findUnique({ where: { email: user.email }, select: { blockedAt: true } });
-      return !existing?.blockedAt;
+      const existing = await prisma.user.findUnique({
+        where: { email: user.email },
+        select: { blockedAt: true, affiliateProfile: { select: { id: true } } },
+      });
+      if (existing?.blockedAt) return false;
+      if (
+        !adminEmails.has(user.email.toLowerCase()) &&
+        !existing?.affiliateProfile &&
+        !(await hasAvailableAffiliateSlot())
+      ) return false;
+      return true;
     },
     async session({ session, user }) {
       const email = user.email?.toLowerCase() ?? "";
@@ -45,14 +54,19 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
     async createUser({ user }) {
       const userId = user.id;
       if (!userId) throw new Error("Cannot create an affiliate profile without a user ID.");
-      await prisma.$transaction(async (tx) => {
-        if (user.email && adminEmails.has(user.email.toLowerCase())) {
+      const profile = await prisma.$transaction(async (tx) => {
+        const isAdmin = Boolean(user.email && adminEmails.has(user.email.toLowerCase()));
+        if (isAdmin) {
           await tx.user.update({ where: { id: userId }, data: { role: "ADMIN" } });
         }
-        await tx.affiliateProfile.create({
-          data: { userId, affiliateCode: await createAffiliateCode() },
-        });
+        const createdProfile = await createAffiliateProfile(tx, userId, !isAdmin);
+        if (!createdProfile) {
+          await tx.user.delete({ where: { id: userId } });
+          return null;
+        }
+        return createdProfile;
       });
+      if (!profile) throw new Error("The affiliate program has reached its five-account pilot limit.");
     },
   },
   trustHost: true,
