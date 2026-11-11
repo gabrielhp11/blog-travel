@@ -43,12 +43,14 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
   },
   events: {
     async createUser({ user }) {
+      const userId = user.id;
+      if (!userId) throw new Error("Cannot create an affiliate profile without a user ID.");
       await prisma.$transaction(async (tx) => {
         if (user.email && adminEmails.has(user.email.toLowerCase())) {
-          await tx.user.update({ where: { id: user.id }, data: { role: "ADMIN" } });
+          await tx.user.update({ where: { id: userId }, data: { role: "ADMIN" } });
         }
         await tx.affiliateProfile.create({
-          data: { userId: user.id, affiliateCode: await createAffiliateCode() },
+          data: { userId, affiliateCode: await createAffiliateCode() },
         });
       });
     },
