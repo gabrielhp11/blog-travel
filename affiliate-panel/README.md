@@ -70,13 +70,9 @@ Os arquivos de deploy do blog na raiz não são alterados por este app; o projet
 
 ## Integração do blog e links
 
-Links curtos gerados pelo dashboard usam `APP_ORIGIN/r/CODIGO?path=%2F...`. O redirect registra o clique e encaminha o visitante à URL do blog com `?ref=CODIGO`. O script de integração mantém um cookie próprio no domínio do blog por 30 dias. Adicione uma única vez às páginas HTML públicas do blog (antes do `</body>`) ou ao template compartilhado:
+Links curtos gerados pelo dashboard usam `APP_ORIGIN/r/CODIGO?path=%2F...`. O redirect registra o clique e encaminha o visitante à URL do blog com `?ref=CODIGO`. O script de integração mantém um cookie próprio no domínio do blog por 30 dias. O build do blog injeta automaticamente o script nas páginas HTML públicas usando `AFFILIATE_PANEL_ORIGIN` (padrão: `https://affiliate-panel-cyan.vercel.app`); não é necessário editar cada página manualmente. Se usar outro domínio para o painel, configure essa variável no build do blog e rode `npm run seo:build`.
 
-```html
-<script defer src="https://PAINEL.example/tracking.js"></script>
-```
-
-Substitua `PAINEL.example` pelo host HTTPS real. O endpoint aceita requisições do `BLOG_ORIGIN` exato. Se o blog passar a usar CSP, permita esse host em `script-src` e `connect-src`. O script remove `ref` e o marcador técnico da barra de endereço depois de armazenar a atribuição. O script é opcional para links curtos, mas necessário para atribuição de links diretos `?ref=CODIGO` e para persistir o código no navegador do blog.
+O endpoint aceita requisições do `BLOG_ORIGIN` exato. Se o blog passar a usar CSP, permita o host do painel em `script-src` e `connect-src`. O script remove `ref` e o marcador técnico da barra de endereço depois de armazenar a atribuição. O script é opcional para links curtos, mas necessário para atribuição de links diretos `?ref=CODIGO` e para persistir o código no navegador do blog.
 
 Para encaminhar a atribuição a uma plataforma externa, inclua o valor de `window.PokiSkyAffiliate.getCode()` no campo de referência/subID que a rede disponibiliza. O nome desse parâmetro e sua habilitação dependem de cada conta/plataforma; o painel não modifica links de checkout automaticamente.
 
