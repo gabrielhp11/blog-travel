@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { prisma } from "@/lib/prisma";
 import { brl } from "@/lib/format";
+import { MAX_AFFILIATES } from "@/lib/affiliate-slots";
 
 export const dynamic = "force-dynamic";
 
@@ -16,7 +17,7 @@ export default async function AdminPage() {
     <h1 className="page-heading">Administração</h1>
     <p className="subtitle">Indicadores gerais e gestão do programa de afiliados.</p>
     <section className="grid">
-      <Metric label="Afiliados" value={String(affiliates)} />
+      <Metric label="Vagas de afiliado" value={`${affiliates}/${MAX_AFFILIATES}`} />
       <Metric label="Cliques totais" value={String(clicks)} />
       <Metric label="Vendas registradas" value={String(sales)} />
       <Metric label="Comissões pagas" value={brl(paidPayouts._sum.amount ?? 0)} />

@@ -5,6 +5,7 @@ Aplicação separada para o programa de afiliados do blog estático. O site púb
 ## Recursos implementados
 
 - Login exclusivo Google OAuth e criação automática de perfil/código no primeiro acesso.
+- Piloto limitado a cinco contas afiliadas por slots transacionais no PostgreSQL; administradores não ocupam vaga.
 - Dashboard de afiliado, links curtos e diretos, histórico de cliques/vendas e solicitação PIX.
 - Área administrativa habilitada exclusivamente por `ADMIN_EMAILS`, com lista/detalhes de afiliados, bloqueio e gestão de saques.
 - PostgreSQL + Prisma; PIX criptografado com AES-256-GCM, IP armazenado como HMAC-SHA-256.
@@ -13,6 +14,7 @@ Aplicação separada para o programa de afiliados do blog estático. O site púb
 - Validação Zod, verificação de origem em alterações autenticadas e tracking, rate limit Redis (Upstash obrigatório em produção), auditoria e headers de segurança.
 
 O sistema não cria nem estima vendas. A plataforma de origem deve enviar o postback assinado, incluindo o código do afiliado, e confirmar quando uma comissão pode ser liberada.
+O piloto tem cinco vagas de afiliado. O limite é imposto no banco para evitar cadastros concorrentes acima da capacidade; o painel administrativo mostra as vagas ocupadas.
 
 ## Requisitos
 
@@ -58,10 +60,11 @@ O perfil só recebe papel administrativo se o e-mail Google autenticado estiver 
 ## Publicação Vercel
 
 1. Importe o mesmo repositório em um novo projeto Vercel e selecione `affiliate-panel` como Root Directory.
-2. Configure todas as variáveis de ambiente de produção, com URLs HTTPS exatas em `AUTH_URL`, `APP_ORIGIN` e `BLOG_ORIGIN`.
-3. Configure Postgres e Upstash Redis, então aplique as migrations com `npm run db:deploy` (ou configure o comando de build para rodar `prisma migrate deploy && npm run build`).
-4. Configure o Google OAuth para o domínio final e valide o callback Google.
+2. Configure PostgreSQL, Upstash Redis e todas as variáveis de ambiente de produção, com URLs HTTPS exatas em `AUTH_URL`, `APP_ORIGIN` e `BLOG_ORIGIN`.
+3. Configure o Google OAuth para o domínio final e cadastre `${AUTH_URL}/api/auth/callback/google` como redirect URI autorizada.
+4. Aplique as migrations antes do primeiro login com `npm run db:deploy`; inclua `prisma migrate deploy && npm run build` no comando de build do Vercel para manter o schema atualizado.
 5. Configure a integração de postback em cada rede antes de considerar vendas atribuídas.
+6. Para aumentar o limite do piloto, altere `MAX_AFFILIATES`, crie slots adicionais por migration e atualize o texto e a métrica do painel; não aumente somente a constante.
 
 Os arquivos de deploy do blog na raiz não são alterados por este app; o projeto Vercel atual continua estático.
 
@@ -76,6 +79,12 @@ Links curtos gerados pelo dashboard usam `APP_ORIGIN/r/CODIGO?path=%2F...`. O re
 Substitua `PAINEL.example` pelo host HTTPS real. O endpoint aceita requisições do `BLOG_ORIGIN` exato. Se o blog passar a usar CSP, permita esse host em `script-src` e `connect-src`. O script remove `ref` e o marcador técnico da barra de endereço depois de armazenar a atribuição. O script é opcional para links curtos, mas necessário para atribuição de links diretos `?ref=CODIGO` e para persistir o código no navegador do blog.
 
 Para encaminhar a atribuição a uma plataforma externa, inclua o valor de `window.PokiSkyAffiliate.getCode()` no campo de referência/subID que a rede disponibiliza. O nome desse parâmetro e sua habilitação dependem de cada conta/plataforma; o painel não modifica links de checkout automaticamente.
+
+## Orientação para afiliados
+
+O painel inclui um guia introdutório em **Como conseguir vendas**. Em resumo, priorize conteúdo orgânico original que resolva uma dúvida real, escolha o guia de destino correspondente, use uma chamada clara e informe visivelmente que pode receber comissão. Não faça spam, avaliações falsas ou promessas sem comprovação.
+
+Para anúncios pagos, confirme primeiro as regras da plataforma de afiliados e da rede de anúncios, divulgue a relação comercial e teste com um orçamento pequeno que possa perder. Compare gasto com vendas efetivamente confirmadas antes de escalar; cliques sozinhos não representam vendas nem garantem comissão. Cada rede pode aplicar sua própria janela e modelo de atribuição, independentemente do cookie de 30 dias do blog.
 
 ## Webhook de vendas
 
