@@ -814,3 +814,19 @@ These compare existing registered guides; no new affiliation or product testing 
 - [Nerve Soothe](https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe) — accepted Digistore24 partnership; three pinned supplier images.
 
 See [source review, account status and validation](digistore-2026-11-05/DELIVERY.md). Four partnerships accepted in this session; six existing accepted partnerships reconfirmed. Fourteen other new requests remain pending.
+
+## 11 November 2026 — Digistore24 approval reconciliation
+
+The latest account query returned 513 approved affiliation rows for 2026; package and upsell rows repeat product brands. Of the 18 requests logged on 5 November, four accepted products already had guides, seven additional partnerships are now approved, and seven remain pending.
+
+The seven newly approved products without guides have explicit noindex status pages, not offer reviews:
+
+- CoreVital Burn — `/topics/wellness/metabolic-health/corevital-burn`
+- Prostadine — `/topics/wellness/mens-health/prostadine`
+- Quietum Plus — `/topics/wellness/brain-health/quietum-plus`
+- Synadentix — `/topics/wellness/nutrition/synadentix`
+- ProstaLite — `/topics/wellness/mens-health/prostalite`
+- Keravita Pro — `/topics/wellness/nutrition/keravita-pro`
+- Steel Bite Pro — `/topics/wellness/nutrition/steel-bite-pro`
+
+They are excluded from the catalog and sitemap until their product identity, current label, tracked destination and purchase terms can be verified. See [the account reconciliation and source limits](digistore-2026-11-11/DELIVERY.md).

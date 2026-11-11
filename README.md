@@ -111,3 +111,7 @@ Ten additional source-based guides are maintained in `content/digistore-suppleme
 ## Supplement expansion — 5 November 2026
 
 Ten new en-US product guides are generated from `content/digistore-supplements-20261105.json`, with accepted partnerships, exact account-generated destinations and thirty pinned supplier images. See `docs/digistore-2026-11-05/DELIVERY.md` for the ten products, new and existing approval states, pending requests and source limitations. Do not describe account acceptance as verified sales or medicine approval.
+
+## Digistore24 approval reconciliation — 11 November 2026
+
+The annual approved-partnership query returned 513 offer rows, including package and upsell variants. `docs/digistore-2026-11-11/affiliations.json` reconciles the 18 requests from the 5 November review: four accepted items already have guides, seven additional approvals have noindex status pages, and seven requests remain pending. Do not treat account approval as proof of product quality, sales or efficacy. Keep the new status pages out of the catalog and sitemap until their product sources, tracked destinations and order terms are verified.

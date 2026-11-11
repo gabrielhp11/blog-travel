@@ -1,0 +1,38 @@
+{
+  "reviewed": "2026-11-11",
+  "accountQuery": {
+    "createdFrom": "2026-01-01",
+    "createdTo": "2026-11-11",
+    "approvalStatus": "approved",
+    "resultRows": 513
+  },
+  "scope": "Reconciled the 18 new requests recorded on 2026-11-05. Package and upsell rows are grouped by product; older approved partnerships are not treated as new approvals.",
+  "newRequests": [
+    { "name": "CoreVital Burn", "status": "accepted", "offerIds": ["740440"], "page": "/topics/wellness/metabolic-health/corevital-burn", "indexing": "noindex", "reason": "Supplier domain displays a generic hosting setup page." },
+    { "name": "Pineal 10x", "status": "accepted", "offerIds": ["52925"], "page": "/topics/wellness/nutrition/pineal-10x", "indexing": "already published" },
+    { "name": "T-CARE", "status": "pending" },
+    { "name": "MannaFlux", "status": "pending" },
+    { "name": "Lymphatic System Support", "status": "pending" },
+    { "name": "Native Rest", "status": "pending" },
+    { "name": "Prostadine", "status": "accepted", "offerIds": ["500416"], "page": "/topics/wellness/mens-health/prostadine", "indexing": "noindex", "reason": "Supplier domain resolves to a parked-domain page." },
+    { "name": "ZenCortex", "status": "pending" },
+    { "name": "Vertigenics", "status": "accepted", "offerIds": ["50717"], "page": "/topics/wellness/brain-health/vertigenics", "indexing": "already published" },
+    { "name": "Quietum Plus", "status": "accepted", "offerIds": ["549733"], "page": "/topics/wellness/brain-health/quietum-plus", "indexing": "noindex", "reason": "Current quantitative label and serving details are not available on the supplier page." },
+    { "name": "Synadentix", "status": "accepted", "offerIds": ["639064"], "page": "/topics/wellness/nutrition/synadentix", "indexing": "noindex", "reason": "Current quantitative label and serving details are not available on the supplier page." },
+    { "name": "JointVive", "status": "pending" },
+    { "name": "NeuroVera", "status": "pending" },
+    { "name": "ProstaLite", "status": "accepted", "offerIds": ["561306"], "page": "/topics/wellness/mens-health/prostalite", "indexing": "noindex", "reason": "Supplier label was reviewed, but the account-generated promotional destination and order terms were not verified." },
+    { "name": "Nerve Fresh", "status": "accepted", "offerIds": ["50226"], "page": "/topics/wellness/nutrition/nerve-fresh", "indexing": "already published" },
+    { "name": "Keravita Pro", "status": "accepted", "offerIds": ["554211"], "page": "/topics/wellness/nutrition/keravita-pro", "indexing": "noindex", "reason": "Promotional destination resolves to unrelated toenail-fungus sales copy." },
+    { "name": "Steel Bite Pro", "status": "accepted", "offerIds": ["348582"], "page": "/topics/wellness/nutrition/steel-bite-pro", "indexing": "noindex", "reason": "Current quantitative label and three distinct relevant product images could not be verified." },
+    { "name": "Nerve Soothe", "status": "accepted", "offerIds": ["55736"], "page": "/topics/wellness/nutrition/nerve-soothe", "indexing": "already published" }
+  ],
+  "summary": {
+    "requests": 18,
+    "accepted": 11,
+    "alreadyPublished": 4,
+    "newStatusPages": 7,
+    "stillPending": 7
+  },
+  "limits": "Account approval confirms the partnership state only. It does not confirm a sale, payout, product efficacy, safety, medicine approval or final checkout terms. No order was placed and no contact or payment data was collected."
+}
