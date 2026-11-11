@@ -22,7 +22,14 @@ test('all prepared releases build valid public pages without early exposure', ()
   const checkout = fs.mkdtempSync(path.join(os.tmpdir(), 'pokisky-release-test-'));
   try {
     const root = process.cwd();
-    fs.cpSync(root, checkout, {recursive:true, filter: source => !['.git', 'node_modules', '.codex', '.agents', '.aws', '.cursor'].includes(path.relative(root,source).split(path.sep)[0])});
+    fs.cpSync(root, checkout, {recursive:true, filter: source => {
+      const parts = path.relative(root,source).split(path.sep);
+      if (parts[0] === 'affiliate-panel' && (
+        ['node_modules', '.next', '.vercel'].includes(parts[1]) ||
+        (/^\.env(?:\.|$)/.test(parts[1] || '') && parts[1] !== '.env.example')
+      )) return false;
+      return !['.git', 'node_modules', '.codex', '.agents', '.aws', '.cursor'].includes(parts[0]);
+    }});
     fs.symlinkSync(path.join(root,'node_modules'), path.join(checkout,'node_modules'), process.platform === 'win32' ? 'junction' : 'dir');
     const file = path.join(checkout,'content/editorial-posts.json');
     const posts = JSON.parse(fs.readFileSync(file,'utf8'));
