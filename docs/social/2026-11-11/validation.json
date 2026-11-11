@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-11-11",
+  "status": "prepared_pending_publication",
+  "postCount": 5,
+  "selectedImagesReviewed": 5,
+  "selectedImageDimensions": "928x1152",
+  "sourceReviewDatesAdvanced": false,
+  "allPostsLinkToExistingGuides": true,
+  "affiliateDisclosureMatchesGuide": true,
+  "publicationVerified": false,
+  "selectionNotes": [
+    {
+      "file": "Gemini_Generated_Image_w921k6w921k6w921.jpg",
+      "decision": "excluded",
+      "reason": "The illustration contains specific dates and price totals not supported by the guide."
+    },
+    {
+      "file": "Gemini_Generated_Image_c2ypuvc2ypuvc2yp.jpg",
+      "decision": "not_selected",
+      "reason": "A cleaner Advanced Vision Formula alternative was selected."
+    },
+    {
+      "file": "Gemini_Generated_Image_urmtrburmtrburmt.jpg",
+      "decision": "not_selected",
+      "reason": "A DentiCore alternative was selected; this version was not needed."
+    },
+    {
+      "file": "Gemini_Generated_Image_l45eoml45eoml45e.jpg",
+      "decision": "not_selected",
+      "reason": "A DentiCore alternative was selected; this version was not needed."
+    }
+  ],
+  "browserAccess": {
+    "gemini": "Authenticated in the shared browser page.",
+    "instagram": "Opened to a login page in this browser session.",
+    "facebook": "The shared browser page did not load the site.",
+    "pinterest": "The shared browser page did not load the site.",
+    "userChrome": "Unavailable while Computer Use is off in unattended mode."
+  }
+}
