@@ -2,6 +2,10 @@
 
 PokiSky is a static, multilingual publication for source-based product and course guides. It is hosted on Vercel at <https://blog-travel-eight.vercel.app/>.
 
+## Affiliate portal
+
+The independent Next.js affiliate system lives in [`affiliate-panel/`](affiliate-panel/README.md). Deploy it as a separate Vercel project with `affiliate-panel` as its root directory; the existing static-site deployment remains unchanged. The panel provides Google OAuth, affiliate and admin dashboards, tracking redirects, signed sale webhooks, and PIX payout workflows. Follow its README to configure the database, OAuth, secrets, and the optional tracking script on blog pages.
+
 ## Site structure
 
 - `index.html` is the publication home page. Its catalog is generated as static HTML from `assets/js/articles.js`; JavaScript only enhances the filters.
