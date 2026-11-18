@@ -1,0 +1,305 @@
+{
+  "campaign": "supplement_rotation_20261118",
+  "brand": "PokiSky",
+  "createdDate": "2026-11-18",
+  "language": "en",
+  "status": "awaiting_user_images",
+  "selection": {
+    "method": "Random sample of products with one prior campaign record and at least 14 days since that record; products in the most recent 14 days were excluded.",
+    "products": [
+      {
+        "id": "curcumitol-q",
+        "lastCampaignDate": "2026-10-31",
+        "previousAngle": "Percentages need context"
+      },
+      {
+        "id": "vigorsana",
+        "lastCampaignDate": "2026-11-02",
+        "previousAngle": "Two nutrients are not a full label"
+      },
+      {
+        "id": "eznaturals-moringa",
+        "lastCampaignDate": "2026-10-31",
+        "previousAngle": "Powder or extract?"
+      },
+      {
+        "id": "alpha-dualis",
+        "lastCampaignDate": "2026-11-02",
+        "previousAngle": "A pack is not always one bottle"
+      },
+      {
+        "id": "tonicgreens-review",
+        "lastCampaignDate": "2026-11-01",
+        "previousAngle": "Do the label numbers add up?"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "curcumitol-q",
+      "name": "Curcumitol-Q",
+      "slug": "topics/wellness/nutrition/curcumitol-q",
+      "source": "topics/wellness/nutrition/curcumitol-q.html",
+      "sourceFile": "topics/wellness/nutrition/curcumitol-q.html",
+      "review": "2026-10-07",
+      "sourceReviewDate": "2026-10-07",
+      "sourceReviewNote": "Existing guide review; no new supplier review is claimed.",
+      "lastCampaignDate": "2026-10-31",
+      "previousAngle": "Percentages need context",
+      "headline": "CHECK UK DELIVERY FIRST",
+      "focus": "The delivery programme lists the United Kingdom, but does not establish availability for every European address. Check your exact country, address and destination charges before comparing the linked six-bottle option.",
+      "pin": "Curcumitol-Q: verify UK delivery first",
+      "alt": "PokiSky. Curcumitol-Q. CHECK UK DELIVERY FIRST. Editorial illustration of an abstract United Kingdom outline beside an address-check card and order form, without text or numerical details. AI editorial illustration · Affiliate guide.",
+      "highlight": "Joints",
+      "round": "random_rotation",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "status": "prepared",
+      "imageGenerator": "Gemini web — user-generated",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/01-curcumitol-q-gemini.jpg",
+      "geminiPrompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: an abstract United Kingdom outline beside an address-check card and order form, without text or numerical details. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / Curcumitol-Q / CHECK UK DELIVERY FIRST / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
+      "pinterestTitle": "Curcumitol-Q: verify UK delivery first",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The delivery programme lists the United Kingdom, but does not establish availability for every European address. Check your exact country, address and destination charges before comparing the linked six-bottle option. Read the PokiSky guide. AI editorial illustration.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK UK DELIVERY FIRST\n\nThe delivery programme lists the United Kingdom, but does not establish availability for every European address. Check your exact country, address and destination charges before comparing the linked six-bottle option.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=curcumitol-q\n\nAI editorial illustration.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK UK DELIVERY FIRST\n\nThe delivery programme lists the United Kingdom, but does not establish availability for every European address. Check your exact country, address and destination charges before comparing the linked six-bottle option.\n\nFind “Curcumitol-Q” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=curcumitol-q\n\nAI editorial illustration.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky. Curcumitol-Q. CHECK UK DELIVERY FIRST. Editorial illustration of an abstract United Kingdom outline beside an address-check card and order form, without text or numerical details. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=curcumitol-q",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=curcumitol-q",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/curcumitol-q?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=curcumitol-q"
+      },
+      "publications": {
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "pinterest": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Joints"
+        }
+      }
+    },
+    {
+      "id": "vigorsana",
+      "name": "VigorSana",
+      "slug": "topics/wellness/longevity/vigorsana",
+      "source": "topics/wellness/longevity/vigorsana.html",
+      "sourceFile": "topics/wellness/longevity/vigorsana.html",
+      "review": "2026-10-05",
+      "sourceReviewDate": "2026-10-05",
+      "sourceReviewNote": "Existing guide review; no new supplier review is claimed.",
+      "lastCampaignDate": "2026-11-02",
+      "previousAngle": "Two nutrients are not a full label",
+      "headline": "CHECK THE TERMS, NOT THE TIMER",
+      "focus": "The VigorSana guide recommends reviewing current refund and shipping terms instead of relying on urgency or limited-stock notices. Check the complete current label and order terms; promotional countdowns do not establish suitability or a verified outcome.",
+      "pin": "VigorSana: check the terms, not the timer",
+      "alt": "PokiSky. VigorSana. CHECK THE TERMS, NOT THE TIMER. Editorial illustration of a calm abstract timer beside two neutral document cards and a magnifying glass, with no numbers, logos or countdown text. AI editorial illustration · Affiliate guide.",
+      "highlight": "Mens Health",
+      "round": "random_rotation",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "status": "prepared",
+      "imageGenerator": "Gemini web — user-generated",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/02-vigorsana-gemini.jpg",
+      "geminiPrompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: a calm abstract timer beside two neutral document cards and a magnifying glass, with no numbers, logos or countdown text. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / VigorSana / CHECK THE TERMS, NOT THE TIMER / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
+      "pinterestTitle": "VigorSana: check the terms, not the timer",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The VigorSana guide recommends reviewing current refund and shipping terms instead of relying on urgency or limited-stock notices. Check the complete current label and order terms; promotional countdowns do not establish suitability or a verified outcome. Read the PokiSky guide. AI editorial illustration.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE TERMS, NOT THE TIMER\n\nThe VigorSana guide recommends reviewing current refund and shipping terms instead of relying on urgency or limited-stock notices. Check the complete current label and order terms; promotional countdowns do not establish suitability or a verified outcome.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=vigorsana\n\nAI editorial illustration.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE TERMS, NOT THE TIMER\n\nThe VigorSana guide recommends reviewing current refund and shipping terms instead of relying on urgency or limited-stock notices. Check the complete current label and order terms; promotional countdowns do not establish suitability or a verified outcome.\n\nFind “VigorSana” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=vigorsana\n\nAI editorial illustration.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky. VigorSana. CHECK THE TERMS, NOT THE TIMER. Editorial illustration of a calm abstract timer beside two neutral document cards and a magnifying glass, with no numbers, logos or countdown text. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=vigorsana",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=vigorsana",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/vigorsana?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=vigorsana"
+      },
+      "publications": {
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "pinterest": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Mens Health"
+        }
+      }
+    },
+    {
+      "id": "eznaturals-moringa",
+      "name": "EZNaturals Moringa",
+      "slug": "topics/wellness/nutrition/eznaturals-moringa",
+      "source": "topics/wellness/nutrition/eznaturals-moringa.html",
+      "sourceFile": "topics/wellness/nutrition/eznaturals-moringa.html",
+      "review": "2026-10-10",
+      "sourceReviewDate": "2026-10-10",
+      "sourceReviewNote": "Existing guide review; no new supplier review is claimed.",
+      "lastCampaignDate": "2026-10-31",
+      "previousAngle": "Powder or extract?",
+      "headline": "60 CAPSULES, VARIABLE DURATION",
+      "focus": "The supplier label lists 60 one-capsule servings, while the offer describes 30 days using two capsules daily. Compare the serving basis behind the package wording; this quantity arithmetic is not a usage recommendation.",
+      "pin": "EZNaturals Moringa: compare bottle days and servings",
+      "alt": "PokiSky. EZNaturals Moringa. 60 CAPSULES, VARIABLE DURATION. Editorial illustration of a neutral bottle outline, one capsule and two calendar grids with different spacing, without dates, numerals or usage directions. AI editorial illustration · Affiliate guide.",
+      "highlight": "Nutrition",
+      "round": "random_rotation",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "status": "prepared",
+      "imageGenerator": "Gemini web — user-generated",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/03-eznaturals-moringa-gemini.jpg",
+      "geminiPrompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: a neutral bottle outline, one capsule and two calendar grids with different spacing, without dates, numerals or usage directions. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / EZNaturals Moringa / 60 CAPSULES, VARIABLE DURATION / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
+      "pinterestTitle": "EZNaturals Moringa: compare bottle days and servings",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The supplier label lists 60 one-capsule servings, while the offer describes 30 days using two capsules daily. Compare the serving basis behind the package wording; this quantity arithmetic is not a usage recommendation. Read the PokiSky guide. AI editorial illustration.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\n60 CAPSULES, VARIABLE DURATION\n\nThe supplier label lists 60 one-capsule servings, while the offer describes 30 days using two capsules daily. Compare the serving basis behind the package wording; this quantity arithmetic is not a usage recommendation.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=eznaturals-moringa\n\nAI editorial illustration.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\n60 CAPSULES, VARIABLE DURATION\n\nThe supplier label lists 60 one-capsule servings, while the offer describes 30 days using two capsules daily. Compare the serving basis behind the package wording; this quantity arithmetic is not a usage recommendation.\n\nFind “EZNaturals Moringa” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=eznaturals-moringa\n\nAI editorial illustration.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky. EZNaturals Moringa. 60 CAPSULES, VARIABLE DURATION. Editorial illustration of a neutral bottle outline, one capsule and two calendar grids with different spacing, without dates, numerals or usage directions. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=eznaturals-moringa",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=eznaturals-moringa",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/eznaturals-moringa?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=eznaturals-moringa"
+      },
+      "publications": {
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "pinterest": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Nutrition"
+        }
+      }
+    },
+    {
+      "id": "alpha-dualis",
+      "name": "Alpha Dualis",
+      "slug": "topics/wellness/mens-health/alpha-dualis",
+      "source": "topics/wellness/mens-health/alpha-dualis.html",
+      "sourceFile": "topics/wellness/mens-health/alpha-dualis.html",
+      "review": "2026-10-24",
+      "sourceReviewDate": "2026-10-24",
+      "sourceReviewNote": "Existing guide review; no new supplier review is claimed.",
+      "lastCampaignDate": "2026-11-02",
+      "previousAngle": "A pack is not always one bottle",
+      "headline": "ASK FOR THE MORNING FACTS PANEL",
+      "focus": "The seller’s morning formula narrative lists ingredient names, but a complete current morning Supplement Facts panel, individual amounts and excipients were not established in the material reviewed. Ask for that full panel and compare it separately with the evening label.",
+      "pin": "Alpha Dualis: ask for the complete morning label",
+      "alt": "PokiSky. Alpha Dualis. ASK FOR THE MORNING FACTS PANEL. Editorial illustration of two separate formula cards, one with a magnifying glass over an intentionally blank facts panel, without packaging or extra text. AI editorial illustration · Affiliate guide.",
+      "highlight": "Mens Health",
+      "round": "random_rotation",
+      "socialLanguage": "en",
+      "affiliate": true,
+      "status": "prepared",
+      "imageGenerator": "Gemini web — user-generated",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/04-alpha-dualis-gemini.jpg",
+      "geminiPrompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: two separate formula cards, one with a magnifying glass over an intentionally blank facts panel, without packaging or extra text. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / Alpha Dualis / ASK FOR THE MORNING FACTS PANEL / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
+      "pinterestTitle": "Alpha Dualis: ask for the complete morning label",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The seller’s morning formula narrative lists ingredient names, but a complete current morning Supplement Facts panel, individual amounts and excipients were not established in the material reviewed. Ask for that full panel and compare it separately with the evening label. Read the PokiSky guide. AI editorial illustration.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nASK FOR THE MORNING FACTS PANEL\n\nThe seller’s morning formula narrative lists ingredient names, but a complete current morning Supplement Facts panel, individual amounts and excipients were not established in the material reviewed. Ask for that full panel and compare it separately with the evening label.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=alpha-dualis\n\nAI editorial illustration.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nASK FOR THE MORNING FACTS PANEL\n\nThe seller’s morning formula narrative lists ingredient names, but a complete current morning Supplement Facts panel, individual amounts and excipients were not established in the material reviewed. Ask for that full panel and compare it separately with the evening label.\n\nFind “Alpha Dualis” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=alpha-dualis\n\nAI editorial illustration.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky. Alpha Dualis. ASK FOR THE MORNING FACTS PANEL. Editorial illustration of two separate formula cards, one with a magnifying glass over an intentionally blank facts panel, without packaging or extra text. AI editorial illustration · Affiliate guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=alpha-dualis",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=alpha-dualis",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/mens-health/alpha-dualis?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=alpha-dualis"
+      },
+      "publications": {
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "pinterest": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Mens Health"
+        }
+      }
+    },
+    {
+      "id": "tonicgreens-review",
+      "name": "TonicGreens",
+      "slug": "topics/wellness/nutrition/tonicgreens-review",
+      "source": "topics/wellness/nutrition/tonicgreens-review.html",
+      "sourceFile": "topics/wellness/nutrition/tonicgreens-review.html",
+      "review": "2026-10-31",
+      "sourceReviewDate": "2026-10-31",
+      "sourceReviewNote": "Existing guide review; no new supplier review is claimed.",
+      "lastCampaignDate": "2026-11-01",
+      "previousAngle": "Do the label numbers add up?",
+      "headline": "COCONUT IS DECLARED ON THE WRAPPER",
+      "focus": "The reviewed TonicGreens wrapper declares coconut. Read the complete current ingredient and allergen statements and confirm product suitability with a qualified professional when needed; PokiSky has not independently tested the finished formula.",
+      "pin": "TonicGreens: check the coconut statement",
+      "alt": "PokiSky. TonicGreens. COCONUT IS DECLARED ON THE WRAPPER. Editorial illustration of a simple coconut silhouette beside an abstract supplement label and a quiet review marker, without health symbols, packaging or extra words. AI editorial illustration · Independent guide.",
+      "highlight": "Nutrition",
+      "round": "random_rotation",
+      "socialLanguage": "en",
+      "affiliate": false,
+      "status": "prepared",
+      "imageGenerator": "Gemini web — user-generated",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/05-tonicgreens-review-gemini.jpg",
+      "geminiPrompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: a simple coconut silhouette beside an abstract supplement label and a quiet review marker, without health symbols, packaging or extra words. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / TonicGreens / COCONUT IS DECLARED ON THE WRAPPER / AI editorial illustration · Independent guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
+      "pinterestTitle": "TonicGreens: check the coconut statement",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official seller links. The reviewed TonicGreens wrapper declares coconut. Read the complete current ingredient and allergen statements and confirm product suitability with a qualified professional when needed; PokiSky has not independently tested the finished formula. Read the PokiSky guide. AI editorial illustration.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official seller links.\n\nCOCONUT IS DECLARED ON THE WRAPPER\n\nThe reviewed TonicGreens wrapper declares coconut. Read the complete current ingredient and allergen statements and confirm product suitability with a qualified professional when needed; PokiSky has not independently tested the finished formula.\n\nRead the PokiSky guide.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=tonicgreens-review\n\nAI editorial illustration.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official seller links.\n\nCOCONUT IS DECLARED ON THE WRAPPER\n\nThe reviewed TonicGreens wrapper declares coconut. Read the complete current ingredient and allergen statements and confirm product suitability with a qualified professional when needed; PokiSky has not independently tested the finished formula.\n\nFind “TonicGreens” on the PokiSky blog. Copy this address into your browser.\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=tonicgreens-review\n\nAI editorial illustration.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky. TonicGreens. COCONUT IS DECLARED ON THE WRAPPER. Editorial illustration of a simple coconut silhouette beside an abstract supplement label and a quiet review marker, without health symbols, packaging or extra words. AI editorial illustration · Independent guide.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=tonicgreens-review",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=tonicgreens-review",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/tonicgreens-review?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261118&utm_content=tonicgreens-review"
+      },
+      "publications": {
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "pinterest": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Nutrition"
+        }
+      }
+    }
+  ]
+}
+

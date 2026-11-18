@@ -1,0 +1,102 @@
+{
+  "campaign": "supplement_rotation_20261118",
+  "status": "awaiting_user_images",
+  "posts": [
+    {
+      "id": "curcumitol-q",
+      "facebook": {
+        "status": "not_published"
+      },
+      "instagram": {
+        "status": "not_published"
+      },
+      "pinterest": {
+        "status": "not_published"
+      },
+      "stories": {
+        "status": "not_published"
+      },
+      "highlight": {
+        "status": "not_saved",
+        "name": "Joints"
+      }
+    },
+    {
+      "id": "vigorsana",
+      "facebook": {
+        "status": "not_published"
+      },
+      "instagram": {
+        "status": "not_published"
+      },
+      "pinterest": {
+        "status": "not_published"
+      },
+      "stories": {
+        "status": "not_published"
+      },
+      "highlight": {
+        "status": "not_saved",
+        "name": "Mens Health"
+      }
+    },
+    {
+      "id": "eznaturals-moringa",
+      "facebook": {
+        "status": "not_published"
+      },
+      "instagram": {
+        "status": "not_published"
+      },
+      "pinterest": {
+        "status": "not_published"
+      },
+      "stories": {
+        "status": "not_published"
+      },
+      "highlight": {
+        "status": "not_saved",
+        "name": "Nutrition"
+      }
+    },
+    {
+      "id": "alpha-dualis",
+      "facebook": {
+        "status": "not_published"
+      },
+      "instagram": {
+        "status": "not_published"
+      },
+      "pinterest": {
+        "status": "not_published"
+      },
+      "stories": {
+        "status": "not_published"
+      },
+      "highlight": {
+        "status": "not_saved",
+        "name": "Mens Health"
+      }
+    },
+    {
+      "id": "tonicgreens-review",
+      "facebook": {
+        "status": "not_published"
+      },
+      "instagram": {
+        "status": "not_published"
+      },
+      "pinterest": {
+        "status": "not_published"
+      },
+      "stories": {
+        "status": "not_published"
+      },
+      "highlight": {
+        "status": "not_saved",
+        "name": "Nutrition"
+      }
+    }
+  ]
+}
+

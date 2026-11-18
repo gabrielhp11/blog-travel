@@ -1,0 +1,43 @@
+[
+  {
+    "file": "images/01-curcumitol-q-gemini.jpg",
+    "source": "awaiting user-generated Gemini download",
+    "dimensions": null,
+    "sha256": null,
+    "status": "awaiting_user_generation",
+    "review": "not yet generated or reviewed"
+  },
+  {
+    "file": "images/02-vigorsana-gemini.jpg",
+    "source": "awaiting user-generated Gemini download",
+    "dimensions": null,
+    "sha256": null,
+    "status": "awaiting_user_generation",
+    "review": "not yet generated or reviewed"
+  },
+  {
+    "file": "images/03-eznaturals-moringa-gemini.jpg",
+    "source": "awaiting user-generated Gemini download",
+    "dimensions": null,
+    "sha256": null,
+    "status": "awaiting_user_generation",
+    "review": "not yet generated or reviewed"
+  },
+  {
+    "file": "images/04-alpha-dualis-gemini.jpg",
+    "source": "awaiting user-generated Gemini download",
+    "dimensions": null,
+    "sha256": null,
+    "status": "awaiting_user_generation",
+    "review": "not yet generated or reviewed"
+  },
+  {
+    "file": "images/05-tonicgreens-review-gemini.jpg",
+    "source": "awaiting user-generated Gemini download",
+    "dimensions": null,
+    "sha256": null,
+    "status": "awaiting_user_generation",
+    "review": "not yet generated or reviewed"
+  }
+]
+

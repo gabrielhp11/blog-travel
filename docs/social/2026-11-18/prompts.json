@@ -1,0 +1,33 @@
+[
+  {
+    "id": "curcumitol-q",
+    "name": "Curcumitol-Q",
+    "prompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: an abstract United Kingdom outline beside an address-check card and order form, without text or numerical details. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / Curcumitol-Q / CHECK UK DELIVERY FIRST / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
+    "expectedImageFile": "images/01-curcumitol-q-gemini.jpg"
+  },
+  {
+    "id": "vigorsana",
+    "name": "VigorSana",
+    "prompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: a calm abstract timer beside two neutral document cards and a magnifying glass, with no numbers, logos or countdown text. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / VigorSana / CHECK THE TERMS, NOT THE TIMER / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
+    "expectedImageFile": "images/02-vigorsana-gemini.jpg"
+  },
+  {
+    "id": "eznaturals-moringa",
+    "name": "EZNaturals Moringa",
+    "prompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: a neutral bottle outline, one capsule and two calendar grids with different spacing, without dates, numerals or usage directions. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / EZNaturals Moringa / 60 CAPSULES, VARIABLE DURATION / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
+    "expectedImageFile": "images/03-eznaturals-moringa-gemini.jpg"
+  },
+  {
+    "id": "alpha-dualis",
+    "name": "Alpha Dualis",
+    "prompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: two separate formula cards, one with a magnifying glass over an intentionally blank facts panel, without packaging or extra text. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / Alpha Dualis / ASK FOR THE MORNING FACTS PANEL / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
+    "expectedImageFile": "images/04-alpha-dualis-gemini.jpg"
+  },
+  {
+    "id": "tonicgreens-review",
+    "name": "TonicGreens",
+    "prompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: a simple coconut silhouette beside an abstract supplement label and a quiet review marker, without health symbols, packaging or extra words. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / TonicGreens / COCONUT IS DECLARED ON THE WRAPPER / AI editorial illustration · Independent guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
+    "expectedImageFile": "images/05-tonicgreens-review-gemini.jpg"
+  }
+]
+
