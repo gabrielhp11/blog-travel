@@ -3,7 +3,7 @@
   "brand": "PokiSky",
   "createdDate": "2026-11-18",
   "language": "en",
-  "status": "awaiting_user_images",
+  "status": "pinterest_and_instagram_stories_published_highlights_pending",
   "selection": {
     "method": "Random sample of products with one prior campaign record and at least 14 days since that record; products in the most recent 14 days were excluded.",
     "products": [
@@ -54,9 +54,9 @@
       "round": "random_rotation",
       "socialLanguage": "en",
       "affiliate": true,
-      "status": "prepared",
+      "status": "published_facebook_instagram",
       "imageGenerator": "Gemini web — user-generated",
-      "imageStatus": "awaiting_user_generation",
+      "imageStatus": "downloaded_and_reviewed",
       "expectedImageFile": "images/01-curcumitol-q-gemini.jpg",
       "geminiPrompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: an abstract United Kingdom outline beside an address-check card and order form, without text or numerical details. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / Curcumitol-Q / CHECK UK DELIVERY FIRST / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
       "pinterestTitle": "Curcumitol-Q: verify UK delivery first",
@@ -71,16 +71,18 @@
       },
       "publications": {
         "facebook": {
-          "status": "not_published"
+          "status": "published",
+          "metaId": "122113729617532355"
         },
         "instagram": {
-          "status": "not_published"
+          "status": "published",
+          "metaId": "122113729617532355"
         },
         "pinterest": {
-          "status": "not_published"
+          "status": "published"
         },
         "stories": {
-          "status": "not_published"
+          "status": "published"
         },
         "highlight": {
           "status": "not_saved",
@@ -107,9 +109,9 @@
       "round": "random_rotation",
       "socialLanguage": "en",
       "affiliate": true,
-      "status": "prepared",
+      "status": "published_facebook_instagram",
       "imageGenerator": "Gemini web — user-generated",
-      "imageStatus": "awaiting_user_generation",
+      "imageStatus": "downloaded_and_reviewed",
       "expectedImageFile": "images/02-vigorsana-gemini.jpg",
       "geminiPrompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: a calm abstract timer beside two neutral document cards and a magnifying glass, with no numbers, logos or countdown text. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / VigorSana / CHECK THE TERMS, NOT THE TIMER / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
       "pinterestTitle": "VigorSana: check the terms, not the timer",
@@ -124,16 +126,18 @@
       },
       "publications": {
         "facebook": {
-          "status": "not_published"
+          "status": "published",
+          "metaId": "122113730283532355"
         },
         "instagram": {
-          "status": "not_published"
+          "status": "published",
+          "metaId": "122113730283532355"
         },
         "pinterest": {
-          "status": "not_published"
+          "status": "published"
         },
         "stories": {
-          "status": "not_published"
+          "status": "published"
         },
         "highlight": {
           "status": "not_saved",
@@ -160,9 +164,9 @@
       "round": "random_rotation",
       "socialLanguage": "en",
       "affiliate": true,
-      "status": "prepared",
+      "status": "published_facebook_instagram",
       "imageGenerator": "Gemini web — user-generated",
-      "imageStatus": "awaiting_user_generation",
+      "imageStatus": "downloaded_and_reviewed",
       "expectedImageFile": "images/03-eznaturals-moringa-gemini.jpg",
       "geminiPrompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: a neutral bottle outline, one capsule and two calendar grids with different spacing, without dates, numerals or usage directions. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / EZNaturals Moringa / 60 CAPSULES, VARIABLE DURATION / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
       "pinterestTitle": "EZNaturals Moringa: compare bottle days and servings",
@@ -177,16 +181,18 @@
       },
       "publications": {
         "facebook": {
-          "status": "not_published"
+          "status": "published",
+          "metaId": "122113730961532355"
         },
         "instagram": {
-          "status": "not_published"
+          "status": "published",
+          "metaId": "122113730961532355"
         },
         "pinterest": {
-          "status": "not_published"
+          "status": "published"
         },
         "stories": {
-          "status": "not_published"
+          "status": "published"
         },
         "highlight": {
           "status": "not_saved",
@@ -213,9 +219,9 @@
       "round": "random_rotation",
       "socialLanguage": "en",
       "affiliate": true,
-      "status": "prepared",
+      "status": "published_facebook_instagram",
       "imageGenerator": "Gemini web — user-generated",
-      "imageStatus": "awaiting_user_generation",
+      "imageStatus": "downloaded_and_reviewed",
       "expectedImageFile": "images/04-alpha-dualis-gemini.jpg",
       "geminiPrompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: two separate formula cards, one with a magnifying glass over an intentionally blank facts panel, without packaging or extra text. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / Alpha Dualis / ASK FOR THE MORNING FACTS PANEL / AI editorial illustration · Affiliate guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
       "pinterestTitle": "Alpha Dualis: ask for the complete morning label",
@@ -230,16 +236,18 @@
       },
       "publications": {
         "facebook": {
-          "status": "not_published"
+          "status": "published",
+          "metaId": "122113732689532355"
         },
         "instagram": {
-          "status": "not_published"
+          "status": "published",
+          "metaId": "122113732689532355"
         },
         "pinterest": {
-          "status": "not_published"
+          "status": "published"
         },
         "stories": {
-          "status": "not_published"
+          "status": "published"
         },
         "highlight": {
           "status": "not_saved",
@@ -266,9 +274,9 @@
       "round": "random_rotation",
       "socialLanguage": "en",
       "affiliate": false,
-      "status": "prepared",
+      "status": "published_facebook_instagram",
       "imageGenerator": "Gemini web — user-generated",
-      "imageStatus": "awaiting_user_generation",
+      "imageStatus": "downloaded_and_reviewed",
       "expectedImageFile": "images/05-tonicgreens-review-gemini.jpg",
       "geminiPrompt": "Create one distinct vertical 4:5 PokiSky editorial poster. Illustration concept: a simple coconut silhouette beside an abstract supplement label and a quiet review marker, without health symbols, packaging or extra words. Use clear high contrast, calm editorial color, and wide safe margins. Typeset exactly four lines, each only once: PokiSky / TonicGreens / COCONUT IS DECLARED ON THE WRAPPER / AI editorial illustration · Independent guide. No other words, numbers, people, product packaging, prices, directions, dosage or health claims.",
       "pinterestTitle": "TonicGreens: check the coconut statement",
@@ -283,16 +291,18 @@
       },
       "publications": {
         "facebook": {
-          "status": "not_published"
+          "status": "published",
+          "metaId": "122113733139532355"
         },
         "instagram": {
-          "status": "not_published"
+          "status": "published",
+          "metaId": "122113733139532355"
         },
         "pinterest": {
-          "status": "not_published"
+          "status": "published"
         },
         "stories": {
-          "status": "not_published"
+          "status": "published"
         },
         "highlight": {
           "status": "not_saved",
@@ -302,4 +312,3 @@
     }
   ]
 }
-

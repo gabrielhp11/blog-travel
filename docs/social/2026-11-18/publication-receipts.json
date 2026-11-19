@@ -1,20 +1,22 @@
 {
   "campaign": "supplement_rotation_20261118",
-  "status": "awaiting_user_images",
+  "status": "pinterest_and_instagram_stories_published_highlights_pending",
   "posts": [
     {
       "id": "curcumitol-q",
       "facebook": {
-        "status": "not_published"
+        "status": "published",
+        "metaId": "122113729617532355"
       },
       "instagram": {
-        "status": "not_published"
+        "status": "published",
+        "metaId": "122113729617532355"
       },
       "pinterest": {
-        "status": "not_published"
+        "status": "published"
       },
       "stories": {
-        "status": "not_published"
+        "status": "published"
       },
       "highlight": {
         "status": "not_saved",
@@ -24,16 +26,18 @@
     {
       "id": "vigorsana",
       "facebook": {
-        "status": "not_published"
+        "status": "published",
+        "metaId": "122113730283532355"
       },
       "instagram": {
-        "status": "not_published"
+        "status": "published",
+        "metaId": "122113730283532355"
       },
       "pinterest": {
-        "status": "not_published"
+        "status": "published"
       },
       "stories": {
-        "status": "not_published"
+        "status": "published"
       },
       "highlight": {
         "status": "not_saved",
@@ -43,16 +47,18 @@
     {
       "id": "eznaturals-moringa",
       "facebook": {
-        "status": "not_published"
+        "status": "published",
+        "metaId": "122113730961532355"
       },
       "instagram": {
-        "status": "not_published"
+        "status": "published",
+        "metaId": "122113730961532355"
       },
       "pinterest": {
-        "status": "not_published"
+        "status": "published"
       },
       "stories": {
-        "status": "not_published"
+        "status": "published"
       },
       "highlight": {
         "status": "not_saved",
@@ -62,16 +68,18 @@
     {
       "id": "alpha-dualis",
       "facebook": {
-        "status": "not_published"
+        "status": "published",
+        "metaId": "122113732689532355"
       },
       "instagram": {
-        "status": "not_published"
+        "status": "published",
+        "metaId": "122113732689532355"
       },
       "pinterest": {
-        "status": "not_published"
+        "status": "published"
       },
       "stories": {
-        "status": "not_published"
+        "status": "published"
       },
       "highlight": {
         "status": "not_saved",
@@ -81,16 +89,18 @@
     {
       "id": "tonicgreens-review",
       "facebook": {
-        "status": "not_published"
+        "status": "published",
+        "metaId": "122113733139532355"
       },
       "instagram": {
-        "status": "not_published"
+        "status": "published",
+        "metaId": "122113733139532355"
       },
       "pinterest": {
-        "status": "not_published"
+        "status": "published"
       },
       "stories": {
-        "status": "not_published"
+        "status": "published"
       },
       "highlight": {
         "status": "not_saved",
@@ -99,4 +109,3 @@
     }
   ]
 }
-

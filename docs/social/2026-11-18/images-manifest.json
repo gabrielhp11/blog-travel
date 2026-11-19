@@ -2,42 +2,41 @@
   {
     "file": "images/01-curcumitol-q-gemini.jpg",
     "source": "awaiting user-generated Gemini download",
-    "dimensions": null,
-    "sha256": null,
-    "status": "awaiting_user_generation",
-    "review": "not yet generated or reviewed"
+    "dimensions": "928x1152",
+    "sha256": "20F172FDDB82D9CCC00BF363FA9157FC45CA64E9C4B9BD58C6B560AB355DBBF6",
+    "status": "reviewed",
+    "review": "Matches assigned product, headline and disclosure; visually reviewed."
   },
   {
     "file": "images/02-vigorsana-gemini.jpg",
     "source": "awaiting user-generated Gemini download",
-    "dimensions": null,
-    "sha256": null,
-    "status": "awaiting_user_generation",
-    "review": "not yet generated or reviewed"
+    "dimensions": "928x1152",
+    "sha256": "6B8CE257CF79EBF532988D6691809F70F6254EB9C4FE56483DC367A3A4159AE8",
+    "status": "reviewed",
+    "review": "Matches assigned product, headline and disclosure; visually reviewed."
   },
   {
     "file": "images/03-eznaturals-moringa-gemini.jpg",
     "source": "awaiting user-generated Gemini download",
-    "dimensions": null,
-    "sha256": null,
-    "status": "awaiting_user_generation",
-    "review": "not yet generated or reviewed"
+    "dimensions": "928x1152",
+    "sha256": "FBC8867DE4CAE582B47EF5F8AFBCB184CF1AB9FFF1465B5678ACBDF723AB54D8",
+    "status": "reviewed",
+    "review": "Corrected user-generated image; assigned product and headline visually reviewed."
   },
   {
     "file": "images/04-alpha-dualis-gemini.jpg",
     "source": "awaiting user-generated Gemini download",
-    "dimensions": null,
-    "sha256": null,
-    "status": "awaiting_user_generation",
-    "review": "not yet generated or reviewed"
+    "dimensions": "928x1152",
+    "sha256": "260FDCDF222BD9DD02A8867E7228349F1214905A7B3DDC06D26E4DA6071E0CE6",
+    "status": "reviewed",
+    "review": "Corrected user-generated image; assigned product and headline visually reviewed."
   },
   {
     "file": "images/05-tonicgreens-review-gemini.jpg",
     "source": "awaiting user-generated Gemini download",
-    "dimensions": null,
-    "sha256": null,
-    "status": "awaiting_user_generation",
-    "review": "not yet generated or reviewed"
+    "dimensions": "928x1152",
+    "sha256": "DE9741AEC7CB7861790ED9C7785CDF5557E3FD078AC5BD70AC8CB91830251C6A",
+    "status": "reviewed",
+    "review": "Matches assigned product, headline and disclosure; visually reviewed."
   }
 ]
-

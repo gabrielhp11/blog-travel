@@ -4,14 +4,20 @@
 
 Five items were drawn randomly from the supplement catalogue. Each had one prior campaign record at least 14 days before this campaign; products in the most recent 14 days were excluded. Prior dates and angles are recorded in `posts.json`.
 
-## Ready for Gemini
+## Image review
 
-Prompts and network captions are ready. Generate each image in Gemini and download the original. Save it in `images/` using the exact filename in `prompts.json` and `images-manifest.json`. Review the four text lines and safe margins, then tell Codex the downloads are ready. I will review the images and continue with the publications.
+All five downloaded images were visually reviewed. The corrected EZNaturals Moringa and Alpha Dualis images replaced the earlier rejected downloads; the assigned product and headline are present.
 
-## Pending
+## Facebook and Instagram feed
 
-- User-generated and downloaded images.
-- Image review, dimensions and SHA-256 receipts.
-- Pinterest, Facebook and Instagram posts.
-- Instagram Stories and Highlights, followed by link and evidence verification.
+All five feed posts were published jointly to Facebook and Instagram. Meta confirmed each post; identifiers and image checksums are recorded in `posts.json` and `images-manifest.json`.
 
+## Pinterest
+
+All five Pins were published to the Social board on the PokiSky Pinterest account. Titles, descriptions, links, alt text and AI-content disclosures were set from the campaign records.
+
+## Instagram Stories and Highlights
+
+All five Instagram Story slides were published. Meta Business Suite confirmed the Story publication and shows five active Instagram Story items; the Instagram archive also displayed the slides.
+
+The five Stories have not been added to their Highlights. The Meta Business Suite tools and Story detail view inspected in this session did not offer an add-to-Highlight action. Facebook Stories were not published.
