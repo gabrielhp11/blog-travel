@@ -1,0 +1,42 @@
+[
+  {
+    "id": "advanced-amino-formula",
+    "expectedImageFile": "images/01-advanced-amino-formula-gemini.jpg",
+    "prompt": "Create one vertical 4:5 editorial illustration for an English-language supplement buying guide. Product: Advanced Amino Formula. Visual direction: A clean geometric grid of 150 small tablet-like shapes grouped into five, with a subtle 30 marker; no bottle or dosage advice. Use a polished restrained palette, strong mobile-readable contrast, generous safe margins and an uncluttered editorial layout. Include only these exact text blocks: \"PokiSky\", \"SUPPLEMENT BUYING GUIDE\", \"Advanced Amino Formula\", \"COUNT THE TABLETS PER SERVING\", \"150 tablets\", \"5 per label serving\", \"30 label servings\", \"Read the guide\", \"AI editorial illustration - Independent guide\". Do not add other text, logos, real product packaging, testimonials, prices, dosage advice, health outcomes or clinical claims. Generate one image."
+  },
+  {
+    "id": "advanced-muscle-plus",
+    "expectedImageFile": "images/02-advanced-muscle-plus-gemini.jpg",
+    "prompt": "Create one vertical 4:5 editorial illustration for an English-language supplement buying guide. Product: Advanced Muscle Plus. Visual direction: Editorial checklist beside two abstract ingredient cards labeled only by the exact ingredient names; no athletes, body transformation, packaging or health symbols. Use a polished restrained palette, strong mobile-readable contrast, generous safe margins and an uncluttered editorial layout. Include only these exact text blocks: \"PokiSky\", \"SUPPLEMENT BUYING GUIDE\", \"Advanced Muscle Plus\", \"CHECK THE FULL FORMULA\", \"HMB and dileucine\", \"Full current panel\", \"Warnings and serving basis\", \"Read the guide\", \"AI editorial illustration - Independent guide\". Do not add other text, logos, real product packaging, testimonials, prices, dosage advice, health outcomes or clinical claims. Generate one image."
+  },
+  {
+    "id": "nerve-soothe",
+    "expectedImageFile": "images/03-nerve-soothe-gemini.jpg",
+    "prompt": "Create one vertical 4:5 editorial illustration for an English-language supplement buying guide. Product: Nerve Soothe. Visual direction: Five distinct botanical leaf silhouettes around a blank facts-panel outline with a magnifier; calm editorial composition, no treatment imagery. Use a polished restrained palette, strong mobile-readable contrast, generous safe margins and an uncluttered editorial layout. Include only these exact text blocks: \"PokiSky\", \"SUPPLEMENT BUYING GUIDE\", \"Nerve Soothe\", \"ASK FOR AMOUNTS PER BOTANICAL\", \"Five named botanicals\", \"Amounts per ingredient?\", \"Complete current label\", \"Read the guide\", \"AI editorial illustration - Independent guide\". Do not add other text, logos, real product packaging, testimonials, prices, dosage advice, health outcomes or clinical claims. Generate one image."
+  },
+  {
+    "id": "qbx-chlorella",
+    "expectedImageFile": "images/04-qbx-chlorella-gemini.jpg",
+    "prompt": "Create one vertical 4:5 editorial illustration for an English-language supplement buying guide. Product: QBX Chlorella. Visual direction: Minimal calendar and order-summary motif with a reusable loop symbol and neutral algae-green abstract circles; no package, health claims or extra writing. Use a polished restrained palette, strong mobile-readable contrast, generous safe margins and an uncluttered editorial layout. Include only these exact text blocks: \"PokiSky\", \"SUPPLEMENT BUYING GUIDE\", \"QBX Chlorella\", \"CHECK THE RECURRING PLAN\", \"One-time or monthly?\", \"Plan terms\", \"Full order total\", \"Read the guide\", \"AI editorial illustration - Independent guide\". Do not add other text, logos, real product packaging, testimonials, prices, dosage advice, health outcomes or clinical claims. Generate one image."
+  },
+  {
+    "id": "qbx-kraeuteressenz",
+    "expectedImageFile": "images/05-qbx-kraeuteressenz-gemini.jpg",
+    "prompt": "Create one vertical 4:5 editorial illustration for an English-language supplement buying guide. Product: QBX Kräuteressenz. Visual direction: A simple calendar page and sealed parcel icon with three clear checklist lines; warm herbal colors, no bottle or medical symbols. Use a polished restrained palette, strong mobile-readable contrast, generous safe margins and an uncluttered editorial layout. Include only these exact text blocks: \"PokiSky\", \"SUPPLEMENT BUYING GUIDE\", \"QBX Kräuteressenz\", \"READ THE RETURN CONDITIONS\", \"14 days after receipt\", \"Unopened and sealed\", \"Confirm current terms\", \"Read the guide\", \"AI editorial illustration - Independent guide\". Do not add other text, logos, real product packaging, testimonials, prices, dosage advice, health outcomes or clinical claims. Generate one image."
+  },
+  {
+    "id": "synaptigen",
+    "expectedImageFile": "images/06-synaptigen-gemini.jpg",
+    "prompt": "Create one vertical 4:5 editorial illustration for an English-language supplement buying guide. Product: Synaptigen. Visual direction: A 30-cell tablet grid splitting into two neutral paths marked with the exact words 1 tablet and 2 tablets; no brain imagery or benefit claims. Use a polished restrained palette, strong mobile-readable contrast, generous safe margins and an uncluttered editorial layout. Include only these exact text blocks: \"PokiSky\", \"SUPPLEMENT BUYING GUIDE\", \"Synaptigen\", \"RECONCILE THE DAILY DIRECTIONS\", \"30 tablets per bottle\", \"One or two daily?\", \"Confirm exact version\", \"Read the guide\", \"AI editorial illustration - Independent guide\". Do not add other text, logos, real product packaging, testimonials, prices, dosage advice, health outcomes or clinical claims. Generate one image."
+  },
+  {
+    "id": "vertigenics",
+    "expectedImageFile": "images/07-vertigenics-gemini.jpg",
+    "prompt": "Create one vertical 4:5 editorial illustration for an English-language supplement buying guide. Product: Vertigenics. Visual direction: Side-by-side botanical leaf silhouettes with two clearly separated word cards banana? and banaba? and a verification check; avoid implying either is present. Use a polished restrained palette, strong mobile-readable contrast, generous safe margins and an uncluttered editorial layout. Include only these exact text blocks: \"PokiSky\", \"SUPPLEMENT BUYING GUIDE\", \"Vertigenics\", \"CLARIFY BANANA OR BANABA\", \"Sales-list wording\", \"Wrapper wording\", \"Confirm ingredient identity\", \"Read the guide\", \"AI editorial illustration - Independent guide\". Do not add other text, logos, real product packaging, testimonials, prices, dosage advice, health outcomes or clinical claims. Generate one image."
+  },
+  {
+    "id": "senflo-gummies",
+    "expectedImageFile": "images/08-senflo-gummies-gemini.jpg",
+    "prompt": "Create one vertical 4:5 editorial illustration for an English-language supplement buying guide. Product: SenFlo Gummies. Visual direction: A neat calendar card beside a clearly marked supplement facts checklist and a pause symbol; neutral editorial style, no bathroom jokes or medical promises. Use a polished restrained palette, strong mobile-readable contrast, generous safe margins and an uncluttered editorial layout. Include only these exact text blocks: \"PokiSky\", \"SUPPLEMENT BUYING GUIDE\", \"SenFlo Gummies\", \"PACK DAYS ARE NOT DIRECTIONS\", \"Pack-day claim\", \"Complete label\", \"Senna warnings\", \"Read the guide\", \"AI editorial illustration - Independent guide\". Do not add other text, logos, real product packaging, testimonials, prices, dosage advice, health outcomes or clinical claims. Generate one image."
+  }
+]

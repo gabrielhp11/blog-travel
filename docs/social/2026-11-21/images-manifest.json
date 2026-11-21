@@ -1,0 +1,70 @@
+{
+  "campaign": "supplement_rotation_20261121",
+  "status": "awaiting_user_images",
+  "images": [
+    {
+      "id": "advanced-amino-formula",
+      "file": "images/01-advanced-amino-formula-gemini.jpg",
+      "status": "awaiting_user_generation",
+      "sha256": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "advanced-muscle-plus",
+      "file": "images/02-advanced-muscle-plus-gemini.jpg",
+      "status": "awaiting_user_generation",
+      "sha256": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "nerve-soothe",
+      "file": "images/03-nerve-soothe-gemini.jpg",
+      "status": "awaiting_user_generation",
+      "sha256": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "qbx-chlorella",
+      "file": "images/04-qbx-chlorella-gemini.jpg",
+      "status": "awaiting_user_generation",
+      "sha256": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "qbx-kraeuteressenz",
+      "file": "images/05-qbx-kraeuteressenz-gemini.jpg",
+      "status": "awaiting_user_generation",
+      "sha256": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "synaptigen",
+      "file": "images/06-synaptigen-gemini.jpg",
+      "status": "awaiting_user_generation",
+      "sha256": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "vertigenics",
+      "file": "images/07-vertigenics-gemini.jpg",
+      "status": "awaiting_user_generation",
+      "sha256": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "senflo-gummies",
+      "file": "images/08-senflo-gummies-gemini.jpg",
+      "status": "awaiting_user_generation",
+      "sha256": null,
+      "width": null,
+      "height": null
+    }
+  ]
+}

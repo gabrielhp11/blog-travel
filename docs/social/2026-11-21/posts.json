@@ -1,0 +1,462 @@
+{
+  "campaign": "supplement_rotation_20261121",
+  "brand": "PokiSky",
+  "createdDate": "2026-11-21",
+  "language": "en",
+  "status": "prepared_awaiting_user_images",
+  "selection": {
+    "method": "Random sample of eight public supplement guides with no campaign from 2026-11-07 through 2026-11-21; excluded products in 2026-11-17 prepared campaign to reduce repetition. Dates and prior angles listed per item.",
+    "products": [
+      {
+        "id": "advanced-amino-formula",
+        "lastCampaignDate": "2026-10-31",
+        "previousAngle": "ONE BLEND. EIGHT NAMES."
+      },
+      {
+        "id": "advanced-muscle-plus",
+        "lastCampaignDate": "2026-10-31",
+        "previousAngle": "READ THE VITAMIN D ENTRY"
+      },
+      {
+        "id": "nerve-soothe",
+        "lastCampaignDate": "2026-11-06",
+        "previousAngle": "CHECK THE TOTAL ORDER"
+      },
+      {
+        "id": "qbx-chlorella",
+        "lastCampaignDate": "2026-11-01",
+        "previousAngle": "PER TABLET OR PER DAY?"
+      },
+      {
+        "id": "qbx-kraeuteressenz",
+        "lastCampaignDate": "2026-11-01",
+        "previousAngle": "WHICH RECIPE IS IN THE BOTTLE?"
+      },
+      {
+        "id": "synaptigen",
+        "lastCampaignDate": "2026-11-06",
+        "previousAngle": "CHECK THE TIME POINT"
+      },
+      {
+        "id": "vertigenics",
+        "lastCampaignDate": "2026-11-06",
+        "previousAngle": "CHECK THE TABLET COUNT"
+      },
+      {
+        "id": "senflo-gummies",
+        "lastCampaignDate": "2026-11-06",
+        "previousAngle": "ASK WHO PAYS RETURN POSTAGE"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "advanced-amino-formula",
+      "name": "Advanced Amino Formula",
+      "slug": "topics/wellness/longevity/advanced-amino-formula",
+      "sourceFile": "topics/wellness/longevity/advanced-amino-formula.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "lastCampaignDate": "2026-10-31",
+      "previousAngle": "ONE BLEND. EIGHT NAMES.",
+      "headline": "COUNT THE TABLETS PER SERVING",
+      "focus": "The guide lists 150 tablets per bottle and a five-tablet label serving. That is 30 label servings; compare the serving basis when evaluating the bottle, and do not treat this arithmetic as a personal-use recommendation.",
+      "checks": [
+        "150 tablets",
+        "5 per label serving",
+        "30 label servings"
+      ],
+      "highlight": "Nutrition",
+      "audienceContext": "en",
+      "status": "prepared",
+      "imageGenerator": "Gemini web (user-generated)",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/01-advanced-amino-formula-gemini.jpg",
+      "pinTitle": "Advanced Amino Formula: COUNT THE TABLETS PER SERVING",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The guide lists 150 tablets per bottle and a five-tablet label serving. That is 30 label servings; compare the serving basis when evaluating the bottle, and do not treat this arithmetic as a personal-use recommendation. Read the PokiSky guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCOUNT THE TABLETS PER SERVING\n\nThe guide lists 150 tablets per bottle and a five-tablet label serving. That is 30 label servings; compare the serving basis when evaluating the bottle, and do not treat this arithmetic as a personal-use recommendation.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=advanced-amino-formula\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCOUNT THE TABLETS PER SERVING\n\nThe guide lists 150 tablets per bottle and a five-tablet label serving. That is 30 label servings; compare the serving basis when evaluating the bottle, and do not treat this arithmetic as a personal-use recommendation.\n\nSave this checklist. Find Advanced Amino Formula on the PokiSky blog. Copy this address into your browser:\nhttps://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=advanced-amino-formula\n\nAI editorial illustration; not product photography.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Advanced Amino Formula. COUNT THE TABLETS PER SERVING. Checklist: 150 tablets; 5 per label serving; 30 label servings. Editorial illustration.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=advanced-amino-formula",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=advanced-amino-formula",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/longevity/advanced-amino-formula?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=advanced-amino-formula"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Nutrition"
+        }
+      }
+    },
+    {
+      "id": "advanced-muscle-plus",
+      "name": "Advanced Muscle Plus",
+      "slug": "topics/wellness/nutrition/advanced-muscle-plus",
+      "sourceFile": "topics/wellness/nutrition/advanced-muscle-plus.html",
+      "sourceReviewDate": "2026-10-31",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "lastCampaignDate": "2026-10-31",
+      "previousAngle": "READ THE VITAMIN D ENTRY",
+      "headline": "CHECK THE FULL FORMULA",
+      "focus": "The guide describes a multi-ingredient tablet formula, including HMB and dileucine, and calls for checking the complete current panel, serving basis and warnings before comparing the offer. It does not claim a product outcome.",
+      "checks": [
+        "HMB and dileucine",
+        "Full current panel",
+        "Warnings and serving basis"
+      ],
+      "highlight": "Mens Health",
+      "audienceContext": "en",
+      "status": "prepared",
+      "imageGenerator": "Gemini web (user-generated)",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/02-advanced-muscle-plus-gemini.jpg",
+      "pinTitle": "Advanced Muscle Plus: CHECK THE FULL FORMULA",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The guide describes a multi-ingredient tablet formula, including HMB and dileucine, and calls for checking the complete current panel, serving basis and warnings before comparing the offer. It does not claim a product outcome. Read the PokiSky guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE FULL FORMULA\n\nThe guide describes a multi-ingredient tablet formula, including HMB and dileucine, and calls for checking the complete current panel, serving basis and warnings before comparing the offer. It does not claim a product outcome.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=advanced-muscle-plus\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCHECK THE FULL FORMULA\n\nThe guide describes a multi-ingredient tablet formula, including HMB and dileucine, and calls for checking the complete current panel, serving basis and warnings before comparing the offer. It does not claim a product outcome.\n\nSave this checklist. Find Advanced Muscle Plus on the PokiSky blog. Copy this address into your browser:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=advanced-muscle-plus\n\nAI editorial illustration; not product photography.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Advanced Muscle Plus. CHECK THE FULL FORMULA. Checklist: HMB and dileucine; Full current panel; Warnings and serving basis. Editorial illustration.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=advanced-muscle-plus",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=advanced-muscle-plus",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/advanced-muscle-plus?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=advanced-muscle-plus"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Mens Health"
+        }
+      }
+    },
+    {
+      "id": "nerve-soothe",
+      "name": "Nerve Soothe",
+      "slug": "topics/wellness/nutrition/nerve-soothe",
+      "sourceFile": "topics/wellness/nutrition/nerve-soothe.html",
+      "sourceReviewDate": "2026-11-06",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "lastCampaignDate": "2026-11-06",
+      "previousAngle": "CHECK THE TOTAL ORDER",
+      "headline": "ASK FOR AMOUNTS PER BOTANICAL",
+      "focus": "The guide names five botanicals but says the sales list leaves quantitative questions open. Ask for the complete current label with amounts per ingredient before comparing formulas.",
+      "checks": [
+        "Five named botanicals",
+        "Amounts per ingredient?",
+        "Complete current label"
+      ],
+      "highlight": "Nutrition",
+      "audienceContext": "en",
+      "status": "prepared",
+      "imageGenerator": "Gemini web (user-generated)",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/03-nerve-soothe-gemini.jpg",
+      "pinTitle": "Nerve Soothe: ASK FOR AMOUNTS PER BOTANICAL",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The guide names five botanicals but says the sales list leaves quantitative questions open. Ask for the complete current label with amounts per ingredient before comparing formulas. Read the PokiSky guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nASK FOR AMOUNTS PER BOTANICAL\n\nThe guide names five botanicals but says the sales list leaves quantitative questions open. Ask for the complete current label with amounts per ingredient before comparing formulas.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=nerve-soothe\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nASK FOR AMOUNTS PER BOTANICAL\n\nThe guide names five botanicals but says the sales list leaves quantitative questions open. Ask for the complete current label with amounts per ingredient before comparing formulas.\n\nSave this checklist. Find Nerve Soothe on the PokiSky blog. Copy this address into your browser:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=nerve-soothe\n\nAI editorial illustration; not product photography.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Nerve Soothe. ASK FOR AMOUNTS PER BOTANICAL. Checklist: Five named botanicals; Amounts per ingredient?; Complete current label. Editorial illustration.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=nerve-soothe",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=nerve-soothe",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/nerve-soothe?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=nerve-soothe"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Nutrition"
+        }
+      }
+    },
+    {
+      "id": "qbx-chlorella",
+      "name": "QBX Chlorella",
+      "slug": "topics/wellness/nutrition/qbx-chlorella",
+      "sourceFile": "topics/wellness/nutrition/qbx-chlorella.html",
+      "sourceReviewDate": "2026-11-01",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "lastCampaignDate": "2026-11-01",
+      "previousAngle": "PER TABLET OR PER DAY?",
+      "headline": "CHECK THE RECURRING PLAN",
+      "focus": "The German-language guide compares one-time purchase with monthly delivery and explains that a 500 mg tablet is not the same as a 2,000 mg stated daily portion. Check the plan terms and full order total for your German delivery address.",
+      "checks": [
+        "One-time or monthly?",
+        "Plan terms",
+        "Full order total"
+      ],
+      "highlight": "Nutrition",
+      "audienceContext": "German buyer context",
+      "status": "prepared",
+      "imageGenerator": "Gemini web (user-generated)",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/04-qbx-chlorella-gemini.jpg",
+      "pinTitle": "QBX Chlorella: CHECK THE RECURRING PLAN",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The German-language guide compares one-time purchase with monthly delivery and explains that a 500 mg tablet is not the same as a 2,000 mg stated daily portion. Check the plan terms and full order total for your German delivery address. Read the PokiSky guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nCHECK THE RECURRING PLAN\n\nThe German-language guide compares one-time purchase with monthly delivery and explains that a 500 mg tablet is not the same as a 2,000 mg stated daily portion. Check the plan terms and full order total for your German delivery address.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=qbx-chlorella\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nCHECK THE RECURRING PLAN\n\nThe German-language guide compares one-time purchase with monthly delivery and explains that a 500 mg tablet is not the same as a 2,000 mg stated daily portion. Check the plan terms and full order total for your German delivery address.\n\nSave this checklist. Find QBX Chlorella on the PokiSky blog. Copy this address into your browser:\nhttps://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=qbx-chlorella\n\nAI editorial illustration; not product photography.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for QBX Chlorella. CHECK THE RECURRING PLAN. Checklist: One-time or monthly?; Plan terms; Full order total. Editorial illustration.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=qbx-chlorella",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=qbx-chlorella",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/nutrition/qbx-chlorella?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=qbx-chlorella"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Nutrition"
+        }
+      }
+    },
+    {
+      "id": "qbx-kraeuteressenz",
+      "name": "QBX Kräuteressenz",
+      "slug": "topics/wellness/gut-health/qbx-kraeuteressenz",
+      "sourceFile": "topics/wellness/gut-health/qbx-kraeuteressenz.html",
+      "sourceReviewDate": "2026-11-01",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "lastCampaignDate": "2026-11-01",
+      "previousAngle": "WHICH RECIPE IS IN THE BOTTLE?",
+      "headline": "READ THE RETURN CONDITIONS",
+      "focus": "The German-language guide says the seller describes a 14-day return period after receipt for unopened, sealed items. Read the conditions alongside the actual order and confirm the current terms before purchase.",
+      "checks": [
+        "14 days after receipt",
+        "Unopened and sealed",
+        "Confirm current terms"
+      ],
+      "highlight": "Digestion",
+      "audienceContext": "German buyer context",
+      "status": "prepared",
+      "imageGenerator": "Gemini web (user-generated)",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/05-qbx-kraeuteressenz-gemini.jpg",
+      "pinTitle": "QBX Kräuteressenz: READ THE RETURN CONDITIONS",
+      "pinterestDescription": "Editorial disclosure: this guide uses untracked official links. The German-language guide says the seller describes a 14-day return period after receipt for unopened, sealed items. Read the conditions alongside the actual order and confirm the current terms before purchase. Read the PokiSky guide. AI editorial illustration; not product photography.",
+      "facebookText": "Editorial disclosure: this guide uses untracked official links.\n\nREAD THE RETURN CONDITIONS\n\nThe German-language guide says the seller describes a 14-day return period after receipt for unopened, sealed items. Read the conditions alongside the actual order and confirm the current terms before purchase.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=qbx-kraeuteressenz\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Editorial disclosure: this guide uses untracked official links.\n\nREAD THE RETURN CONDITIONS\n\nThe German-language guide says the seller describes a 14-day return period after receipt for unopened, sealed items. Read the conditions alongside the actual order and confirm the current terms before purchase.\n\nSave this checklist. Find QBX Kräuteressenz on the PokiSky blog. Copy this address into your browser:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=qbx-kraeuteressenz\n\nAI editorial illustration; not product photography.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for QBX Kräuteressenz. READ THE RETURN CONDITIONS. Checklist: 14 days after receipt; Unopened and sealed; Confirm current terms. Editorial illustration.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=qbx-kraeuteressenz",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=qbx-kraeuteressenz",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/qbx-kraeuteressenz?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=qbx-kraeuteressenz"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Digestion"
+        }
+      }
+    },
+    {
+      "id": "synaptigen",
+      "name": "Synaptigen",
+      "slug": "topics/wellness/brain-health/synaptigen",
+      "sourceFile": "topics/wellness/brain-health/synaptigen.html",
+      "sourceReviewDate": "2026-11-06",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "lastCampaignDate": "2026-11-06",
+      "previousAngle": "CHECK THE TIME POINT",
+      "headline": "RECONCILE THE DAILY DIRECTIONS",
+      "focus": "The guide notes that one-versus-two-tablet daily directions change the stated supply from a 30-tablet bottle. Reconcile the label and FAQ for the exact product version before comparing packages.",
+      "checks": [
+        "30 tablets per bottle",
+        "One or two daily?",
+        "Confirm exact version"
+      ],
+      "highlight": "Brain",
+      "audienceContext": "en",
+      "status": "prepared",
+      "imageGenerator": "Gemini web (user-generated)",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/06-synaptigen-gemini.jpg",
+      "pinTitle": "Synaptigen: RECONCILE THE DAILY DIRECTIONS",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The guide notes that one-versus-two-tablet daily directions change the stated supply from a 30-tablet bottle. Reconcile the label and FAQ for the exact product version before comparing packages. Read the PokiSky guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nRECONCILE THE DAILY DIRECTIONS\n\nThe guide notes that one-versus-two-tablet daily directions change the stated supply from a 30-tablet bottle. Reconcile the label and FAQ for the exact product version before comparing packages.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=synaptigen\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nRECONCILE THE DAILY DIRECTIONS\n\nThe guide notes that one-versus-two-tablet daily directions change the stated supply from a 30-tablet bottle. Reconcile the label and FAQ for the exact product version before comparing packages.\n\nSave this checklist. Find Synaptigen on the PokiSky blog. Copy this address into your browser:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=synaptigen\n\nAI editorial illustration; not product photography.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Synaptigen. RECONCILE THE DAILY DIRECTIONS. Checklist: 30 tablets per bottle; One or two daily?; Confirm exact version. Editorial illustration.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=synaptigen",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=synaptigen",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/synaptigen?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=synaptigen"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Brain"
+        }
+      }
+    },
+    {
+      "id": "vertigenics",
+      "name": "Vertigenics",
+      "slug": "topics/wellness/brain-health/vertigenics",
+      "sourceFile": "topics/wellness/brain-health/vertigenics.html",
+      "sourceReviewDate": "2026-11-06",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "lastCampaignDate": "2026-11-06",
+      "previousAngle": "CHECK THE TABLET COUNT",
+      "headline": "CLARIFY BANANA OR BANABA",
+      "focus": "The guide flags a difference between banana and banaba wording in the sales list and wrapper. Confirm the exact ingredient identity and current formula before considering the product.",
+      "checks": [
+        "Sales-list wording",
+        "Wrapper wording",
+        "Confirm ingredient identity"
+      ],
+      "highlight": "Brain",
+      "audienceContext": "en",
+      "status": "prepared",
+      "imageGenerator": "Gemini web (user-generated)",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/07-vertigenics-gemini.jpg",
+      "pinTitle": "Vertigenics: CLARIFY BANANA OR BANABA",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The guide flags a difference between banana and banaba wording in the sales list and wrapper. Confirm the exact ingredient identity and current formula before considering the product. Read the PokiSky guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCLARIFY BANANA OR BANABA\n\nThe guide flags a difference between banana and banaba wording in the sales list and wrapper. Confirm the exact ingredient identity and current formula before considering the product.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=vertigenics\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nCLARIFY BANANA OR BANABA\n\nThe guide flags a difference between banana and banaba wording in the sales list and wrapper. Confirm the exact ingredient identity and current formula before considering the product.\n\nSave this checklist. Find Vertigenics on the PokiSky blog. Copy this address into your browser:\nhttps://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=vertigenics\n\nAI editorial illustration; not product photography.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for Vertigenics. CLARIFY BANANA OR BANABA. Checklist: Sales-list wording; Wrapper wording; Confirm ingredient identity. Editorial illustration.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=vertigenics",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=vertigenics",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/brain-health/vertigenics?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=vertigenics"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Brain"
+        }
+      }
+    },
+    {
+      "id": "senflo-gummies",
+      "name": "SenFlo Gummies",
+      "slug": "topics/wellness/gut-health/senflo-gummies",
+      "sourceFile": "topics/wellness/gut-health/senflo-gummies.html",
+      "sourceReviewDate": "2026-11-06",
+      "sourceReviewNote": "Existing guide review date retained; no new supplier review claimed.",
+      "lastCampaignDate": "2026-11-06",
+      "previousAngle": "ASK WHO PAYS RETURN POSTAGE",
+      "headline": "PACK DAYS ARE NOT DIRECTIONS",
+      "focus": "The guide explains that 15-, 45- or 90-day marketing labels do not establish directions for continuous senna use. Request the complete label and review the warnings before evaluating the offer.",
+      "checks": [
+        "Pack-day claim",
+        "Complete label",
+        "Senna warnings"
+      ],
+      "highlight": "Digestion",
+      "audienceContext": "en",
+      "status": "prepared",
+      "imageGenerator": "Gemini web (user-generated)",
+      "imageStatus": "awaiting_user_generation",
+      "expectedImageFile": "images/08-senflo-gummies-gemini.jpg",
+      "pinTitle": "SenFlo Gummies: PACK DAYS ARE NOT DIRECTIONS",
+      "pinterestDescription": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links. The guide explains that 15-, 45- or 90-day marketing labels do not establish directions for continuous senna use. Request the complete label and review the warnings before evaluating the offer. Read the PokiSky guide. AI editorial illustration; not product photography.",
+      "facebookText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nPACK DAYS ARE NOT DIRECTIONS\n\nThe guide explains that 15-, 45- or 90-day marketing labels do not establish directions for continuous senna use. Request the complete label and review the warnings before evaluating the offer.\n\nRead the source-based guide:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=senflo-gummies\n\nAI editorial illustration; not product photography.",
+      "instagramText": "Ad / affiliate disclosure: the PokiSky guide contains affiliate links.\n\nPACK DAYS ARE NOT DIRECTIONS\n\nThe guide explains that 15-, 45- or 90-day marketing labels do not establish directions for continuous senna use. Request the complete label and review the warnings before evaluating the offer.\n\nSave this checklist. Find SenFlo Gummies on the PokiSky blog. Copy this address into your browser:\nhttps://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=senflo-gummies\n\nAI editorial illustration; not product photography.\n\n#SupplementBuyingGuide #PokiSky",
+      "altText": "PokiSky supplement buying guide for SenFlo Gummies. PACK DAYS ARE NOT DIRECTIONS. Checklist: Pack-day claim; Complete label; Senna warnings. Editorial illustration.",
+      "urls": {
+        "pinterest": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=pinterest&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=senflo-gummies",
+        "facebook": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=facebook&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=senflo-gummies",
+        "instagram": "https://blog-travel-eight.vercel.app/topics/wellness/gut-health/senflo-gummies?utm_source=instagram&utm_medium=organic_social&utm_campaign=supplement_rotation_20261121&utm_content=senflo-gummies"
+      },
+      "publications": {
+        "pinterest": {
+          "status": "not_published"
+        },
+        "facebook": {
+          "status": "not_published"
+        },
+        "instagram": {
+          "status": "not_published"
+        },
+        "stories": {
+          "status": "not_published"
+        },
+        "highlight": {
+          "status": "not_saved",
+          "name": "Digestion"
+        }
+      }
+    }
+  ]
+}
